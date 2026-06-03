@@ -1,0 +1,1 @@
+# Supplier Feeds (Public)\n\nPublicly accessible CSV feeds for supplier catalogs.\n\n## Pat's Guitars\n\n- [patsguitars_listings.csv](patsguitars_listings.csv)\n- [patsguitars_refurbed_import.csv](patsguitars_refurbed_import.csv)\n\nUpdated hourly via automated sync.
