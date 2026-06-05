@@ -76,9 +76,7 @@ product_code;price_gross;vat;currency;stock;name
 10220154093897;388.79;20;EUR;1;Epiphone DOT 2008 - Cherry Red
 10104266031433;554.03;20;EUR;1;Epiphone Dovena Akustik 2007 - Natural
 10159356019017;738.71;20;EUR;1;Epiphone Flying V 2000 - Natural
-10220148916553;485.99;20;EUR;1;Epiphone Joan Jett Signature Olympic Special Guitar 2023 - White
 10152869593417;1652.39;20;EUR;1;Epiphone Kiss Tommy Thayer Signature Explorer 2017 - White Lightning
-10216702968137;923.39;20;EUR;1;Epiphone Korea Casino VS 2003 - Tobacco Sunburst
 10220083183945;680.39;20;EUR;1;Epiphone Les Paul 1993 - Tobacco Burst
 10118152159561;462.23;20;EUR;1;Epiphone Les Paul Junior 2009 - White
 9890352824649;416.87;20;EUR;1;Epiphone Les Paul Junior 57’ Reissue 2011 - Yellow
@@ -159,7 +157,6 @@ product_code;price_gross;vat;currency;stock;name
 10067504726345;3887.99;20;EUR;1;Fender American Stratocaster 1974 - Sunburst
 10220182634825;2429.99;20;EUR;1;Fender American Stratocaster 1979 - Natural
 9997845135689;2915.99;20;EUR;1;Fender American Stratocaster 1982 - Sunburst
-10067734331721;1141.55;20;EUR;1;Fender American Stratocaster 2007 - Sand
 10067498500425;2159.99;20;EUR;1;Fender American Vintage Dave Murray Signature Stratocaster 2008 - Black
 10141638394185;738.71;20;EUR;1;Fender American Vintage Jaguar Body - Sunburst
 10186271916361;3110.39;20;EUR;1;Fender Custom Shop 56 Reissue Stratocaster 2021 - Scalloped - Vintage White - Relic
@@ -236,7 +233,6 @@ product_code;price_gross;vat;currency;stock;name
 9989304320329;777.59;20;EUR;1;Fender Mexico FSR Stratocaster 1995 - Vintage White
 10199419617609;631.79;20;EUR;1;Fender Mexico Stratocaster 1995 - Vintage White
 10197952987465;631.79;20;EUR;1;Fender Mexico Telecaster 2002 - Sunburst
-10146546909513;1200.95;20;EUR;1;Fender MJT 50s Reissue Stratocaster - Vintage White - Heavy Relic
 10146546319689;1292.75;20;EUR;1;Fender MJT 50s Reissue Telecaster - Dakota Red - Heavy Relic
 10146545860937;1247.39;20;EUR;1;Fender MJT 60s Reissue Stratocaster - Dakota Red - Heavy Relic
 10124582388041;1247.39;20;EUR;1;Fender MJT 62 Reissue Stratocaster - Sonic Blue - Heavy Relic
@@ -354,7 +350,6 @@ product_code;price_gross;vat;currency;stock;name
 10176889651529;106.91;20;EUR;1;Guyatone PS-038 Bass Exciter/Limiter B-II Effect Pedal 1987 - Vintage Japan
 10176892305737;145.79;20;EUR;1;Guyatone PS-104 Cross Over Auto Wah Effect Pedal 1980 - Vintage Japan
 10117754880329;462.23;20;EUR;1;Hagstrom Ultra Swede 2008 - Red Burst
-10186289414473;631.79;20;EUR;1;Helix LT Line 6 Professional Amp/Effects Rig
 9751180771657;437.39;20;EUR;1;Höfner 520 1960s
 9914113950025;923.39;20;EUR;1;Höfner Super Solid 173 - Vinyl White
 10136366580041;971.99;20;EUR;1;Ibanez 2375 Vintage Japan Stratocaster 1970s - Sunburst
@@ -437,13 +432,12 @@ product_code;price_gross;vat;currency;stock;name
 10169735709001;1846.79;20;EUR;1;Music Man Benji Madden Signature Silhouette Special 2005 - Madden Green
 9914137903433;1048.67;20;EUR;1;Music Man Ernie Ball Axis Sport 1998 - Black
 10210032451913;2429.99;20;EUR;1;Music Man Ernie Ball Luke II 2006 - Carbon Blue Pearl
-10227954843977;1360.79;20;EUR;1;Music Man Ernie Ball StingRay EX - Red
+10227954843977;1360.79;20;EUR;1;Music Man Ernie Ball StingRay EX Bass - Red
 10206012997961;97.19;20;EUR;1;MXR Boost/Line Driver - Effektpedal
 10206013620553;116.63;20;EUR;1;MXR M288 Bass Oktave Deluxe - Effektpedal
 10206011588937;97.19;20;EUR;1;MXR Smart Gate - Effektpedal
 10104026202441;738.71;20;EUR;1;Navigator by ESP Espionage Bass - Tobacco Burst
 9729073578313;3887.99;20;EUR;1;o3 Guitars Radon - Alejandro Ramirez - Red
-10092460507465;1229.03;20;EUR;1;Ormsby Goliath GTR7 - Green Burst
 10016097665353;1166.39;20;EUR;1;Orville by Gibson Firebird 1990 - Vintage Sunburst
 10220022169929;874.79;20;EUR;1;Orville by Gibson Les Paul Standard 1989 - Cherry Sunburst
 10141704225097;878.03;20;EUR;1;Orville by Gibson Thunderbird Bass 1991 - Sunburst - Vintage Japan
