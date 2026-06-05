@@ -3,6 +3,7 @@ product_code;price_gross;vat;currency;stock;name
 10192944202057;126.35;20;EUR;1;Amdek CMK-100 Compressor Effect Pedal
 10192923165001;145.79;20;EUR;1;Amdek FLK-100 Flanger Effect Pedal
 9692662759753;874.79;20;EUR;1;Ampete Two Head 20W
+10227884982601;777.59;20;EUR;1;Anime Girls Guitar - Pink
 10209948467529;194.39;20;EUR;1;AnyGig Travel Guitar 2018 - Black
 10169730662729;231.11;20;EUR;1;Aria 12-String Akustikgitarre - Natural
 9851346452809;524.87;20;EUR;1;Aria Japan Stratocaster 1970s - Natural
@@ -164,10 +165,10 @@ product_code;price_gross;vat;currency;stock;name
 10186271916361;3110.39;20;EUR;1;Fender Custom Shop 56 Reissue Stratocaster 2021 - Scalloped - Vintage White - Relic
 9997912670537;4859.99;20;EUR;1;Fender Custom Shop Bloodwood Fretless Bass Masterbuilt by Jason Davis 2003
 9989299536201;5831.99;20;EUR;1;Fender Custom Shop Nocaster Telecaster Thinline NOS 2005 - Butterscotch Blonde
+10228045021513;3401.99;20;EUR;1;Fender Custom Shop Showmaster 2026 - Antique Burst
 10111485411657;4859.99;20;EUR;1;Fender Custom Shop ’63 Stratocaster Journeyman Relic HSS 2023 - Candy Apple Red
 10111492456777;4859.99;20;EUR;1;Fender Custom Shop ’63 Stratocaster Relic MBD 2023 - Candy Apple Red
 10080692830537;615.59;20;EUR;1;Fender Duo Sonic 2019 - Seafoam Green
-10015996150089;1570.31;20;EUR;1;Fender Eric Clapton Signature American Stratocaster 2003 - Blackie
 10088462418249;1385.63;20;EUR;1;Fender Eric Clapton Signature Stratocaster 2001 - Blackie
 10216593064265;680.39;20;EUR;1;Fender Exclusive MN Ens Stratocaster 2024 - Sea Foam Green Satin
 10008564629833;646.91;20;EUR;1;Fender FR50CE Resonator 2012 - Sunburst
@@ -208,7 +209,6 @@ product_code;price_gross;vat;currency;stock;name
 9948896330057;748.43;20;EUR;1;Fender Japan ST-STD Stratocaster 1992-1993 - Red - Vintage
 10104277172553;831.59;20;EUR;1;Fender Japan ST-STD Stratocaster 1993-1994 - Candy Apple Red - Vintage
 10175463948617;785.15;20;EUR;1;Fender Japan ST-STD Stratocaster 1995-1996 - Sunburst - Vintage
-10108773531977;831.59;20;EUR;1;Fender Japan Standard Stratocaster 1987-1988 - Black - Vintage
 10008533991753;738.71;20;EUR;1;Fender Japan Standard Stratocaster 1993-1994 - Black - Vintage
 10115845161289;831.59;20;EUR;1;Fender Japan Standard Stratocaster 1994-1995 - Sunburst - Vintage
 9925451317577;748.43;20;EUR;1;Fender Japan STM-94M Stratocaster 1994-1995 - Black - Vintage
@@ -241,7 +241,6 @@ product_code;price_gross;vat;currency;stock;name
 10146545860937;1247.39;20;EUR;1;Fender MJT 60s Reissue Stratocaster - Dakota Red - Heavy Relic
 10124582388041;1247.39;20;EUR;1;Fender MJT 62 Reissue Stratocaster - Sonic Blue - Heavy Relic
 9903118680393;3887.99;20;EUR;1;Fender Mustang 1973 - Sunburst
-10220498157897;680.39;20;EUR;1;Fender Player Telecaster 2021 - Butterscotch Blonde - Mod
 10125910671689;2309.03;20;EUR;1;Fender Stevie Ray Vaughan Signature Stratocaster 2003 - Sunburst
 9692652437833;2429.99;20;EUR;1;Fender Telecaster 1976 - Vintage White
 10092544688457;615.59;20;EUR;1;Fender Telecoustic 2000 - Candy Apple Red
@@ -270,6 +269,7 @@ product_code;price_gross;vat;currency;stock;name
 10131764445513;923.39;20;EUR;1;Gibson Flying V Melody Maker 2011 - Ebony
 10023466795337;1283.03;20;EUR;1;Gibson L6-S Custom 1974 - Cherry Sunburst
 10053109285193;2309.03;20;EUR;1;Gibson Les Paul Classic 1960 2006 - Honey Fade
+10228063895881;1749.59;20;EUR;1;Gibson Les Paul Classic 2015 - Vintage Sunburst
 10033181557065;2770.19;20;EUR;1;Gibson Les Paul Custom Shop 1998 - Catalina Red
 10091978129737;1316.51;20;EUR;1;Gibson Les Paul Junior 2010 - TV Yellow
 10141672898889;1200.95;20;EUR;1;Gibson Les Paul Special 2005 - Faded Cherry
@@ -334,6 +334,7 @@ product_code;price_gross;vat;currency;stock;name
 9831293387081;524.87;20;EUR;1;Greco VB Violin Bass 1970s - Vintage Sunburst
 9808904782153;833.36;20;EUR;1;Gretsch G5420TG 2018 - Orange
 10080659931465;1754.99;20;EUR;1;Gretsch G6122-1962 Country Classic II 2001 - Walnut
+10227918635337;1943.99;20;EUR;1;Gretsch G6228FM Jet Players Edition 2018 - Crimson Stain
 10152898527561;738.71;20;EUR;1;Grover Jackson Flying V - Silver Sparkle
 9766925009225;345.59;20;EUR;1;Grover Jackson GJr‑R40SP Mini Rhoads 1996 - Dots
 9843703054665;355.31;20;EUR;1;Grover Jackson IG 1996 - Trans Red
@@ -379,6 +380,7 @@ product_code;price_gross;vat;currency;stock;name
 9766982713673;289.43;20;EUR;1;Ibanez RG Standard 2021 - Red
 10176865239369;923.39;20;EUR;1;Ibanez RG410 Roadstar II Series 1986 - Black
 9961964634441;462.23;20;EUR;1;Ibanez RG421 2022 - Natural
+10228012613961;1749.59;20;EUR;1;Ibanez RG5000 1991 - Ruby Red
 10081012416841;1316.51;20;EUR;1;Ibanez RGD71ALPA 2021 - Charcoal Burst Black Stained Flat
 9989330043209;738.71;20;EUR;1;Ibanez RGR470 1996 - Black
 10193288626505;923.39;20;EUR;1;Ibanez RGRTB621 2023 - Matte Black
@@ -435,6 +437,7 @@ product_code;price_gross;vat;currency;stock;name
 10169735709001;1846.79;20;EUR;1;Music Man Benji Madden Signature Silhouette Special 2005 - Madden Green
 9914137903433;1048.67;20;EUR;1;Music Man Ernie Ball Axis Sport 1998 - Black
 10210032451913;2429.99;20;EUR;1;Music Man Ernie Ball Luke II 2006 - Carbon Blue Pearl
+10227954843977;1360.79;20;EUR;1;Music Man Ernie Ball StingRay EX - Red
 10206012997961;97.19;20;EUR;1;MXR Boost/Line Driver - Effektpedal
 10206013620553;116.63;20;EUR;1;MXR M288 Bass Oktave Deluxe - Effektpedal
 10206011588937;97.19;20;EUR;1;MXR Smart Gate - Effektpedal
@@ -561,6 +564,7 @@ product_code;price_gross;vat;currency;stock;name
 10169810288969;97.19;20;EUR;1;VOCU Magic Mic Room Microphone Preamp Pedal
 10176915636553;155.51;20;EUR;1;VOX Joe Satriani Signature JS-DS Satchurator Distortion Effect Pedal - Japan
 9722250592585;4859.99;20;EUR;1;Wandre Tri-Lam Teenager Blue Jeans 1959 - Multicolour
+10227894747465;583.19;20;EUR;1;Warwick Corvette Rock Bass 5-String 2013 - Black
 9997843038537;777.59;20;EUR;1;Warwick Infinity RockBass 2018 - Natural
 10210038317385;3887.99;20;EUR;1;Warwick Thumb NT Bass 2004 - Natural Oil Finish
 10143268831561;971.99;20;EUR;1;Wotan Bass - Natural - Vintage Japan
