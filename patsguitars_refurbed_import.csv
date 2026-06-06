@@ -85,6 +85,7 @@ product_code;price_gross;vat;currency;stock;name
 10210064236873;437.39;20;EUR;1;Epiphone Les Paul Studio 1998 - Ebony
 10126025064777;462.23;20;EUR;1;Epiphone Les Paul Tribute 2010 - Translucent Black
 10111333466441;462.23;20;EUR;1;Epiphone Les Paul Tribute 2025 - Cherry Sunburst
+10230958621001;1555.19;20;EUR;1;Epiphone Ltd Ed Tony Iommi Signature SG Custom 2017 - Ebony
 9668037607753;289.43;20;EUR;1;Epiphone Mo’Baby 1999 - Yellow
 9937242030409;1457.99;20;EUR;1;Epiphone SC-450 Scroll 1978 - Natural
 10111500157257;554.03;20;EUR;1;Epiphone SG 2005 - Heritage Cherry
@@ -193,6 +194,7 @@ product_code;price_gross;vat;currency;stock;name
 9989287117129;1200.95;20;EUR;1;Fender Japan CHAR-MG 69‘ Reissue Mustang 2019 - Olympic White
 10047126995273;923.39;20;EUR;1;Fender Japan Classic 70s Telecaster 2016 - Blue
 10091346198857;831.59;20;EUR;1;Fender Japan CTL-50M 72´ Reissue Telecaster 1992-1993 - Black - Vintage
+10230932373833;826.19;20;EUR;1;Fender Japan Jazz Bass 1993-1994 - Sunburst
 9947289682249;1016.27;20;EUR;1;Fender Japan Jazzmaster Junior Collection 2022 - Satin Shell Pink
 10008570528073;923.39;20;EUR;1;Fender Japan Junior Collection Stratocaster 2023 - Shell Pink
 10047138005321;1200.95;20;EUR;1;Fender Japan Limited Edition Traditional 60s II Telecaster 2002 - Black
@@ -230,6 +232,7 @@ product_code;price_gross;vat;currency;stock;name
 9942059811145;1330.55;20;EUR;1;Fender Japan Traditional Collection 60s Telecaster 2025 - Stardust Pink
 10080808370505;1229.03;20;EUR;1;Fender Japan Traditional II 60s Jaguar 2022 - Sunburst
 10033174479177;7775.99;20;EUR;1;Fender Jazzmaster 1963 Pre CBS - Inca Silver Refin
+10230961766729;680.39;20;EUR;1;Fender Korea Special Edition Stratocaster 2008 - Lite Ash
 9989304320329;777.59;20;EUR;1;Fender Mexico FSR Stratocaster 1995 - Vintage White
 10199419617609;631.79;20;EUR;1;Fender Mexico Stratocaster 1995 - Vintage White
 10197952987465;631.79;20;EUR;1;Fender Mexico Telecaster 2002 - Sunburst
@@ -259,8 +262,9 @@ product_code;price_gross;vat;currency;stock;name
 9890335785289;1385.09;20;EUR;1;Framus Strato Deluxe 1963 - Blonde
 10175549899081;77.75;20;EUR;1;Freedom Custom Guitar Research A/B Switch Box Pedal - Japan
 10216636973385;583.19;20;EUR;1;G&L JB Tribute Series Jazz Bass 2022 - Lake Placid Blue
-9948737896777;1574.63;20;EUR;1;G&L USA Classic ASAT Junior II Savannah Collection 2014 - Tobacco Sunburst
 10098886181193;2770.19;20;EUR;1;Gibson Custom Shop 57´ Les Paul Standard 2001 - Planet Green
+10230920282441;2138.39;20;EUR;1;Gibson Dove Custom Akustik 1973-1975 - Natural
+10230953869641;3401.99;20;EUR;1;Gibson ES-335 DOT 1985 - Tobacco Sunburst
 9925435818313;2078.99;20;EUR;1;Gibson Firebird V 1996 - Vintage Sunburst
 10131764445513;923.39;20;EUR;1;Gibson Flying V Melody Maker 2011 - Ebony
 10023466795337;1283.03;20;EUR;1;Gibson L6-S Custom 1974 - Cherry Sunburst
@@ -273,9 +277,11 @@ product_code;price_gross;vat;currency;stock;name
 10047311380809;1662.11;20;EUR;1;Gibson Les Paul Special DC 2005 - TV Yellow
 9704996995401;2186.99;20;EUR;1;Gibson Les Paul Standard 1992 - Ebony
 10185962914121;1749.59;20;EUR;1;Gibson Les Paul Standard 1999 - Ebony
+10230957179209;2138.39;20;EUR;1;Gibson Les Paul Standard 2022 - Cherry Sunburst
 10136423498057;2031.47;20;EUR;1;Gibson Les Paul Standard DC 2001 - Trans Red
 10033169695049;7387.19;20;EUR;1;Gibson Les Paul Standard Slash 4 Limited Album Edition 2021 - 1 of 250
 9542528205129;1665.35;20;EUR;1;Gibson Les Paul XR-III 1982 - Red Metallic
+10230948954441;1360.79;20;EUR;1;Gibson Nighthawk Special SP3 1994 - Tobacco Sunburst
 10091535728969;7775.99;20;EUR;1;Gibson Thunderbird II Bass 1964 – Alembic Custom 1976 – Tree of Life – Ember Red
 10199291986249;971.99;20;EUR;1;Gitane DG-250M - Natural
 10108285387081;17.27;20;EUR;1;Gitarrenkarton 1180×475×165 mm – Doppelwelliger Versandkarton für Gitarren
@@ -285,9 +291,9 @@ product_code;price_gross;vat;currency;stock;name
 10193203233097;1214.99;20;EUR;1;Godin L. R. Baggs Acousticaster - Tobacco Burst
 10108716384585;680.39;20;EUR;1;Godin LG 2002 - Red Burst
 10131767132489;139.31;20;EUR;1;Golden Ton Akustikgitarre - Black
-10152863891785;139.31;20;EUR;1;Golden Ton Stratocaster - Black
 10016056738121;554.03;20;EUR;1;Grass Roots ESP Forest FR-GT-SH
 9722252034377;289.43;20;EUR;1;Grassroots Forest Bass G-FR-52B - See thru Red
+10230952493385;777.59;20;EUR;1;Greco 303 Akustik 1975 - Cherry Sunburst
 10008560861513;1108.07;20;EUR;1;Greco Custom EG-600P Les Paul 1978 - Ebony - Vintage Japan
 9947276869961;1016.27;20;EUR;1;Greco EG Ace Frehley Les Paul Custom 1980 - Heritage Cherry Sunburst - Vintage Japan
 10098900205897;831.59;20;EUR;1;Greco EG Les Paul Standard 1977 - Sunburst - Vintage Japan
@@ -314,7 +320,6 @@ product_code;price_gross;vat;currency;stock;name
 10104295817545;831.59;20;EUR;1;Greco Les Paul Bolt on H.K. 1970s - Cherry Sunburst
 10136076747081;923.39;20;EUR;1;Greco Les Paul Standard 1978 - Ebony
 10080845889865;790.55;20;EUR;1;Greco Les Paul Standard 1979 - Tobacco Sunburst
-9851269546313;449.27;20;EUR;1;Greco Matsumoku Stratocaster 1970s - Natural
 10123548164425;738.71;20;EUR;1;Greco Matsumoku Stratocaster 1970s - Sunburst
 10186033135945;728.99;20;EUR;1;Greco PB-500 Mercury Precision Bass 1979 - Natural
 10123552817481;738.71;20;EUR;1;Greco PB450 Precision Bass 1978 - Black
@@ -324,6 +329,7 @@ product_code;price_gross;vat;currency;stock;name
 9574622200137;575.63;20;EUR;1;Greco SS-600 1990s - Heritage Cherry
 10115845816649;738.71;20;EUR;1;Greco Stratocaster 1970s - Vintage White
 10131677217097;646.91;20;EUR;1;Greco Super Sounds Stratocaster 1976 - Vintage White
+10136127766857;738.71;20;EUR;1;Greco Super Sounds Stratocaster 1977 - Vintage White
 9997847363913;777.59;20;EUR;1;Greco Super Sounds Stratocaster 1978 - White
 10117154996553;738.71;20;EUR;1;Greco Super Sounds Stratocaster SE380 1979 - Sunburst
 10164844560713;462.23;20;EUR;1;Greco VB Violin Bass 1970s - Sunburst
@@ -365,6 +371,7 @@ product_code;price_gross;vat;currency;stock;name
 9903021883721;388.79;20;EUR;1;Ibanez EX Series EX170L Lefthand 1993 - Black
 10212550443337;874.79;20;EUR;1;Ibanez JEM555 Steve Vai Signature - White
 10211501179209;437.39;20;EUR;1;Ibanez JEM555 Steve Vai Signature - White - Defekt
+10230957801801;874.79;20;EUR;1;Ibanez JP20 Joe Pass Signature 1990 - Tobacco Burst
 10080957038921;790.55;20;EUR;1;Ibanez Les Paul 2350 - Black
 10023456702793;1016.27;20;EUR;1;Ibanez Les Paul Custom Pre Lawsuit 1973 - Ebony
 10216688189769;1555.19;20;EUR;1;Ibanez Performer PF350 1979 - Cherry Red
@@ -375,11 +382,11 @@ product_code;price_gross;vat;currency;stock;name
 9766982713673;289.43;20;EUR;1;Ibanez RG Standard 2021 - Red
 10176865239369;923.39;20;EUR;1;Ibanez RG410 Roadstar II Series 1986 - Black
 9961964634441;462.23;20;EUR;1;Ibanez RG421 2022 - Natural
-10228012613961;1749.59;20;EUR;1;Ibanez RG5000 1991 - Ruby Red
 10081012416841;1316.51;20;EUR;1;Ibanez RGD71ALPA 2021 - Charcoal Burst Black Stained Flat
 9989330043209;738.71;20;EUR;1;Ibanez RGR470 1996 - Black
 10193288626505;923.39;20;EUR;1;Ibanez RGRTB621 2023 - Matte Black
 10197937324361;680.39;20;EUR;1;Ibanez Roadstar II Series 1985 - All Red
+10230963634505;680.39;20;EUR;1;Ibanez RS440 Roadstar II Series 1985 - Vintage White
 10123514478921;554.03;20;EUR;1;Ibanez SDGR SR500 1P-06 Bass 2016 - Brown
 9820897640777;1069.19;20;EUR;1;Ibanez SRMS720 Bass 2024 - Blue Chameleon
 10103767335241;1943.99;20;EUR;1;Ibanez Studio Bass ST924 1979 - Natural
@@ -432,6 +439,7 @@ product_code;price_gross;vat;currency;stock;name
 10169735709001;1846.79;20;EUR;1;Music Man Benji Madden Signature Silhouette Special 2005 - Madden Green
 9914137903433;1048.67;20;EUR;1;Music Man Ernie Ball Axis Sport 1998 - Black
 10210032451913;2429.99;20;EUR;1;Music Man Ernie Ball Luke II 2006 - Carbon Blue Pearl
+10230908158281;1943.99;20;EUR;1;Music Man Ernie Ball Sterling 4H Bass 2000 - Candy Apple Red
 10227954843977;1360.79;20;EUR;1;Music Man Ernie Ball StingRay EX Bass - Red
 10206012997961;97.19;20;EUR;1;MXR Boost/Line Driver - Effektpedal
 10206013620553;116.63;20;EUR;1;MXR M288 Bass Oktave Deluxe - Effektpedal
@@ -455,7 +463,6 @@ product_code;price_gross;vat;currency;stock;name
 10152860811593;831.59;20;EUR;1;Orville LPS Les Paul Standard 1990 - Cherry Sunburst
 10152855634249;826.19;20;EUR;1;Orville LPS Les Paul Standard 1995 - Lemon Drop
 10080664650057;1052.99;20;EUR;1;Orville LPS Les Paul Standard 1996 - Quilt Top
-10186201235785;437.39;20;EUR;1;Orville SG Body 1990 - Ebony
 10209971208521;826.19;20;EUR;1;Ovation 1613 1981 - Natural
 9808825811273;1846.79;20;EUR;1;Ovation Deacon 12-String 1975-1980 - Sunburst
 10062276100425;32.39;20;EUR;1;Pat’s Guitars Deluxe E-Gitarren Gigbag
@@ -469,6 +476,7 @@ product_code;price_gross;vat;currency;stock;name
 10067502039369;971.99;20;EUR;1;PRS SE Hollowbody Standard 2021 - Fire Red Burst
 10092560384329;874.79;20;EUR;1;PRS SE Nick Catanese Signature 2010 - Black
 10023465976137;738.71;20;EUR;1;PRS SE Soapbar II 2006 - Green Burst
+10230962717001;874.79;20;EUR;1;PRS SE Zach Myers Signature 2010 - Royal Blue
 10181841191241;1457.99;20;EUR;1;PRS USA S2 Mira 2014 - Vintage Cherry
 9997848248649;1943.99;20;EUR;1;Rickenbacker 230/6 1985 - Black
 10159383150921;139.31;20;EUR;1;Rocktile Akustikgitarre - Black
@@ -494,6 +502,7 @@ product_code;price_gross;vat;currency;stock;name
 9989384175945;583.19;20;EUR;1;Sire Larry Carlton L7 Les Paul - Metallic Gold
 10199323869513;631.79;20;EUR;1;Solar A2.6FB 2022 - Flame Black Burst Matte
 10169732137289;831.59;20;EUR;1;Solar ABHT1.6 2024 - Trans Purple
+10230955180361;583.19;20;EUR;1;Solar E2.6C 2019 - Matte Black
 10181758484809;971.99;20;EUR;1;Solar T1.6FRBOP 2022 - Black Matte Open Pore
 10193280237897;874.79;20;EUR;1;Solar T1.6H3TS 2022 - Sunburst
 10146533343561;600.47;20;EUR;1;Solar T2 C6 2021 - Carbon Black Matte
