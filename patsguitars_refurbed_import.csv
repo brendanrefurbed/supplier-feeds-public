@@ -79,6 +79,7 @@ product_code;price_gross;vat;currency;stock;name
 10199407329609;777.59;20;EUR;1;Epiphone Casino VS 2011 - Tobacco Burst
 10220154093897;388.79;20;EUR;1;Epiphone DOT 2008 - Cherry Red
 10104266031433;527.03;20;EUR;1;Epiphone Dovena Akustik 2007 - Natural
+9831301972297;1295.99;20;EUR;1;Epiphone Elite Les Paul Elitist 2002 - Lemon Burst
 10231386964297;874.79;20;EUR;1;Epiphone Flying V 1998 - Ebony
 10159356019017;738.71;20;EUR;1;Epiphone Flying V 2000 - Natural
 10231388701001;874.79;20;EUR;1;Epiphone Flying V 2006 - Korina Natural
@@ -277,6 +278,7 @@ product_code;price_gross;vat;currency;stock;name
 9925435818313;2078.99;20;EUR;1;Gibson Firebird V 1996 - Vintage Sunburst
 10131764445513;923.39;20;EUR;1;Gibson Flying V Melody Maker 2011 - Ebony
 10023466795337;1283.03;20;EUR;1;Gibson L6-S Custom 1974 - Cherry Sunburst
+10176866746697;1166.39;20;EUR;1;Gibson Les Paul 70‘s Tribute 2013 - Tobacco Burst
 10053109285193;2309.03;20;EUR;1;Gibson Les Paul Classic 1960 2006 - Honey Fade
 10228063895881;1749.59;20;EUR;1;Gibson Les Paul Classic 2015 - Vintage Sunburst
 10231533175113;3401.99;20;EUR;1;Gibson Les Paul Custom 2019 - White
@@ -298,7 +300,6 @@ product_code;price_gross;vat;currency;stock;name
 10231421665609;1263.59;20;EUR;1;Gibson Les Paul Tribute P90 2016 - Tobacco Sunburst
 9542528205129;1665.35;20;EUR;1;Gibson Les Paul XR-III 1982 - Red Metallic
 10231417012553;2915.99;20;EUR;1;Gibson Memphis Custom Shop ES-275 2016 - Cherry Red
-10230948954441;1360.79;20;EUR;1;Gibson Nighthawk Special SP3 1994 - Tobacco Sunburst
 10091535728969;7775.99;20;EUR;1;Gibson Thunderbird II Bass 1964 – Alembic Custom 1976 – Tree of Life – Ember Red
 10199291986249;971.99;20;EUR;1;Gitane DG-250M - Natural
 10108285387081;17.27;20;EUR;1;Gitarrenkarton 1180×475×165 mm – Doppelwelliger Versandkarton für Gitarren
@@ -373,7 +374,6 @@ product_code;price_gross;vat;currency;stock;name
 10176889651529;106.91;20;EUR;1;Guyatone PS-038 Bass Exciter/Limiter B-II Effect Pedal 1987 - Vintage Japan
 10176892305737;145.79;20;EUR;1;Guyatone PS-104 Cross Over Auto Wah Effect Pedal 1980 - Vintage Japan
 10117754880329;462.23;20;EUR;1;Hagstrom Ultra Swede 2008 - Red Burst
-10231416291657;583.19;20;EUR;1;Hagstrom Viking Bass 2010 - Black
 9751180771657;437.39;20;EUR;1;Höfner 520 1960s
 9914113950025;923.39;20;EUR;1;Höfner Super Solid 173 - Vinyl White
 10136366580041;971.99;20;EUR;1;Ibanez 2375 Vintage Japan Stratocaster 1970s - Sunburst
@@ -395,7 +395,6 @@ product_code;price_gross;vat;currency;stock;name
 10216688189769;1555.19;20;EUR;1;Ibanez Performer PF350 1979 - Cherry Red
 10199103570249;1457.99;20;EUR;1;Ibanez PF350BK Performer 1994 - Black
 10125900349769;738.71;20;EUR;1;Ibanez Pre Lawsuit 2375 Stratocaster 1970s - Sunburst
-10131665355081;738.71;20;EUR;1;Ibanez Prestige SA1260 2004 - Sunburst
 9997846970697;738.71;20;EUR;1;Ibanez RG Series 1994 - Luna Sea
 9766982713673;289.43;20;EUR;1;Ibanez RG Standard 2021 - Red
 10176865239369;923.39;20;EUR;1;Ibanez RG410 Roadstar II Series 1986 - Black
@@ -471,7 +470,6 @@ product_code;price_gross;vat;currency;stock;name
 10220022169929;874.79;20;EUR;1;Orville by Gibson Les Paul Standard 1989 - Cherry Sunburst
 10141704225097;878.03;20;EUR;1;Orville by Gibson Thunderbird Bass 1991 - Sunburst - Vintage Japan
 9831303086409;866.15;20;EUR;1;Orville Gibson LPS Les Paul Standard 1990 - Heritage Cherry Sunburst
-9851276427593;748.43;20;EUR;1;Orville Gibson LPS Les Paul Standard 1993 - Heritage Cherry Sunburst - Fotoflame
 9820954100041;962.27;20;EUR;1;Orville Gibson SG 1990 - Ebony
 9759649661257;779.75;20;EUR;1;Orville Gibson SG-65 1996 - Heritage Cherry
 10141863477577;831.59;20;EUR;1;Orville Les Paul 1989-1993 - Cherry Sunburst - Vintage Japan
@@ -551,7 +549,6 @@ product_code;price_gross;vat;currency;stock;name
 10098898272585;738.71;20;EUR;1;Tokai FSD-65 Five Star Super Edition 1982 - Black
 10111334318409;831.59;20;EUR;1;Tokai Goldstar Sound Stratocaster 1981 - Dark Red Sunburst
 10117753340233;680.39;20;EUR;1;Tokai Goldstar Sound Stratocaster 1981 - Sunburst
-10216606564681;680.39;20;EUR;1;Tokai Hard Puncher Precision Bass EMG 1980s - Black
 9948765520201;665.27;20;EUR;1;Tokai JB50 Jazz Bass 1982 - Metallic Red
 9948779741513;498.95;20;EUR;1;Tokai LBX50 Electric Bass 1984 - Metallic Red
 9948779413833;498.95;20;EUR;1;Tokai LBX50 Electric Bass 1984 - White
