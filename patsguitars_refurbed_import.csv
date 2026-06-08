@@ -15,7 +15,6 @@ product_code;price_gross;vat;currency;stock;name
 10091540480329;1108.07;20;EUR;1;Baum Backwing - Ocean Mist
 10211522937161;194.39;20;EUR;1;Blackstar HTV-112 1x12 Lautsprecher Cabinet 80W
 10016105562441;646.91;20;EUR;1;Blade Levinson Delta Standard Telecaster 2021 - Sunburst
-10231540285769;77.75;20;EUR;1;Boss GE-7 Equalizer Effect Pedal
 10169820381513;97.19;20;EUR;1;Boss Loop Station RC-1 Effect Pedal
 10169835258185;126.35;20;EUR;1;Boss OD-2r Turbo Overdrive Effect Pedal 1994 - Vintage
 9699639001417;1457.99;20;EUR;1;Burns Hank Marvin Signature - White
@@ -449,6 +448,7 @@ product_code;price_gross;vat;currency;stock;name
 10176905806153;155.51;20;EUR;1;Maxon RCP660 Real Compressor Effect Pedal - Vintage Japan
 10176915505481;155.51;20;EUR;1;Maxon ROD 881 Real Overdrive/Distortion Effect Pedal - Vintage Japan
 10175545082185;136.07;20;EUR;1;Maxon SM-01 Super Metal Effect Pedal - Vintage Japan
+10231722672457;2429.99;20;EUR;1;Mesa Boogie Mark Five Head 90W
 10199183327561;1457.99;20;EUR;1;Mesa Boogie Mini Rectifier Twenty Five - 100V - Japan Model
 9692664168777;4590.0;20;EUR;1;Mesa Boogie MK1 1x12 King Snake Santana Signature 2014 - 190/300
 9729058144585;874.79;20;EUR;1;Michael Kelly Custom Collection Patriot Instinct 2021 - Scorched
@@ -560,7 +560,6 @@ product_code;price_gross;vat;currency;stock;name
 9961976103241;583.19;20;EUR;1;Tokai Love Rock ALS80 Les Paul 2012 - Sparkle
 10015980224841;831.59;20;EUR;1;Tokai Love Rock ALS94T Les Paul 2023 - Goldtop
 9925408817481;914.75;20;EUR;1;Tokai Love Rock Les Paul 1994 - Cherry Sunburst
-10210023604553;680.39;20;EUR;1;Tokai Love Rock Les Paul Lefthand - Honeyburst
 10118113952073;1292.75;20;EUR;1;Tokai Love Rock Les Paul LS162QZ 2023 - Quilt
 10067510395209;1141.55;20;EUR;1;Tokai LS-90Q Love Rock Les Paul 2005 - Oak
 9949033365833;1247.39;20;EUR;1;Tokai LS100 Love Rock Les Paul 1990 - Mahogany
@@ -580,10 +579,10 @@ product_code;price_gross;vat;currency;stock;name
 9949035102537;665.27;20;EUR;1;Tokai SS50 Silver Star Stratocaster 1983 - Black
 10117179867465;646.91;20;EUR;1;Tokai Stratocaster Custom Edition - Black
 9948801466697;665.27;20;EUR;1;Tokai Talbo Blazing Fire 1984 - Aluminium
-10067591627081;878.03;20;EUR;1;Tokai TE Telecaster Breezysound 2016 - Old Lake Blue
 10080918176073;701.99;20;EUR;1;Tokai Telecaster Breezysound Lefthand 2010 - Vintage White
 10209921794377;874.79;20;EUR;1;Trinity by Relish - Metallic Blue
 10164956856649;2429.99;20;EUR;1;Valley Arts Guitar Custom Pro 1985-1986 - Sunburst
+10231723655497;583.19;20;EUR;1;Victory Amplifiers Sheriff 212 Cabinet
 10074960560457;64.79;20;EUR;1;Vintage Guitar Magazine Price Guide 2026 – Offizieller Gitarren-Preisführer
 10111385829705;184.67;20;EUR;1;Vision Stratocaster - Red
 10152866578761;92.87;20;EUR;1;Vision Superstrat - Sunburst
