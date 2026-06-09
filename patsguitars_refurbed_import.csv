@@ -222,6 +222,7 @@ product_code;price_gross;vat;currency;stock;name
 10123540332873;831.59;20;EUR;1;Fender Japan STR-80R Stratocaster 1986-1987 - Black Burst - Vintage
 10131738755401;831.59;20;EUR;1;Fender Japan Stratocaster 1993-1994 - Red Repaint - Vintage
 10141686333769;785.15;20;EUR;1;Fender Japan Stratocaster 1993-1994 - Vintage White
+10216624750921;874.79;20;EUR;1;Fender Japan STS-55M Stratocaster 1989-1990 - Vintage White
 10104321966409;790.55;20;EUR;1;Fender Japan Telecaster 1994-1995 - Candy Apple Red - Vintage
 9914108150089;748.43;20;EUR;1;Fender Japan Telecaster 2002-2004 - Natural
 9903115764041;665.27;20;EUR;1;Fender Japan TL-235M Telecaster 1992-1993 - Blonde - Vintage
@@ -376,7 +377,6 @@ product_code;price_gross;vat;currency;stock;name
 10047306137929;388.79;20;EUR;1;Ibanez ART80 2009 - Black
 10081096827209;615.59;20;EUR;1;Ibanez Artcore Talman TM71 2002 - Goldtop
 9808922378569;3401.99;20;EUR;1;Ibanez Artist 2700 1979 - Natural
-9878875537737;583.19;20;EUR;1;Ibanez Artstar AS80 1994 - Vintage Sunburst
 10185921921353;1385.63;20;EUR;1;Ibanez Artstar Prestige Japan AS-200 2015 - Sunburst
 10033171530057;777.59;20;EUR;1;Ibanez Concord Akustik 684-12E 1974-1978 - Cherry Sunburst
 9808930505033;833.36;20;EUR;1;Ibanez EKM10T-WRD-12-01 2014 - Wine Red
@@ -543,7 +543,6 @@ product_code;price_gross;vat;currency;stock;name
 9948765520201;665.27;20;EUR;1;Tokai JB50 Jazz Bass 1982 - Metallic Red
 9948779741513;498.95;20;EUR;1;Tokai LBX50 Electric Bass 1984 - Metallic Red
 9948779413833;498.95;20;EUR;1;Tokai LBX50 Electric Bass 1984 - White
-9974419784009;1292.75;20;EUR;1;Tokai Les Paul Reborn 1978 - Heritage Cherry Sunburst
 9890387296585;498.95;20;EUR;1;Tokai Les Paul Special 2009 - Yellow
 9961976103241;583.19;20;EUR;1;Tokai Love Rock ALS80 Les Paul 2012 - Sparkle
 10015980224841;831.59;20;EUR;1;Tokai Love Rock ALS94T Les Paul 2023 - Goldtop
