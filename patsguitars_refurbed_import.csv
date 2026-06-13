@@ -144,7 +144,6 @@ product_code;price_gross;vat;currency;stock;name
 9971856769353;161.99;20;EUR;1;Faber MasterKit – Gibson (ABR-1) – Nickel Gloss
 9971821117769;161.99;20;EUR;1;Faber MasterKit – Metric (Epiphone & Asian) – Nickel Aged
 9948749594953;332.63;20;EUR;1;Faber PBC Precision Bass Revival Model - Black
-10080662421833;350.99;20;EUR;1;Faber PBC Precision Bass Revival Model - Black
 9948725903689;332.63;20;EUR;1;Faber STC Stratocaster Revival Model - Sunburst
 9948755820873;332.63;20;EUR;1;Faber STC Stratocaster Revival Model - Vintage White
 9948734587209;583.19;20;EUR;1;Faber STCH VY Revival Model Stratocaster - Vintage Yellow
@@ -224,7 +223,6 @@ product_code;price_gross;vat;currency;stock;name
 10131738755401;831.59;20;EUR;1;Fender Japan Stratocaster 1993-1994 - Red Repaint - Vintage
 10141686333769;785.15;20;EUR;1;Fender Japan Stratocaster 1993-1994 - Vintage White
 10104321966409;790.55;20;EUR;1;Fender Japan Telecaster 1994-1995 - Candy Apple Red - Vintage
-9914108150089;748.43;20;EUR;1;Fender Japan Telecaster 2002-2004 - Natural
 9903115764041;665.27;20;EUR;1;Fender Japan TL-235M Telecaster 1992-1993 - Blonde - Vintage
 9997844545865;971.99;20;EUR;1;Fender Japan TL-354 Telecaster 1990-1991 - Mustard - Vintage
 10108772352329;831.59;20;EUR;1;Fender Japan TL-43 Telecaster 1993-1994 - Black - Vintage
@@ -240,7 +238,6 @@ product_code;price_gross;vat;currency;stock;name
 10080808370505;1229.03;20;EUR;1;Fender Japan Traditional II 60s Jaguar 2022 - Sunburst
 10033174479177;7775.99;20;EUR;1;Fender Jazzmaster 1963 Pre CBS - Inca Silver Refin
 10236614836553;971.99;20;EUR;1;Fender Jimmie Vaughan Tex-Mex Stratocaster 2022 - Olympic White
-10230961766729;680.39;20;EUR;1;Fender Korea Special Edition Stratocaster 2008 - Lite Ash
 9989304320329;777.59;20;EUR;1;Fender Mexico FSR Stratocaster 1995 - Vintage White
 10199419617609;631.79;20;EUR;1;Fender Mexico Stratocaster 1995 - Vintage White
 10197952987465;631.79;20;EUR;1;Fender Mexico Telecaster 2002 - Sunburst
@@ -273,7 +270,6 @@ product_code;price_gross;vat;currency;stock;name
 10098886181193;2770.19;20;EUR;1;Gibson Custom Shop 57´ Les Paul Standard 2001 - Planet Green
 10230920282441;2138.39;20;EUR;1;Gibson Dove Custom Akustik 1973-1975 - Natural
 10231415701833;3887.99;20;EUR;1;Gibson ES-165 Herb Ellis Plus 2003
-10230953869641;3401.99;20;EUR;1;Gibson ES-335 DOT 1985 - Tobacco Sunburst
 9925435818313;2078.99;20;EUR;1;Gibson Firebird V 1996 - Vintage Sunburst
 10131764445513;923.39;20;EUR;1;Gibson Flying V Melody Maker 2011 - Ebony
 10023466795337;1283.03;20;EUR;1;Gibson L6-S Custom 1974 - Cherry Sunburst
@@ -411,11 +407,11 @@ product_code;price_gross;vat;currency;stock;name
 9861732893001;291.59;20;EUR;1;Jackson JS22 Dinky DKA 2015 - Metallic Blue
 9797225742665;5831.99;20;EUR;1;James Collins Signature GTO 2023 - Natural
 9942052766025;3324.23;20;EUR;1;James Trussart Rusty Deville 59 2011 - Steel
+10117139661129;184.67;20;EUR;1;Johnson Jazzmaster - Sunburst
 10023444119881;646.91;20;EUR;1;Juno Flying V - Acryl / Transparent
 10136277418313;462.23;20;EUR;1;Juno Flying V - Black
 10115830776137;184.67;20;EUR;1;Kapok MEG 9012 Stratocaster - Red
 9903015657801;194.39;20;EUR;1;Kay Acoustic C950 - Natural
-10131731480905;139.31;20;EUR;1;Keiper Akustikgitarre BQ/TBL - Dark Blue
 10108742631753;184.67;20;EUR;1;Keiper Shortscale Stratocaster Junior - Black
 10169733742921;693.35;20;EUR;1;Kramer LK-1 1980s - Black
 10008552931657;738.71;20;EUR;1;Kramer Neptune NJ 1980s - Black
@@ -455,7 +451,6 @@ product_code;price_gross;vat;currency;stock;name
 10230908158281;1943.99;20;EUR;1;Music Man Ernie Ball Sterling 4H Bass 2000 - Candy Apple Red
 10227954843977;1360.79;20;EUR;1;Music Man Ernie Ball StingRay EX Bass - Red
 10206012997961;97.19;20;EUR;1;MXR Boost/Line Driver - Effektpedal
-10206013620553;116.63;20;EUR;1;MXR M288 Bass Oktave Deluxe - Effektpedal
 10206011588937;97.19;20;EUR;1;MXR Smart Gate - Effektpedal
 10104026202441;701.99;20;EUR;1;Navigator by ESP Espionage Bass - Tobacco Burst
 9729073578313;3887.99;20;EUR;1;o3 Guitars Radon - Alejandro Ramirez - Red
