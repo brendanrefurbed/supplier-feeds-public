@@ -137,7 +137,6 @@ product_code;price_gross;vat;currency;stock;name
 10136402493769;1200.95;20;EUR;1;ESP LTD GL-200K George Lynch Signature 2012 - Kamikaze
 9831307608393;709.55;20;EUR;1;ESP MA280-B Bass 1999 - See Thru Brown
 10033162649929;1846.79;20;EUR;1;ESP Random Star - Purple Tiger
-10209982873929;1943.99;20;EUR;1;ESP Random Star 1980s - Red
 9775092203849;1595.15;20;EUR;1;ESP THE ALFEE Signature Angel Classic Junior 1998 - Cherry Sunburst
 10104299127113;701.99;20;EUR;1;EVH Eddie Van Halen Frankenstein Strat Replica - Red Striped
 10193179181385;831.59;20;EUR;1;EVH Eddie Van Halen Stratocaster Striped Series 2019
@@ -196,8 +195,6 @@ product_code;price_gross;vat;currency;stock;name
 10115822616905;831.59;20;EUR;1;Fender Japan 57´ Reissue Stratocaster 2006-2008 - Black Gold
 10067757498697;790.55;20;EUR;1;Fender Japan 57’ Reissue Stratocaster 1997-2000 - Sunburst
 10146509979977;1385.63;20;EUR;1;Fender Japan 60s Custom Telecaster 2025 - Black
-10240968196425;874.79;20;EUR;1;Fender Japan 60s Reissue Jazz Bass 1994-1995 - Old Candy Apple Red
-10240948437321;874.79;20;EUR;1;Fender Japan 60s Reissue Jazz Bass 1999-2002 - Black
 10240946176329;826.19;20;EUR;1;Fender Japan 60s Reissue Stratocaster 1991-1992 - Sunburst
 10240943980873;874.79;20;EUR;1;Fender Japan 60s Reissue Stratocaster 1993-1994 - Sunburst
 10240710279497;826.19;20;EUR;1;Fender Japan 62 Reissue Stratocaster - Sunburst
@@ -209,8 +206,6 @@ product_code;price_gross;vat;currency;stock;name
 10104279368009;790.55;20;EUR;1;Fender Japan 72´ Reissue Telecaster 1993-1994 - Candy Apple Red Repaint - Vintage
 10091497881929;831.59;20;EUR;1;Fender Japan 72´ Reissue Telecaster 1993-1994 - Natural - Vintage
 10067753763145;790.55;20;EUR;1;Fender Japan 72’ Reissue Telecaster 1997-2000 - Off White Blonde
-10240981303625;874.79;20;EUR;1;Fender Japan Aerodyne Jazz Bass 2002-2004 - Candy Apple Red
-10240957841737;874.79;20;EUR;1;Fender Japan Aerodyne Jazz Bass 2016 - Black
 10236555952457;1166.39;20;EUR;1;Fender Japan CHAR-MG 69 Reissue Mustang 2019 - Olympic White
 9989287117129;1200.95;20;EUR;1;Fender Japan CHAR-MG 69‘ Reissue Mustang 2019 - Olympic White
 10047126995273;923.39;20;EUR;1;Fender Japan Classic 70s Telecaster 2016 - Blue
@@ -501,7 +496,6 @@ product_code;price_gross;vat;currency;stock;name
 10118158582089;831.59;20;EUR;1;Orville LPS Les Paul Standard - Cherry Sunburst
 10092445761865;831.59;20;EUR;1;Orville LPS Les Paul Standard 1990 - Cherry Sunburst
 10152860811593;831.59;20;EUR;1;Orville LPS Les Paul Standard 1990 - Cherry Sunburst
-10152855634249;826.19;20;EUR;1;Orville LPS Les Paul Standard 1995 - Lemon Drop
 10080664650057;1052.99;20;EUR;1;Orville LPS Les Paul Standard 1996 - Quilt Top
 10240731119945;777.59;20;EUR;1;Orville SG 1990 - Ebony
 10209971208521;826.19;20;EUR;1;Ovation 1613 1981 - Natural
