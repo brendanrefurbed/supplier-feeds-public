@@ -145,7 +145,6 @@ product_code;price_gross;vat;currency;stock;name
 9971628933449;161.99;20;EUR;1;Faber MasterKit – Gibson (ABR-1) – Nickel Aged
 9971856769353;161.99;20;EUR;1;Faber MasterKit – Gibson (ABR-1) – Nickel Gloss
 9971821117769;161.99;20;EUR;1;Faber MasterKit – Metric (Epiphone & Asian) – Nickel Aged
-9948749594953;332.63;20;EUR;1;Faber PBC Precision Bass Revival Model - Black
 9948725903689;332.63;20;EUR;1;Faber STC Stratocaster Revival Model - Sunburst
 9948755820873;332.63;20;EUR;1;Faber STC Stratocaster Revival Model - Vintage White
 9948734587209;583.19;20;EUR;1;Faber STCH VY Revival Model Stratocaster - Vintage Yellow
@@ -209,7 +208,6 @@ product_code;price_gross;vat;currency;stock;name
 10236555952457;1166.39;20;EUR;1;Fender Japan CHAR-MG 69 Reissue Mustang 2019 - Olympic White
 9989287117129;1200.95;20;EUR;1;Fender Japan CHAR-MG 69‘ Reissue Mustang 2019 - Olympic White
 10047126995273;923.39;20;EUR;1;Fender Japan Classic 70s Telecaster 2016 - Blue
-10240933298505;777.59;20;EUR;1;Fender Japan CTC-55M Telecaster Custom 1993-1994 - Sunburst
 10091346198857;831.59;20;EUR;1;Fender Japan CTL-50M 72´ Reissue Telecaster 1992-1993 - Black - Vintage
 10231534420297;874.79;20;EUR;1;Fender Japan Jazz Bass Special 1991-1992 - Black
 9947289682249;1016.27;20;EUR;1;Fender Japan Jazzmaster Junior Collection 2022 - Satin Shell Pink
@@ -258,14 +256,12 @@ product_code;price_gross;vat;currency;stock;name
 10199419617609;600.47;20;EUR;1;Fender Mexico Stratocaster 1995 - Vintage White
 10240959152457;680.39;20;EUR;1;Fender Mexico Stratocaster 1998 - Black
 10197952987465;600.47;20;EUR;1;Fender Mexico Telecaster 2002 - Sunburst
-10240978747721;1214.99;20;EUR;1;Fender MJT 50s Reissue Stratocaster - Surf Green - Heavy Relic
 10146546319689;1292.75;20;EUR;1;Fender MJT 50s Reissue Telecaster - Dakota Red - Heavy Relic
 10124582388041;1247.39;20;EUR;1;Fender MJT 62 Reissue Stratocaster - Sonic Blue - Heavy Relic
 9903118680393;3887.99;20;EUR;1;Fender Mustang 1973 - Sunburst
 10240977699145;1457.99;20;EUR;1;Fender Parallel Universe II Maverick Dorado 2020 - Firemist Gold
 10125910671689;2309.03;20;EUR;1;Fender Stevie Ray Vaughan Signature Stratocaster 2003 - Sunburst
 9692652437833;2429.99;20;EUR;1;Fender Telecaster 1976 - Vintage White
-10236651962697;2138.39;20;EUR;1;Fender Telecaster 1976 - Vintage White
 10092544688457;615.59;20;EUR;1;Fender Telecoustic 2000 - Candy Apple Red
 10136243863881;646.91;20;EUR;1;Fender Telecoustic 2014 - Flame Maple Sunburst
 10146526724425;1749.59;20;EUR;1;Fender USA Jazz Bass 1983 - Black
@@ -283,7 +279,7 @@ product_code;price_gross;vat;currency;stock;name
 9974426796361;583.19;20;EUR;1;Framus Diablo Progressive X - Trans Black
 10033157669193;291.59;20;EUR;1;Framus FR 212 Speaker Cabinet
 9948813459785;485.99;20;EUR;1;Framus Les Paul - Natural
-9890335785289;1385.09;20;EUR;1;Framus Strato Deluxe 1963 - Blonde
+9890335785289;1317.59;20;EUR;1;Framus Strato Deluxe 1963 - Blonde
 10175549899081;69.97;20;EUR;1;Freedom Custom Guitar Research A/B Switch Box Pedal - Japan
 10216636973385;583.19;20;EUR;1;G&L JB Tribute Series Jazz Bass 2022 - Lake Placid Blue
 10098886181193;2770.19;20;EUR;1;Gibson Custom Shop 57´ Les Paul Standard 2001 - Planet Green
@@ -294,7 +290,6 @@ product_code;price_gross;vat;currency;stock;name
 10176866746697;1166.39;20;EUR;1;Gibson Les Paul 70‘s Tribute 2013 - Tobacco Burst
 10053109285193;2309.03;20;EUR;1;Gibson Les Paul Classic 1960 2006 - Honey Fade
 10228063895881;1749.59;20;EUR;1;Gibson Les Paul Classic 2015 - Vintage Sunburst
-10231533175113;3401.99;20;EUR;1;Gibson Les Paul Custom 2019 - White
 10033181557065;2770.19;20;EUR;1;Gibson Les Paul Custom Shop 1998 - Catalina Red
 10091978129737;1316.51;20;EUR;1;Gibson Les Paul Junior 2010 - TV Yellow
 10141672898889;1200.95;20;EUR;1;Gibson Les Paul Special 2005 - Faded Cherry
@@ -346,7 +341,6 @@ product_code;price_gross;vat;currency;stock;name
 10104294080841;701.99;20;EUR;1;Greco EG500 Les Paul Standard 1978 - Cherry Sunburst - Vintage Japan
 10104285102409;878.03;20;EUR;1;Greco EG600 Les Paul Custom 1978 - Ebony - Vintage Japan
 10164886077769;646.91;20;EUR;1;Greco Electric Jazz Bass Matsumoku 1970s - Natural
-9974421225801;914.75;20;EUR;1;Greco Flying V 1983
 10210054406473;437.39;20;EUR;1;Greco GOB-700 Bass 1978 - Defekt
 9729076822345;777.59;20;EUR;1;Greco J-80E 1991 - Sunburst
 10008551850313;738.71;20;EUR;1;Greco Jazz Bass 1970s - Natural
@@ -390,8 +384,8 @@ product_code;price_gross;vat;currency;stock;name
 10176892305737;131.21;20;EUR;1;Guyatone PS-104 Cross Over Auto Wah Effect Pedal 1980 - Vintage Japan
 10117754880329;462.23;20;EUR;1;Hagstrom Ultra Swede 2008 - Red Burst
 10240953811273;777.59;20;EUR;1;Höfner 173 - Vinyl White
-9751180771657;437.39;20;EUR;1;Höfner 520 1960s
-9914113950025;923.39;20;EUR;1;Höfner Super Solid 173 - Vinyl White
+9751180771657;415.52;20;EUR;1;Höfner 520 1960s
+9914113950025;880.19;20;EUR;1;Höfner Super Solid 173 - Vinyl White
 10136366580041;971.99;20;EUR;1;Ibanez 2375 Vintage Japan Stratocaster 1970s - Sunburst
 10136357863753;1457.99;20;EUR;1;Ibanez 2375N Vintage Japan Stratocaster 1970s - Natural
 10047306137929;388.79;20;EUR;1;Ibanez ART80 2009 - Black
