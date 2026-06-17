@@ -150,7 +150,6 @@ product_code;price_gross;vat;currency;stock;name
 9948754739529;583.19;20;EUR;1;Faber STCH YS Stratocaster Revival Model - Sunburst
 9948760670537;250.55;20;EUR;1;Faber STCL Stratocaster Revival Model - Red
 9948758442313;332.63;20;EUR;1;Faber TEC Telecaster - Black
-9948759785801;332.63;20;EUR;1;Faber TEC Telecaster Revival Model - Butterscotch Blonde
 9948758147401;583.19;20;EUR;1;Faber TECH Telecaster - Blonde
 9914165526857;3401.99;20;EUR;1;"Fender '52 Telecaster Custom Shop ""California Beach"" NOS Limited Edition 2004 - Pacific Green"
 10047131386185;738.71;20;EUR;1;Fender 51 Strat/Tele Hybrid - Butterscotch Blonde
@@ -186,7 +185,6 @@ product_code;price_gross;vat;currency;stock;name
 10080697418057;777.59;20;EUR;1;Fender Japan / Squier 50s Telecaster 2023 - Sunburst
 10240942604617;874.79;20;EUR;1;Fender Japan 50s Reissue Stratocaster 1989-1990 - Black
 10099849494857;831.59;20;EUR;1;Fender Japan 54´ Reissue Stratocaster 1993-1994 - Natural - Vintage
-10240961675593;874.79;20;EUR;1;Fender Japan 57 Reissue Stratocaster 1984-1987 - Candy Apple Red
 10220108284233;874.79;20;EUR;1;Fender Japan 57 Reissue Stratocaster Lefthand 2012 - Vintage White
 10123556356425;831.59;20;EUR;1;Fender Japan 57´ Reissue Stratocaster 1994-1995 - Sunburst - Vintage
 10111326290249;790.55;20;EUR;1;Fender Japan 57´ Reissue Stratocaster 1997-2000 - Black
@@ -199,6 +197,7 @@ product_code;price_gross;vat;currency;stock;name
 10111488753993;790.55;20;EUR;1;Fender Japan 62´ Reissue Stratocaster 1984-1987 - Sunburst - Vintage
 10067530219849;790.55;20;EUR;1;Fender Japan 62’ Reissue Stratocaster 1999-2002 - Sunburst
 10067747569993;790.55;20;EUR;1;Fender Japan 62’ Reissue Stratocaster 2002-2004 - Sunburst
+10057518481737;965.51;20;EUR;1;Fender Japan 62’ Reissue Telecaster 2006-2008 - Black
 10136377360713;1385.63;20;EUR;1;Fender Japan 66 Reissue Jaguar 2006-2008 - Sunburst
 10016150716745;1477.43;20;EUR;1;Fender Japan 66’ Reissue Jaguar 2004-2005 - Sunburst
 10104279368009;790.55;20;EUR;1;Fender Japan 72´ Reissue Telecaster 1993-1994 - Candy Apple Red Repaint - Vintage
@@ -208,6 +207,7 @@ product_code;price_gross;vat;currency;stock;name
 9989287117129;1200.95;20;EUR;1;Fender Japan CHAR-MG 69‘ Reissue Mustang 2019 - Olympic White
 10047126995273;923.39;20;EUR;1;Fender Japan Classic 70s Telecaster 2016 - Blue
 10091346198857;831.59;20;EUR;1;Fender Japan CTL-50M 72´ Reissue Telecaster 1992-1993 - Black - Vintage
+10080855097673;1052.99;20;EUR;1;Fender Japan Hybrid II Jazzmaster 2022 - Red
 10231534420297;874.79;20;EUR;1;Fender Japan Jazz Bass Special 1991-1992 - Black
 9947289682249;1016.27;20;EUR;1;Fender Japan Jazzmaster Junior Collection 2022 - Satin Shell Pink
 10008570528073;923.39;20;EUR;1;Fender Japan Junior Collection Stratocaster 2023 - Shell Pink
@@ -256,9 +256,9 @@ product_code;price_gross;vat;currency;stock;name
 10240959152457;680.39;20;EUR;1;Fender Mexico Stratocaster 1998 - Black
 10197952987465;600.47;20;EUR;1;Fender Mexico Telecaster 2002 - Sunburst
 10146546319689;1292.75;20;EUR;1;Fender MJT 50s Reissue Telecaster - Dakota Red - Heavy Relic
+10169725321545;1154.51;20;EUR;1;Fender MJT 60s Reissue Stratocaster - Shell Pink - Heavy Relic
 10124582388041;1247.39;20;EUR;1;Fender MJT 62 Reissue Stratocaster - Sonic Blue - Heavy Relic
 9903118680393;3887.99;20;EUR;1;Fender Mustang 1973 - Sunburst
-10240977699145;1457.99;20;EUR;1;Fender Parallel Universe II Maverick Dorado 2020 - Firemist Gold
 10125910671689;2309.03;20;EUR;1;Fender Stevie Ray Vaughan Signature Stratocaster 2003 - Sunburst
 9692652437833;2429.99;20;EUR;1;Fender Telecaster 1976 - Vintage White
 10092544688457;615.59;20;EUR;1;Fender Telecoustic 2000 - Candy Apple Red
@@ -334,6 +334,7 @@ product_code;price_gross;vat;currency;stock;name
 10197939355977;831.59;20;EUR;1;Greco EG-500 Super Power Les Paul 1981 - Cherry Sunburst
 10199136567625;831.59;20;EUR;1;Greco EG-550 Rock Spirits Les Paul 1992 - Cherry Sunburst
 10016030785865;1108.07;20;EUR;1;Greco EG-600 Les Paul Custom 1978 - Black - Vintage Japan
+10199085809993;874.79;20;EUR;1;Greco EG450 Les Paul Standard 1978 - Cherry Sunburst
 10103763730761;790.55;20;EUR;1;Greco EG450 Super Power Les Paul 1981 - Tobacco Burst - Vintage Japan
 10057513402697;790.55;20;EUR;1;Greco EG500 1973 - Ebony - Vintage Japan
 10104294080841;701.99;20;EUR;1;Greco EG500 Les Paul Standard 1978 - Cherry Sunburst - Vintage Japan
@@ -572,7 +573,6 @@ product_code;price_gross;vat;currency;stock;name
 10015980224841;831.59;20;EUR;1;Tokai Love Rock ALS94T Les Paul 2023 - Goldtop
 9925408817481;824.03;20;EUR;1;Tokai Love Rock Les Paul 1994 - Cherry Sunburst
 10118113952073;1292.75;20;EUR;1;Tokai Love Rock Les Paul LS162QZ 2023 - Quilt
-10067510395209;1141.55;20;EUR;1;Tokai LS-90Q Love Rock Les Paul 2005 - Oak
 9949033365833;1247.39;20;EUR;1;Tokai LS100 Love Rock Les Paul 1990 - Mahogany
 10172747776329;1263.59;20;EUR;1;Tokai LS135 Love Rock Les Paul 2020 - Honeyburst
 10212529701193;971.99;20;EUR;1;Tokai LS50 Love Rock Les Paul 1981 - Ebony
