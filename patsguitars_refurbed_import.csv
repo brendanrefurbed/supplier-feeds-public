@@ -181,6 +181,7 @@ product_code;price_gross;vat;currency;stock;name
 10080697418057;777.59;20;EUR;1;Fender Japan / Squier 50s Telecaster 2023 - Sunburst
 10240942604617;874.79;20;EUR;1;Fender Japan 50s Reissue Stratocaster 1989-1990 - Black
 10099849494857;831.59;20;EUR;1;Fender Japan 54´ Reissue Stratocaster 1993-1994 - Natural - Vintage
+10176866976073;874.79;20;EUR;1;Fender Japan 57 Reissue Stratocaster Heavy Relic 1997-2000 - Vintage White
 10220108284233;874.79;20;EUR;1;Fender Japan 57 Reissue Stratocaster Lefthand 2012 - Vintage White
 10123556356425;831.59;20;EUR;1;Fender Japan 57´ Reissue Stratocaster 1994-1995 - Sunburst - Vintage
 10111326290249;790.55;20;EUR;1;Fender Japan 57´ Reissue Stratocaster 1997-2000 - Black
@@ -219,7 +220,6 @@ product_code;price_gross;vat;currency;stock;name
 9974425157961;665.27;20;EUR;1;Fender Japan ST-STD Standard Stratocaster 1993-1994 - Sunburst
 9961944121673;665.27;20;EUR;1;Fender Japan ST-STD Stratocaster 1987-1988 - Black - Vintage
 9948896330057;748.43;20;EUR;1;Fender Japan ST-STD Stratocaster 1992-1993 - Red - Vintage
-10104277172553;790.55;20;EUR;1;Fender Japan ST-STD Stratocaster 1993-1994 - Candy Apple Red - Vintage
 10175463948617;785.15;20;EUR;1;Fender Japan ST-STD Stratocaster 1995-1996 - Sunburst - Vintage
 10008554078537;874.79;20;EUR;1;Fender Japan ST62-65AS 40th Anniversary Stratocaster 1994-1995 - Yellow
 10008533991753;738.71;20;EUR;1;Fender Japan Standard Stratocaster 1993-1994 - Black - Vintage
@@ -238,7 +238,6 @@ product_code;price_gross;vat;currency;stock;name
 9948920480073;748.43;20;EUR;1;Fender Japan TL-STD Telecaster 1994-1995 - Black - Vintage
 10176872644937;831.59;20;EUR;1;Fender Japan TL-STD Telecaster 2013 - Sand
 10033164321097;1385.63;20;EUR;1;Fender Japan TL62B 62’ Telecaster 2017 - Ice Blue Metallic
-10092439798089;1052.99;20;EUR;1;Fender Japan TLAC-950 Thinline Telecaster 1990-1991 - Sunburst - Vintage
 9808858546505;962.27;20;EUR;1;Fender Japan TLM-55M Telecaster 1988-1989 - Natural
 9989386666313;1016.27;20;EUR;1;Fender Japan Traditional 60s II Stratocaster 2021 - Sunburst
 10175422628169;878.03;20;EUR;1;Fender Japan Traditional 60s II Telecaster 2020 - Lake Placid Blue
@@ -325,7 +324,6 @@ product_code;price_gross;vat;currency;stock;name
 9997855686985;971.99;20;EUR;1;Greco EG-450 Les Paul Standard 1978 - Cherry Sunburst - Vintage Japan
 10240935526729;680.39;20;EUR;1;Greco EG-480 Les Paul Custom 1970s - Sunburst
 10240732594505;874.79;20;EUR;1;Greco EG-500 Les Paul Standard - Ebony
-9903108587849;748.43;20;EUR;1;Greco EG-500 Les Paul Standard 1980 - Heritage Cherry Sunburst - Vintage Japan
 10197939355977;831.59;20;EUR;1;Greco EG-500 Super Power Les Paul 1981 - Cherry Sunburst
 10199136567625;831.59;20;EUR;1;Greco EG-550 Rock Spirits Les Paul 1992 - Cherry Sunburst
 10016030785865;1108.07;20;EUR;1;Greco EG-600 Les Paul Custom 1978 - Black - Vintage Japan
@@ -352,7 +350,6 @@ product_code;price_gross;vat;currency;stock;name
 10115845816649;738.71;20;EUR;1;Greco Stratocaster 1970s - Vintage White
 10131677217097;646.91;20;EUR;1;Greco Super Sounds Stratocaster 1976 - Vintage White
 10136127766857;738.71;20;EUR;1;Greco Super Sounds Stratocaster 1977 - Vintage White
-9997847363913;777.59;20;EUR;1;Greco Super Sounds Stratocaster 1978 - White
 10117154996553;738.71;20;EUR;1;Greco Super Sounds Stratocaster SE380 1979 - Sunburst
 10164844560713;462.23;20;EUR;1;Greco VB Violin Bass 1970s - Sunburst
 9831293387081;524.87;20;EUR;1;Greco VB Violin Bass 1970s - Vintage Sunburst
@@ -420,7 +417,6 @@ product_code;price_gross;vat;currency;stock;name
 9861732893001;291.59;20;EUR;1;Jackson JS22 Dinky DKA 2015 - Metallic Blue
 9797225742665;5831.99;20;EUR;1;James Collins Signature GTO 2023 - Natural
 9942052766025;3324.23;20;EUR;1;James Trussart Rusty Deville 59 2011 - Steel
-10117139661129;184.67;20;EUR;1;Johnson Jazzmaster - Sunburst
 10023444119881;646.91;20;EUR;1;Juno Flying V - Acryl / Transparent
 10136277418313;462.23;20;EUR;1;Juno Flying V - Black
 10115830776137;184.67;20;EUR;1;Kapok MEG 9012 Stratocaster - Red
