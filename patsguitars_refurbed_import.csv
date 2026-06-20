@@ -153,7 +153,6 @@ product_code;price_gross;vat;currency;stock;name
 10067502203209;2429.99;20;EUR;1;Fender 54’ Reissue American Stratocaster 40th Anniversary 1994 - Sunburst
 10067515834697;1292.75;20;EUR;1;Fender American Deluxe Stratocaster 2005 - Cherry Sunburst
 10033161535817;1662.11;20;EUR;1;Fender American Deluxe Telecaster 2002 - Cherry Sunburst
-9878946152777;1347.83;20;EUR;1;Fender American Deluxe Telecaster 2010 - Silver
 10016034488649;1477.43;20;EUR;1;Fender American Professional II Telecaster 2021 - Red
 10220198429001;1360.79;20;EUR;1;Fender American Standard Stratocaster 1994 - Vintage White
 10240738558281;1166.39;20;EUR;1;Fender American Standard Stratocaster 1997 - Candy Apple Red
@@ -173,6 +172,7 @@ product_code;price_gross;vat;currency;stock;name
 10080692830537;615.59;20;EUR;1;Fender Duo Sonic 2019 - Seafoam Green
 10088462418249;1385.63;20;EUR;1;Fender Eric Clapton Signature Stratocaster 2001 - Blackie
 10008564629833;646.91;20;EUR;1;Fender FR50CE Resonator 2012 - Sunburst
+10033144365385;161.99;20;EUR;1;Fender Frontman 15G Transistor Verstärker
 10193315201353;1166.39;20;EUR;1;Fender Heartfield 1991 - Blue
 10047284937033;1292.75;20;EUR;1;Fender Highway One Showmaster 2003 - Satin Black
 10047280906569;1166.39;20;EUR;1;Fender Highway One Stratocaster 2006 - Natural
@@ -312,7 +312,6 @@ product_code;price_gross;vat;currency;stock;name
 10008560861513;1108.07;20;EUR;1;Greco Custom EG-600P Les Paul 1978 - Ebony - Vintage Japan
 9947276869961;1016.27;20;EUR;1;Greco EG Ace Frehley Les Paul Custom 1980 - Heritage Cherry Sunburst - Vintage Japan
 10240956203337;777.59;20;EUR;1;Greco EG Les Paul 1978 - Cherry Sunburst
-10098900205897;831.59;20;EUR;1;Greco EG Les Paul Standard 1977 - Sunburst - Vintage Japan
 10067711394121;790.55;20;EUR;1;Greco EG Les Paul Standard 1978 - Cherry Sunburst
 10104292901193;790.55;20;EUR;1;Greco EG Les Paul Standard 1980 - Sunburst - Vintage Japan
 10231422681417;874.79;20;EUR;1;Greco EG-360 Les Paul 1970s - Goldtop
@@ -372,6 +371,7 @@ product_code;price_gross;vat;currency;stock;name
 10176892305737;131.21;20;EUR;1;Guyatone PS-104 Cross Over Auto Wah Effect Pedal 1980 - Vintage Japan
 10117754880329;462.23;20;EUR;1;Hagstrom Ultra Swede 2008 - Red Burst
 9821187211593;2915.99;20;EUR;1;Hamer 1978 Bound and Crowned - Sunburst
+10126045675849;231.11;20;EUR;1;Harley Benton Piezo Stratocaster - Sunburst
 10240953811273;777.59;20;EUR;1;Höfner 173 - Vinyl White
 9751180771657;415.52;20;EUR;1;Höfner 520 1960s
 9914113950025;880.19;20;EUR;1;Höfner Super Solid 173 - Vinyl White
@@ -599,3 +599,4 @@ product_code;price_gross;vat;currency;stock;name
 10175561072969;104.97;20;EUR;1;Yamaha OD-100 Over Drive Effect Pedal - Vintage Japan
 10175597969737;104.97;20;EUR;1;Yamaha OD-100 Over Drive Effect Pedal - Vintage Japan
 10176914424137;104.97;20;EUR;1;Yamaha OD-100 Over Drive Effect Pedal - Vintage Japan
+10176891388233;116.63;20;EUR;1;Zoom GFX-707 Effects Processor Pedal
