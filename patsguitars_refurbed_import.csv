@@ -18,13 +18,11 @@ product_code;price_gross;vat;currency;stock;name
 10016105562441;646.91;20;EUR;1;Blade Levinson Delta Standard Telecaster 2021 - Sunburst
 10169820381513;87.47;20;EUR;1;Boss Loop Station RC-1 Effect Pedal
 10169835258185;113.71;20;EUR;1;Boss OD-2r Turbo Overdrive Effect Pedal 1994 - Vintage
-10249379938633;242.99;20;EUR;1;Boss RE-202 Space Echo Effect Pedal
 9699639001417;1457.99;20;EUR;1;Burns Hank Marvin Signature - White
 10118164119881;680.39;20;EUR;1;Burny Les Paul - Goldtop
 9925430935881;524.87;20;EUR;1;Burny Les Paul - Metallic Red
 9989327847753;416.87;20;EUR;1;Burny Les Paul - Tobacco Burst
 10108703899977;554.03;20;EUR;1;Burny Les Paul 2004 - Ebony
-10220046877001;583.19;20;EUR;1;Burny Les Paul 2010 - Ebony
 10236599927113;971.99;20;EUR;1;Burny Les Paul Custom - Ebony
 10123517919561;831.59;20;EUR;1;Burny Les Paul FLG-70 1977 - Tobacco Burst - Vintage Japan
 10136106729801;462.23;20;EUR;1;Burny LG-480 Les Paul - Black
@@ -156,6 +154,7 @@ product_code;price_gross;vat;currency;stock;name
 9948760670537;250.55;20;EUR;1;Faber STCL Stratocaster Revival Model - Red
 9948758442313;332.63;20;EUR;1;Faber TEC Telecaster - Black
 9948758147401;583.19;20;EUR;1;Faber TECH Telecaster - Blonde
+9948760211785;583.19;20;EUR;1;Faber TECH VNT Telecaster - Butterscotch Blonde Natural
 10249372827977;165.23;20;EUR;1;Fame URM-1000 Effect Pedal
 9914165526857;3401.99;20;EUR;1;"Fender '52 Telecaster Custom Shop ""California Beach"" NOS Limited Edition 2004 - Pacific Green"
 10067502203209;2429.99;20;EUR;1;Fender 54’ Reissue American Stratocaster 40th Anniversary 1994 - Sunburst
@@ -213,7 +212,6 @@ product_code;price_gross;vat;currency;stock;name
 9989287117129;1081.07;20;EUR;1;Fender Japan CHAR-MG 69‘ Reissue Mustang 2019 - Olympic White
 10047126995273;923.39;20;EUR;1;Fender Japan Classic 70s Telecaster 2016 - Blue
 10091346198857;831.59;20;EUR;1;Fender Japan CTL-50M 72´ Reissue Telecaster 1992-1993 - Black - Vintage
-10080855097673;1052.99;20;EUR;1;Fender Japan Hybrid II Jazzmaster 2022 - Red
 10231534420297;874.79;20;EUR;1;Fender Japan Jazz Bass Special 1991-1992 - Black
 9947289682249;1016.27;20;EUR;1;Fender Japan Jazzmaster Junior Collection 2022 - Satin Shell Pink
 10008570528073;923.39;20;EUR;1;Fender Japan Junior Collection Stratocaster 2023 - Shell Pink
@@ -357,7 +355,6 @@ product_code;price_gross;vat;currency;stock;name
 10080845889865;790.55;20;EUR;1;Greco Les Paul Standard 1979 - Tobacco Sunburst
 10123548164425;738.71;20;EUR;1;Greco Matsumoku Stratocaster 1970s - Sunburst
 10123552817481;738.71;20;EUR;1;Greco PB450 Precision Bass 1978 - Black
-10249081848137;1069.19;20;EUR;1;Greco RG-120 12-String 1991 - Black
 10249162326345;777.59;20;EUR;1;Greco SE-380 Super Sounds Stratocaster 1979 - Sunburst
 9961966698825;583.19;20;EUR;1;Greco SE380 Super Power Stratocaster 1980 - Sunburst
 10091491524937;583.19;20;EUR;1;Greco SE450 Scalloped Stratocaster 1980 - Black
@@ -401,6 +398,7 @@ product_code;price_gross;vat;currency;stock;name
 10047306137929;388.79;20;EUR;1;Ibanez ART80 2009 - Black
 10081096827209;615.59;20;EUR;1;Ibanez Artcore Talman TM71 2002 - Goldtop
 9808922378569;3401.99;20;EUR;1;Ibanez Artist 2700 1979 - Natural
+10220193907017;1457.99;20;EUR;1;Ibanez AZ2402 Prestige 2020 - Black Flat
 9682795594057;510.83;20;EUR;1;Ibanez BTB675-NTL 2014
 10033171530057;777.59;20;EUR;1;Ibanez Concord Akustik 684-12E 1974-1978 - Cherry Sunburst
 9808930505033;833.36;20;EUR;1;Ibanez EKM10T-WRD-12-01 2014 - Wine Red
@@ -534,7 +532,6 @@ product_code;price_gross;vat;currency;stock;name
 9997848248649;1943.99;20;EUR;1;Rickenbacker 230/6 1985 - Black
 10159383150921;139.31;20;EUR;1;Rocktile Akustikgitarre - Black
 10240743735625;145.79;20;EUR;1;Rocktile Pro MM250-MB - Dark Blue
-10136298029385;485.99;20;EUR;1;S by Solar Flying V - Black
 10247168885065;145.79;20;EUR;1;Santander Semi-Hollow - White
 9914132496713;748.43;20;EUR;1;Schecter Banshee GT FR 2022 - Satin Trans Blue
 10067555352905;615.59;20;EUR;1;Schecter Damien Elite FR 2014 - Crimson Red
