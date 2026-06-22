@@ -90,6 +90,7 @@ product_code;price_gross;vat;currency;stock;name
 10159356019017;738.71;20;EUR;1;Epiphone Flying V 2000 - Natural
 10249114812745;777.59;20;EUR;1;Epiphone Flying V 2001 - Black
 10231388701001;874.79;20;EUR;1;Epiphone Flying V 2006 - Korina Natural
+10220148916553;485.99;20;EUR;1;Epiphone Joan Jett Signature Olympic Special Guitar 2023 - White
 10152869593417;1652.39;20;EUR;1;Epiphone Kiss Tommy Thayer Signature Explorer 2017 - White Lightning
 10220083183945;680.39;20;EUR;1;Epiphone Les Paul 1993 - Tobacco Burst
 10240733675849;583.19;20;EUR;1;Epiphone Les Paul Custom EMG 2010 - Ebony
@@ -162,7 +163,6 @@ product_code;price_gross;vat;currency;stock;name
 10033161535817;1662.11;20;EUR;1;Fender American Deluxe Telecaster 2002 - Cherry Sunburst
 10016034488649;1477.43;20;EUR;1;Fender American Professional II Telecaster 2021 - Red
 10220198429001;1360.79;20;EUR;1;Fender American Standard Stratocaster 1994 - Vintage White
-10240738558281;1166.39;20;EUR;1;Fender American Standard Stratocaster 1997 - Candy Apple Red
 10220182634825;2429.99;20;EUR;1;Fender American Stratocaster 1979 - Natural
 9997845135689;2915.99;20;EUR;1;Fender American Stratocaster 1982 - Sunburst
 10067498500425;2159.99;20;EUR;1;Fender American Vintage Dave Murray Signature Stratocaster 2008 - Black
@@ -205,7 +205,6 @@ product_code;price_gross;vat;currency;stock;name
 10016150716745;1477.43;20;EUR;1;Fender Japan 66’ Reissue Jaguar 2004-2005 - Sunburst
 10231531045193;1263.59;20;EUR;1;Fender Japan 69 Reissue Mustang 1995-1996 - Vintage White
 10249153872201;1166.39;20;EUR;1;Fender Japan 72 Reissue Stratocaster ST72-86DSC 2006-2008 - Vintage White
-10104279368009;790.55;20;EUR;1;Fender Japan 72´ Reissue Telecaster 1993-1994 - Candy Apple Red Repaint - Vintage
 10091497881929;831.59;20;EUR;1;Fender Japan 72´ Reissue Telecaster 1993-1994 - Natural - Vintage
 10067753763145;790.55;20;EUR;1;Fender Japan 72’ Reissue Telecaster 1997-2000 - Off White Blonde
 10236555952457;1166.39;20;EUR;1;Fender Japan CHAR-MG 69 Reissue Mustang 2019 - Olympic White
@@ -528,7 +527,6 @@ product_code;price_gross;vat;currency;stock;name
 10240933921097;680.39;20;EUR;1;PRS SE Standard 2005 - Camo
 10230962717001;874.79;20;EUR;1;PRS SE Zach Myers Signature 2010 - Royal Blue
 10181841191241;1385.63;20;EUR;1;PRS USA S2 Mira 2014 - Vintage Cherry
-10240743014729;291.59;20;EUR;1;Rapier 33 2012 - Daphne Blue
 9997848248649;1943.99;20;EUR;1;Rickenbacker 230/6 1985 - Black
 10159383150921;139.31;20;EUR;1;Rocktile Akustikgitarre - Black
 10240743735625;145.79;20;EUR;1;Rocktile Pro MM250-MB - Dark Blue
