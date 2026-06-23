@@ -89,10 +89,10 @@ product_code;price_gross;vat;currency;stock;name
 10159356019017;738.71;20;EUR;1;Epiphone Flying V 2000 - Natural
 10249114812745;777.59;20;EUR;1;Epiphone Flying V 2001 - Black
 10231388701001;874.79;20;EUR;1;Epiphone Flying V 2006 - Korina Natural
+10108768551241;831.59;20;EUR;1;Epiphone Japan Les Paul 1996 - Fotoflame
 10220148916553;485.99;20;EUR;1;Epiphone Joan Jett Signature Olympic Special Guitar 2023 - White
 10152869593417;1652.39;20;EUR;1;Epiphone Kiss Tommy Thayer Signature Explorer 2017 - White Lightning
 10220083183945;680.39;20;EUR;1;Epiphone Les Paul 1993 - Tobacco Burst
-10240733675849;583.19;20;EUR;1;Epiphone Les Paul Custom EMG 2010 - Ebony
 10231407247689;1166.39;20;EUR;1;Epiphone Les Paul Custom Peter Frampton Signature 2018 - Ebony
 10118152159561;439.55;20;EUR;1;Epiphone Les Paul Junior 2009 - White
 9890352824649;375.83;20;EUR;1;Epiphone Les Paul Junior 57’ Reissue 2011 - Yellow
@@ -254,7 +254,6 @@ product_code;price_gross;vat;currency;stock;name
 10199419617609;600.47;20;EUR;1;Fender Mexico Stratocaster 1995 - Vintage White
 10240959152457;680.39;20;EUR;1;Fender Mexico Stratocaster 1998 - Black
 10146546319689;1292.75;20;EUR;1;Fender MJT 50s Reissue Telecaster - Dakota Red - Heavy Relic
-10169725321545;1154.51;20;EUR;1;Fender MJT 60s Reissue Stratocaster - Shell Pink - Heavy Relic
 10124582388041;1247.39;20;EUR;1;Fender MJT 62 Reissue Stratocaster - Sonic Blue - Heavy Relic
 9903118680393;3887.99;20;EUR;1;Fender Mustang 1973 - Sunburst
 10047131386185;738.71;20;EUR;1;Fender Squier 51 Strat/Tele Hybrid - Butterscotch Blonde
@@ -431,7 +430,6 @@ product_code;price_gross;vat;currency;stock;name
 9820897640777;1069.19;20;EUR;1;Ibanez SRMS720 Bass 2024 - Blue Chameleon
 10103767335241;1943.99;20;EUR;1;Ibanez Studio Bass ST924 1979 - Natural
 9903191916873;291.59;20;EUR;1;Ibanez Talman TCY10LE-BLK Lefthand 2021 - Black
-10240742195529;971.99;20;EUR;1;Ibanez Talman TM1803M 2016 - Sunburst
 9786540851529;510.83;20;EUR;1;Ibanez Talman TM71T 2002 - Jewel Blue
 9821268476233;11080.79;20;EUR;1;Ibanez Universe UV77MC Steve Vai Signature 1991 - Multicolor
 10118105104713;615.59;20;EUR;1;Ibanez Xiphos XP300 2010 - Black
@@ -488,6 +486,7 @@ product_code;price_gross;vat;currency;stock;name
 10236572533065;1166.39;20;EUR;1;Orville by Gibson Les Paul Custom 1990 - Ebony
 10220022169929;874.79;20;EUR;1;Orville by Gibson Les Paul Standard 1989 - Cherry Sunburst
 9831303086409;866.15;20;EUR;1;Orville Gibson LPS Les Paul Standard 1990 - Heritage Cherry Sunburst
+9851276427593;748.43;20;EUR;1;Orville Gibson LPS Les Paul Standard 1993 - Heritage Cherry Sunburst - Fotoflame
 9820954100041;962.27;20;EUR;1;Orville Gibson SG 1990 - Ebony
 10240971800905;971.99;20;EUR;1;Orville Les Paul - Ebony
 10141863477577;831.59;20;EUR;1;Orville Les Paul 1989-1993 - Cherry Sunburst - Vintage Japan
