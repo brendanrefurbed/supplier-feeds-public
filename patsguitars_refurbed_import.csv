@@ -5,7 +5,6 @@ product_code;price_gross;vat;currency;stock;name
 9692662759753;874.79;20;EUR;1;Ampete Two Head 20W
 10227884982601;777.59;20;EUR;1;Anime Girls Guitar - Pink
 10209948467529;194.39;20;EUR;1;AnyGig Travel Guitar 2018 - Black
-10169730662729;231.11;20;EUR;1;Aria 12-String Akustikgitarre - Natural
 9851346452809;524.87;20;EUR;1;Aria Japan Stratocaster 1970s - Natural
 10088560525641;738.71;20;EUR;1;Aria Pro II Les Paul Custom 1979 - Heritage Cherry Sunburst
 9729057751369;1108.07;20;EUR;1;Aria Pro II PE-140 1976 - Mahogany
@@ -306,6 +305,7 @@ product_code;price_gross;vat;currency;stock;name
 10231417012553;2915.99;20;EUR;1;Gibson Memphis Custom Shop ES-275 2016 - Cherry Red
 10236615328073;1749.59;20;EUR;1;Gibson SG II 1970-1972 MOD - Brown
 10240976879945;1166.39;20;EUR;1;Gibson SG Standard 2007 - Heritage Cherry
+10220092490057;874.79;20;EUR;1;Gibson SGJ 2013 - Trans White
 10091535728969;7775.99;20;EUR;1;Gibson Thunderbird II Bass 1964 – Alembic Custom 1976 – Tree of Life – Ember Red
 10199291986249;971.99;20;EUR;1;Gitane DG-250M - Natural
 10108285387081;17.27;20;EUR;1;Gitarrenkarton 1180×475×165 mm – Doppelwelliger Versandkarton für Gitarren
@@ -470,7 +470,6 @@ product_code;price_gross;vat;currency;stock;name
 10199183327561;1385.63;20;EUR;1;Mesa Boogie Mini Rectifier Twenty Five - 100V - Japan Model
 9692664168777;4590.0;20;EUR;1;Mesa Boogie MK1 1x12 King Snake Santana Signature 2014 - 190/300
 9729058144585;874.79;20;EUR;1;Michael Kelly Custom Collection Patriot Instinct 2021 - Scorched
-10169740525897;512.99;20;EUR;1;MJT Aged Relic Nitro Jaguar Body - Sunburst
 10169736462665;512.99;20;EUR;1;MJT Aged Relic Nitro Jazzmaster Body - Vintage White
 10240973799753;777.59;20;EUR;1;Mosrite Avenger - Cherry Red
 10249266921801;874.79;20;EUR;1;Mosrite The Ventures Model - Vintage White
@@ -579,6 +578,7 @@ product_code;price_gross;vat;currency;stock;name
 9948765520201;665.27;20;EUR;1;Tokai JB50 Jazz Bass 1982 - Metallic Red
 9948779741513;498.95;20;EUR;1;Tokai LBX50 Electric Bass 1984 - Metallic Red
 9948779413833;498.95;20;EUR;1;Tokai LBX50 Electric Bass 1984 - White
+10249088827721;971.99;20;EUR;1;Tokai LC-60 Les Paul Custom 1981 - Ebony
 9961976103241;583.19;20;EUR;1;Tokai Love Rock ALS80 Les Paul 2012 - Sparkle
 10015980224841;831.59;20;EUR;1;Tokai Love Rock ALS94T Les Paul 2023 - Goldtop
 9925408817481;824.03;20;EUR;1;Tokai Love Rock Les Paul 1994 - Cherry Sunburst
@@ -601,7 +601,6 @@ product_code;price_gross;vat;currency;stock;name
 10247178355017;291.59;20;EUR;1;Tokai Silver Star Stratocaster Scalloped 1981 - Defekt
 9949031498057;748.43;20;EUR;1;Tokai Springy Sound VS80 1981 - Amber Burst
 9949035102537;665.27;20;EUR;1;Tokai SS50 Silver Star Stratocaster 1983 - Black
-10117179867465;646.91;20;EUR;1;Tokai Stratocaster Custom Edition - Black
 9948801466697;665.27;20;EUR;1;Tokai Talbo Blazing Fire 1984 - Aluminium
 10080918176073;701.99;20;EUR;1;Tokai Telecaster Breezysound Lefthand 2010 - Vintage White
 10209921794377;874.79;20;EUR;1;Trinity by Relish - Metallic Blue
