@@ -74,7 +74,7 @@ product_code;price_gross;vat;currency;stock;name
 10249312895305;680.39;20;EUR;1;EDWARDS by ESP E-RA-110HR ROUAGE RAYZI
 9722252329289;345.59;20;EUR;1;Edwards by ESP E-RS-32M Mini Random Star 1990s - White - Vintage Japan
 10236570206537;1360.79;20;EUR;1;Edwards E-ALEXI Sawtooth 2007 - Black
-9729078624585;1457.99;20;EUR;1;Eko Ekomaster 400 V4 1960 - Blue Sparkle
+9729078624585;1457.99;20;EUR;1;Eko Ekomaster 400 1960 - Blue Sparkle
 10231539204425;97.19;20;EUR;1;Electro Harmonix Bass Mono Synth Effect Pedal
 10169740624201;184.67;20;EUR;1;Electro Harmonix C9 Organ Machine 2021 Effect Pedal
 9974436364617;1330.55;20;EUR;1;Epiphone 1963 Firebird V Vibrola Maestro 2024 - Frost Blue
@@ -205,7 +205,6 @@ product_code;price_gross;vat;currency;stock;name
 10091497881929;831.59;20;EUR;1;Fender Japan 72´ Reissue Telecaster 1993-1994 - Natural - Vintage
 10067753763145;790.55;20;EUR;1;Fender Japan 72’ Reissue Telecaster 1997-2000 - Off White Blonde
 10236555952457;1166.39;20;EUR;1;Fender Japan CHAR-MG 69 Reissue Mustang 2019 - Olympic White
-9989287117129;1081.07;20;EUR;1;Fender Japan CHAR-MG 69‘ Reissue Mustang 2019 - Olympic White
 10047126995273;923.39;20;EUR;1;Fender Japan Classic 70s Telecaster 2016 - Blue
 10091346198857;831.59;20;EUR;1;Fender Japan CTL-50M 72´ Reissue Telecaster 1992-1993 - Black - Vintage
 10231534420297;874.79;20;EUR;1;Fender Japan Jazz Bass Special 1991-1992 - Black
@@ -309,6 +308,7 @@ product_code;price_gross;vat;currency;stock;name
 10110450008393;46.43;20;EUR;1;Gitarrenkarton 3er Set 1180×475×165 mm – Doppelwellige Versandkartons
 10110450106697;70.19;20;EUR;1;Gitarrenkarton 5er Set 1180×475×165 mm – Doppelwellige Versandkartons
 10176875004233;777.59;20;EUR;1;Godin 5th Avenue Kingpin P90 - Cognac Burst
+10236614213961;874.79;20;EUR;1;Godin A6 Ultra 2009 - Cognac Burst
 10193203233097;1154.51;20;EUR;1;Godin L. R. Baggs Acousticaster - Tobacco Burst
 10108716384585;680.39;20;EUR;1;Godin LG 2002 - Red Burst
 10016056738121;554.03;20;EUR;1;Grass Roots ESP Forest FR-GT-SH
@@ -364,7 +364,6 @@ product_code;price_gross;vat;currency;stock;name
 10164844560713;462.23;20;EUR;1;Greco VB Violin Bass 1970s - Sunburst
 9831293387081;524.87;20;EUR;1;Greco VB Violin Bass 1970s - Vintage Sunburst
 10240952271177;680.39;20;EUR;1;Gretsch G5420T 2017 - Orange
-9808904782153;833.36;20;EUR;1;Gretsch G5420TG 2018 - Orange
 10231381426505;2138.39;20;EUR;1;Gretsch G6129TL 2010 - Jet Light Blue Pearl
 10227918635337;1943.99;20;EUR;1;Gretsch G6228FM Jet Players Edition 2018 - Crimson Stain
 10152898527561;738.71;20;EUR;1;Grover Jackson Flying V - Silver Sparkle
@@ -495,6 +494,7 @@ product_code;price_gross;vat;currency;stock;name
 10118158582089;790.55;20;EUR;1;Orville LPS Les Paul Standard - Cherry Sunburst
 10092445761865;831.59;20;EUR;1;Orville LPS Les Paul Standard 1990 - Cherry Sunburst
 10152860811593;831.59;20;EUR;1;Orville LPS Les Paul Standard 1990 - Cherry Sunburst
+10152855634249;826.19;20;EUR;1;Orville LPS Les Paul Standard 1995 - Lemon Drop
 10080664650057;1052.99;20;EUR;1;Orville LPS Les Paul Standard 1996 - Quilt Top
 10249355198793;874.79;20;EUR;1;Orville LPS-75 Les Paul 1990 - Cherry Sunburst
 10240731119945;777.59;20;EUR;1;Orville SG 1990 - Ebony
@@ -521,7 +521,6 @@ product_code;price_gross;vat;currency;stock;name
 10240933921097;680.39;20;EUR;1;PRS SE Standard 2005 - Camo
 10230962717001;874.79;20;EUR;1;PRS SE Zach Myers Signature 2010 - Royal Blue
 10181841191241;1385.63;20;EUR;1;PRS USA S2 Mira 2014 - Vintage Cherry
-9997848248649;1943.99;20;EUR;1;Rickenbacker 230/6 1985 - Black
 10159383150921;139.31;20;EUR;1;Rocktile Akustikgitarre - Black
 10240743735625;145.79;20;EUR;1;Rocktile Pro MM250-MB - Dark Blue
 10247168885065;145.79;20;EUR;1;Santander Semi-Hollow - White
@@ -593,7 +592,6 @@ product_code;price_gross;vat;currency;stock;name
 10199307288905;738.71;20;EUR;1;Tokai Silver Star Stratocaster 1982 - Black
 10240937951561;777.59;20;EUR;1;Tokai Silver Star Stratocaster 1983 - Candy Apple Red
 10240717521225;777.59;20;EUR;1;Tokai Silver Star Stratocaster 1984 - Vintage White
-10247178355017;291.59;20;EUR;1;Tokai Silver Star Stratocaster Scalloped 1981 - Defekt
 9949031498057;748.43;20;EUR;1;Tokai Springy Sound VS80 1981 - Amber Burst
 9949035102537;665.27;20;EUR;1;Tokai SS50 Silver Star Stratocaster 1983 - Black
 9948801466697;665.27;20;EUR;1;Tokai Talbo Blazing Fire 1984 - Aluminium
