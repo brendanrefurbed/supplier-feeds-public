@@ -48,7 +48,6 @@ product_code;price_gross;vat;currency;stock;name
 10033162322249;728.99;20;EUR;1;Charvel by Jackson Model 3 HSS - White
 10016042320201;646.91;20;EUR;1;Charvel by Jackson Superstrat - Red
 9786414203209;320.75;20;EUR;1;Charvel by Jackson Superstrat 2001 - Blue Burst
-9861346361673;300.23;20;EUR;1;Charvel by Jackson Superstrat HSS  - Black
 10111504253257;527.03;20;EUR;1;Charvel Desolation DS-1 ST - Black
 10220188959049;874.79;20;EUR;1;Charvel Pro-Mod So Cal 2013 - Red
 9903219376457;375.83;20;EUR;1;Charvel Refinement Les Paul 2011 - Silver
@@ -93,6 +92,7 @@ product_code;price_gross;vat;currency;stock;name
 10220148916553;485.99;20;EUR;1;Epiphone Joan Jett Signature Olympic Special Guitar 2023 - White
 10152869593417;1652.39;20;EUR;1;Epiphone Kiss Tommy Thayer Signature Explorer 2017 - White Lightning
 10220083183945;680.39;20;EUR;1;Epiphone Les Paul 1993 - Tobacco Burst
+10240733675849;583.19;20;EUR;1;Epiphone Les Paul Custom EMG 2010 - Ebony
 10231407247689;1166.39;20;EUR;1;Epiphone Les Paul Custom Peter Frampton Signature 2018 - Ebony
 10118152159561;439.55;20;EUR;1;Epiphone Les Paul Junior 2009 - White
 9890352824649;375.83;20;EUR;1;Epiphone Les Paul Junior 57’ Reissue 2011 - Yellow
@@ -104,7 +104,6 @@ product_code;price_gross;vat;currency;stock;name
 10111333466441;439.55;20;EUR;1;Epiphone Les Paul Tribute 2025 - Cherry Sunburst
 10230958621001;1555.19;20;EUR;1;Epiphone Ltd Ed Tony Iommi Signature SG Custom 2017 - Ebony
 10249083552073;874.79;20;EUR;1;Epiphone MKH Origins Custom Les Paul Matt Heafy Signature 2025 - Ebony
-9668037607753;289.43;20;EUR;1;Epiphone Mo’Baby 1999 - Yellow
 9937242030409;1457.99;20;EUR;1;Epiphone SC-450 Scroll 1978 - Natural
 10111500157257;527.03;20;EUR;1;Epiphone SG 2005 - Heritage Cherry
 10118132859209;439.55;20;EUR;1;Epiphone SG Bigsby 2007 - Red
@@ -174,7 +173,6 @@ product_code;price_gross;vat;currency;stock;name
 10111485411657;4859.99;20;EUR;1;Fender Custom Shop ’63 Stratocaster Journeyman Relic HSS 2023 - Candy Apple Red
 10111492456777;4859.99;20;EUR;1;Fender Custom Shop ’63 Stratocaster Relic MBD 2023 - Candy Apple Red
 10240964886857;777.59;20;EUR;1;Fender Deluxe Powerhouse Stratocaster 1998 - Lake Placid Blue
-10080692830537;615.59;20;EUR;1;Fender Duo Sonic 2019 - Seafoam Green
 10088462418249;1385.63;20;EUR;1;Fender Eric Clapton Signature Stratocaster 2001 - Blackie
 10008564629833;646.91;20;EUR;1;Fender FR50CE Resonator 2012 - Sunburst
 10033144365385;161.99;20;EUR;1;Fender Frontman 15G Transistor Verstärker
@@ -491,7 +489,6 @@ product_code;price_gross;vat;currency;stock;name
 10240971800905;971.99;20;EUR;1;Orville Les Paul - Ebony
 10141863477577;831.59;20;EUR;1;Orville Les Paul 1989-1993 - Cherry Sunburst - Vintage Japan
 10240927924553;777.59;20;EUR;1;Orville Les Paul 1990 - Ebony
-9861428117833;599.39;20;EUR;1;Orville Les Paul Junior DC
 10111336644937;790.55;20;EUR;1;Orville Les Paul Standard 1990 - Cherry Sunburst
 10016076792137;923.39;20;EUR;1;Orville Les Paul Standard 1990 - Heritage Cherry Sunburst
 10091508597065;831.59;20;EUR;1;Orville LPC Les Paul Custom 1997 - Ebony
@@ -516,7 +513,6 @@ product_code;price_gross;vat;currency;stock;name
 10231389749577;1457.99;20;EUR;1;PRS S2 Standard 22 - Antique White
 10197938897225;831.59;20;EUR;1;PRS SE Chris Robertson Signature 2016 - Kentucky Blueburst
 10209927364937;693.35;20;EUR;1;PRS SE Custom 22 2007 - Transparent Black
-10176874479945;646.91;20;EUR;1;PRS SE Custom 24 2009 - Bat Inlays - Trans Black
 10211613737289;785.15;20;EUR;1;PRS SE Custom 24 2012 - Cherry Red
 10067502039369;971.99;20;EUR;1;PRS SE Hollowbody Standard 2021 - Fire Red Burst
 10236613230921;874.79;20;EUR;1;PRS SE Kestrel Bass 2017 - Sunburst
