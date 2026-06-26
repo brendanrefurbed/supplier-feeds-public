@@ -193,7 +193,6 @@ product_code;price_gross;vat;currency;stock;name
 10111488753993;790.55;20;EUR;1;Fender Japan 62´ Reissue Stratocaster 1984-1987 - Sunburst - Vintage
 10067530219849;790.55;20;EUR;1;Fender Japan 62’ Reissue Stratocaster 1999-2002 - Sunburst
 10067747569993;790.55;20;EUR;1;Fender Japan 62’ Reissue Stratocaster 2002-2004 - Sunburst
-10057518481737;965.51;20;EUR;1;Fender Japan 62’ Reissue Telecaster 2006-2008 - Black
 10136377360713;1385.63;20;EUR;1;Fender Japan 66 Reissue Jaguar 2006-2008 - Sunburst
 10016150716745;1477.43;20;EUR;1;Fender Japan 66’ Reissue Jaguar 2004-2005 - Sunburst
 10231531045193;1263.59;20;EUR;1;Fender Japan 69 Reissue Mustang 1995-1996 - Vintage White
@@ -253,9 +252,12 @@ product_code;price_gross;vat;currency;stock;name
 10254411268425;680.39;20;EUR;1;Fender Precision Bass 2018 - Red
 10047131386185;738.71;20;EUR;1;Fender Squier 51 Strat/Tele Hybrid - Butterscotch Blonde
 10125910671689;2309.03;20;EUR;1;Fender Stevie Ray Vaughan Signature Stratocaster 2003 - Sunburst
+10255399420233;2915.99;20;EUR;1;Fender Telecaster 1975 - Natural
 9692652437833;2429.99;20;EUR;1;Fender Telecaster 1976 - Vintage White
+10255403417929;3110.39;20;EUR;1;Fender Telecaster 1979 - White Blonde
 10092544688457;615.59;20;EUR;1;Fender Telecoustic 2000 - Candy Apple Red
 10136243863881;646.91;20;EUR;1;Fender Telecoustic 2014 - Flame Maple Sunburst
+10255390474569;971.99;20;EUR;1;Fender Tom Delonge Signature Stratocaster 2023 - Daphne Blue
 10146526724425;1749.59;20;EUR;1;Fender USA Jazz Bass 1983 - Black
 10136285479241;2770.19;20;EUR;1;Fender USA Precision Bass 1975 - Sunburst
 10023442415945;6317.99;20;EUR;1;Fender USA Telecaster 1968 - Natural
@@ -282,6 +284,7 @@ product_code;price_gross;vat;currency;stock;name
 10053109285193;2309.03;20;EUR;1;Gibson Les Paul Classic 1960 2006 - Honey Fade
 10228063895881;1749.59;20;EUR;1;Gibson Les Paul Classic 2015 - Vintage Sunburst
 10033181557065;2770.19;20;EUR;1;Gibson Les Paul Custom Shop 1998 - Catalina Red
+10255401746761;3401.99;20;EUR;1;Gibson Les Paul Deluxe 1980 - Natural
 10091978129737;1316.51;20;EUR;1;Gibson Les Paul Junior 2010 - TV Yellow
 10141672898889;1200.95;20;EUR;1;Gibson Les Paul Special 2005 - Faded Cherry
 10231535763785;1263.59;20;EUR;1;Gibson Les Paul Special 2005 - Faded Yellow
@@ -290,6 +293,7 @@ product_code;price_gross;vat;currency;stock;name
 10231420584265;1166.39;20;EUR;1;Gibson Les Paul Special Tribute 2021 - Faded Black
 9704996995401;2186.99;20;EUR;1;Gibson Les Paul Standard 1992 - Ebony
 10231419732297;2138.39;20;EUR;1;Gibson Les Paul Standard 1993 - Ebony
+10255400993097;1943.99;20;EUR;1;Gibson Les Paul Standard 1999 - Cherry Sunburst
 10185962914121;1662.11;20;EUR;1;Gibson Les Paul Standard 1999 - Ebony
 10136423498057;2031.47;20;EUR;1;Gibson Les Paul Standard DC 2001 - Trans Red
 10236528886089;2138.39;20;EUR;1;Gibson Les Paul Standard DC Plus 2005 - Amber
@@ -449,7 +453,6 @@ product_code;price_gross;vat;currency;stock;name
 10104025678153;790.55;20;EUR;1;Kramer Volante HHFR 2024 - Defender Red
 10220496060745;1943.99;20;EUR;1;Lake Placid Custom by Andre Waldenmaier HSS Floyd Rose 1995 - See Thru Green
 9925435523401;2429.99;20;EUR;1;Lakewood M-20 Custom Grand Concert 2024 - Natural
-10186069672265;369.35;20;EUR;1;Maestro by Gibson Les Paul 2012 - Cherry Sunburst
 10099292275017;462.23;20;EUR;1;Maestro by Gibson Les Paul 2013 - Red
 10240945226057;485.99;20;EUR;1;Maestro by Gibson SG 2014 - Cherry Red
 10105098076489;3887.99;20;EUR;1;Marshall JCM800 2203 MKII 100W + 1960A 4x12 Cabinet – 1995 Limited Edition Red Stack
