@@ -74,9 +74,11 @@ product_code;price_gross;vat;currency;stock;name
 10231383753033;1020.59;20;EUR;1;Duesenberg Starplayer DJP-SP 2001 - Black
 10249312895305;680.39;20;EUR;1;EDWARDS by ESP E-RA-110HR ROUAGE RAYZI
 9722252329289;345.59;20;EUR;1;Edwards by ESP E-RS-32M Mini Random Star 1990s - White - Vintage Japan
+10255388148041;874.79;20;EUR;1;Edwards by ESP Sugizo Prince ES-150 - Vintage White
 10236570206537;1360.79;20;EUR;1;Edwards E-ALEXI Sawtooth 2007 - Black
 9729078624585;1457.99;20;EUR;1;Eko Ekomaster 400 1960 - Blue Sparkle
 10231539204425;97.19;20;EUR;1;Electro Harmonix Bass Mono Synth Effect Pedal
+10255396733257;777.59;20;EUR;1;Epiphone 1959 Les Paul Standard - Cherry Sunburst
 9974436364617;1330.55;20;EUR;1;Epiphone 1963 Firebird V Vibrola Maestro 2024 - Frost Blue
 10211494068553;600.47;20;EUR;1;Epiphone 56 Reissue Les Paul Pro 2014 - Gold Top
 10199380099401;878.03;20;EUR;1;Epiphone 58 Korina Flying V 2018 - Natural
@@ -195,8 +197,11 @@ product_code;price_gross;vat;currency;stock;name
 10067747569993;790.55;20;EUR;1;Fender Japan 62’ Reissue Stratocaster 2002-2004 - Sunburst
 10136377360713;1385.63;20;EUR;1;Fender Japan 66 Reissue Jaguar 2006-2008 - Sunburst
 10016150716745;1477.43;20;EUR;1;Fender Japan 66’ Reissue Jaguar 2004-2005 - Sunburst
+10255393194313;1166.39;20;EUR;1;Fender Japan 69 Reissue Mustang 1984-1987 - Vintage White
+10255387263305;1166.39;20;EUR;1;Fender Japan 69 Reissue Mustang 1994-1995 - Vintage White
 10231531045193;1263.59;20;EUR;1;Fender Japan 69 Reissue Mustang 1995-1996 - Vintage White
 10254425227593;1166.39;20;EUR;1;Fender Japan 69 Reissue Mustang 1997-2000 - Surf Green
+10255385329993;971.99;20;EUR;1;Fender Japan 72 Reissue Stratocaster 1997-2000 - Black
 10249153872201;1166.39;20;EUR;1;Fender Japan 72 Reissue Stratocaster ST72-86DSC 2006-2008 - Vintage White
 10067753763145;790.55;20;EUR;1;Fender Japan 72’ Reissue Telecaster 1997-2000 - Off White Blonde
 10236555952457;1166.39;20;EUR;1;Fender Japan CHAR-MG 69 Reissue Mustang 2019 - Olympic White
@@ -367,6 +372,8 @@ product_code;price_gross;vat;currency;stock;name
 10117154996553;738.71;20;EUR;1;Greco Super Sounds Stratocaster SE380 1979 - Sunburst
 10164844560713;462.23;20;EUR;1;Greco VB Violin Bass 1970s - Sunburst
 9831293387081;524.87;20;EUR;1;Greco VB Violin Bass 1970s - Vintage Sunburst
+10255394308425;2721.59;20;EUR;1;Gretsch 6120DE Duane Eddy Signature 1997 - Ebony Burst
+10255402205513;485.99;20;EUR;1;Gretsch G5420T 2016 - Fairlane Blue
 10240952271177;680.39;20;EUR;1;Gretsch G5420T 2017 - Orange
 10254424244553;1943.99;20;EUR;1;Gretsch G6119 Chet Atkins Tennessee Rose 2007 - Dark Cherry
 10231381426505;2138.39;20;EUR;1;Gretsch G6129TL 2010 - Jet Light Blue Pearl
@@ -393,6 +400,7 @@ product_code;price_gross;vat;currency;stock;name
 10126045675849;231.11;20;EUR;1;Harley Benton Piezo Stratocaster - Sunburst
 10240953811273;777.59;20;EUR;1;Höfner 173 - Vinyl White
 9751180771657;415.52;20;EUR;1;Höfner 520 1960s
+10255402762569;583.19;20;EUR;1;Höfner Colorama Classic - Cherry Red
 9914113950025;880.19;20;EUR;1;Höfner Super Solid 173 - Vinyl White
 10136366580041;971.99;20;EUR;1;Ibanez 2375 Vintage Japan Stratocaster 1970s - Sunburst
 10136357863753;1457.99;20;EUR;1;Ibanez 2375N Vintage Japan Stratocaster 1970s - Natural
@@ -494,8 +502,10 @@ product_code;price_gross;vat;currency;stock;name
 10240971800905;971.99;20;EUR;1;Orville Les Paul - Ebony
 10141863477577;831.59;20;EUR;1;Orville Les Paul 1989-1993 - Cherry Sunburst - Vintage Japan
 10240927924553;777.59;20;EUR;1;Orville Les Paul 1990 - Ebony
+10141697212745;971.99;20;EUR;1;Orville Les Paul 1993 - Foto Flame - Vintage Japan
 10111336644937;790.55;20;EUR;1;Orville Les Paul Standard 1990 - Cherry Sunburst
 10016076792137;923.39;20;EUR;1;Orville Les Paul Standard 1990 - Heritage Cherry Sunburst
+10123536728393;874.79;20;EUR;1;Orville Les Paul Standard 1993 - Fotoflame - Cherry Sunburst
 10091508597065;831.59;20;EUR;1;Orville LPC Les Paul Custom 1997 - Ebony
 10118158582089;790.55;20;EUR;1;Orville LPS Les Paul Standard - Cherry Sunburst
 10092445761865;831.59;20;EUR;1;Orville LPS Les Paul Standard 1990 - Cherry Sunburst
