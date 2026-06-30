@@ -189,10 +189,10 @@ product_code;price_gross;vat;currency;stock;name
 10016150716745;1477.43;20;EUR;1;Fender Japan 66’ Reissue Jaguar 2004-2005 - Sunburst
 10255393194313;1166.39;20;EUR;1;Fender Japan 69 Reissue Mustang 1984-1987 - Vintage White
 10256653353289;1263.59;20;EUR;1;Fender Japan 69 Reissue Mustang 1989-1990 Vintage White
-10256710041929;1263.59;20;EUR;1;Fender Japan 69 Reissue Mustang 1993-1994 - Heavy Relic Vintage White
 10255387263305;1166.39;20;EUR;1;Fender Japan 69 Reissue Mustang 1994-1995 - Vintage White
 10256743563593;1263.59;20;EUR;1;Fender Japan 69 Reissue Mustang 1995-1996 - Candy Apple Red
 10254425227593;1166.39;20;EUR;1;Fender Japan 69 Reissue Mustang 1997-2000 - Surf Green
+10256710041929;1263.59;20;EUR;1;Fender Japan 69 Reissue Mustang 1999-2002 - Heavy Relic Vintage White
 10255385329993;971.99;20;EUR;1;Fender Japan 72 Reissue Stratocaster 1997-2000 - Black
 10249153872201;1166.39;20;EUR;1;Fender Japan 72 Reissue Stratocaster ST72-86DSC 2006-2008 - Vintage White
 10067753763145;790.55;20;EUR;1;Fender Japan 72’ Reissue Telecaster 1997-2000 - Off White Blonde
@@ -318,7 +318,6 @@ product_code;price_gross;vat;currency;stock;name
 10256756506953;680.39;20;EUR;1;Greco EG Les Paul 1970s - Ebony
 10249089777993;874.79;20;EUR;1;Greco EG Les Paul 1976 - Cherry Sunburst
 10240956203337;777.59;20;EUR;1;Greco EG Les Paul 1978 - Cherry Sunburst
-10254422704457;777.59;20;EUR;1;Greco EG Les Paul Custom 1990s - Ebony
 10067711394121;790.55;20;EUR;1;Greco EG Les Paul Standard 1978 - Cherry Sunburst
 10104292901193;790.55;20;EUR;1;Greco EG Les Paul Standard 1980 - Sunburst - Vintage Japan
 10256772202825;777.59;20;EUR;1;Greco EG Les Paul Standard 1980s - Cherry Sunburst
@@ -348,11 +347,10 @@ product_code;price_gross;vat;currency;stock;name
 10104295817545;790.55;20;EUR;1;Greco Les Paul Bolt on H.K. 1970s - Cherry Sunburst
 10091440341321;874.79;20;EUR;1;Greco Les Paul Standard 1977 - Tobacco Burst
 10136076747081;923.39;20;EUR;1;Greco Les Paul Standard 1978 - Ebony
-10080845889865;790.55;20;EUR;1;Greco Les Paul Standard 1979 - Tobacco Sunburst
+10080845889865;790.55;20;EUR;1;Greco Les Paul Standard 1978 - Tobacco Sunburst
 10254410219849;680.39;20;EUR;1;Greco Matsumoku Electric Jazz Bass 1970s - Natural
 10123548164425;738.71;20;EUR;1;Greco Matsumoku Stratocaster 1970s - Sunburst
 10249162326345;777.59;20;EUR;1;Greco SE-380 Super Sounds Stratocaster 1979 - Sunburst
-9961966698825;583.19;20;EUR;1;Greco SE380 Super Power Stratocaster 1980 - Sunburst
 10091491524937;583.19;20;EUR;1;Greco SE450 Scalloped Stratocaster 1980 - Black
 10256747823433;874.79;20;EUR;1;Greco SG SS63-60 Mint Collection 1990s - Vintage White
 9574622200137;575.63;20;EUR;1;Greco SS-600 1990s - Heritage Cherry
@@ -401,7 +399,6 @@ product_code;price_gross;vat;currency;stock;name
 10033171530057;777.59;20;EUR;1;Ibanez Concord Akustik 684-12E 1974-1978 - Cherry Sunburst
 9808930505033;833.36;20;EUR;1;Ibanez EKM10T-WRD-12-01 2014 - Wine Red
 9903021883721;388.79;20;EUR;1;Ibanez EX Series EX170L Lefthand 1993 - Black
-10236561457481;1943.99;20;EUR;1;Ibanez GB10 George Benson Signature 1983 - Sunburst
 10231359471945;1263.59;20;EUR;1;Ibanez Iceman ICT700 2008 - Black
 10249198829897;1263.59;20;EUR;1;Ibanez Iceman ICT700 2008 - Black
 10212550443337;874.79;20;EUR;1;Ibanez JEM555 Steve Vai Signature - White
@@ -552,7 +549,6 @@ product_code;price_gross;vat;currency;stock;name
 10136413798729;728.99;20;EUR;1;Squier Hello Kitty Edition Mini Stratocaster 2006 - Pink
 10216755495241;3110.39;20;EUR;1;Suhr Classic Antique Pro - 3T Sunburst
 10104274551113;350.99;20;EUR;1;Switch Vibracell - Blue
-9821272146249;355.31;20;EUR;1;Taurus Les Paul - Acrylic
 10193354883401;1069.19;20;EUR;1;Taylor SB1 2011 - Black
 10008569971017;831.59;20;EUR;1;Tokai ALS94GT Love Rock Les Paul 2023 - Goldtop
 10091454890313;738.71;20;EUR;1;Tokai Breezysound Lefthand Telecaster 2010 - Natural
@@ -587,7 +583,6 @@ product_code;price_gross;vat;currency;stock;name
 10240937951561;777.59;20;EUR;1;Tokai Silver Star Stratocaster 1983 - Candy Apple Red
 10240717521225;777.59;20;EUR;1;Tokai Silver Star Stratocaster 1984 - Vintage White
 9949031498057;673.91;20;EUR;1;Tokai Springy Sound VS80 1981 - Amber Burst
-9949035102537;599.39;20;EUR;1;Tokai SS50 Silver Star Stratocaster 1983 - Black
 9948801466697;599.39;20;EUR;1;Tokai Talbo Blazing Fire 1984 - Aluminium
 10080918176073;701.99;20;EUR;1;Tokai Telecaster Breezysound Lefthand 2010 - Vintage White
 10209921794377;874.79;20;EUR;1;Trinity by Relish - Metallic Blue
