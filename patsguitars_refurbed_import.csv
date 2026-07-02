@@ -124,7 +124,6 @@ product_code;price_gross;vat;currency;stock;name
 10141862789449;1385.63;20;EUR;1;ESP 800 Series Stratocaster 1995 - Cherry Sunburst - Vintage Japan
 10067785285961;1052.99;20;EUR;1;ESP Action Precision Bass 1994 - Sunburst - Vintage Japan
 9937240293705;3110.39;20;EUR;1;ESP E-II Eclipse - Tobacco Burst
-10033180049737;1662.11;20;EUR;1;ESP E-II Eclipse 2014 - Vintage Honey Burst
 9989280661833;1828.43;20;EUR;1;ESP E-II Horizon NT HS Hipshot - Purple Sparkle
 9937295442249;1197.71;20;EUR;1;ESP Edwards Batman Ninja Warrior Viper 2005 - Black
 10057509863753;1929.95;20;EUR;1;ESP FA-II Flying A „The Alfee“ - White
@@ -151,6 +150,7 @@ product_code;price_gross;vat;currency;stock;name
 10263351034185;102.59;20;EUR;1;Faber ABRM-TA ABRM Bridge, Fits 4mm studs,Aged Nickel, TITANIUM saddles
 10263351066953;91.79;20;EUR;1;Faber ABRM-TG ABRM Bridge, Fits 4mm studs, Gloss Nickel, TITANIUM saddles
 10263350575433;70.19;20;EUR;1;Faber ABRN-GG ABRN Bridge, Fits Nashv studs, Gloss Gold, Brass saddles gold plated
+10263471718729;60.47;20;EUR;1;Faber E-sert-GG Faber E-sert = Epiphone, etc. to '59 ABR converter studs, 12mm/4mm, BELL BRASS, Gold, gloss
 10263270785353;72.35;20;EUR;1;Faber FKT33BB-NA Faber Kluson style tuners, 3+3, bolt bushing, nickel aged
 10263270818121;46.43;20;EUR;1;Faber FKT33BB-NG Faber Kluson style tuners, 3+3, bolt bushing, nickel glossy
 10263270850889;99.35;20;EUR;1;Faber FKT33SBT-GA Faber Kluson style tuners, tulip knob, 3+3, separate bushing, gold aged
@@ -166,17 +166,34 @@ product_code;price_gross;vat;currency;stock;name
 9971628933449;161.99;20;EUR;1;Faber MasterKit – Gibson (ABR-1) – Nickel Aged
 9971856769353;161.99;20;EUR;1;Faber MasterKit – Gibson (ABR-1) – Nickel Gloss
 9971821117769;161.99;20;EUR;1;Faber MasterKit – Metric (Epiphone & Asian) – Nickel Aged
+10263472734537;43.19;20;EUR;1;Faber NSWKIT-IGA Bridge Adapter, 5mm base/6-32inch stud, Gold Aged
 10263475650889;145.79;20;EUR;1;Faber PUPCG-BGG Faber Pickup Concerto grosso -Bridge- Classic '59 PAF -hand wound- Germany, Cover gold plated
+10263475552585;145.79;20;EUR;1;Faber PUPCG-NGG Faber Pickup Concerto grosso -Neck- Classic '59 PAF -hand wound- Germany, Cover gold plated
+10263475519817;132.83;20;EUR;1;Faber PUPCG-NNG Faber Pickup Concerto grosso -Neck- Classic '59 PAF -hand wound- Germany, Cover nickel plated
 10263291953481;44.27;20;EUR;1;Faber RSWRAP-T (3 pcs.) Wraptonate replacement saddle, Titanium, natural finish, pre-slotted, for old shape bridges only!
 10263475126601;20.73;20;EUR;1;Faber ST-IGA-B Faber 6-32 Inch '59 ABR Brass! Studs and Brass! Thumbwheel Kit, (pair) gold plated, aged
+10263475093833;24.83;20;EUR;1;Faber ST-IGA-S Faber 6-32 Inch '59 ABR Steel Studs and Brass Thumbwheel Kit, (pair) gold plated, aged
 10263475224905;19.43;20;EUR;1;Faber ST-IGG-B Faber 6-32 Inch '59 ABR Brass! Studs and Brass! Thumbwheels Kit, (pair), gold plated, glossy
 10263475192137;23.75;20;EUR;1;Faber ST-IGG-S Faber 6-32 Inch '59 ABR Steel Studs and Brass Thumbwheels Kit, (pair), gold plated, glossy
 10263475323209;19.43;20;EUR;1;Faber ST-INA-B Faber 6-32 Inch '59 ABR Brass! Studs and Brass! Thumbwheel Kit, (pair) nickel plated, aged
 10263475290441;18.35;20;EUR;1;Faber ST-INA-S Faber 6-32 Inch '59 ABR Steel Studs and Brass Thumbwheel Kit, (pair) nickel plated, aged
+10263475487049;18.13;20;EUR;1;Faber ST-ING-B Faber 6-32 Inch '59 ABR Brass! Studs and Brass! Thumbwheel Kit, (pair) nickel plated, glossy
+10263475454281;17.27;20;EUR;1;Faber ST-ING-S Faber 6-32 Inch '59 ABR Steel Studs and Brass Thumbwheel Kit, (pair) nickel plated, glossy
+10263474700617;20.73;20;EUR;1;Faber ST-MGA-B Faber 4mm metric, '59 ABR Brass! Studs and Brass! Thumbwheel Kit, (pair) gold plated, aged
+10263474667849;24.83;20;EUR;1;Faber ST-MGA-S Faber 4mm metric, '59 ABR Steel Studs and Brass Thumbwheel Kit, (pair) gold plated, aged
+10263474831689;19.43;20;EUR;1;Faber ST-MGG-B Faber 4mm, metric '59 ABR Brass! Studs and Brass! Thumbwheel Kit, (pair) gold plated, glossy
+10263474798921;23.75;20;EUR;1;Faber ST-MGG-S Faber 4mm, metric '59 ABR Steel Studs and Brass Thumbwheel Kit, (pair) gold plated, glossy
 10263474929993;19.43;20;EUR;1;Faber ST-MNA-B Faber 4mm metric, '59 ABR Brass! Studs and Brass! Thumbwheel Kit, (pair) nickel plated, aged
+10263474897225;18.35;20;EUR;1;Faber ST-MNA-S Faber 4mm metric, '59 ABR Steel Studs and Brass Thumbwheel Kit, (pair) nickel plated, aged
+10263475028297;18.13;20;EUR;1;Faber ST-MNG-B Faber 4mm, metric '59 ABR Brass! Studs and Brass! Thumbwheel Kit, (pair) nickel plated, glossy
+10263474995529;17.27;20;EUR;1;Faber ST-MNG-S Faber 4mm, metric '59 ABR Steel Studs and Brass Thumbwheel Kit, (pair) nickel plated, glossy
+10263475061065;24.83;20;EUR;1;"Faber ST-XL IGA Faber 6-32 Inch '59 ABR Studs, BRASS, gold aged, XL-1.5"" length"
 10263475159369;23.75;20;EUR;1;"Faber ST-XL IGG Faber 6-32 Inch '59 ABR Studs, BRASS, gold, glossy, XL-1.5"" length"
 10263475388745;20.51;20;EUR;1;"Faber ST-XL ING Faber 6-32 Inch '59 ABR Studs, BRASS, glossy, XL-1.5"" length"
+10263474602313;24.83;20;EUR;1;Faber ST-XL MGA Faber 4mm '59 ABR Studs, BRASS, gold aged, XL-38mm length
 10263474733385;23.75;20;EUR;1;Faber ST-XL MGG Faber 4mm '59 ABR Studs, BRASS, gold, glossy, XL-38mm length
+10263474864457;18.35;20;EUR;1;"Faber ST-XL MNA Faber 4mmm '59 ABR Studs, BRASS, aged, XL-38mm"" length"
+10263474962761;17.27;20;EUR;1;Faber ST-XL MNG Faber 4mm '59 ABR Studs, BRASS, glossy, XL- 38mm length
 10263291920713;75.59;20;EUR;1;Faber TBWC-59 P-BR Faber Vintage Spec PURE ALU Compensated Wraparound Tailpiece, unplated, Intonationsleiste: Messing
 10263291822409;98.27;20;EUR;1;Faber TBWC-59GG-BR Faber Vintage Spec ALU Compensated Wraparound Tailpiece, Gold, gloss, Intonationsleiste: Messing
 10263291855177;75.59;20;EUR;1;Faber TBWC-59NA-BR Faber Vintage Spec ALU Compensated Wraparound Tailpiece, Nickel, aged, Intonationsleiste: Messing
@@ -187,6 +204,10 @@ product_code;price_gross;vat;currency;stock;name
 10263290806601;237.59;20;EUR;1;Faber TP-59TG Faber TP-'59 Titan Stop Tailpiece, natural, un-plated
 10263291167049;53.99;20;EUR;1;Faber TPW-59NA Faber Vintage Spec ALU Wraparound Tailpiece, Nickel - aged
 10263291199817;48.59;20;EUR;1;Faber TPW-59NG Faber Vintage Spec ALU Wraparound Tailpiece, Nickel, gloss
+10263474471241;12.95;20;EUR;1;Faber TW-IGG (2 pcs.) thumbwheels, BRASS, inch 6-32, gold plated, glossy
+10263474504009;9.71;20;EUR;1;Faber TW-INA (2 pcs.) thumbwheels, BRASS, inch 6-32, nickel plated, aged
+10263472603465;41.03;20;EUR;1;Faber WL-INA Faber Wrap-Lock, Nickel Aged, Inch
+10263472701769;36.71;20;EUR;1;Faber WL-ING Faber Wrap-Lock, Nickel Gloss, Inch
 10263292019017;205.19;20;EUR;1;Faber WRAPT-GA Faber Wraptonate, Intonatable Stoptail Bridge, Aged Gold
 10263292051785;187.91;20;EUR;1;Faber WRAPT-GG Faber Wraptonate, Intonatable Stoptail Bridge, Gloss Gold
 10263292084553;132.83;20;EUR;1;Faber WRAPT-NA Faber Wraptonate, Intonatable Stoptail Bridge, Aged Nickel
