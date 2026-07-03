@@ -149,6 +149,8 @@ product_code;price_gross;vat;currency;stock;name
 10263351066953;91.79;20;EUR;1;Faber ABRM-TG ABRM Bridge, Fits 4mm studs, Gloss Nickel, TITANIUM saddles
 10263350575433;70.19;20;EUR;1;Faber ABRN-GG ABRN Bridge, Fits Nashv studs, Gloss Gold, Brass saddles gold plated
 10263471718729;60.47;20;EUR;1;Faber E-sert-GG Faber E-sert = Epiphone, etc. to '59 ABR converter studs, 12mm/4mm, BELL BRASS, Gold, gloss
+10263472144713;51.83;20;EUR;1;Faber ESWKIT-GA Bridge Adapter, Gold Aged
+10263472275785;26.99;20;EUR;1;Faber ESWKIT-NG Bridge Adapter, Nickel Gloss
 10263270785353;72.35;20;EUR;1;Faber FKT33BB-NA Faber Kluson style tuners, 3+3, bolt bushing, nickel aged
 10263270818121;46.43;20;EUR;1;Faber FKT33BB-NG Faber Kluson style tuners, 3+3, bolt bushing, nickel glossy
 10263270850889;99.35;20;EUR;1;Faber FKT33SBT-GA Faber Kluson style tuners, tulip knob, 3+3, separate bushing, gold aged
@@ -165,6 +167,9 @@ product_code;price_gross;vat;currency;stock;name
 9971856769353;161.99;20;EUR;1;Faber MasterKit – Gibson (ABR-1) – Nickel Gloss
 9971821117769;161.99;20;EUR;1;Faber MasterKit – Metric (Epiphone & Asian) – Nickel Aged
 10263472734537;43.19;20;EUR;1;Faber NSWKIT-IGA Bridge Adapter, 5mm base/6-32inch stud, Gold Aged
+10263472800073;37.79;20;EUR;1;Faber NSWKIT-IGG Bridge Adapter, 5mm base/6-32inch stud, Gold Glossy
+10263472898377;43.19;20;EUR;1;Faber NSWKIT-MGA Bridge Adapter, 5mm base/4mm stud, Gold Aged
+10263472931145;37.79;20;EUR;1;Faber NSWKIT-MGG Bridge Adapter, 5mm base/4mm stud, Gold Glossy
 10263475650889;145.79;20;EUR;1;Faber PUPCG-BGG Faber Pickup Concerto grosso -Bridge- Classic '59 PAF -hand wound- Germany, Cover gold plated
 10263475552585;145.79;20;EUR;1;Faber PUPCG-NGG Faber Pickup Concerto grosso -Neck- Classic '59 PAF -hand wound- Germany, Cover gold plated
 10263475519817;132.83;20;EUR;1;Faber PUPCG-NNG Faber Pickup Concerto grosso -Neck- Classic '59 PAF -hand wound- Germany, Cover nickel plated
@@ -187,25 +192,63 @@ product_code;price_gross;vat;currency;stock;name
 10263474995529;17.27;20;EUR;1;Faber ST-MNG-S Faber 4mm, metric '59 ABR Steel Studs and Brass Thumbwheel Kit, (pair) nickel plated, glossy
 10263475061065;24.83;20;EUR;1;"Faber ST-XL IGA Faber 6-32 Inch '59 ABR Studs, BRASS, gold aged, XL-1.5"" length"
 10263475159369;23.75;20;EUR;1;"Faber ST-XL IGG Faber 6-32 Inch '59 ABR Studs, BRASS, gold, glossy, XL-1.5"" length"
+10263475257673;21.59;20;EUR;1;"Faber ST-XL INA Faber 6-32 Inch '59 ABR Studs, BRASS, aged, XL-1.5"" length"
 10263475388745;20.51;20;EUR;1;"Faber ST-XL ING Faber 6-32 Inch '59 ABR Studs, BRASS, glossy, XL-1.5"" length"
 10263474602313;24.83;20;EUR;1;Faber ST-XL MGA Faber 4mm '59 ABR Studs, BRASS, gold aged, XL-38mm length
 10263474733385;23.75;20;EUR;1;Faber ST-XL MGG Faber 4mm '59 ABR Studs, BRASS, gold, glossy, XL-38mm length
 10263474864457;18.35;20;EUR;1;"Faber ST-XL MNA Faber 4mmm '59 ABR Studs, BRASS, aged, XL-38mm"" length"
 10263474962761;17.27;20;EUR;1;Faber ST-XL MNG Faber 4mm '59 ABR Studs, BRASS, glossy, XL- 38mm length
 10263291920713;75.59;20;EUR;1;Faber TBWC-59 P-BR Faber Vintage Spec PURE ALU Compensated Wraparound Tailpiece, unplated, Intonationsleiste: Messing
+10263291560265;105.83;20;EUR;1;Faber TBWC-59GA-BL Faber Vintage Spec ALU Compensated Wraparound Tailpiece, Gold, aged, Intonationsleiste: Messing, Linkshand
+10263291789641;105.83;20;EUR;1;Faber TBWC-59GA-BR Faber Vintage Spec ALU Compensated Wraparound Tailpiece, Gold, aged, Intonationsleiste: Messing
+10263291461961;115.55;20;EUR;1;Faber TBWC-59GA-HL Faber Vintage Spec ALU Compensated Wraparound Tailpiece, Gold, aged, Intonationsleiste: Titan/Messing, Linkshand
+10263291363657;122.03;20;EUR;1;Faber TBWC-59GA-TL Faber Vintage Spec ALU Compensated Wraparound Tailpiece, Gold, aged, Intonationsleiste: Titan, Linkshand
 10263291822409;98.27;20;EUR;1;Faber TBWC-59GG-BR Faber Vintage Spec ALU Compensated Wraparound Tailpiece, Gold, gloss, Intonationsleiste: Messing
+10263291494729;105.83;20;EUR;1;Faber TBWC-59GG-HL Faber Vintage Spec ALU Compensated Wraparound Tailpiece, Gold, gloss, Intonationsleiste: Titan/Messing, Linkshand
+10263291396425;111.23;20;EUR;1;Faber TBWC-59GG-TL Faber Vintage Spec ALU Compensated Wraparound Tailpiece, Gold, gloss, Intonationsleiste: Titan, Linkshand
+10263291691337;75.59;20;EUR;1;Faber TBWC-59NA-BL Faber Vintage Spec ALU Compensated Wraparound Tailpiece, Nickel, aged, Intonationsleiste: Messing, Linkshand
 10263291855177;75.59;20;EUR;1;Faber TBWC-59NA-BR Faber Vintage Spec ALU Compensated Wraparound Tailpiece, Nickel, aged, Intonationsleiste: Messing
+10263291527497;80.99;20;EUR;1;Faber TBWC-59NA-HL Faber Vintage Spec ALU Compensated Wraparound Tailpiece, Nickel, aged, Intonationsleiste: Titan/Messing, Linkshand
 10263291429193;85.31;20;EUR;1;Faber TBWC-59NA-TL Faber Vintage Spec ALU Compensated Wraparound Tailpiece, Nickel, aged, Intonationsleiste: Titan, Linkshand
+10263291756873;85.31;20;EUR;1;Faber TBWC-59NA-TR Faber Vintage Spec ALU Compensated Wraparound Tailpiece, Nickel, aged, Intonationsleiste: Titan
+10263291724105;66.95;20;EUR;1;Faber TBWC-59NG-BL Faber Vintage Spec ALU Compensated Wraparound Tailpiece, Nickel, gloss, Intonationsleiste: Messing, Linkshand
 10263291887945;66.95;20;EUR;1;Faber TBWC-59NG-BR Faber Vintage Spec ALU Compensated Wraparound Tailpiece, Nickel, gloss, Intonationsleiste: Messing
 10263290839369;70.19;20;EUR;1;Faber TP-59GA Faber TP-'59 Vintage Spec ALU Stop Tailpiece, Gold, aged
+10263290970441;43.19;20;EUR;1;Faber TP-59NA Faber TP-'59 Vintage Spec ALU Stop Tailpiece, Nickel, aged
+10263291003209;38.87;20;EUR;1;Faber TP-59NS Faber TP-'59 Vintage Spec ALU Stop Tailpiece, Nickel, satin-matt
 10263290773833;43.19;20;EUR;1;Faber TP-59P Faber TP-'59 Vintage Spec Pure ALU Stop Tailpiece, unplated!
 10263290806601;237.59;20;EUR;1;Faber TP-59TG Faber TP-'59 Titan Stop Tailpiece, natural, un-plated
+10263471456585;18.35;20;EUR;1;Faber TPI-A-INA Faber 5/16-24 Inch Tailpiece Inserts (pair) Steel, nickel plated
+10263471653193;17.27;20;EUR;1;Faber TPI-A-ING Faber 5/16-24 Inch Tailpiece Inserts (pair) Steel, nickel plated, glossy
+10263471259977;24.83;20;EUR;1;Faber TPI-B-MGG Faber 8mm metric Tailpiece Inserts (pair) Steel, gold plated, gloss
+10263471391049;18.35;20;EUR;1;Faber TPI-B-MNA Faber 8mm metric Tailpiece Inserts (pair) Steel, nickel plated, aged
+10263471620425;17.27;20;EUR;1;Faber TPI-B-MNG Faber 8mm metric Tailpiece Inserts (pair) Steel, nickel plated, gloss
+10263471227209;24.83;20;EUR;1;Faber TPI-C-IGG Faber 5/16-24 Inch Tailpiece Inserts (pair) Steel, gold plated, glossy
+10263471325513;18.35;20;EUR;1;Faber TPI-C-INA Faber 5/16-24 Inch Tailpiece Inserts (pair) Steel, nickel plated
+10263471489353;17.27;20;EUR;1;Faber TPI-C-ING Faber 5/16-24 Inch Tailpiece Inserts (pair) Steel, nickel plated, glossy
+10263291101513;77.75;20;EUR;1;Faber TPW-59GA Faber Vintage Spec ALU Wraparound Tailpiece, Gold, aged
+10263291134281;70.19;20;EUR;1;Faber TPW-59GG Faber Vintage Spec ALU Wraparound Tailpiece, Gold, glossy
 10263291167049;53.99;20;EUR;1;Faber TPW-59NA Faber Vintage Spec ALU Wraparound Tailpiece, Nickel - aged
 10263291199817;48.59;20;EUR;1;Faber TPW-59NG Faber Vintage Spec ALU Wraparound Tailpiece, Nickel, gloss
+10263291068745;237.59;20;EUR;1;Faber TPW-59TG Faber Vintage Spec Titan Wraparound Tailpiece, natural, un-plated
+10263291232585;105.83;20;EUR;1;Faber TPWC-59GA Faber TPWC-'59 Vintage Spec ALU Compensated Wraparound Tailpiece, Gold, aged
+10263291265353;95.03;20;EUR;1;Faber TPWC-59GG Faber TPWC-'59 Vintage Spec ALU Compensated Wraparound Tailpiece, Gold, glossy
+10263291330889;66.95;20;EUR;1;Faber TPWC-59NG Faber TPWC-'59 Vintage Spec ALU Compensated Wraparound Tailpiece, Nickel, gloss
+10263474438473;12.95;20;EUR;1;Faber TW-IGA (2 pcs.) thumbwheels, BRASS, inch 6-32, gold plated, aged
 10263474471241;12.95;20;EUR;1;Faber TW-IGG (2 pcs.) thumbwheels, BRASS, inch 6-32, gold plated, glossy
 10263474504009;9.71;20;EUR;1;Faber TW-INA (2 pcs.) thumbwheels, BRASS, inch 6-32, nickel plated, aged
+10263474569545;8.63;20;EUR;1;Faber TW-ING (2 pcs.) thumbwheels, BRASS, inch 6-32, nickel plated, glossy
+10263474241865;12.95;20;EUR;1;Faber TW-MGA (2 pcs.) thumbwheels, BRASS, metric 4mm, gold plated, aged
+10263474340169;9.71;20;EUR;1;Faber TW-MNA (2 pcs.) thumbwheels, BRASS, metric 4mm, nickel plated, aged
+10263474372937;8.63;20;EUR;1;Faber TW-MNG (2 pcs.) thumbwheels, BRASS, metric 4mm, nickel plated, glossy
+10263472537929;60.47;20;EUR;1;Faber WL-IGA Faber Wrap-Lock, Gold Aged, Inch
+10263472570697;52.91;20;EUR;1;Faber WL-IGG Faber Wrap-Lock, Gold Gloss, Inch
 10263472603465;41.03;20;EUR;1;Faber WL-INA Faber Wrap-Lock, Nickel Aged, Inch
 10263472701769;36.71;20;EUR;1;Faber WL-ING Faber Wrap-Lock, Nickel Gloss, Inch
+10263472308553;60.47;20;EUR;1;Faber WL-MGA Faber Wrap-Lock, Gold Aged, Metric
+10263472374089;52.91;20;EUR;1;Faber WL-MGG Faber Wrap-Lock, Gold Gloss, Metric
+10263472439625;41.03;20;EUR;1;Faber WL-MNA Faber Wrap-Lock, Nickel Aged, Metric
+10263472472393;36.71;20;EUR;1;Faber WL-MNG Faber Wrap-Lock, Nickel Gloss, Metric
 10263292019017;205.19;20;EUR;1;Faber WRAPT-GA Faber Wraptonate, Intonatable Stoptail Bridge, Aged Gold
 10263292051785;187.91;20;EUR;1;Faber WRAPT-GG Faber Wraptonate, Intonatable Stoptail Bridge, Gloss Gold
 10263292084553;132.83;20;EUR;1;Faber WRAPT-NA Faber Wraptonate, Intonatable Stoptail Bridge, Aged Nickel
@@ -274,7 +317,6 @@ product_code;price_gross;vat;currency;stock;name
 10008554078537;874.79;20;EUR;1;Fender Japan ST62-65AS 40th Anniversary Stratocaster 1994-1995 - Yellow
 10008533991753;738.71;20;EUR;1;Fender Japan Standard Stratocaster 1993-1994 - Black - Vintage
 10080768524617;874.79;20;EUR;1;Fender Japan Standard Stratocaster 1994-1995 - Sunburst - Vintage
-10115845161289;831.59;20;EUR;1;Fender Japan Standard Stratocaster 1994-1995 - Sunburst - Vintage
 9925451317577;748.43;20;EUR;1;Fender Japan STM-94M Stratocaster 1994-1995 - Black - Vintage
 10123540332873;831.59;20;EUR;1;Fender Japan STR-80R Stratocaster 1986-1987 - Black Burst - Vintage
 10240726925641;826.19;20;EUR;1;Fender Japan Stratocaster - Black
@@ -536,7 +578,6 @@ product_code;price_gross;vat;currency;stock;name
 10141697212745;971.99;20;EUR;1;Orville Les Paul 1993 - Foto Flame - Vintage Japan
 10016076792137;923.39;20;EUR;1;Orville Les Paul Standard 1990 - Heritage Cherry Sunburst
 10123536728393;874.79;20;EUR;1;Orville Les Paul Standard 1993 - Fotoflame - Cherry Sunburst
-10091508597065;831.59;20;EUR;1;Orville LPC Les Paul Custom 1997 - Ebony
 10118158582089;790.55;20;EUR;1;Orville LPS Les Paul Standard - Cherry Sunburst
 10092445761865;831.59;20;EUR;1;Orville LPS Les Paul Standard 1990 - Cherry Sunburst
 10152860811593;831.59;20;EUR;1;Orville LPS Les Paul Standard 1990 - Cherry Sunburst
