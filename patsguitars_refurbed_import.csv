@@ -94,7 +94,6 @@ product_code;price_gross;vat;currency;stock;name
 10118152159561;439.55;20;EUR;1;Epiphone Les Paul Junior 2009 - White
 9890352824649;375.83;20;EUR;1;Epiphone Les Paul Junior 57’ Reissue 2011 - Yellow
 10125906542921;554.03;20;EUR;1;Epiphone Les Paul Korea 1993 - Cherry Sunburst
-10249097412937;340.19;20;EUR;1;Epiphone Les Paul Muse 2020 - Purple Passion Metallic
 9890379039049;375.83;20;EUR;1;Epiphone Les Paul Standard Pro 2015
 10210064236873;415.79;20;EUR;1;Epiphone Les Paul Studio 1998 - Ebony
 10126025064777;462.23;20;EUR;1;Epiphone Les Paul Tribute 2010 - Translucent Black
@@ -137,22 +136,45 @@ product_code;price_gross;vat;currency;stock;name
 9775092203849;1595.15;20;EUR;1;ESP THE ALFEE Signature Angel Classic Junior 1998 - Cherry Sunburst
 10249139683657;534.59;20;EUR;1;EVH 5150 Mini Guitar - Red Striped
 10193179181385;831.59;20;EUR;1;EVH Eddie Van Halen Stratocaster Striped Series 2019
+10263467327817;61.55;20;EUR;1;Faber ABRH-BA ABRH Bridge, For Gibson® ABR-1, Aged Nickel, Brass saddles natural
+10263467360585;50.75;20;EUR;1;Faber ABRH-BG ABRH Bridge, For Gibson® ABR-1, Gloss Nickel, Brass saddles natural
+10263467262281;84.23;20;EUR;1;Faber ABRH-GA ABRH Bridge, For Gibson® ABR-1, Aged Gold, Brass saddles gold plated
 10263349625161;145.79;20;EUR;1;Faber ABRH-GAN ABRH Bridge, For Gibson® ABR-1, Aged Gold, Nylon saddles
 10263350018377;70.19;20;EUR;1;Faber ABRH-GG ABRH Bridge, For Gibson® ABR-1, Gloss Gold, Brass saddles gold plated
 10263349657929;133.91;20;EUR;1;Faber ABRH-GGN ABRH Bridge, For Gibson® ABR-1, Gloss Gold, Nylon saddles
+10263467393353;61.55;20;EUR;1;Faber ABRH-NA ABRH Bridge, For Gibson® ABR-1, Aged Nickel, Brass saddles nickel plated
 10263349690697;102.59;20;EUR;1;Faber ABRH-NAN ABRH Bridge, For Gibson® ABR-1, Aged Nickel, Nylon saddles
+10263467426121;50.75;20;EUR;1;Faber ABRH-NG ABRH Bridge, For Gibson® ABR-1, Gloss Nickel, Brass saddles nickel plated
 10263349723465;91.79;20;EUR;1;Faber ABRH-NGN ABRH Bridge, For Gibson® ABR-1, Gloss Nickel, Nylon saddles
 10263349854537;102.59;20;EUR;1;Faber ABRH-TA ABRH Bridge, For Gibson® ABR-1, Aged Nickel, Titanium saddles
+10263468573001;181.43;20;EUR;1;Faber ABRL-GAN ABRL Bridge, pat. pend. Locking System, Aged Gold, Nylon saddles
+10263468605769;167.39;20;EUR;1;Faber ABRL-GGN ABRL Bridge, pat. pend. Locking System, Gloss Gold, Nylon saddles
+10263468638537;128.51;20;EUR;1;Faber ABRL-NAN ABRL Bridge, pat. pend. Locking System, Aged Nickel, Nylon saddles
 10263469261129;75.59;20;EUR;1;Faber ABRL-NG ABRL Bridge, pat. pend. Locking System, Gloss Nickel, Brass saddles nickel plated
+10263468671305;118.79;20;EUR;1;Faber ABRL-NGN ABRL Bridge, pat. pend. Locking System, Gloss Nickel, Nylon saddles
+10263468769609;128.51;20;EUR;1;Faber ABRL-TA ABRL Bridge, pat. pend. Locking System, Aged Nickel, TITANIUM saddles
+10263468835145;118.79;20;EUR;1;Faber ABRL-TG ABRL Bridge, pat. pend. Locking System, Gloss Nickel, TITANIUM saddles
 10263469228361;187.91;20;EUR;1;Faber ABRLB-GA ABRL Bridge, pat. pend. Locking System, SOLID BELL BRASS, Aged gold
 10263469195593;172.79;20;EUR;1;Faber ABRLB-GG ABRL Bridge, pat. pend. Locking System, SOLID BELL BRASS, Gloss gold
 10263469162825;132.83;20;EUR;1;Faber ABRLB-NA ABRL Bridge, pat. pend. Locking System, SOLID BELL BRASS, Aged Nickel
 10263469130057;119.87;20;EUR;1;Faber ABRLB-NG ABRL Bridge, pat. pend. Locking System, SOLID BELL BRASS, Gloss nickel
+10263468441929;61.55;20;EUR;1;Faber ABRM-BA ABRM Bridge, Fits 4mm studs, Aged Nickel, Brass saddles natural
+10263468474697;50.75;20;EUR;1;Faber ABRM-BG ABRM Bridge, Fits 4mm studs, Gloss Nickel, Brass saddles natural
 10263351099721;84.23;20;EUR;1;Faber ABRM-GA ABRM Bridge, Fits 4mm studs, Aged Gold, Brass saddles gold plated
+10263350772041;145.79;20;EUR;1;Faber ABRM-GAN ABRM Bridge, Fits 4mm studs, Aged Gold, Nylon saddles
 10263351132489;70.19;20;EUR;1;Faber ABRM-GG ABRM Bridge, Fits 4mm studs, Gloss Gold, Brass saddles gold plated
+10263350804809;133.91;20;EUR;1;Faber ABRM-GGN ABRM Bridge, Fits 4mm studs, Gloss Gold, Nylon saddles
+10263468507465;61.55;20;EUR;1;Faber ABRM-NA ABRM Bridge, Fits 4mm studs, Aged Nickel, Brass saddles nickel plated
+10263350903113;102.59;20;EUR;1;Faber ABRM-NAN ABRM Bridge, Fits 4mm studs, Aged Nickel, Nylon saddles
+10263468540233;50.75;20;EUR;1;Faber ABRM-NG ABRM Bridge, Fits 4mm studs, Gloss Nickel, Brass saddles nickel plated
+10263350935881;91.79;20;EUR;1;Faber ABRM-NGN ABRM Bridge, Fits 4mm studs, Gloss Nickel, Nylon saddles
 10263351034185;102.59;20;EUR;1;Faber ABRM-TA ABRM Bridge, Fits 4mm studs,Aged Nickel, TITANIUM saddles
 10263351066953;91.79;20;EUR;1;Faber ABRM-TG ABRM Bridge, Fits 4mm studs, Gloss Nickel, TITANIUM saddles
+10263350608201;61.55;20;EUR;1;Faber ABRN-BA ABRN Bridge, Fits Nashv studs, Aged Nickel, Brass saddles natural
+10263350640969;50.75;20;EUR;1;Faber ABRN-BG ABRN Bridge, Fits Nashv studs, Gloss Nickel, Brass saddles natural
 10263350575433;70.19;20;EUR;1;Faber ABRN-GG ABRN Bridge, Fits Nashv studs, Gloss Gold, Brass saddles gold plated
+10263350706505;61.55;20;EUR;1;Faber ABRN-NA ABRN Bridge, Fits Nashv studs, Aged Nickel, Brass saddles nickel plated
+10263350739273;50.75;20;EUR;1;Faber ABRN-NG ABRN Bridge, Fits Nashv studs, Gloss Nickel, Brass saddles nickel plated
 10263471685961;65.87;20;EUR;1;Faber E-sert-GA Faber E-sert = Epiphone, etc. to '59 ABR converter studs, 12mm/4mm, BELL BRASS, Gold, aged
 10263471718729;60.47;20;EUR;1;Faber E-sert-GG Faber E-sert = Epiphone, etc. to '59 ABR converter studs, 12mm/4mm, BELL BRASS, Gold, gloss
 10263471751497;46.43;20;EUR;1;Faber E-sert-NA Faber E-sert = Epiphone, etc. to '59 ABR converter studs, 12mm/4mm, BELL BRASS, Nickel, aged
@@ -169,6 +191,9 @@ product_code;price_gross;vat;currency;stock;name
 10263270621513;84.23;20;EUR;1;Faber FKT6L-GG Faber Kluson style tuners, 6 in line, separate bushing, gold glossy
 10263270687049;205.19;20;EUR;1;Faber FT33L-GA Faber locking tuners, 3+3, bolt bushing, gold aged
 10263270752585;187.91;20;EUR;1;Faber FT33L-GG Faber locking tuners, 3+3, bolt bushing, gold gloss
+10263468704073;115.55;20;EUR;1;Faber HYBRIDge-L-NA ABRL Bridge, pat. pend. Locking System, Aged Nickel, TITANIUM/Brass saddles
+10263468736841;103.67;20;EUR;1;Faber HYBRIDge-L-NG ABRL Bridge, pat. pend. Locking System, Gloss Nickel, TITANIUM/Brass saddles
+10263350968649;91.79;20;EUR;1;Faber HYBRIDge-M-NA ABRM Bridge, Fits 4mm studs, Aged Nickel, TITANIUM/Brass saddles
 10263351001417;80.99;20;EUR;1;Faber HYBRIDge-M-NG ABRM Bridge, Fits 4mm studs, Gloss Nickel, TITANIUM/Brass saddles
 10263350346057;91.79;20;EUR;1;Faber HYBRIDge-N-NA ABRN Bridge, Fits Nashv studs, Aged Nickel, TITANIUM/Brass saddles
 10263472111945;37.79;20;EUR;1;Faber IBG-sert-MNG Faber IBG-sert = Epiphone/Nashville to '59 ABR converter studs, 8mm/4mm, BRASS, nickel plated, glossy #1
@@ -193,11 +218,21 @@ product_code;price_gross;vat;currency;stock;name
 10263475650889;145.79;20;EUR;1;Faber PUPCG-BGG Faber Pickup Concerto grosso -Bridge- Classic '59 PAF -hand wound- Germany, Cover gold plated
 10263475552585;145.79;20;EUR;1;Faber PUPCG-NGG Faber Pickup Concerto grosso -Neck- Classic '59 PAF -hand wound- Germany, Cover gold plated
 10263475519817;132.83;20;EUR;1;Faber PUPCG-NNG Faber Pickup Concerto grosso -Neck- Classic '59 PAF -hand wound- Germany, Cover nickel plated
+10263469850953;28.07;20;EUR;1;Faber RS-BA (6 pcs.) Replacement saddle, Brass, natural, pre-slotted, aged finish
+10263469785417;28.07;20;EUR;1;Faber RS-BAU (6 pcs.) Replacement saddle, Brass, natural, unnotched, aged finish
+10263469719881;24.83;20;EUR;1;Faber RS-BG (6 pcs.) Replacement saddle, Brass, natural, pre-slotted, gloss finish
+10263469687113;24.83;20;EUR;1;Faber RS-BGU (6 pcs.) Replacement saddle, Brass, natural, unnotched, gloss finish
+10263469654345;28.07;20;EUR;1;Faber RS-NA (6 pcs.) Replacement saddle, Brass, nickel plated, pre-slotted, aged finish
+10263469621577;28.07;20;EUR;1;Faber RS-NAU (6 pcs.) Replacement saddle, Brass, nickel plated, unnotched, aged finish
+10263469588809;24.83;20;EUR;1;Faber RS-NG (6pcs.) Replacement saddle, Brass, nickel plated, pre-slotted, gloss finish
 10263469556041;24.83;20;EUR;1;Faber RS-NGU (6 pcs.) Replacement saddle, Brass, nickel plated, unnotched, gloss finish
 10263469523273;33.47;20;EUR;1;Faber RS-NY (3pcs.) Replacement saddle, Nylon, un-notched
 10263469490505;44.27;20;EUR;1;Faber RS-T (3 pcs.) Replacement saddle, Titanium, natural finish, pre-slotted
 10263469457737;44.27;20;EUR;1;Faber RS-TU (3 pcs.) Replacement saddle, Titanium, natural finish, unnotched
 10263291953481;44.27;20;EUR;1;Faber RSWRAP-T (3 pcs.) Wraptonate replacement saddle, Titanium, natural finish, pre-slotted, for old shape bridges only!
+10263470211401;32.39;20;EUR;1;Faber SR-GA Extra Set Distanzhülsen-Spacers, gold aged
+10263470244169;28.07;20;EUR;1;Faber SR-GG Extra Set Distanzhülsen-Spacers, gold glossy
+10263470309705;19.43;20;EUR;1;Faber SR-NG Extra Set Distanzhülsen-Spacers, nickel glossy
 10263469424969;14.03;20;EUR;1;Faber SS-GA (3pcs.) Faber® Saddles Replacement screw, Brass, gold plated, aged
 10263469392201;12.95;20;EUR;1;Faber SS-GG (3pcs.) Faber® Saddles Replacement screw, Brass, gold plated, glossy
 10263469359433;9.71;20;EUR;1;Faber SS-NA (3pcs.) Faber® Saddles Replacement screw, Brass, nickel plated, aged
@@ -243,6 +278,7 @@ product_code;price_gross;vat;currency;stock;name
 10263291724105;66.95;20;EUR;1;Faber TBWC-59NG-BL Faber Vintage Spec ALU Compensated Wraparound Tailpiece, Nickel, gloss, Intonationsleiste: Messing, Linkshand
 10263291887945;66.95;20;EUR;1;Faber TBWC-59NG-BR Faber Vintage Spec ALU Compensated Wraparound Tailpiece, Nickel, gloss, Intonationsleiste: Messing
 10263470571849;33.47;20;EUR;1;Faber TL-ING Faber Tone-Lock Kit, 2 Schraubbolzen (Inch Gewinde-thread f. Gibson) + 3 Paar Distanzhülsen, glossy
+10263470342473;50.75;20;EUR;1;Faber TL-MGA Faber Tone-Lock Kit, 2 Schraubbolzen (Metric Gewinde-thread) + 3 Paar Distanzhülsen, Gold- aged
 10263470408009;36.71;20;EUR;1;Faber TL-MNA Faber Tone-Lock Kit, 2 Schraubbolzen (Metric Gewinde-thread) + 3 Paar Distanzhülsen, aged
 10263470440777;33.47;20;EUR;1;Faber TL-MNG Faber Tone-Lock Kit, 2 Schraubbolzen (Metric Gewinde-thread) + 3 Paar Distanzhülsen, glossy
 10263290839369;70.19;20;EUR;1;Faber TP-59GA Faber TP-'59 Vintage Spec ALU Stop Tailpiece, Gold, aged
@@ -433,7 +469,6 @@ product_code;price_gross;vat;currency;stock;name
 10236615328073;1749.59;20;EUR;1;Gibson SG II 1970-1972 MOD - Brown
 10240976879945;1166.39;20;EUR;1;Gibson SG Standard 2007 - Heritage Cherry
 10256722166089;1263.59;20;EUR;1;Gibson SG Standard 2022 - Ebony
-10220092490057;831.59;20;EUR;1;Gibson SGJ 2013 - Trans White
 10091535728969;7775.99;20;EUR;1;Gibson Thunderbird II Bass 1964 – Alembic Custom 1976 – Tree of Life – Ember Red
 10199291986249;971.99;20;EUR;1;Gitane DG-250M - Natural
 10108285387081;17.27;20;EUR;1;Gitarrenkarton 1180×475×165 mm – Doppelwelliger Versandkarton für Gitarren
