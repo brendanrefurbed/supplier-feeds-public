@@ -143,13 +143,23 @@ product_code;price_gross;vat;currency;stock;name
 10263349690697;102.59;20;EUR;1;Faber ABRH-NAN ABRH Bridge, For Gibson® ABR-1, Aged Nickel, Nylon saddles
 10263349723465;91.79;20;EUR;1;Faber ABRH-NGN ABRH Bridge, For Gibson® ABR-1, Gloss Nickel, Nylon saddles
 10263349854537;102.59;20;EUR;1;Faber ABRH-TA ABRH Bridge, For Gibson® ABR-1, Aged Nickel, Titanium saddles
+10263469261129;75.59;20;EUR;1;Faber ABRL-NG ABRL Bridge, pat. pend. Locking System, Gloss Nickel, Brass saddles nickel plated
+10263469228361;187.91;20;EUR;1;Faber ABRLB-GA ABRL Bridge, pat. pend. Locking System, SOLID BELL BRASS, Aged gold
+10263469195593;172.79;20;EUR;1;Faber ABRLB-GG ABRL Bridge, pat. pend. Locking System, SOLID BELL BRASS, Gloss gold
+10263469162825;132.83;20;EUR;1;Faber ABRLB-NA ABRL Bridge, pat. pend. Locking System, SOLID BELL BRASS, Aged Nickel
+10263469130057;119.87;20;EUR;1;Faber ABRLB-NG ABRL Bridge, pat. pend. Locking System, SOLID BELL BRASS, Gloss nickel
 10263351099721;84.23;20;EUR;1;Faber ABRM-GA ABRM Bridge, Fits 4mm studs, Aged Gold, Brass saddles gold plated
 10263351132489;70.19;20;EUR;1;Faber ABRM-GG ABRM Bridge, Fits 4mm studs, Gloss Gold, Brass saddles gold plated
 10263351034185;102.59;20;EUR;1;Faber ABRM-TA ABRM Bridge, Fits 4mm studs,Aged Nickel, TITANIUM saddles
 10263351066953;91.79;20;EUR;1;Faber ABRM-TG ABRM Bridge, Fits 4mm studs, Gloss Nickel, TITANIUM saddles
 10263350575433;70.19;20;EUR;1;Faber ABRN-GG ABRN Bridge, Fits Nashv studs, Gloss Gold, Brass saddles gold plated
+10263471685961;65.87;20;EUR;1;Faber E-sert-GA Faber E-sert = Epiphone, etc. to '59 ABR converter studs, 12mm/4mm, BELL BRASS, Gold, aged
 10263471718729;60.47;20;EUR;1;Faber E-sert-GG Faber E-sert = Epiphone, etc. to '59 ABR converter studs, 12mm/4mm, BELL BRASS, Gold, gloss
+10263471751497;46.43;20;EUR;1;Faber E-sert-NA Faber E-sert = Epiphone, etc. to '59 ABR converter studs, 12mm/4mm, BELL BRASS, Nickel, aged
+10263471817033;38.87;20;EUR;1;Faber E-sert-NG Faber E-sert = Epiphone, etc. to '59 ABR converter studs, 12mm/4mm, BELL BRASS, Nickel, gloss
 10263472144713;51.83;20;EUR;1;Faber ESWKIT-GA Bridge Adapter, Gold Aged
+10263472177481;46.43;20;EUR;1;Faber ESWKIT-GG Bridge Adapter, Gold Glossy
+10263472210249;29.15;20;EUR;1;Faber ESWKIT-NA Bridge Adapter, Nickel Aged
 10263472275785;26.99;20;EUR;1;Faber ESWKIT-NG Bridge Adapter, Nickel Gloss
 10263270785353;72.35;20;EUR;1;Faber FKT33BB-NA Faber Kluson style tuners, 3+3, bolt bushing, nickel aged
 10263270818121;46.43;20;EUR;1;Faber FKT33BB-NG Faber Kluson style tuners, 3+3, bolt bushing, nickel glossy
@@ -161,6 +171,12 @@ product_code;price_gross;vat;currency;stock;name
 10263270752585;187.91;20;EUR;1;Faber FT33L-GG Faber locking tuners, 3+3, bolt bushing, gold gloss
 10263351001417;80.99;20;EUR;1;Faber HYBRIDge-M-NG ABRM Bridge, Fits 4mm studs, Gloss Nickel, TITANIUM/Brass saddles
 10263350346057;91.79;20;EUR;1;Faber HYBRIDge-N-NA ABRN Bridge, Fits Nashv studs, Aged Nickel, TITANIUM/Brass saddles
+10263472111945;37.79;20;EUR;1;Faber IBG-sert-MNG Faber IBG-sert = Epiphone/Nashville to '59 ABR converter studs, 8mm/4mm, BRASS, nickel plated, glossy #1
+10263471915337;31.31;20;EUR;1;Faber iNsert-INA '59 ABR-1 converter studs, 7mm/6-32inch, BRASS, nickel plated, aged
+10263471948105;29.15;20;EUR;1;Faber iNsert-ING '59 ABR-1 converter studs, 7mm/6-32inch, BRASS, nickel plated, glossy
+10263471980873;49.67;20;EUR;1;Faber iNsert-MGA Faber iNsert = Nashville to '59 ABR converter studs, 7mm/4mm, BRASS, gold plated, aged
+10263472046409;31.31;20;EUR;1;Faber iNsert-MNA Faber iNsert = Nashville to '59 ABR converter studs, 7mm/4mm, BRASS, nickel plated, aged
+10263472079177;29.15;20;EUR;1;Faber iNsert-MNG Faber iNsert = Nashville to '59 ABR converter studs, 7mm/4mm, BRASS, nickel plated, glossy
 9972770570569;215.99;20;EUR;1;Faber MasterKit Premium – Gibson ABR-1 – Nickel Gloss
 9972765950281;215.99;20;EUR;1;Faber MasterKit Premium – Metric (Epiphone & Asian) – Nickel Aged
 9971628933449;161.99;20;EUR;1;Faber MasterKit – Gibson (ABR-1) – Nickel Aged
@@ -168,12 +184,24 @@ product_code;price_gross;vat;currency;stock;name
 9971821117769;161.99;20;EUR;1;Faber MasterKit – Metric (Epiphone & Asian) – Nickel Aged
 10263472734537;43.19;20;EUR;1;Faber NSWKIT-IGA Bridge Adapter, 5mm base/6-32inch stud, Gold Aged
 10263472800073;37.79;20;EUR;1;Faber NSWKIT-IGG Bridge Adapter, 5mm base/6-32inch stud, Gold Glossy
+10263472832841;26.99;20;EUR;1;Faber NSWKIT-INA Bridge Adapter, 5mm base/6-32inch stud, Nickel Aged
+10263472865609;24.83;20;EUR;1;Faber NSWKIT-ING Bridge Adapter, 5mm base/6-32inch stud, Nickel Gloss
 10263472898377;43.19;20;EUR;1;Faber NSWKIT-MGA Bridge Adapter, 5mm base/4mm stud, Gold Aged
 10263472931145;37.79;20;EUR;1;Faber NSWKIT-MGG Bridge Adapter, 5mm base/4mm stud, Gold Glossy
+10263472963913;26.99;20;EUR;1;Faber NSWKIT-MNA Bridge Adapter, 5mm base/4mm stud, Nickel Aged
+10263472996681;24.83;20;EUR;1;Faber NSWKIT-MNG Bridge Adapter, 5mm base/4mm stud, Nickel Gloss
 10263475650889;145.79;20;EUR;1;Faber PUPCG-BGG Faber Pickup Concerto grosso -Bridge- Classic '59 PAF -hand wound- Germany, Cover gold plated
 10263475552585;145.79;20;EUR;1;Faber PUPCG-NGG Faber Pickup Concerto grosso -Neck- Classic '59 PAF -hand wound- Germany, Cover gold plated
 10263475519817;132.83;20;EUR;1;Faber PUPCG-NNG Faber Pickup Concerto grosso -Neck- Classic '59 PAF -hand wound- Germany, Cover nickel plated
+10263469556041;24.83;20;EUR;1;Faber RS-NGU (6 pcs.) Replacement saddle, Brass, nickel plated, unnotched, gloss finish
+10263469523273;33.47;20;EUR;1;Faber RS-NY (3pcs.) Replacement saddle, Nylon, un-notched
+10263469490505;44.27;20;EUR;1;Faber RS-T (3 pcs.) Replacement saddle, Titanium, natural finish, pre-slotted
+10263469457737;44.27;20;EUR;1;Faber RS-TU (3 pcs.) Replacement saddle, Titanium, natural finish, unnotched
 10263291953481;44.27;20;EUR;1;Faber RSWRAP-T (3 pcs.) Wraptonate replacement saddle, Titanium, natural finish, pre-slotted, for old shape bridges only!
+10263469424969;14.03;20;EUR;1;Faber SS-GA (3pcs.) Faber® Saddles Replacement screw, Brass, gold plated, aged
+10263469392201;12.95;20;EUR;1;Faber SS-GG (3pcs.) Faber® Saddles Replacement screw, Brass, gold plated, glossy
+10263469359433;9.71;20;EUR;1;Faber SS-NA (3pcs.) Faber® Saddles Replacement screw, Brass, nickel plated, aged
+10263469326665;8.63;20;EUR;1;Faber SS-NG (3pcs.) Faber® Saddles Replacement screw, Brass, nickel plated, glossy
 10263475126601;20.73;20;EUR;1;Faber ST-IGA-B Faber 6-32 Inch '59 ABR Brass! Studs and Brass! Thumbwheel Kit, (pair) gold plated, aged
 10263475093833;24.83;20;EUR;1;Faber ST-IGA-S Faber 6-32 Inch '59 ABR Steel Studs and Brass Thumbwheel Kit, (pair) gold plated, aged
 10263475224905;19.43;20;EUR;1;Faber ST-IGG-B Faber 6-32 Inch '59 ABR Brass! Studs and Brass! Thumbwheels Kit, (pair), gold plated, glossy
@@ -214,16 +242,22 @@ product_code;price_gross;vat;currency;stock;name
 10263291756873;85.31;20;EUR;1;Faber TBWC-59NA-TR Faber Vintage Spec ALU Compensated Wraparound Tailpiece, Nickel, aged, Intonationsleiste: Titan
 10263291724105;66.95;20;EUR;1;Faber TBWC-59NG-BL Faber Vintage Spec ALU Compensated Wraparound Tailpiece, Nickel, gloss, Intonationsleiste: Messing, Linkshand
 10263291887945;66.95;20;EUR;1;Faber TBWC-59NG-BR Faber Vintage Spec ALU Compensated Wraparound Tailpiece, Nickel, gloss, Intonationsleiste: Messing
+10263470571849;33.47;20;EUR;1;Faber TL-ING Faber Tone-Lock Kit, 2 Schraubbolzen (Inch Gewinde-thread f. Gibson) + 3 Paar Distanzhülsen, glossy
+10263470408009;36.71;20;EUR;1;Faber TL-MNA Faber Tone-Lock Kit, 2 Schraubbolzen (Metric Gewinde-thread) + 3 Paar Distanzhülsen, aged
+10263470440777;33.47;20;EUR;1;Faber TL-MNG Faber Tone-Lock Kit, 2 Schraubbolzen (Metric Gewinde-thread) + 3 Paar Distanzhülsen, glossy
 10263290839369;70.19;20;EUR;1;Faber TP-59GA Faber TP-'59 Vintage Spec ALU Stop Tailpiece, Gold, aged
 10263290970441;43.19;20;EUR;1;Faber TP-59NA Faber TP-'59 Vintage Spec ALU Stop Tailpiece, Nickel, aged
 10263291003209;38.87;20;EUR;1;Faber TP-59NS Faber TP-'59 Vintage Spec ALU Stop Tailpiece, Nickel, satin-matt
 10263290773833;43.19;20;EUR;1;Faber TP-59P Faber TP-'59 Vintage Spec Pure ALU Stop Tailpiece, unplated!
 10263290806601;237.59;20;EUR;1;Faber TP-59TG Faber TP-'59 Titan Stop Tailpiece, natural, un-plated
+10263471194441;28.07;20;EUR;1;Faber TPI-A-IGA Faber 5/16-24 Inch Tailpiece Inserts (pair) Steel, gold plated, aged
 10263471456585;18.35;20;EUR;1;Faber TPI-A-INA Faber 5/16-24 Inch Tailpiece Inserts (pair) Steel, nickel plated
 10263471653193;17.27;20;EUR;1;Faber TPI-A-ING Faber 5/16-24 Inch Tailpiece Inserts (pair) Steel, nickel plated, glossy
+10263471161673;28.07;20;EUR;1;Faber TPI-B-MGA Faber 8mm metric Tailpiece Inserts (pair) Steel, gold plated, aged
 10263471259977;24.83;20;EUR;1;Faber TPI-B-MGG Faber 8mm metric Tailpiece Inserts (pair) Steel, gold plated, gloss
 10263471391049;18.35;20;EUR;1;Faber TPI-B-MNA Faber 8mm metric Tailpiece Inserts (pair) Steel, nickel plated, aged
 10263471620425;17.27;20;EUR;1;Faber TPI-B-MNG Faber 8mm metric Tailpiece Inserts (pair) Steel, nickel plated, gloss
+10263471128905;28.07;20;EUR;1;Faber TPI-C-IGA Faber 5/16-24 Inch Tailpiece Inserts (pair) Steel, gold plated, aged
 10263471227209;24.83;20;EUR;1;Faber TPI-C-IGG Faber 5/16-24 Inch Tailpiece Inserts (pair) Steel, gold plated, glossy
 10263471325513;18.35;20;EUR;1;Faber TPI-C-INA Faber 5/16-24 Inch Tailpiece Inserts (pair) Steel, nickel plated
 10263471489353;17.27;20;EUR;1;Faber TPI-C-ING Faber 5/16-24 Inch Tailpiece Inserts (pair) Steel, nickel plated, glossy
@@ -240,6 +274,7 @@ product_code;price_gross;vat;currency;stock;name
 10263474504009;9.71;20;EUR;1;Faber TW-INA (2 pcs.) thumbwheels, BRASS, inch 6-32, nickel plated, aged
 10263474569545;8.63;20;EUR;1;Faber TW-ING (2 pcs.) thumbwheels, BRASS, inch 6-32, nickel plated, glossy
 10263474241865;12.95;20;EUR;1;Faber TW-MGA (2 pcs.) thumbwheels, BRASS, metric 4mm, gold plated, aged
+10263474274633;12.95;20;EUR;1;Faber TW-MGG (2 pcs.) thumbwheels, BRASS, metric 4mm, gold plated, glossy
 10263474340169;9.71;20;EUR;1;Faber TW-MNA (2 pcs.) thumbwheels, BRASS, metric 4mm, nickel plated, aged
 10263474372937;8.63;20;EUR;1;Faber TW-MNG (2 pcs.) thumbwheels, BRASS, metric 4mm, nickel plated, glossy
 10263472537929;60.47;20;EUR;1;Faber WL-IGA Faber Wrap-Lock, Gold Aged, Inch
