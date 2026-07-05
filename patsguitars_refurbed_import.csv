@@ -51,6 +51,7 @@ product_code;price_gross;vat;currency;stock;name
 10016042320201;646.91;20;EUR;1;Charvel by Jackson Superstrat - Red
 9786414203209;320.75;20;EUR;1;Charvel by Jackson Superstrat 2001 - Blue Burst
 10111504253257;527.03;20;EUR;1;Charvel Desolation DS-1 ST - Black
+10276963418441;971.99;20;EUR;1;Charvel Jim Root Signature 2022 - Matte Black
 10220188959049;831.59;20;EUR;1;Charvel Pro-Mod So Cal 2013 - Red
 10236616507721;971.99;20;EUR;1;Charvel Surfcaster 2005 - Black
 9751156588873;402.83;20;EUR;1;Charvette by Charvel 250SW 1989 - White
@@ -79,7 +80,6 @@ product_code;price_gross;vat;currency;stock;name
 10211494068553;600.47;20;EUR;1;Epiphone 56 Reissue Les Paul Pro 2014 - Gold Top
 10199380099401;878.03;20;EUR;1;Epiphone 58 Korina Flying V 2018 - Natural
 10199407329609;738.71;20;EUR;1;Epiphone Casino VS 2011 - Tobacco Burst
-10220154093897;369.35;20;EUR;1;Epiphone DOT 2008 - Cherry Red
 10104266031433;527.03;20;EUR;1;Epiphone Dovena Akustik 2007 - Natural
 10231386964297;831.59;20;EUR;1;Epiphone Flying V 1998 - Ebony
 10159356019017;738.71;20;EUR;1;Epiphone Flying V 2000 - Natural
@@ -101,6 +101,7 @@ product_code;price_gross;vat;currency;stock;name
 10249083552073;874.79;20;EUR;1;Epiphone MKH Origins Custom Les Paul Matt Heafy Signature 2025 - Ebony
 9937242030409;1457.99;20;EUR;1;Epiphone SC-450 Scroll 1978 - Natural
 10111500157257;527.03;20;EUR;1;Epiphone SG 2005 - Heritage Cherry
+10277508088137;340.19;20;EUR;1;Epiphone SG 2015 - Natural
 10118132859209;439.55;20;EUR;1;Epiphone SG Bigsby 2007 - Red
 10212573610313;777.59;20;EUR;1;Epiphone SG Custom 2006 - Ivory
 10118138593609;439.55;20;EUR;1;Epiphone SG LTD 2006 - Blue Flametop
@@ -147,8 +148,14 @@ product_code;price_gross;vat;currency;stock;name
 10263467426121;50.75;20;EUR;1;Faber ABRH-NG ABRH Bridge, For Gibson® ABR-1, Gloss Nickel, Brass saddles nickel plated
 10263349723465;91.79;20;EUR;1;Faber ABRH-NGN ABRH Bridge, For Gibson® ABR-1, Gloss Nickel, Nylon saddles
 10263349854537;102.59;20;EUR;1;Faber ABRH-TA ABRH Bridge, For Gibson® ABR-1, Aged Nickel, Titanium saddles
+10263349887305;91.79;20;EUR;1;Faber ABRH-TG ABRH Bridge, For Gibson® ABR-1, Gloss Nickel, Titanium saddles
+10263468998985;85.31;20;EUR;1;Faber ABRL-BA ABRL Bridge, pat. pend. Locking System, Aged Nickel, Brass saddles natural
+10263469031753;75.59;20;EUR;1;Faber ABRL-BG ABRL Bridge, pat. pend. Locking System, Gloss Nickel, Brass saddles natural
+10263468900681;115.55;20;EUR;1;Faber ABRL-GA ABRL Bridge, pat. pend. Locking System, Aged Gold, Brass saddles natural
 10263468573001;181.43;20;EUR;1;Faber ABRL-GAN ABRL Bridge, pat. pend. Locking System, Aged Gold, Nylon saddles
+10263468933449;101.51;20;EUR;1;Faber ABRL-GG ABRL Bridge, pat. pend. Locking System, Gloss Gold, Brass saddles natural
 10263468605769;167.39;20;EUR;1;Faber ABRL-GGN ABRL Bridge, pat. pend. Locking System, Gloss Gold, Nylon saddles
+10263469097289;85.31;20;EUR;1;Faber ABRL-NA ABRL Bridge, pat. pend. Locking System, Aged Nickel, Brass saddles nickel plated
 10263468638537;128.51;20;EUR;1;Faber ABRL-NAN ABRL Bridge, pat. pend. Locking System, Aged Nickel, Nylon saddles
 10263469261129;75.59;20;EUR;1;Faber ABRL-NG ABRL Bridge, pat. pend. Locking System, Gloss Nickel, Brass saddles nickel plated
 10263468671305;118.79;20;EUR;1;Faber ABRL-NGN ABRL Bridge, pat. pend. Locking System, Gloss Nickel, Nylon saddles
@@ -172,9 +179,20 @@ product_code;price_gross;vat;currency;stock;name
 10263351066953;91.79;20;EUR;1;Faber ABRM-TG ABRM Bridge, Fits 4mm studs, Gloss Nickel, TITANIUM saddles
 10263350608201;61.55;20;EUR;1;Faber ABRN-BA ABRN Bridge, Fits Nashv studs, Aged Nickel, Brass saddles natural
 10263350640969;50.75;20;EUR;1;Faber ABRN-BG ABRN Bridge, Fits Nashv studs, Gloss Nickel, Brass saddles natural
+10263350542665;84.23;20;EUR;1;Faber ABRN-GA ABRN Bridge, Fits Nashv studs, Aged Gold, Brass saddles gold plated
+10263350182217;145.79;20;EUR;1;Faber ABRN-GAN ABRN Bridge, Fits Nashv studs, Aged Gold, Nylon saddles
 10263350575433;70.19;20;EUR;1;Faber ABRN-GG ABRN Bridge, Fits Nashv studs, Gloss Gold, Brass saddles gold plated
+10263350214985;133.91;20;EUR;1;Faber ABRN-GGN ABRN Bridge, Fits Nashv studs, Gloss Gold, Nylon saddles
 10263350706505;61.55;20;EUR;1;Faber ABRN-NA ABRN Bridge, Fits Nashv studs, Aged Nickel, Brass saddles nickel plated
+10263350247753;102.59;20;EUR;1;Faber ABRN-NAN ABRN Bridge, Fits Nashv studs, Aged Nickel, Nylon saddles
 10263350739273;50.75;20;EUR;1;Faber ABRN-NG ABRN Bridge, Fits Nashv studs, Gloss Nickel, Brass saddles nickel plated
+10263350280521;91.79;20;EUR;1;Faber ABRN-NGN ABRN Bridge, Fits Nashv studs, Gloss Nickel, Nylon saddles
+10263350444361;102.59;20;EUR;1;Faber ABRN-TA ABRN Bridge, Fits Nashv studs, Aged Nickel, TITANIUM saddles
+10263350477129;91.79;20;EUR;1;Faber ABRN-TG ABRN Bridge, Fits Nashv studs, Gloss Nickel, TITANIUM saddles
+10263470604617;43.19;20;EUR;1;Faber BSWKIT-GA Bridge Stud/Adapter, Gold Aged (one pair)
+10263470637385;37.79;20;EUR;1;Faber BSWKIT-GG Bridge Stud/Adapter, Gold Gloss (one pair)
+10263470670153;26.99;20;EUR;1;Faber BSWKIT-NA Bridge Stud/Adapter, Nickel aged (one pair)
+10263470702921;24.83;20;EUR;1;Faber BSWKIT-NG Bridge Stud/Adapter, Nickel gloss (one pair)
 10263471685961;65.87;20;EUR;1;Faber E-sert-GA Faber E-sert = Epiphone, etc. to '59 ABR converter studs, 12mm/4mm, BELL BRASS, Gold, aged
 10263471718729;60.47;20;EUR;1;Faber E-sert-GG Faber E-sert = Epiphone, etc. to '59 ABR converter studs, 12mm/4mm, BELL BRASS, Gold, gloss
 10263471751497;46.43;20;EUR;1;Faber E-sert-NA Faber E-sert = Epiphone, etc. to '59 ABR converter studs, 12mm/4mm, BELL BRASS, Nickel, aged
@@ -183,6 +201,10 @@ product_code;price_gross;vat;currency;stock;name
 10263472177481;46.43;20;EUR;1;Faber ESWKIT-GG Bridge Adapter, Gold Glossy
 10263472210249;29.15;20;EUR;1;Faber ESWKIT-NA Bridge Adapter, Nickel Aged
 10263472275785;26.99;20;EUR;1;Faber ESWKIT-NG Bridge Adapter, Nickel Gloss
+10263149412681;680.39;20;EUR;1;Faber FA130S-BLR-HSS Stratocaster – Blonde
+10263161241929;680.39;20;EUR;1;Faber FA130S-CHM-HSS Stratocaster – Dark Cherry Sunburst
+10263168647497;680.39;20;EUR;1;Faber FA130S-CHM-SSS Stratocaster – Dark Cherry Sunburst
+10263169728841;680.39;20;EUR;1;Faber FA130S-VFM-HSS Stratocaster – Violin Finish
 10263270785353;72.35;20;EUR;1;Faber FKT33BB-NA Faber Kluson style tuners, 3+3, bolt bushing, nickel aged
 10263270818121;46.43;20;EUR;1;Faber FKT33BB-NG Faber Kluson style tuners, 3+3, bolt bushing, nickel glossy
 10263270850889;99.35;20;EUR;1;Faber FKT33SBT-GA Faber Kluson style tuners, tulip knob, 3+3, separate bushing, gold aged
@@ -191,17 +213,28 @@ product_code;price_gross;vat;currency;stock;name
 10263270621513;84.23;20;EUR;1;Faber FKT6L-GG Faber Kluson style tuners, 6 in line, separate bushing, gold glossy
 10263270687049;205.19;20;EUR;1;Faber FT33L-GA Faber locking tuners, 3+3, bolt bushing, gold aged
 10263270752585;187.91;20;EUR;1;Faber FT33L-GG Faber locking tuners, 3+3, bolt bushing, gold gloss
+10263349756233;91.79;20;EUR;1;Faber HYBRIDge-H-NA ABRH Bridge, For Gibson® ABR-1, Aged Nickel, Titanium/Brass saddles
+10263349789001;80.99;20;EUR;1;Faber HYBRIDge-H-NG ABRH Bridge, For Gibson® ABR-1, Gloss Nickel, Titanium/Brass saddles
 10263468704073;115.55;20;EUR;1;Faber HYBRIDge-L-NA ABRL Bridge, pat. pend. Locking System, Aged Nickel, TITANIUM/Brass saddles
 10263468736841;103.67;20;EUR;1;Faber HYBRIDge-L-NG ABRL Bridge, pat. pend. Locking System, Gloss Nickel, TITANIUM/Brass saddles
 10263350968649;91.79;20;EUR;1;Faber HYBRIDge-M-NA ABRM Bridge, Fits 4mm studs, Aged Nickel, TITANIUM/Brass saddles
 10263351001417;80.99;20;EUR;1;Faber HYBRIDge-M-NG ABRM Bridge, Fits 4mm studs, Gloss Nickel, TITANIUM/Brass saddles
 10263350346057;91.79;20;EUR;1;Faber HYBRIDge-N-NA ABRN Bridge, Fits Nashv studs, Aged Nickel, TITANIUM/Brass saddles
+10263350378825;80.99;20;EUR;1;Faber HYBRIDge-N-NG ABRN Bridge, Fits Nashv studs, Gloss Nickel, TITANIUM/Brass saddles
 10263472111945;37.79;20;EUR;1;Faber IBG-sert-MNG Faber IBG-sert = Epiphone/Nashville to '59 ABR converter studs, 8mm/4mm, BRASS, nickel plated, glossy #1
+10263471849801;49.67;20;EUR;1;Faber iNsert-IGA '59 ABR-1 converter studs, 7mm/6-32inch, BRASS, gold plated, aged
 10263471915337;31.31;20;EUR;1;Faber iNsert-INA '59 ABR-1 converter studs, 7mm/6-32inch, BRASS, nickel plated, aged
 10263471948105;29.15;20;EUR;1;Faber iNsert-ING '59 ABR-1 converter studs, 7mm/6-32inch, BRASS, nickel plated, glossy
 10263471980873;49.67;20;EUR;1;Faber iNsert-MGA Faber iNsert = Nashville to '59 ABR converter studs, 7mm/4mm, BRASS, gold plated, aged
+10263472013641;45.35;20;EUR;1;Faber iNsert-MGG Faber iNsert = Nashville to '59 ABR converter studs, 7mm/4mm, BRASS, gold plated, gloss
 10263472046409;31.31;20;EUR;1;Faber iNsert-MNA Faber iNsert = Nashville to '59 ABR converter studs, 7mm/4mm, BRASS, nickel plated, aged
 10263472079177;29.15;20;EUR;1;Faber iNsert-MNG Faber iNsert = Nashville to '59 ABR converter studs, 7mm/4mm, BRASS, nickel plated, glossy
+10263038853449;194.39;20;EUR;1;Faber JBC BB Jazz Bass - Black
+10263060316489;194.39;20;EUR;1;Faber JBC VWR Jazz Bass - Vintage White
+10263070998857;194.39;20;EUR;1;Faber JBC YSR Jazz Bass - Sunburst
+10277478236489;680.39;20;EUR;1;Faber Les Paul Revival Model - Aged Black
+10277483446601;680.39;20;EUR;1;Faber Les Paul Revival Model - Aged Black
+10277464113481;680.39;20;EUR;1;Faber Les Paul Revival Model - Aged Sunburst
 9972770570569;215.99;20;EUR;1;Faber MasterKit Premium – Gibson ABR-1 – Nickel Gloss
 9972765950281;215.99;20;EUR;1;Faber MasterKit Premium – Metric (Epiphone & Asian) – Nickel Aged
 9971628933449;161.99;20;EUR;1;Faber MasterKit – Gibson (ABR-1) – Nickel Aged
@@ -215,6 +248,8 @@ product_code;price_gross;vat;currency;stock;name
 10263472931145;37.79;20;EUR;1;Faber NSWKIT-MGG Bridge Adapter, 5mm base/4mm stud, Gold Glossy
 10263472963913;26.99;20;EUR;1;Faber NSWKIT-MNA Bridge Adapter, 5mm base/4mm stud, Nickel Aged
 10263472996681;24.83;20;EUR;1;Faber NSWKIT-MNG Bridge Adapter, 5mm base/4mm stud, Nickel Gloss
+10263216554313;194.39;20;EUR;1;Faber PBC BB Precision Bass – Black
+10263074734409;194.39;20;EUR;1;Faber PBC YSR Precision Bass – Sunburst
 10263475650889;145.79;20;EUR;1;Faber PUPCG-BGG Faber Pickup Concerto grosso -Bridge- Classic '59 PAF -hand wound- Germany, Cover gold plated
 10263475552585;145.79;20;EUR;1;Faber PUPCG-NGG Faber Pickup Concerto grosso -Neck- Classic '59 PAF -hand wound- Germany, Cover gold plated
 10263475519817;132.83;20;EUR;1;Faber PUPCG-NNG Faber Pickup Concerto grosso -Neck- Classic '59 PAF -hand wound- Germany, Cover nickel plated
@@ -232,6 +267,7 @@ product_code;price_gross;vat;currency;stock;name
 10263291953481;44.27;20;EUR;1;Faber RSWRAP-T (3 pcs.) Wraptonate replacement saddle, Titanium, natural finish, pre-slotted, for old shape bridges only!
 10263470211401;32.39;20;EUR;1;Faber SR-GA Extra Set Distanzhülsen-Spacers, gold aged
 10263470244169;28.07;20;EUR;1;Faber SR-GG Extra Set Distanzhülsen-Spacers, gold glossy
+10263470276937;21.59;20;EUR;1;Faber SR-NA Extra Set Distanzhülsen-Spacers, nickel aged
 10263470309705;19.43;20;EUR;1;Faber SR-NG Extra Set Distanzhülsen-Spacers, nickel glossy
 10263469424969;14.03;20;EUR;1;Faber SS-GA (3pcs.) Faber® Saddles Replacement screw, Brass, gold plated, aged
 10263469392201;12.95;20;EUR;1;Faber SS-GG (3pcs.) Faber® Saddles Replacement screw, Brass, gold plated, glossy
@@ -261,6 +297,14 @@ product_code;price_gross;vat;currency;stock;name
 10263474733385;23.75;20;EUR;1;Faber ST-XL MGG Faber 4mm '59 ABR Studs, BRASS, gold, glossy, XL-38mm length
 10263474864457;18.35;20;EUR;1;"Faber ST-XL MNA Faber 4mmm '59 ABR Studs, BRASS, aged, XL-38mm"" length"
 10263474962761;17.27;20;EUR;1;Faber ST-XL MNG Faber 4mm '59 ABR Studs, BRASS, glossy, XL- 38mm length
+10263213900105;194.39;20;EUR;1;Faber STC BB Stratocaster – Black
+10263090561353;194.39;20;EUR;1;Faber STC RED Stratocaster – Red
+10263082238281;194.39;20;EUR;1;Faber STC VWRH Stratocaster HSS – Vintage White
+10263100326217;194.39;20;EUR;1;Faber STC YSR Stratocaster – Sunburst
+10263105864009;340.19;20;EUR;1;Faber STCH VY Stratocaster – Vintage Yellow
+10263110680905;340.19;20;EUR;1;Faber STCH YS Stratocaster – Sunburst
+10263113695561;145.79;20;EUR;1;Faber STCL BB Stratocaster HSS – Black
+10263119331657;145.79;20;EUR;1;Faber STCL RED Stratocaster HSS – Red
 10263291920713;75.59;20;EUR;1;Faber TBWC-59 P-BR Faber Vintage Spec PURE ALU Compensated Wraparound Tailpiece, unplated, Intonationsleiste: Messing
 10263291560265;105.83;20;EUR;1;Faber TBWC-59GA-BL Faber Vintage Spec ALU Compensated Wraparound Tailpiece, Gold, aged, Intonationsleiste: Messing, Linkshand
 10263291789641;105.83;20;EUR;1;Faber TBWC-59GA-BR Faber Vintage Spec ALU Compensated Wraparound Tailpiece, Gold, aged, Intonationsleiste: Messing
@@ -277,18 +321,35 @@ product_code;price_gross;vat;currency;stock;name
 10263291756873;85.31;20;EUR;1;Faber TBWC-59NA-TR Faber Vintage Spec ALU Compensated Wraparound Tailpiece, Nickel, aged, Intonationsleiste: Titan
 10263291724105;66.95;20;EUR;1;Faber TBWC-59NG-BL Faber Vintage Spec ALU Compensated Wraparound Tailpiece, Nickel, gloss, Intonationsleiste: Messing, Linkshand
 10263291887945;66.95;20;EUR;1;Faber TBWC-59NG-BR Faber Vintage Spec ALU Compensated Wraparound Tailpiece, Nickel, gloss, Intonationsleiste: Messing
+10263121527113;194.39;20;EUR;1;Faber TEC BB Telecaster – Black
+10263131095369;194.39;20;EUR;1;Faber TEC BTSR Telecaster – Butterscotch
+10263136010569;194.39;20;EUR;1;Faber TEC MRR Telecaster – Metallic Red
+10263147807049;340.19;20;EUR;1;Faber TECH Blonde Telecaster – See Through Blonde
+10263140303177;340.19;20;EUR;1;Faber TECH VNT Telecaster – Vintage Natural
+10263470473545;38.87;20;EUR;1;Faber TL-IGA Faber Tone-Lock Kit, 2 Schraubbolzen (Inch Gewinde-thread f. Gibson) + 3 Paar Distanzhülsen, aged
+10263470506313;35.63;20;EUR;1;Faber TL-IGG Faber Tone-Lock Kit, 2 Schraubbolzen (Inch Gewinde-thread f. Gibson) + 3 Paar Distanzhülsen, glossy
+10263470539081;36.71;20;EUR;1;Faber TL-INA Faber Tone-Lock Kit, 2 Schraubbolzen (Inch Gewinde-thread f. Gibson) + 3 Paar Distanzhülsen, aged
 10263470571849;33.47;20;EUR;1;Faber TL-ING Faber Tone-Lock Kit, 2 Schraubbolzen (Inch Gewinde-thread f. Gibson) + 3 Paar Distanzhülsen, glossy
 10263470342473;50.75;20;EUR;1;Faber TL-MGA Faber Tone-Lock Kit, 2 Schraubbolzen (Metric Gewinde-thread) + 3 Paar Distanzhülsen, Gold- aged
+10263470375241;46.43;20;EUR;1;Faber TL-MGG Faber Tone-Lock Kit, 2 Schraubbolzen (Metric Gewinde-thread) + 3 Paar Distanzhülsen, Gold- glossy
 10263470408009;36.71;20;EUR;1;Faber TL-MNA Faber Tone-Lock Kit, 2 Schraubbolzen (Metric Gewinde-thread) + 3 Paar Distanzhülsen, aged
 10263470440777;33.47;20;EUR;1;Faber TL-MNG Faber Tone-Lock Kit, 2 Schraubbolzen (Metric Gewinde-thread) + 3 Paar Distanzhülsen, glossy
+10263290904905;38.87;20;EUR;1;Faber TP-59C Faber TP-'59 Vintage Spec ALU Stop Tailpiece, Chrome, glossy
 10263290839369;70.19;20;EUR;1;Faber TP-59GA Faber TP-'59 Vintage Spec ALU Stop Tailpiece, Gold, aged
+10263290872137;63.71;20;EUR;1;Faber TP-59GG Faber TP-'59 Vintage Spec ALU Stop Tailpiece, Gold, glossy
 10263290970441;43.19;20;EUR;1;Faber TP-59NA Faber TP-'59 Vintage Spec ALU Stop Tailpiece, Nickel, aged
+10263291035977;38.87;20;EUR;1;Faber TP-59NG Faber TP-'59 Vintage Spec ALU Stop Tailpiece, Nickel, gloss
 10263291003209;38.87;20;EUR;1;Faber TP-59NS Faber TP-'59 Vintage Spec ALU Stop Tailpiece, Nickel, satin-matt
 10263290773833;43.19;20;EUR;1;Faber TP-59P Faber TP-'59 Vintage Spec Pure ALU Stop Tailpiece, unplated!
 10263290806601;237.59;20;EUR;1;Faber TP-59TG Faber TP-'59 Titan Stop Tailpiece, natural, un-plated
 10263471194441;28.07;20;EUR;1;Faber TPI-A-IGA Faber 5/16-24 Inch Tailpiece Inserts (pair) Steel, gold plated, aged
+10263471292745;24.83;20;EUR;1;Faber TPI-A-IGG Faber 5/16-24 Inch Tailpiece Inserts (pair) Steel, gold plated, glossy
 10263471456585;18.35;20;EUR;1;Faber TPI-A-INA Faber 5/16-24 Inch Tailpiece Inserts (pair) Steel, nickel plated
 10263471653193;17.27;20;EUR;1;Faber TPI-A-ING Faber 5/16-24 Inch Tailpiece Inserts (pair) Steel, nickel plated, glossy
+10263470899529;28.07;20;EUR;1;Faber TPI-A-MGA Faber, 8mm metric Tailpiece Inserts (pair) Steel, goldl plated, aged
+10263470965065;24.83;20;EUR;1;Faber TPI-A-MGG Faber, 8mm metric Tailpiece Inserts (pair) Steel, gold plated, glossy
+10263471030601;18.35;20;EUR;1;Faber TPI-A-MNA Faber, 8mm metric Tailpiece Inserts (pair) Steel, nickel plated, aged
+10263471096137;17.27;20;EUR;1;Faber TPI-A-MNG Faber, 8mm metric Tailpiece Inserts (pair) Steel, nickel plated, glossy
 10263471161673;28.07;20;EUR;1;Faber TPI-B-MGA Faber 8mm metric Tailpiece Inserts (pair) Steel, gold plated, aged
 10263471259977;24.83;20;EUR;1;Faber TPI-B-MGG Faber 8mm metric Tailpiece Inserts (pair) Steel, gold plated, gloss
 10263471391049;18.35;20;EUR;1;Faber TPI-B-MNA Faber 8mm metric Tailpiece Inserts (pair) Steel, nickel plated, aged
@@ -297,6 +358,9 @@ product_code;price_gross;vat;currency;stock;name
 10263471227209;24.83;20;EUR;1;Faber TPI-C-IGG Faber 5/16-24 Inch Tailpiece Inserts (pair) Steel, gold plated, glossy
 10263471325513;18.35;20;EUR;1;Faber TPI-C-INA Faber 5/16-24 Inch Tailpiece Inserts (pair) Steel, nickel plated
 10263471489353;17.27;20;EUR;1;Faber TPI-C-ING Faber 5/16-24 Inch Tailpiece Inserts (pair) Steel, nickel plated, glossy
+10263470801225;28.07;20;EUR;1;Faber TPI-C-MGA Faber 8mm, metric,Tailpiece Inserts (pair) Steel, gold plated, aged
+10263470932297;24.83;20;EUR;1;Faber TPI-C-MGG Faber 8mm, metric,Tailpiece Inserts (pair) Steel, gold plated, glossy
+10263470997833;18.35;20;EUR;1;Faber TPI-C-MNA Faber 8mm, metric,Tailpiece Inserts (pair) Steel, nickel plated, aged
 10263291101513;77.75;20;EUR;1;Faber TPW-59GA Faber Vintage Spec ALU Wraparound Tailpiece, Gold, aged
 10263291134281;70.19;20;EUR;1;Faber TPW-59GG Faber Vintage Spec ALU Wraparound Tailpiece, Gold, glossy
 10263291167049;53.99;20;EUR;1;Faber TPW-59NA Faber Vintage Spec ALU Wraparound Tailpiece, Nickel - aged
@@ -304,6 +368,7 @@ product_code;price_gross;vat;currency;stock;name
 10263291068745;237.59;20;EUR;1;Faber TPW-59TG Faber Vintage Spec Titan Wraparound Tailpiece, natural, un-plated
 10263291232585;105.83;20;EUR;1;Faber TPWC-59GA Faber TPWC-'59 Vintage Spec ALU Compensated Wraparound Tailpiece, Gold, aged
 10263291265353;95.03;20;EUR;1;Faber TPWC-59GG Faber TPWC-'59 Vintage Spec ALU Compensated Wraparound Tailpiece, Gold, glossy
+10263291298121;73.43;20;EUR;1;Faber TPWC-59NA Faber TPWC-'59 Vintage Spec ALU Compensated Wraparound Tailpiece, Nickel, aged
 10263291330889;66.95;20;EUR;1;Faber TPWC-59NG Faber TPWC-'59 Vintage Spec ALU Compensated Wraparound Tailpiece, Nickel, gloss
 10263474438473;12.95;20;EUR;1;Faber TW-IGA (2 pcs.) thumbwheels, BRASS, inch 6-32, gold plated, aged
 10263474471241;12.95;20;EUR;1;Faber TW-IGG (2 pcs.) thumbwheels, BRASS, inch 6-32, gold plated, glossy
@@ -333,6 +398,7 @@ product_code;price_gross;vat;currency;stock;name
 10016034488649;1477.43;20;EUR;1;Fender American Professional II Telecaster 2021 - Red
 10220182634825;2429.99;20;EUR;1;Fender American Stratocaster 1979 - Natural
 9997845135689;2915.99;20;EUR;1;Fender American Stratocaster 1982 - Sunburst
+10276917772617;1943.99;20;EUR;1;Fender American Vintage 52 Reissue Telecaster 1995 - Butterscotch Blonde
 10141638394185;738.71;20;EUR;1;Fender American Vintage Jaguar Body - Sunburst
 10240966000969;680.39;20;EUR;1;Fender Classic 50s Stratocaster 2016 - Surf Green
 10186271916361;2954.87;20;EUR;1;Fender Custom Shop 56 Reissue Stratocaster 2021 - Scalloped - Vintage White - Relic
@@ -353,12 +419,20 @@ product_code;price_gross;vat;currency;stock;name
 10277123490121;971.99;20;EUR;1;Fender Japan 50s Hybrid Stratocaster 2012 - Blonde
 10240942604617;874.79;20;EUR;1;Fender Japan 50s Reissue Stratocaster 1989-1990 - Black
 10099849494857;831.59;20;EUR;1;Fender Japan 54´ Reissue Stratocaster 1993-1994 - Natural - Vintage
+10277096554825;874.79;20;EUR;1;Fender Japan 57 Reissue Stratocaster 1993-1994 - Vintage White
 10123556356425;831.59;20;EUR;1;Fender Japan 57´ Reissue Stratocaster 1994-1995 - Sunburst - Vintage
 10111326290249;790.55;20;EUR;1;Fender Japan 57´ Reissue Stratocaster 1997-2000 - Black
 10115822616905;831.59;20;EUR;1;Fender Japan 57´ Reissue Stratocaster 2006-2008 - Black Gold
 10067757498697;790.55;20;EUR;1;Fender Japan 57’ Reissue Stratocaster 1997-2000 - Sunburst
 10240946176329;826.19;20;EUR;1;Fender Japan 60s Reissue Stratocaster 1991-1992 - Sunburst
+10276984979785;874.79;20;EUR;1;Fender Japan 62 Reissue Jazz Bass 2002-2004 - Sunburst
+10277059592521;874.79;20;EUR;1;Fender Japan 62 Reissue Jazz Bass 2004-2005 - Sunburst
 10240710279497;826.19;20;EUR;1;Fender Japan 62 Reissue Stratocaster - Sunburst
+10277135778121;923.39;20;EUR;1;Fender Japan 62 Reissue Stratocaster 1989-1990 - Sunburst
+10277137645897;874.79;20;EUR;1;Fender Japan 62 Reissue Stratocaster 1993-1994 - Candy Apple Red
+10277076861257;874.79;20;EUR;1;Fender Japan 62 Reissue Stratocaster 1993-1994 - Vintage White
+10276900733257;777.59;20;EUR;1;Fender Japan 62 Reissue Stratocaster 1994-1995 - Candy Apple Red - Matching Headstock
+10277138661705;874.79;20;EUR;1;Fender Japan 62 Reissue Stratocaster 2002-2004 - Candy Apple Red
 10111488753993;790.55;20;EUR;1;Fender Japan 62´ Reissue Stratocaster 1984-1987 - Sunburst - Vintage
 10067530219849;790.55;20;EUR;1;Fender Japan 62’ Reissue Stratocaster 1999-2002 - Sunburst
 10067747569993;790.55;20;EUR;1;Fender Japan 62’ Reissue Stratocaster 2002-2004 - Sunburst
@@ -374,10 +448,12 @@ product_code;price_gross;vat;currency;stock;name
 10256710041929;1263.59;20;EUR;1;Fender Japan 69 Reissue Mustang 1999-2002 - Heavy Relic Vintage White
 10277089050953;1069.19;20;EUR;1;Fender Japan 69 Reissue Mustang 2006-2008 - Vintage White
 10255385329993;971.99;20;EUR;1;Fender Japan 72 Reissue Stratocaster 1997-2000 - Black
+10277137121609;874.79;20;EUR;1;Fender Japan 72 Reissue Stratocaster 1997-2000 - Black
 10249153872201;1166.39;20;EUR;1;Fender Japan 72 Reissue Stratocaster ST72-86DSC 2006-2008 - Vintage White
 10236555952457;1166.39;20;EUR;1;Fender Japan CHAR-MG 69 Reissue Mustang 2019 - Olympic White
 10047126995273;923.39;20;EUR;1;Fender Japan Classic 70s Telecaster 2016 - Blue
 10091346198857;831.59;20;EUR;1;Fender Japan CTL-50M 72´ Reissue Telecaster 1992-1993 - Black - Vintage
+10276969283913;777.59;20;EUR;1;Fender Japan Jazz Bass 1993 - 1994 Sunburst
 10231534420297;874.79;20;EUR;1;Fender Japan Jazz Bass Special 1991-1992 - Black
 9947289682249;914.75;20;EUR;1;Fender Japan Jazzmaster Junior Collection 2022 - Satin Shell Pink
 10047138005321;1200.95;20;EUR;1;Fender Japan Limited Edition Traditional 60s II Telecaster 2002 - Black
@@ -389,7 +465,6 @@ product_code;price_gross;vat;currency;stock;name
 10108777300297;831.59;20;EUR;1;Fender Japan ST-43 Stratocaster 1993-1994 - Black
 10240736887113;874.79;20;EUR;1;Fender Japan ST-45 Stratocaster 2004-2005 - Vintage White
 10109276389705;831.59;20;EUR;1;Fender Japan ST-50 Stratocaster 1994-1995 - Sunburst - Vintage
-9961944121673;599.39;20;EUR;1;Fender Japan ST-STD Stratocaster 1987-1988 - Black - Vintage
 10175463948617;785.15;20;EUR;1;Fender Japan ST-STD Stratocaster 1995-1996 - Sunburst - Vintage
 10008554078537;787.31;20;EUR;1;Fender Japan ST62-65AS 40th Anniversary Stratocaster 1994-1995 - Yellow
 10008533991753;665.27;20;EUR;1;Fender Japan Standard Stratocaster 1993-1994 - Black - Vintage
@@ -427,6 +502,7 @@ product_code;price_gross;vat;currency;stock;name
 9692652437833;2429.99;20;EUR;1;Fender Telecaster 1976 - Vintage White
 10255403417929;3110.39;20;EUR;1;Fender Telecaster 1979 - White Blonde
 10277132763465;680.39;20;EUR;1;Fender Telecaster 2021 - Lake Placid Blue
+10277501927753;583.19;20;EUR;1;Fender Telecaster Lefthand 2017 - Sunburst
 10092544688457;615.59;20;EUR;1;Fender Telecoustic 2000 - Candy Apple Red
 10136243863881;615.59;20;EUR;1;Fender Telecoustic 2014 - Flame Maple Sunburst
 10255390474569;971.99;20;EUR;1;Fender Tom Delonge Signature Stratocaster 2023 - Daphne Blue
@@ -555,6 +631,7 @@ product_code;price_gross;vat;currency;stock;name
 10175560155465;104.97;20;EUR;1;Guyatone PS-038 Bass Exciter/Limiter B-II 1986 Effect Pedal - Vintage Japan
 10176889651529;96.22;20;EUR;1;Guyatone PS-038 Bass Exciter/Limiter B-II Effect Pedal 1987 - Vintage Japan
 10176892305737;131.21;20;EUR;1;Guyatone PS-104 Cross Over Auto Wah Effect Pedal 1980 - Vintage Japan
+10277506154825;485.99;20;EUR;1;Hagstrom DEUCE-F 2013 - Tobacco Burst
 10117754880329;439.55;20;EUR;1;Hagstrom Ultra Swede 2008 - Red Burst
 10254404518217;583.19;20;EUR;1;HAGSTROM Viking The Rod LTD 2012 - Black
 9821187211593;2915.99;20;EUR;1;Hamer 1978 Bound and Crowned - Sunburst
@@ -608,7 +685,7 @@ product_code;price_gross;vat;currency;stock;name
 9786540851529;510.83;20;EUR;1;Ibanez Talman TM71T 2002 - Jewel Blue
 9821268476233;11080.79;20;EUR;1;Ibanez Universe UV77MC Steve Vai Signature 1991 - Multicolor
 10118105104713;615.59;20;EUR;1;Ibanez Xiphos XP300 2010 - Black
-10231356686665;923.39;20;EUR;1;Jackson Japan DK2 Dinky Eerie Dess Swirl 1996
+10231356686665;923.39;20;EUR;1;Jackson Japan DK2 Dinky Eerie Dess Swirl 2001
 9861732893001;291.59;20;EUR;1;Jackson JS22 Dinky DKA 2015 - Metallic Blue
 9797225742665;5831.99;20;EUR;1;James Collins Signature GTO 2023 - Natural
 9942052766025;3324.23;20;EUR;1;James Trussart Rusty Deville 59 2011 - Steel
@@ -618,6 +695,7 @@ product_code;price_gross;vat;currency;stock;name
 10108742631753;184.67;20;EUR;1;Keiper Shortscale Stratocaster Junior - Black
 10169733742921;693.35;20;EUR;1;Kramer LK-1 1980s - Black
 10008552931657;665.27;20;EUR;1;Kramer Neptune NJ 1980s - Black
+10277169725769;1263.59;20;EUR;1;Kramer Pacer Deluxe - Metallic Blue
 9925424283977;524.87;20;EUR;1;Kramer Pariah 2010 - Candy Red Black Flames
 9961956573513;375.83;20;EUR;1;Kramer Striker 2022 - Trans Purple
 10104025678153;790.55;20;EUR;1;Kramer Volante HHFR 2024 - Defender Red
@@ -755,6 +833,8 @@ product_code;price_gross;vat;currency;stock;name
 10240937951561;777.59;20;EUR;1;Tokai Silver Star Stratocaster 1983 - Candy Apple Red
 10240717521225;777.59;20;EUR;1;Tokai Silver Star Stratocaster 1984 - Vintage White
 9949031498057;673.91;20;EUR;1;Tokai Springy Sound VS80 1981 - Amber Burst
+10276990615881;583.19;20;EUR;1;Tokai ST Stratocaster 1980s - Black
+10277138202953;583.19;20;EUR;1;Tokai ST Stratocaster Limited Edition 1980s - Candy Apple Red
 9948801466697;599.39;20;EUR;1;Tokai Talbo Blazing Fire 1984 - Aluminium
 10080918176073;701.99;20;EUR;1;Tokai Telecaster Breezysound Lefthand 2010 - Vintage White
 10209921794377;874.79;20;EUR;1;Trinity by Relish - Metallic Blue
@@ -768,10 +848,12 @@ product_code;price_gross;vat;currency;stock;name
 10236650651977;1943.99;20;EUR;1;Vox Virage 2010 - Trans Red
 9722250592585;4859.99;20;EUR;1;Wandre Tri-Lam Teenager Blue Jeans 1959 - Multicolour
 10227894747465;554.03;20;EUR;1;Warwick Corvette Rock Bass 5-String 2013 - Black
+10276941005129;874.79;20;EUR;1;Warwick Corvette Standard Bass 2005 - Brown Natural
 9997843038537;777.59;20;EUR;1;Warwick Infinity RockBass 2018 - Natural
 10210038317385;3693.59;20;EUR;1;Warwick Thumb NT Bass 2004 - Natural Oil Finish
 10143268831561;971.99;20;EUR;1;Wotan Bass - Natural - Vintage Japan
 10175561531721;104.97;20;EUR;1;Yamaha DI-10M Distortion Effect Pedal - Vintage Japan
+10277109432649;680.39;20;EUR;1;Yamaha Japan Studio Lord Les Paul SL400S 1990 - Cherry Sunburst
 10192919232841;174.95;20;EUR;1;Yamaha OD-01 Overdrive Effect Pedal - Vintage Japan
 10175597969737;104.97;20;EUR;1;Yamaha OD-100 Over Drive Effect Pedal - Vintage Japan
 10176914424137;104.97;20;EUR;1;Yamaha OD-100 Over Drive Effect Pedal - Vintage Japan
