@@ -98,7 +98,6 @@ product_code;price_gross;vat;currency;stock;name
 10210064236873;415.79;20;EUR;1;Epiphone Les Paul Studio 1998 - Ebony
 10126025064777;462.23;20;EUR;1;Epiphone Les Paul Tribute 2010 - Translucent Black
 10111333466441;439.55;20;EUR;1;Epiphone Les Paul Tribute 2025 - Cherry Sunburst
-10249083552073;874.79;20;EUR;1;Epiphone MKH Origins Custom Les Paul Matt Heafy Signature 2025 - Ebony
 9937242030409;1457.99;20;EUR;1;Epiphone SC-450 Scroll 1978 - Natural
 10111500157257;527.03;20;EUR;1;Epiphone SG 2005 - Heritage Cherry
 10277508088137;340.19;20;EUR;1;Epiphone SG 2015 - Natural
@@ -425,8 +424,6 @@ product_code;price_gross;vat;currency;stock;name
 10115822616905;831.59;20;EUR;1;Fender Japan 57´ Reissue Stratocaster 2006-2008 - Black Gold
 10067757498697;790.55;20;EUR;1;Fender Japan 57’ Reissue Stratocaster 1997-2000 - Sunburst
 10240946176329;826.19;20;EUR;1;Fender Japan 60s Reissue Stratocaster 1991-1992 - Sunburst
-10276984979785;874.79;20;EUR;1;Fender Japan 62 Reissue Jazz Bass 2002-2004 - Sunburst
-10277059592521;874.79;20;EUR;1;Fender Japan 62 Reissue Jazz Bass 2004-2005 - Sunburst
 10240710279497;826.19;20;EUR;1;Fender Japan 62 Reissue Stratocaster - Sunburst
 10277135778121;923.39;20;EUR;1;Fender Japan 62 Reissue Stratocaster 1989-1990 - Sunburst
 10277137645897;874.79;20;EUR;1;Fender Japan 62 Reissue Stratocaster 1993-1994 - Candy Apple Red
@@ -446,14 +443,12 @@ product_code;price_gross;vat;currency;stock;name
 10256743563593;1263.59;20;EUR;1;Fender Japan 69 Reissue Mustang 1995-1996 - Candy Apple Red
 10254425227593;1166.39;20;EUR;1;Fender Japan 69 Reissue Mustang 1997-2000 - Surf Green
 10256710041929;1263.59;20;EUR;1;Fender Japan 69 Reissue Mustang 1999-2002 - Heavy Relic Vintage White
-10277089050953;1069.19;20;EUR;1;Fender Japan 69 Reissue Mustang 2006-2008 - Vintage White
 10255385329993;971.99;20;EUR;1;Fender Japan 72 Reissue Stratocaster 1997-2000 - Black
 10277137121609;874.79;20;EUR;1;Fender Japan 72 Reissue Stratocaster 1997-2000 - Black
 10249153872201;1166.39;20;EUR;1;Fender Japan 72 Reissue Stratocaster ST72-86DSC 2006-2008 - Vintage White
 10236555952457;1166.39;20;EUR;1;Fender Japan CHAR-MG 69 Reissue Mustang 2019 - Olympic White
 10047126995273;923.39;20;EUR;1;Fender Japan Classic 70s Telecaster 2016 - Blue
 10091346198857;831.59;20;EUR;1;Fender Japan CTL-50M 72´ Reissue Telecaster 1992-1993 - Black - Vintage
-10276969283913;777.59;20;EUR;1;Fender Japan Jazz Bass 1993 - 1994 Sunburst
 10231534420297;874.79;20;EUR;1;Fender Japan Jazz Bass Special 1991-1992 - Black
 9947289682249;914.75;20;EUR;1;Fender Japan Jazzmaster Junior Collection 2022 - Satin Shell Pink
 10047138005321;1200.95;20;EUR;1;Fender Japan Limited Edition Traditional 60s II Telecaster 2002 - Black
@@ -742,6 +737,7 @@ product_code;price_gross;vat;currency;stock;name
 10141697212745;971.99;20;EUR;1;Orville Les Paul 1993 - Foto Flame - Vintage Japan
 10016076792137;923.39;20;EUR;1;Orville Les Paul Standard 1990 - Heritage Cherry Sunburst
 10123536728393;874.79;20;EUR;1;Orville Les Paul Standard 1993 - Fotoflame - Cherry Sunburst
+10091508597065;831.59;20;EUR;1;Orville LPC Les Paul Custom 1997 - Ebony
 10118158582089;790.55;20;EUR;1;Orville LPS Les Paul Standard - Cherry Sunburst
 10092445761865;831.59;20;EUR;1;Orville LPS Les Paul Standard 1990 - Cherry Sunburst
 10152860811593;831.59;20;EUR;1;Orville LPS Les Paul Standard 1990 - Cherry Sunburst
