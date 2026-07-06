@@ -49,7 +49,6 @@ product_code;price_gross;vat;currency;stock;name
 10186053026121;646.91;20;EUR;1;Charvel by Jackson Model 3 HSS - Red
 10033162322249;728.99;20;EUR;1;Charvel by Jackson Model 3 HSS - White
 10016042320201;646.91;20;EUR;1;Charvel by Jackson Superstrat - Red
-9786414203209;320.75;20;EUR;1;Charvel by Jackson Superstrat 2001 - Blue Burst
 10111504253257;527.03;20;EUR;1;Charvel Desolation DS-1 ST - Black
 10276963418441;971.99;20;EUR;1;Charvel Jim Root Signature 2022 - Matte Black
 10220188959049;831.59;20;EUR;1;Charvel Pro-Mod So Cal 2013 - Red
@@ -99,7 +98,6 @@ product_code;price_gross;vat;currency;stock;name
 10111333466441;439.55;20;EUR;1;Epiphone Les Paul Tribute 2025 - Cherry Sunburst
 9937242030409;1457.99;20;EUR;1;Epiphone SC-450 Scroll 1978 - Natural
 10111500157257;527.03;20;EUR;1;Epiphone SG 2005 - Heritage Cherry
-10277508088137;340.19;20;EUR;1;Epiphone SG 2015 - Natural
 10118132859209;439.55;20;EUR;1;Epiphone SG Bigsby 2007 - Red
 10212573610313;777.59;20;EUR;1;Epiphone SG Custom 2006 - Ivory
 10118138593609;439.55;20;EUR;1;Epiphone SG LTD 2006 - Blue Flametop
@@ -409,12 +407,13 @@ product_code;price_gross;vat;currency;stock;name
 10216593064265;680.39;20;EUR;1;Fender Exclusive MN Ens Stratocaster 2024 - Sea Foam Green Satin
 10008564629833;583.19;20;EUR;1;Fender FR50CE Resonator 2012 - Sunburst
 10033144365385;161.99;20;EUR;1;Fender Frontman 15G Transistor Verstärker
+10240742490441;1166.39;20;EUR;1;Fender Gold Foil Jazzmaster 2023 - Shoreline Gold
 10193315201353;1166.39;20;EUR;1;Fender Heartfield 1991 - Blue
 10047284937033;1292.75;20;EUR;1;Fender Highway One Showmaster 2003 - Satin Black
 10047280906569;1166.39;20;EUR;1;Fender Highway One Stratocaster 2006 - Natural
 10231382573385;1200.95;20;EUR;1;Fender Highway One Stratocaster 2008 - Sand
 10080697418057;777.59;20;EUR;1;Fender Japan / Squier 50s Telecaster 2023 - Sunburst
-10277123490121;971.99;20;EUR;1;Fender Japan 50s Hybrid Stratocaster 2012 - Blonde
+10277123490121;971.99;20;EUR;1;Fender Japan 50s Hybrid Stratocaster 2019 - Blonde
 10240942604617;874.79;20;EUR;1;Fender Japan 50s Reissue Stratocaster 1989-1990 - Black
 10099849494857;831.59;20;EUR;1;Fender Japan 54´ Reissue Stratocaster 1993-1994 - Natural - Vintage
 10277096554825;874.79;20;EUR;1;Fender Japan 57 Reissue Stratocaster 1993-1994 - Vintage White
