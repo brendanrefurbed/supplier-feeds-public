@@ -407,7 +407,6 @@ product_code;price_gross;vat;currency;stock;name
 10008564629833;583.19;20;EUR;1;Fender FR50CE Resonator 2012 - Sunburst
 10033144365385;161.99;20;EUR;1;Fender Frontman 15G Transistor Verstärker
 10240742490441;1166.39;20;EUR;1;Fender Gold Foil Jazzmaster 2023 - Shoreline Gold
-10193315201353;1166.39;20;EUR;1;Fender Heartfield 1991 - Blue
 10047284937033;1292.75;20;EUR;1;Fender Highway One Showmaster 2003 - Satin Black
 10047280906569;1166.39;20;EUR;1;Fender Highway One Stratocaster 2006 - Natural
 10231382573385;1200.95;20;EUR;1;Fender Highway One Stratocaster 2008 - Sand
@@ -433,7 +432,6 @@ product_code;price_gross;vat;currency;stock;name
 10277116674377;1457.99;20;EUR;1;Fender Japan 66 Reissue Jazzmaster 1999-2002 - Candy Apple Red - Matching Headstock
 10016150716745;1477.43;20;EUR;1;Fender Japan 66’ Reissue Jaguar 2004-2005 - Sunburst
 10255393194313;1166.39;20;EUR;1;Fender Japan 69 Reissue Mustang 1984-1987 - Vintage White
-10256653353289;1263.59;20;EUR;1;Fender Japan 69 Reissue Mustang 1989-1990 Vintage White
 10255387263305;1166.39;20;EUR;1;Fender Japan 69 Reissue Mustang 1994-1995 - Vintage White
 10256743563593;1263.59;20;EUR;1;Fender Japan 69 Reissue Mustang 1995-1996 - Candy Apple Red
 10254425227593;1166.39;20;EUR;1;Fender Japan 69 Reissue Mustang 1997-2000 - Surf Green
@@ -709,7 +707,6 @@ product_code;price_gross;vat;currency;stock;name
 10254400979273;680.39;20;EUR;1;Mosrite The Ventures Model - Black
 10169735709001;1846.79;20;EUR;1;Music Man Benji Madden Signature Silhouette Special 2005 - Madden Green
 9914137903433;849.95;20;EUR;1;Music Man Ernie Ball Axis Sport 1998 - Black
-10210032451913;2429.99;20;EUR;1;Music Man Ernie Ball Luke II 2006 - Carbon Blue Pearl
 10230908158281;1846.79;20;EUR;1;Music Man Ernie Ball Sterling 4H Bass 2000 - Candy Apple Red
 10227954843977;1292.75;20;EUR;1;Music Man Ernie Ball StingRay EX Bass - Red
 10277169234249;1263.59;20;EUR;1;Music Man Sub Bass 2004 - Textured Cinnamon
@@ -736,7 +733,6 @@ product_code;price_gross;vat;currency;stock;name
 10249355198793;874.79;20;EUR;1;Orville LPS-75 Les Paul 1990 - Cherry Sunburst
 10240731119945;777.59;20;EUR;1;Orville SG 1990 - Ebony
 10209971208521;785.15;20;EUR;1;Ovation 1613 1981 - Natural
-10249212526921;680.39;20;EUR;1;Ovation 1627 Glen Campbell Artist 1981 - Natural
 10240660406601;680.39;20;EUR;1;Ovation 1868 Elite 1998 - Sunburst
 10240635306313;777.59;20;EUR;1;Ovation 1869 Custom Legend 2001 - Black
 10240686424393;680.39;20;EUR;1;Ovation 6778 Elite Standard 1998 - Natural
