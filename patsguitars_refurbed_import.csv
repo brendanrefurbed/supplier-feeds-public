@@ -48,10 +48,10 @@ product_code;price_gross;vat;currency;stock;name
 10186053026121;646.91;20;EUR;1;Charvel by Jackson Model 3 HSS - Red
 10033162322249;728.99;20;EUR;1;Charvel by Jackson Model 3 HSS - White
 10016042320201;646.91;20;EUR;1;Charvel by Jackson Superstrat - Red
+9861346361673;300.23;20;EUR;1;Charvel by Jackson Superstrat HSS  - Black
 10111504253257;527.03;20;EUR;1;Charvel Desolation DS-1 ST - Black
 10276963418441;971.99;20;EUR;1;Charvel Jim Root Signature 2022 - Matte Black
 10220188959049;831.59;20;EUR;1;Charvel Pro-Mod So Cal 2013 - Red
-10236616507721;971.99;20;EUR;1;Charvel Surfcaster 2005 - Black
 9751156588873;402.83;20;EUR;1;Charvette by Charvel 250SW 1989 - White
 9948761719113;485.99;20;EUR;1;Cheri Telecaster Thinline - Sunburst
 10219176755529;701.99;20;EUR;1;CITIZEN Ibanez Tube Screamer Tsuno Chrono Limited 500 TSTCC808
@@ -392,6 +392,7 @@ product_code;price_gross;vat;currency;stock;name
 10016034488649;1477.43;20;EUR;1;Fender American Professional II Telecaster 2021 - Red
 10220182634825;2429.99;20;EUR;1;Fender American Stratocaster 1979 - Natural
 9997845135689;2915.99;20;EUR;1;Fender American Stratocaster 1982 - Sunburst
+10067734331721;1166.39;20;EUR;1;Fender American Stratocaster 2007 - Seymour Duncan Antiquity
 10276917772617;1943.99;20;EUR;1;Fender American Vintage 52 Reissue Telecaster 1995 - Butterscotch Blonde
 10141638394185;738.71;20;EUR;1;Fender American Vintage Jaguar Body - Sunburst
 10240966000969;680.39;20;EUR;1;Fender Classic 50s Stratocaster 2016 - Surf Green
@@ -440,6 +441,7 @@ product_code;price_gross;vat;currency;stock;name
 10104279368009;790.55;20;EUR;1;Fender Japan 72´ Reissue Telecaster 1993-1994 - Candy Apple Red Repaint - Vintage
 10236555952457;1166.39;20;EUR;1;Fender Japan CHAR-MG 69 Reissue Mustang 2019 - Olympic White
 10047126995273;923.39;20;EUR;1;Fender Japan Classic 70s Telecaster 2016 - Blue
+9974434693449;1166.39;20;EUR;1;Fender Japan Custom Traditional 60s Telecaster 2025 - Shell Pink
 9925407998281;914.75;20;EUR;1;Fender Japan Hybrid Series Telecaster 2018 - Natural
 10231534420297;874.79;20;EUR;1;Fender Japan Jazz Bass Special 1991-1992 - Black
 9947289682249;914.75;20;EUR;1;Fender Japan Jazzmaster Junior Collection 2022 - Satin Shell Pink
@@ -489,7 +491,6 @@ product_code;price_gross;vat;currency;stock;name
 9692652437833;2429.99;20;EUR;1;Fender Telecaster 1976 - Vintage White
 10255403417929;3110.39;20;EUR;1;Fender Telecaster 1979 - White Blonde
 10277132763465;680.39;20;EUR;1;Fender Telecaster 2021 - Lake Placid Blue
-10277501927753;583.19;20;EUR;1;Fender Telecaster Lefthand 2017 - Sunburst
 10092544688457;615.59;20;EUR;1;Fender Telecoustic 2000 - Candy Apple Red
 10136243863881;615.59;20;EUR;1;Fender Telecoustic 2014 - Flame Maple Sunburst
 10255390474569;971.99;20;EUR;1;Fender Tom Delonge Signature Stratocaster 2023 - Daphne Blue
@@ -779,7 +780,6 @@ product_code;price_gross;vat;currency;stock;name
 10193354883401;1069.19;20;EUR;1;Taylor SB1 2011 - Black
 10008569971017;748.43;20;EUR;1;Tokai ALS94GT Love Rock Les Paul 2023 - Goldtop
 10091454890313;738.71;20;EUR;1;Tokai Breezysound Lefthand Telecaster 2010 - Natural
-9948728623433;824.03;20;EUR;1;Tokai Breezysound TE120 Telecaster 2016 - Sunburst
 9947266777417;997.91;20;EUR;1;Tokai Breezysound TE150 Telecaster 2015 - Blue Flower
 9948729803081;898.55;20;EUR;1;Tokai Breezysound TE150 Telecaster 2015 - Blue Flower
 9947275493705;1662.11;20;EUR;1;Tokai ES180-AL Alvin Lee Signature Model 2020 - Cherry
