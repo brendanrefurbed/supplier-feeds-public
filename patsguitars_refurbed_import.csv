@@ -495,7 +495,6 @@ product_code;price_gross;vat;currency;stock;name
 10136285479241;2631.95;20;EUR;1;Fender USA Precision Bass 1975 - Sunburst
 10023442415945;6317.99;20;EUR;1;Fender USA Telecaster 1968 - Natural
 10236651274569;971.99;20;EUR;1;Fender Vintera 60s Jaguar 2022 - Sunburst
-10220051431753;738.71;20;EUR;1;Fender Vintera 60s Stratocaster 2019 - Sunburst
 10216726659401;874.79;20;EUR;1;Fernandes Telecaster 1974 - Natural - Vintage Japan
 10181802525001;462.23;20;EUR;1;FGN Fujigen J-Standard Strat 2012 - Lake Placid Blue
 10193134256457;831.59;20;EUR;1;FGN Fujigen Japan J-Standard HSS 2020
@@ -580,6 +579,7 @@ product_code;price_gross;vat;currency;stock;name
 10123548164425;738.71;20;EUR;1;Greco Matsumoku Stratocaster 1970s - Sunburst
 10249162326345;777.59;20;EUR;1;Greco SE-380 Super Sounds Stratocaster 1979 - Sunburst
 10091491524937;583.19;20;EUR;1;Greco SE450 Scalloped Stratocaster 1980 - Black
+10164906328393;631.79;20;EUR;1;Greco SG Matsumoku 1975 - Cherry - Vintage
 10256747823433;874.79;20;EUR;1;Greco SG SS63-60 Mint Collection 1990s - Vintage White
 9574622200137;575.63;20;EUR;1;Greco SS-600 1990s - Heritage Cherry
 10254398488905;680.39;20;EUR;1;Greco Stratocaster 1970s - Natural
@@ -694,7 +694,6 @@ product_code;price_gross;vat;currency;stock;name
 9729058144585;874.79;20;EUR;1;Michael Kelly Custom Collection Patriot Instinct 2021 - Scorched
 10169736462665;512.99;20;EUR;1;MJT Aged Relic Nitro Jazzmaster Body - Vintage White
 10240973799753;777.59;20;EUR;1;Mosrite Avenger - Cherry Red
-10254400979273;680.39;20;EUR;1;Mosrite The Ventures Model - Black
 10169735709001;1846.79;20;EUR;1;Music Man Benji Madden Signature Silhouette Special 2005 - Madden Green
 9914137903433;849.95;20;EUR;1;Music Man Ernie Ball Axis Sport 1998 - Black
 10230908158281;1846.79;20;EUR;1;Music Man Ernie Ball Sterling 4H Bass 2000 - Candy Apple Red
