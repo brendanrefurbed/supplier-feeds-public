@@ -1,5 +1,4 @@
 product_code;price_gross;vat;currency;stock;name
-GITB940;808.92;21;EUR;1;Ampeg Heavy Stud GEH 150 | Burgundy
 GITB1069;916.92;21;EUR;1;Blueridge BR-140A Historic Dreadnought | Adirondack Natural
 GITB912;1348.92;21;EUR;1;Boss Eurus GS-1 | Black Midi
 GITB1035;1456.92;21;EUR;1;Carvin LB76 Neck Through | Natural
@@ -13,7 +12,6 @@ GITB820;1672.92;21;EUR;1;ESP LTD SN-1 HT | Black Blast
 GITB1105;5286.6;21;EUR;1;ESP Original M-2 CTM NT Titan | Metal Black Sparkle
 GITB903;970.92;21;EUR;1;Fender Acoustasonic Player Jazzmaster | Ice Blue
 GITB1065;1456.92;21;EUR;1;Fender American Player Performer Stratocaster | Arctic White
-GITB1055;1830.6;21;EUR;1;Fender American Pro II Stratocaster HH | Crimson Transparant
 GITB1095;1348.92;21;EUR;1;Fender American Standard Stratocaster 1995 | Black
 GITB1032;1456.92;21;EUR;1;Fender American Standard Telecaster 1995 | Sunburst
 GITB1092;4480.92;21;EUR;1;Fender Custom Shop '59 Stratocaster Heavy Relic | White
@@ -24,7 +22,6 @@ GITB1070;3126.6;21;EUR;1;Fender Stratocaster International 1981 | Monaco Yellow
 GITB1040;5398.92;21;EUR;1;Gibson Custom Shop Les Paul | Figured Peacock
 GITB894;3778.92;21;EUR;1;Gibson Explorer Designer Series 1985 | White Blue Stripes
 GITB1075;2320.92;21;EUR;1;Gibson Les Paul Classic 2006 | Cherry Sunburst
-GITB1093;1186.92;21;EUR;1;Gibson SG Tribute 2022 | Walnut
 10601328738641;10.75;21;EUR;1;GitaarBarbaar Elektrische Gitaarsnaren Regular Light (10-46)
 10601353871697;29.11;21;EUR;1;GitaarBarbaar Elektrische Gitaarsnaren Regular Light (10-46) 3-Pack
 10600964784465;74.52;21;EUR;1;GitaarBarbaar Gigbag Elektrische Gitaar
