@@ -121,6 +121,7 @@ product_code;price_gross;vat;currency;stock;name
 10141863051593;1292.75;20;EUR;1;ESP Flying A The Alfee 1990 - White - Vintage Japan
 9937275650377;973.07;20;EUR;1;ESP Forest Bass 2013 - Black
 9989367333193;874.79;20;EUR;1;ESP LTD Andy James Signature AJ-1 2014 - Black Satin
+10292891320649;971.99;20;EUR;1;ESP LTD EC-1000T Les Paul Deluxe 2022 - Honey Burst Satin
 10136402493769;1141.55;20;EUR;1;ESP LTD GL-200K George Lynch Signature 2012 - Kamikaze
 9831307608393;709.55;20;EUR;1;ESP MA280-B Bass 1999 - See Thru Brown
 10033162649929;1846.79;20;EUR;1;ESP Random Star - Purple Tiger
@@ -227,10 +228,12 @@ product_code;price_gross;vat;currency;stock;name
 10277476041033;680.39;20;EUR;1;Faber Les Paul Revival Model - Aged Black
 10277478236489;680.39;20;EUR;1;Faber Les Paul Revival Model - Aged Black
 10277464113481;680.39;20;EUR;1;Faber Les Paul Revival Model - Aged Sunburst
+9971870826825;215.99;20;EUR;1;Faber MasterKit Premium – Gibson ABR-1 – Nickel Aged
 9972770570569;215.99;20;EUR;1;Faber MasterKit Premium – Gibson ABR-1 – Nickel Gloss
 9972765950281;215.99;20;EUR;1;Faber MasterKit Premium – Metric (Epiphone & Asian) – Nickel Aged
 9971628933449;161.99;20;EUR;1;Faber MasterKit – Gibson (ABR-1) – Nickel Aged
 9971856769353;161.99;20;EUR;1;Faber MasterKit – Gibson (ABR-1) – Nickel Gloss
+9971868172617;161.99;20;EUR;1;Faber MasterKit – Metric (Epiphone & Asian) – Gold Gloss
 9971821117769;161.99;20;EUR;1;Faber MasterKit – Metric (Epiphone & Asian) – Nickel Aged
 10263472734537;43.19;20;EUR;1;Faber NSWKIT-IGA Bridge Adapter, 5mm base/6-32inch stud, Gold Aged
 10263472800073;37.79;20;EUR;1;Faber NSWKIT-IGG Bridge Adapter, 5mm base/6-32inch stud, Gold Glossy
@@ -469,9 +472,9 @@ product_code;price_gross;vat;currency;stock;name
 10176872644937;831.59;20;EUR;1;Fender Japan TL-STD Telecaster 2013 - Sand
 10033164321097;1385.63;20;EUR;1;Fender Japan TL62B 62’ Telecaster 2017 - Ice Blue Metallic
 9989386666313;914.75;20;EUR;1;Fender Japan Traditional 60s II Stratocaster 2021 - Sunburst
-10175422628169;878.03;20;EUR;1;Fender Japan Traditional 60s II Telecaster 2020 - Lake Placid Blue
 9942059811145;1330.55;20;EUR;1;Fender Japan Traditional Collection 60s Telecaster 2025 - Stardust Pink
 10080808370505;1229.03;20;EUR;1;Fender Japan Traditional II 60s Jaguar 2022 - Sunburst
+10292843446601;1069.19;20;EUR;1;Fender Japan Traditional II 60s Telecaster 2025 - Vintage White
 10033174479177;7775.99;20;EUR;1;Fender Jazzmaster 1963 Pre CBS - Inca Silver Refin
 10236614836553;971.99;20;EUR;1;Fender Jimmie Vaughan Tex-Mex Stratocaster 2022 - Olympic White
 10240950403401;874.79;20;EUR;1;Fender Meteora 2021 - Sunburst
@@ -514,6 +517,7 @@ product_code;price_gross;vat;currency;stock;name
 10228063895881;1662.11;20;EUR;1;Gibson Les Paul Classic 2015 - Vintage Sunburst
 10033181557065;2770.19;20;EUR;1;Gibson Les Paul Custom Shop 1998 - Catalina Red
 10255401746761;3401.99;20;EUR;1;Gibson Les Paul Deluxe 1980 - Natural
+10292887028041;1263.59;20;EUR;1;Gibson Les Paul Junior 2001 - Tobacco Burst
 10091978129737;1316.51;20;EUR;1;Gibson Les Paul Junior 2010 - TV Yellow
 10141672898889;1200.95;20;EUR;1;Gibson Les Paul Special 2005 - Faded Cherry
 10231535763785;1263.59;20;EUR;1;Gibson Les Paul Special 2005 - Faded Yellow
@@ -525,6 +529,7 @@ product_code;price_gross;vat;currency;stock;name
 10136423498057;1929.95;20;EUR;1;Gibson Les Paul Standard DC 2001 - Trans Red
 10236528886089;2138.39;20;EUR;1;Gibson Les Paul Standard DC Plus 2005 - Amber
 10033169695049;7387.19;20;EUR;1;Gibson Les Paul Standard Slash 4 Limited Album Edition 2021 - 1 of 250
+10292877590857;971.99;20;EUR;1;Gibson Les Paul Studio 2012 - Ebony
 10231537336649;2721.59;20;EUR;1;Gibson Les Paul Supreme 2023 -  Wine Red
 10231421665609;1200.95;20;EUR;1;Gibson Les Paul Tribute P90 2016 - Tobacco Sunburst
 10256705618249;1943.99;20;EUR;1;Gibson Melody Maker DC 1977 - Sunburst
@@ -588,6 +593,7 @@ product_code;price_gross;vat;currency;stock;name
 10136127766857;701.99;20;EUR;1;Greco Super Sounds Stratocaster 1977 - Vintage White
 10117154996553;738.71;20;EUR;1;Greco Super Sounds Stratocaster SE380 1979 - Sunburst
 10255394308425;2721.59;20;EUR;1;Gretsch 6120DE Duane Eddy Signature 1997 - Ebony Burst
+10292888568137;1846.79;20;EUR;1;Gretsch 6120TM Chet Atkins 2009 - Orange Stain
 10240952271177;680.39;20;EUR;1;Gretsch G5420T 2017 - Orange
 10231381426505;2031.47;20;EUR;1;Gretsch G6129TL 2010 - Jet Light Blue Pearl
 10227918635337;1846.79;20;EUR;1;Gretsch G6228FM Jet Players Edition 2018 - Crimson Stain
@@ -608,7 +614,6 @@ product_code;price_gross;vat;currency;stock;name
 10176889651529;96.22;20;EUR;1;Guyatone PS-038 Bass Exciter/Limiter B-II Effect Pedal 1987 - Vintage Japan
 10176892305737;131.21;20;EUR;1;Guyatone PS-104 Cross Over Auto Wah Effect Pedal 1980 - Vintage Japan
 10117754880329;439.55;20;EUR;1;Hagstrom Ultra Swede 2008 - Red Burst
-10254404518217;583.19;20;EUR;1;HAGSTROM Viking The Rod LTD 2012 - Black
 9821187211593;2915.99;20;EUR;1;Hamer 1978 Bound and Crowned - Sunburst
 10126045675849;231.11;20;EUR;1;Harley Benton Piezo Stratocaster - Sunburst
 10240953811273;777.59;20;EUR;1;Höfner 173 - Vinyl White
@@ -696,6 +701,7 @@ product_code;price_gross;vat;currency;stock;name
 9914137903433;849.95;20;EUR;1;Music Man Ernie Ball Axis Sport 1998 - Black
 10230908158281;1846.79;20;EUR;1;Music Man Ernie Ball Sterling 4H Bass 2000 - Candy Apple Red
 10227954843977;1292.75;20;EUR;1;Music Man Ernie Ball StingRay EX Bass - Red
+10292879524169;1457.99;20;EUR;1;Music Man StingRay II 1977 - Sunburst
 10277169234249;1263.59;20;EUR;1;Music Man Sub Bass 2004 - Textured Cinnamon
 10206012997961;97.19;20;EUR;1;MXR Boost/Line Driver - Effektpedal
 10206011588937;97.19;20;EUR;1;MXR Smart Gate - Effektpedal
@@ -814,6 +820,8 @@ product_code;price_gross;vat;currency;stock;name
 10176915636553;139.96;20;EUR;1;VOX Joe Satriani Signature JS-DS Satchurator Distortion Effect Pedal - Japan
 10236650651977;1943.99;20;EUR;1;Vox Virage 2010 - Trans Red
 9722250592585;4859.99;20;EUR;1;Wandre Tri-Lam Teenager Blue Jeans 1959 - Multicolour
+10292790264137;2138.39;20;EUR;1;Warwick Corvette $$ Double Buck Bass 2011 - Turquoise Blue Oil Finish
+10292793246025;2138.39;20;EUR;1;Warwick Corvette $$ Special Edition Double Buck Bass 2009 - Macassar Ebony Top
 10227894747465;554.03;20;EUR;1;Warwick Corvette Rock Bass 5-String 2013 - Black
 10276941005129;874.79;20;EUR;1;Warwick Corvette Standard Bass 2005 - Brown Natural
 9997843038537;777.59;20;EUR;1;Warwick Infinity RockBass 2018 - Natural
