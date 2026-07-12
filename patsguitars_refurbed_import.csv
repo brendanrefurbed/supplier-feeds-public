@@ -68,6 +68,7 @@ product_code;price_gross;vat;currency;stock;name
 10192902390089;131.21;20;EUR;1;DOD FX25 Envelope Filter Effect Pedal - USA
 10192934076745;131.21;20;EUR;1;DOD FX50-B Overdrive Effect Pedal - USA
 9925435359561;2915.99;20;EUR;1;Duesenberg Fantom A 2024 - Matt Olive
+10294071787849;1749.59;20;EUR;1;Duesenberg Starplayer TV Deluxe 2014 - Crimson Red
 10249312895305;680.39;20;EUR;1;EDWARDS by ESP E-RA-110HR ROUAGE RAYZI
 10255388148041;874.79;20;EUR;1;Edwards by ESP Sugizo Prince ES-150 - Vintage White
 10236570206537;1360.79;20;EUR;1;Edwards E-ALEXI Sawtooth 2007 - Black
@@ -78,6 +79,7 @@ product_code;price_gross;vat;currency;stock;name
 10292775813449;777.59;20;EUR;1;Epiphone Casino VC 1996 - Sunburst
 10199407329609;738.71;20;EUR;1;Epiphone Casino VS 2011 - Tobacco Burst
 10104266031433;527.03;20;EUR;1;Epiphone Dovena Akustik 2007 - Natural
+10294177792329;1263.59;20;EUR;1;Epiphone E230TD Casino inspired by John Lennon 2010 - Natural
 10159356019017;738.71;20;EUR;1;Epiphone Flying V 2000 - Natural
 10231388701001;831.59;20;EUR;1;Epiphone Flying V 2006 - Korina Natural
 10108768551241;831.59;20;EUR;1;Epiphone Japan Les Paul 1996 - Fotoflame
@@ -387,18 +389,22 @@ product_code;price_gross;vat;currency;stock;name
 10263292117321;120.95;20;EUR;1;Faber WRAPT-NG Faber Wraptonate, Intonatable Stoptail Bridge, Gloss Nickel
 10249372827977;165.23;20;EUR;1;Fame URM-1000 Effect Pedal
 9914165526857;3401.99;20;EUR;1;"Fender '52 Telecaster Custom Shop ""California Beach"" NOS Limited Edition 2004 - Pacific Green"
+10294068674889;2138.39;20;EUR;1;Fender 25th Anniversary Stratocaster 1979 - Silver Metallic
 10067502203209;2429.99;20;EUR;1;Fender 54’ Reissue American Stratocaster 40th Anniversary 1994 - Sunburst
 10067515834697;1292.75;20;EUR;1;Fender American Deluxe Stratocaster 2005 - Cherry Sunburst
 10033161535817;1662.11;20;EUR;1;Fender American Deluxe Telecaster 2002 - Cherry Sunburst
 10016034488649;1477.43;20;EUR;1;Fender American Professional II Telecaster 2021 - Red
+10294152757577;1457.99;20;EUR;1;Fender American Professional Stratocaster HSS 2015 - Olympic White
 10220182634825;2429.99;20;EUR;1;Fender American Stratocaster 1979 - Natural
 9997845135689;2915.99;20;EUR;1;Fender American Stratocaster 1982 - Sunburst
 10067734331721;1166.39;20;EUR;1;Fender American Stratocaster 2007 - Seymour Duncan Antiquity
 10276917772617;1943.99;20;EUR;1;Fender American Vintage 52 Reissue Telecaster 1995 - Butterscotch Blonde
 10141638394185;738.71;20;EUR;1;Fender American Vintage Jaguar Body - Sunburst
+10294075130185;1943.99;20;EUR;1;Fender American Vintage Reissue 62 Jazz Bass 1999 - Lake Placid Blue
 10240966000969;680.39;20;EUR;1;Fender Classic 50s Stratocaster 2016 - Surf Green
 10186271916361;2954.87;20;EUR;1;Fender Custom Shop 56 Reissue Stratocaster 2021 - Scalloped - Vintage White - Relic
 9997912670537;4859.99;20;EUR;1;Fender Custom Shop Bloodwood Fretless Bass Masterbuilt by Jason Davis 2003
+10294181757257;2915.99;20;EUR;1;Fender Custom Shop Deluxe Stratocaster 2010 - Natural
 9989299536201;5831.99;20;EUR;1;Fender Custom Shop Nocaster Telecaster Thinline NOS 2005 - Butterscotch Blonde
 10228045021513;3232.43;20;EUR;1;Fender Custom Shop Showmaster 2026 - Antique Burst
 10111485411657;4859.99;20;EUR;1;Fender Custom Shop ’63 Stratocaster Journeyman Relic HSS 2023 - Candy Apple Red
@@ -443,6 +449,8 @@ product_code;price_gross;vat;currency;stock;name
 10292890206537;971.99;20;EUR;1;Fender Japan 72 Reissue Stratocaster 1993-1994 - Natural
 10255385329993;971.99;20;EUR;1;Fender Japan 72 Reissue Stratocaster 1997-2000 - Black
 10277137121609;874.79;20;EUR;1;Fender Japan 72 Reissue Stratocaster 1997-2000 - Black
+10294053568841;971.99;20;EUR;1;Fender Japan 72 Reissue Stratocaster 1997-2000 - Vintage White
+10294130737481;923.39;20;EUR;1;Fender Japan 72 Reissue Stratocaster CST-50M 1984-1987 - Vintage White
 10249153872201;1166.39;20;EUR;1;Fender Japan 72 Reissue Stratocaster ST72-86DSC 2006-2008 - Vintage White
 10292872151369;971.99;20;EUR;1;Fender Japan 72 Reissue Telecaster 1997-2000 - Black
 10104279368009;790.55;20;EUR;1;Fender Japan 72´ Reissue Telecaster 1993-1994 - Candy Apple Red Repaint - Vintage
@@ -451,9 +459,15 @@ product_code;price_gross;vat;currency;stock;name
 10292835221833;971.99;20;EUR;1;Fender Japan CTL-50R Telecaster 1984-1987 - Vintage White
 9974434693449;1166.39;20;EUR;1;Fender Japan Custom Traditional 60s Telecaster 2025 - Shell Pink
 9925407998281;914.75;20;EUR;1;Fender Japan Hybrid Series Telecaster 2018 - Natural
+10294145548617;777.59;20;EUR;1;Fender Japan Jazz Bass 1999-2002 - Sunburst
+10294038200649;826.19;20;EUR;1;Fender Japan Jazz Bass Aerodyne 1994-1995 Black
 10231534420297;874.79;20;EUR;1;Fender Japan Jazz Bass Special 1991-1992 - Black
 9947289682249;914.75;20;EUR;1;Fender Japan Jazzmaster Junior Collection 2022 - Satin Shell Pink
+10294092824905;874.79;20;EUR;1;Fender Japan JV Stratocaster MOD 1982 - Natural
 10047138005321;1200.95;20;EUR;1;Fender Japan Limited Edition Traditional 60s II Telecaster 2002 - Black
+10294078800201;1263.59;20;EUR;1;Fender Japan PBAC-100 Precision Bass 1990-1991 - Natural
+10294044754249;874.79;20;EUR;1;Fender Japan Precision Bass 1993-1994 - Lake Placid Blue
+10294049079625;874.79;20;EUR;1;Fender Japan Precision Bass 2004-2005 - Candy Apple Red
 10236596388169;485.99;20;EUR;1;Fender Japan SF-456 Stratocaster 1984-1987 - Black
 10236539896137;777.59;20;EUR;1;Fender Japan Squier Partcaster 1992-1993 - Shell Pink
 9961928294729;449.27;20;EUR;1;Fender Japan ST-235M Mini Stratocaster 1991-1992 - Black - Vintage
@@ -491,7 +505,9 @@ product_code;price_gross;vat;currency;stock;name
 10146546319689;1292.75;20;EUR;1;Fender MJT 50s Reissue Telecaster - Dakota Red - Heavy Relic
 10124582388041;1247.39;20;EUR;1;Fender MJT 62 Reissue Stratocaster - Sonic Blue - Heavy Relic
 9903118680393;3887.99;20;EUR;1;Fender Mustang 1973 - Sunburst
+10294154297673;1943.99;20;EUR;1;Fender Mustang 1978 - Black
 10047131386185;738.71;20;EUR;1;Fender Squier 51 Strat/Tele Hybrid - Butterscotch Blonde
+10294157607241;2138.39;20;EUR;1;Fender Stevie Ray Vaughan Signature Stratocaster 1992 - Sunburst
 10125910671689;2309.03;20;EUR;1;Fender Stevie Ray Vaughan Signature Stratocaster 2003 - Sunburst
 10255399420233;2915.99;20;EUR;1;Fender Telecaster 1975 - Natural
 9692652437833;2429.99;20;EUR;1;Fender Telecaster 1976 - Vintage White
@@ -518,6 +534,7 @@ product_code;price_gross;vat;currency;stock;name
 10216636973385;554.03;20;EUR;1;G&L JB Tribute Series Jazz Bass 2022 - Lake Placid Blue
 10277173428553;1555.19;20;EUR;1;Gibson 1960 Les Paul Classic 2002- Ebony
 10098886181193;2770.19;20;EUR;1;Gibson Custom Shop 57´ Les Paul Standard 2001 - Planet Green
+10294063366473;2429.99;20;EUR;1;Gibson Explorer Robot 2008 - Metallic Red
 10131764445513;923.39;20;EUR;1;Gibson Flying V Melody Maker 2011 - Ebony
 10023466795337;1283.03;20;EUR;1;Gibson L6-S Custom 1974 - Cherry Sunburst
 10176866746697;1166.39;20;EUR;1;Gibson Les Paul 70‘s Tribute 2013 - Tobacco Burst
@@ -528,6 +545,7 @@ product_code;price_gross;vat;currency;stock;name
 10255401746761;3401.99;20;EUR;1;Gibson Les Paul Deluxe 1980 - Natural
 10292887028041;1263.59;20;EUR;1;Gibson Les Paul Junior 2001 - Tobacco Burst
 10091978129737;1316.51;20;EUR;1;Gibson Les Paul Junior 2010 - TV Yellow
+10294176383305;3401.99;20;EUR;1;Gibson Les Paul Recording 1974-1975 - Walnut
 10294032335177;1943.99;20;EUR;1;Gibson Les Paul Signature T 2013 - Goldtop
 10294148235593;1166.39;20;EUR;1;Gibson Les Paul Special 2001 - Ebony
 10141672898889;1200.95;20;EUR;1;Gibson Les Paul Special 2005 - Faded Cherry
@@ -540,10 +558,12 @@ product_code;price_gross;vat;currency;stock;name
 10136423498057;1929.95;20;EUR;1;Gibson Les Paul Standard DC 2001 - Trans Red
 10236528886089;2138.39;20;EUR;1;Gibson Les Paul Standard DC Plus 2005 - Amber
 10033169695049;7387.19;20;EUR;1;Gibson Les Paul Standard Slash 4 Limited Album Edition 2021 - 1 of 250
+10294167863625;1069.19;20;EUR;1;Gibson Les Paul Studio 1999 - Wine Red
 10292877590857;971.99;20;EUR;1;Gibson Les Paul Studio 2012 - Ebony
 10231537336649;2721.59;20;EUR;1;Gibson Les Paul Supreme 2023 -  Wine Red
 10294163013961;1943.99;20;EUR;1;Gibson Les Paul Traditional - 2018 Honey Burst
 10231421665609;1200.95;20;EUR;1;Gibson Les Paul Tribute P90 2016 - Tobacco Sunburst
+10294169469257;971.99;20;EUR;1;Gibson LPJ Les Paul 2013 - Goldtop
 10256705618249;1943.99;20;EUR;1;Gibson Melody Maker DC 1977 - Sunburst
 10236615328073;1749.59;20;EUR;1;Gibson SG II 1970-1972 MOD - Brown
 10256722166089;1263.59;20;EUR;1;Gibson SG Standard 2022 - Ebony
@@ -615,7 +635,6 @@ product_code;price_gross;vat;currency;stock;name
 10152898527561;738.71;20;EUR;1;Grover Jackson Flying V - Silver Sparkle
 9766925009225;345.59;20;EUR;1;Grover Jackson GJr‑R40SP Mini Rhoads 1996 - Dots
 9843703054665;355.31;20;EUR;1;Grover Jackson IG 1996 - Trans Red
-9786588037449;383.39;20;EUR;1;Grover Jackson Superstrat - Blue
 9786588037449;383.39;20;EUR;1;Grover Jackson Superstrat - Blue
 10169839681865;96.22;20;EUR;1;Guyatone Hard Rocker HR2 Effect Pedal 1999 - Vintage Japan
 10169789776201;96.22;20;EUR;1;Guyatone HR2 Hard Rocker 1995 Effect Pedal - Vintage Japan
