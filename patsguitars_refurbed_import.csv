@@ -123,7 +123,6 @@ product_code;price_gross;vat;currency;stock;name
 10212565025097;874.79;20;EUR;1;ESP AS-300 Alfee Akustik - Black
 9937240293705;3110.39;20;EUR;1;ESP E-II Eclipse - Tobacco Burst
 9989280661833;1828.43;20;EUR;1;ESP E-II Horizon NT HS Hipshot - Purple Sparkle
-9947291058505;1570.31;20;EUR;1;ESP E-II ST-2 2015 - Trans Black
 9937295442249;1197.71;20;EUR;1;ESP Edwards Batman Ninja Warrior Viper 2005 - Black
 10057509863753;1929.95;20;EUR;1;ESP FA-II Flying A „The Alfee“ - White
 10141863051593;1292.75;20;EUR;1;ESP Flying A The Alfee 1990 - White - Vintage Japan
@@ -457,7 +456,6 @@ product_code;price_gross;vat;currency;stock;name
 10047126995273;923.39;20;EUR;1;Fender Japan Classic 70s Telecaster 2016 - Blue
 9974434693449;1049.75;20;EUR;1;Fender Japan Custom Traditional 60s Telecaster 2025 - Shell Pink
 10294145548617;777.59;20;EUR;1;Fender Japan Jazz Bass 1999-2002 - Sunburst
-10294038200649;826.19;20;EUR;1;Fender Japan Jazz Bass Aerodyne 1994-1995 Black
 10231534420297;874.79;20;EUR;1;Fender Japan Jazz Bass Special 1991-1992 - Black
 9947289682249;914.75;20;EUR;1;Fender Japan Jazzmaster Junior Collection 2022 - Satin Shell Pink
 10294092824905;874.79;20;EUR;1;Fender Japan JV Stratocaster MOD 1982 - Natural
@@ -465,7 +463,6 @@ product_code;price_gross;vat;currency;stock;name
 10294044754249;874.79;20;EUR;1;Fender Japan Precision Bass 1993-1994 - Lake Placid Blue
 10294049079625;874.79;20;EUR;1;Fender Japan Precision Bass 2004-2005 - Candy Apple Red
 10236596388169;462.23;20;EUR;1;Fender Japan SF-456 Stratocaster 1984-1987 - Black
-10236539896137;738.71;20;EUR;1;Fender Japan Squier Partcaster 1992-1993 - Shell Pink
 9961928294729;449.27;20;EUR;1;Fender Japan ST-235M Mini Stratocaster 1991-1992 - Black - Vintage
 10023408861513;831.59;20;EUR;1;Fender Japan ST-43 Stratocaster 1993-1994 - Black
 10108705636681;831.59;20;EUR;1;Fender Japan ST-43 Stratocaster 1993-1994 - Black
@@ -562,6 +559,7 @@ product_code;price_gross;vat;currency;stock;name
 10231421665609;1200.95;20;EUR;1;Gibson Les Paul Tribute P90 2016 - Tobacco Sunburst
 10294169469257;971.99;20;EUR;1;Gibson LPJ Les Paul 2013 - Goldtop
 10256705618249;1943.99;20;EUR;1;Gibson Melody Maker DC 1977 - Sunburst
+10231417012553;2770.19;20;EUR;1;Gibson Memphis Custom Shop ES-275 2016 - Cherry Red
 10236615328073;1662.11;20;EUR;1;Gibson SG II 1970-1972 MOD - Brown
 10256722166089;1263.59;20;EUR;1;Gibson SG Standard 2022 - Ebony
 10091535728969;7775.99;20;EUR;1;Gibson Thunderbird II Bass 1964 – Alembic Custom 1976 – Tree of Life – Ember Red
