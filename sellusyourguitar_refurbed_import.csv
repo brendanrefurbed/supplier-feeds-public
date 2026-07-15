@@ -1,4 +1,5 @@
 product_code;price_gross;vat;currency;stock;name
+f0d62067-e25d-6419-75f5-7f7c0a2dc5b5;550.8;20;GBP;1;Fender Standard Precision Bass Candy Apple Red 2013 Electric Bass
 e51442ac-ddcb-29cc-f542-0351da45035e;1393.2;20;GBP;1;Fender American Professional Precision II 2025 Dark Night Electric Bass
 eebb22f5-aca5-3d82-e434-a17fb5cf13ea;577.8;20;GBP;1;Schecter PT Special Purple Burst Pearl 2022 Electric Guitar
 97e31da5-72b8-9b8c-ad7c-7902e84436a3;2899.8;20;GBP;1;PRS Special 22 Semi Hollow Faded Whale Blue 2023 Electric Guitar
@@ -19,7 +20,6 @@ ca9583de-a5be-a424-33d6-4751fe0d9fe7;637.2;20;GBP;1;PRS SE Custom 24-08 Turquois
 24e82535-035d-45b8-4701-122ec8d85280;2786.4;20;GBP;1;PRS DGT Tobacco Sunburst 2024 Electric Guitar
 3cee9e92-d6dc-1bed-a4cb-0aaf7c28e394;815.4;20;GBP;1;Ibanez RGD71ALMS Black Aurora Burst Matte 2025 Multi-Scale 7-StringGuitar
 7d322c59-ed8a-3697-37bb-163729e23364;2030.4;20;GBP;1;Rickenbacker 330/12 Fireglo 2024 Semi-Hollow 12-String Electric Guitar
-63d7ec90-d67e-4bb0-168d-70a4cd73c07b;1798.2;20;GBP;1;Gibson Les Paul Standard 50s Double Trouble Tobacco Sunburst 2025 Guitar
 abb0d935-d4ed-c401-a14b-dc37bf86d554;729.0;20;GBP;1;Fender Player Plus Telecaster Cosmic Jade 2021 Electric Guitar
 1d2a873e-ce56-a25a-eb96-e4236f4f1e68;1566.0;20;GBP;1;Ernie Ball Music Man StingRay 2 EQ H Black 2010 Electric Bass
 1f314c9c-155e-37ce-035c-323f1647add9;1209.6;20;GBP;1;Gibson Les Paul Studio Natural Figured Top 2025 Electric Guitar
@@ -153,6 +153,7 @@ c14185da-e114-310b-f2c7-1cee2cf5ea11;1188.0;20;GBP;1;Taylor 416ce Grand Symphony
 9dd848c7-a870-a1ce-763b-ed787adb40f5;378.0;20;GBP;1;Warwick Rockbass Streamer Standard Trans Red 2002 Electric Bass
 fbd495db-3ca3-1f75-35b6-413df9fc1777;432.0;20;GBP;1;Sammick LN-20FRQM Faded Sunburst 2010 Electric Guitar
 1b1d5980-0444-f0d6-8e0c-b2b681dd83e0;2381.4;20;GBP;1;Gibson ES-335 Dot Cherry 2025 Semi-Hollow Electric Guitar
+2311a68f-bbcc-916d-31e6-cd3b3dff7228;648.0;20;GBP;1;Spector Legend 6 Classic Black Cherry 6-String Electric Bass
 c3e4ede2-3893-2b2e-c566-b71cdf1ee667;918.0;20;GBP;1;Fender Vintera II '60s Precision Bass 3-Colour Sunburst 2023 Electric Bass
 1552bc2d-69ab-2e56-7346-f2691bfa6557;318.6;20;GBP;1;Guild Surfliner HH Canyon Dusk 2022 Electric Guitar
 36d88061-16d0-dfa3-7351-8c931d8f06e1;1414.8;20;GBP;1;Fender American Original '50s Stratocaster 2-Colour Sunburst 2017Guitar
