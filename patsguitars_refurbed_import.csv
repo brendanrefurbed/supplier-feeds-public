@@ -496,6 +496,7 @@ product_code;price_gross;vat;currency;stock;name
 9903118680393;3887.99;20;EUR;1;Fender Mustang 1973 - Sunburst
 10294154297673;1943.99;20;EUR;1;Fender Mustang 1978 - Black
 10047131386185;738.71;20;EUR;1;Fender Squier 51 Strat/Tele Hybrid - Butterscotch Blonde
+10067744260425;738.71;20;EUR;1;Fender Squier 71’ Reissue Telecaster 2002-2004 - Butterscotch Blonde
 10294157607241;2138.39;20;EUR;1;Fender Stevie Ray Vaughan Signature Stratocaster 1992 - Sunburst
 10125910671689;2309.03;20;EUR;1;Fender Stevie Ray Vaughan Signature Stratocaster 2003 - Sunburst
 10255399420233;2915.99;20;EUR;1;Fender Telecaster 1975 - Natural
@@ -807,7 +808,6 @@ product_code;price_gross;vat;currency;stock;name
 10131705037129;646.91;20;EUR;1;Squier by Fender Avril Lavigne Signature Telecaster 2009
 10294087254345;680.39;20;EUR;1;Squier by Fender Japan JB-355 Jazz Bass 1984-1987 - Vintage White
 10294035022153;680.39;20;EUR;1;Squier by Fender Japan SST-33 Stratocaster 1991-1992 - Black
-10292802584905;1360.79;20;EUR;1;Squier by Fender JV Precision Bass 1983 - Vintage White
 10136413798729;728.99;20;EUR;1;Squier Hello Kitty Edition Mini Stratocaster 2006 - Pink
 10216755495241;3110.39;20;EUR;1;Suhr Classic Antique Pro - 3T Sunburst
 10104274551113;350.99;20;EUR;1;Switch Vibracell - Blue
