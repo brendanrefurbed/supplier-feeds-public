@@ -469,10 +469,8 @@ product_code;price_gross;vat;currency;stock;name
 10240736887113;831.59;20;EUR;1;Fender Japan ST-45 Stratocaster 2004-2005 - Vintage White
 10109276389705;831.59;20;EUR;1;Fender Japan ST-50 Stratocaster 1994-1995 - Sunburst - Vintage
 10175463948617;785.15;20;EUR;1;Fender Japan ST-STD Stratocaster 1995-1996 - Sunburst - Vintage
-10008554078537;787.31;20;EUR;1;Fender Japan ST62-65AS 40th Anniversary Stratocaster 1994-1995 - Yellow
 10008533991753;665.27;20;EUR;1;Fender Japan Standard Stratocaster 1993-1994 - Black - Vintage
 10080768524617;874.79;20;EUR;1;Fender Japan Standard Stratocaster 1994-1995 - Sunburst - Vintage
-9925451317577;673.91;20;EUR;1;Fender Japan STM-94M Stratocaster 1994-1995 - Black - Vintage
 10123540332873;831.59;20;EUR;1;Fender Japan STR-80R Stratocaster 1986-1987 - Black Burst - Vintage
 10240726925641;785.15;20;EUR;1;Fender Japan Stratocaster - Black
 10249366274377;680.39;20;EUR;1;Fender Japan Stratocaster 1988-1989 - Red Repaint
@@ -482,7 +480,6 @@ product_code;price_gross;vat;currency;stock;name
 9997844545865;971.99;20;EUR;1;Fender Japan TL-354 Telecaster 1990-1991 - Mustard - Vintage
 10108772352329;831.59;20;EUR;1;Fender Japan TL-43 Telecaster 1993-1994 - Black - Vintage
 10104267800905;790.55;20;EUR;1;Fender Japan TL-50 Telecaster 1994-1995 - Black - Vintage
-9948920480073;673.91;20;EUR;1;Fender Japan TL-STD Telecaster 1994-1995 - Black - Vintage
 10176872644937;831.59;20;EUR;1;Fender Japan TL-STD Telecaster 2013 - Sand
 10033164321097;1385.63;20;EUR;1;Fender Japan TL62B 62’ Telecaster 2017 - Ice Blue Metallic
 9989386666313;914.75;20;EUR;1;Fender Japan Traditional 60s II Stratocaster 2021 - Sunburst
@@ -826,7 +823,6 @@ product_code;price_gross;vat;currency;stock;name
 9948779413833;449.27;20;EUR;1;Tokai LBX50 Electric Bass 1984 - White
 9961976103241;524.87;20;EUR;1;Tokai Love Rock ALS80 Les Paul 2012 - Sparkle
 10015980224841;831.59;20;EUR;1;Tokai Love Rock ALS94T Les Paul 2023 - Goldtop
-9925408817481;741.95;20;EUR;1;Tokai Love Rock Les Paul 1994 - Cherry Sunburst
 10247177175369;971.99;20;EUR;1;Tokai Love Rock Les Paul 2002 - Honey Burst
 10118113952073;1229.03;20;EUR;1;Tokai Love Rock Les Paul LS162QZ 2023 - Quilt
 9949033365833;1123.19;20;EUR;1;Tokai LS100 Love Rock Les Paul 1990 - Mahogany
