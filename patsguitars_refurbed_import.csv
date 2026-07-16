@@ -56,7 +56,7 @@ product_code;price_gross;vat;currency;stock;name
 10220188959049;831.59;20;EUR;1;Charvel Pro-Mod So Cal 2013 - Red
 9751156588873;402.83;20;EUR;1;Charvette by Charvel 250SW 1989 - White
 9948761719113;485.99;20;EUR;1;Cheri Telecaster Thinline - Sunburst
-10219176755529;701.99;20;EUR;1;CITIZEN Ibanez Tube Screamer Tsuno Chrono Limited 500 TSTCC808
+10219176755529;647.99;20;EUR;1;CITIZEN Ibanez Tube Screamer Tsuno Chrono Limited 500 TSTCC808
 10111480791369;2527.19;20;EUR;1;Cole Clark FL2EC-BLBL-SUN 2021 - Natural Sunburst
 10131785023817;184.67;20;EUR;1;Collins CDP-1N Akustikgitarre - Natural
 9654574383433;777.59;20;EUR;1;Cort Elrick NJS4 Bass 2022 - Black
@@ -509,6 +509,7 @@ product_code;price_gross;vat;currency;stock;name
 10136285479241;2631.95;20;EUR;1;Fender USA Precision Bass 1975 - Sunburst
 10023442415945;6317.99;20;EUR;1;Fender USA Telecaster 1968 - Natural
 10236651274569;923.39;20;EUR;1;Fender Vintera 60s Jaguar 2022 - Sunburst
+10220051431753;738.71;20;EUR;1;Fender Vintera 60s Stratocaster 2019 - Sunburst
 10216726659401;874.79;20;EUR;1;Fernandes Telecaster 1974 - Natural - Vintage Japan
 10181802525001;462.23;20;EUR;1;FGN Fujigen J-Standard Strat 2012 - Lake Placid Blue
 10193134256457;831.59;20;EUR;1;FGN Fujigen Japan J-Standard HSS 2020
@@ -778,7 +779,6 @@ product_code;price_gross;vat;currency;stock;name
 10240933921097;646.91;20;EUR;1;PRS SE Standard 2005 - Camo
 10230962717001;831.59;20;EUR;1;PRS SE Zach Myers Signature 2010 - Royal Blue
 10181841191241;1385.63;20;EUR;1;PRS USA S2 Mira 2014 - Vintage Cherry
-10159383150921;139.31;20;EUR;1;Rocktile Akustikgitarre - Black
 10240743735625;139.31;20;EUR;1;Rocktile Pro MM250-MB - Dark Blue
 9914132496713;673.91;20;EUR;1;Schecter Banshee GT FR 2022 - Satin Trans Blue
 10067555352905;615.59;20;EUR;1;Schecter Damien Elite FR 2014 - Crimson Red
