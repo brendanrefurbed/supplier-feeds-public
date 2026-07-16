@@ -61,7 +61,6 @@ product_code;price_gross;vat;currency;stock;name
 10131785023817;184.67;20;EUR;1;Collins CDP-1N Akustikgitarre - Natural
 9654574383433;777.59;20;EUR;1;Cort Elrick NJS4 Bass 2022 - Black
 10067539657033;615.59;20;EUR;1;Cort S2800 2009 - Cherry Sunburst
-10123516576073;184.67;20;EUR;1;Coxx Let’s Roll Standard Model - Cherry Sunburst
 10249387606345;107.99;20;EUR;1;Crybaby GCB-95 Effect Pedal
 10176910393673;69.97;20;EUR;1;D'Addario Planet Waves PW-CT-04 Chromatic Tuner Effect Pedal
 10231404593481;874.79;20;EUR;1;Daion The´81 Caribou Akustik - Cherry
@@ -359,6 +358,7 @@ product_code;price_gross;vat;currency;stock;name
 10263470801225;28.07;20;EUR;1;Faber TPI-C-MGA Faber 8mm, metric,Tailpiece Inserts (pair) Steel, gold plated, aged
 10263470932297;24.83;20;EUR;1;Faber TPI-C-MGG Faber 8mm, metric,Tailpiece Inserts (pair) Steel, gold plated, glossy
 10263470997833;18.35;20;EUR;1;Faber TPI-C-MNA Faber 8mm, metric,Tailpiece Inserts (pair) Steel, nickel plated, aged
+10263471063369;17.27;20;EUR;1;Faber TPI-C-MNG Faber 8mm, metric,Tailpiece Inserts (pair) Steel, nickel plated, glossy
 10263291101513;77.75;20;EUR;1;Faber TPW-59GA Faber Vintage Spec ALU Wraparound Tailpiece, Gold, aged
 10263291134281;70.19;20;EUR;1;Faber TPW-59GG Faber Vintage Spec ALU Wraparound Tailpiece, Gold, glossy
 10263291167049;53.99;20;EUR;1;Faber TPW-59NA Faber Vintage Spec ALU Wraparound Tailpiece, Nickel - aged
