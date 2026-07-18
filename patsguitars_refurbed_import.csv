@@ -416,6 +416,7 @@ product_code;price_gross;vat;currency;stock;name
 10047280906569;1166.39;20;EUR;1;Fender Highway One Stratocaster 2006 - Natural
 10231382573385;1200.95;20;EUR;1;Fender Highway One Stratocaster 2008 - Sand
 10080697418057;777.59;20;EUR;1;Fender Japan / Squier 50s Telecaster 2023 - Sunburst
+10303886491977;874.79;20;EUR;1;Fender Japan 57 Reissue Stratocaster 1990-1991 - Sunburst
 10277096554825;874.79;20;EUR;1;Fender Japan 57 Reissue Stratocaster 1993-1994 - Vintage White
 10123556356425;831.59;20;EUR;1;Fender Japan 57´ Reissue Stratocaster 1994-1995 - Sunburst - Vintage
 10115822616905;831.59;20;EUR;1;Fender Japan 57´ Reissue Stratocaster 2006-2008 - Black Gold
@@ -441,9 +442,12 @@ product_code;price_gross;vat;currency;stock;name
 10292890206537;971.99;20;EUR;1;Fender Japan 72 Reissue Stratocaster 1993-1994 - Natural
 10255385329993;971.99;20;EUR;1;Fender Japan 72 Reissue Stratocaster 1997-2000 - Black
 10277137121609;874.79;20;EUR;1;Fender Japan 72 Reissue Stratocaster 1997-2000 - Black
+10303880134985;923.39;20;EUR;1;Fender Japan 72 Reissue Stratocaster 1997-2000 - Black
 10294053568841;971.99;20;EUR;1;Fender Japan 72 Reissue Stratocaster 1997-2000 - Vintage White
 10294130737481;923.39;20;EUR;1;Fender Japan 72 Reissue Stratocaster CST-50M 1984-1987 - Vintage White
 10249153872201;1166.39;20;EUR;1;Fender Japan 72 Reissue Stratocaster ST72-86DSC 2006-2008 - Vintage White
+10303725732169;777.59;20;EUR;1;Fender Japan 72 Reissue Telecaster 1993-1994 - Black
+10303734546761;874.79;20;EUR;1;Fender Japan 72 Reissue Telecaster 1993-1994 - Black
 10292872151369;971.99;20;EUR;1;Fender Japan 72 Reissue Telecaster 1997-2000 - Black
 10236555952457;1108.07;20;EUR;1;Fender Japan CHAR-MG 69 Reissue Mustang 2019 - Olympic White
 10047126995273;923.39;20;EUR;1;Fender Japan Classic 70s Telecaster 2016 - Blue
@@ -454,6 +458,7 @@ product_code;price_gross;vat;currency;stock;name
 9947289682249;914.75;20;EUR;1;Fender Japan Jazzmaster Junior Collection 2022 - Satin Shell Pink
 10294092824905;874.79;20;EUR;1;Fender Japan JV Stratocaster MOD 1982 - Natural
 10047138005321;1200.95;20;EUR;1;Fender Japan Limited Edition Traditional 60s II Telecaster 2002 - Black
+10303786647881;874.79;20;EUR;1;Fender Japan PJ-455 Precision Bass 1984-1987 - Black
 10294044754249;874.79;20;EUR;1;Fender Japan Precision Bass 1993-1994 - Lake Placid Blue
 10303889637705;874.79;20;EUR;1;Fender Japan Precision Bass 1999-2002 - Sunburst
 10294049079625;874.79;20;EUR;1;Fender Japan Precision Bass 2004-2005 - Candy Apple Red
@@ -479,7 +484,6 @@ product_code;price_gross;vat;currency;stock;name
 9989386666313;914.75;20;EUR;1;Fender Japan Traditional 60s II Stratocaster 2021 - Sunburst
 9942059811145;1330.55;20;EUR;1;Fender Japan Traditional Collection 60s Telecaster 2025 - Stardust Pink
 10080808370505;1229.03;20;EUR;1;Fender Japan Traditional II 60s Jaguar 2022 - Sunburst
-10292843446601;1069.19;20;EUR;1;Fender Japan Traditional II 60s Telecaster 2025 - Vintage White
 10033174479177;7775.99;20;EUR;1;Fender Jazzmaster 1963 Pre CBS - Inca Silver Refin
 10240950403401;831.59;20;EUR;1;Fender Meteora 2021 - Sunburst
 9989304320329;777.59;20;EUR;1;Fender Mexico FSR Stratocaster 1995 - Vintage White
@@ -505,6 +509,7 @@ product_code;price_gross;vat;currency;stock;name
 10216726659401;874.79;20;EUR;1;Fernandes Telecaster 1974 - Natural - Vintage Japan
 10181802525001;462.23;20;EUR;1;FGN Fujigen J-Standard Strat 2012 - Lake Placid Blue
 10193134256457;831.59;20;EUR;1;FGN Fujigen Japan J-Standard HSS 2020
+10303846220105;680.39;20;EUR;1;FGN Fujigen Japan J. Classic Jazz Bass 2017 - Sunburst
 10249086009673;1069.19;20;EUR;1;FGN Fujigen LS-10 Neo Classic Les Paul 2017
 9781268087113;1023.83;20;EUR;1;Framus Diablo Custom 2002
 9974426796361;524.87;20;EUR;1;Framus Diablo Progressive X - Trans Black
@@ -568,6 +573,7 @@ product_code;price_gross;vat;currency;stock;name
 10240956203337;738.71;20;EUR;1;Greco EG Les Paul 1978 - Cherry Sunburst
 10292862746953;680.39;20;EUR;1;Greco EG Les Paul Custom 1970s - Cherry Sunburst
 10292836827465;680.39;20;EUR;1;Greco EG Les Paul Custom 1970s - Sunburst
+10303829213513;874.79;20;EUR;1;Greco EG Les Paul Standard 1977 - Sunburst
 10292840300873;777.59;20;EUR;1;Greco EG Les Paul Standard 1978 - Sunburst
 10104292901193;790.55;20;EUR;1;Greco EG Les Paul Standard 1980 - Sunburst - Vintage Japan
 10256772202825;777.59;20;EUR;1;Greco EG Les Paul Standard 1980s - Cherry Sunburst
@@ -683,6 +689,7 @@ product_code;price_gross;vat;currency;stock;name
 9786540851529;510.83;20;EUR;1;Ibanez Talman TM71T 2002 - Jewel Blue
 9821268476233;10526.75;20;EUR;1;Ibanez Universe UV77MC Steve Vai Signature 1991 - Multicolor
 9861732893001;291.59;20;EUR;1;Jackson JS22 Dinky DKA 2015 - Metallic Blue
+10303791169865;291.59;20;EUR;1;Jackson JS32-8 8-String 2023 - Matte Black
 9797225742665;5831.99;20;EUR;1;James Collins Signature GTO 2023 - Natural
 9942052766025;3324.23;20;EUR;1;James Trussart Rusty Deville 59 2011 - Steel
 10023444119881;646.91;20;EUR;1;Juno Flying V - Acryl / Transparent
@@ -737,6 +744,7 @@ product_code;price_gross;vat;currency;stock;name
 10016076792137;923.39;20;EUR;1;Orville Les Paul Standard 1990 - Heritage Cherry Sunburst
 10123536728393;874.79;20;EUR;1;Orville Les Paul Standard 1993 - Fotoflame - Cherry Sunburst
 10091508597065;831.59;20;EUR;1;Orville LPC Les Paul Custom 1997 - Ebony
+10303795233097;874.79;20;EUR;1;Orville LPS Les Paul 1994 - Cherry Sunburst
 10118158582089;790.55;20;EUR;1;Orville LPS Les Paul Standard - Cherry Sunburst
 10092445761865;831.59;20;EUR;1;Orville LPS Les Paul Standard 1990 - Cherry Sunburst
 10152860811593;831.59;20;EUR;1;Orville LPS Les Paul Standard 1990 - Cherry Sunburst
@@ -832,6 +840,7 @@ product_code;price_gross;vat;currency;stock;name
 10276990615881;583.19;20;EUR;1;Tokai ST Stratocaster 1980s - Black
 10277138202953;583.19;20;EUR;1;Tokai ST Stratocaster Limited Edition 1980s - Candy Apple Red
 10292787085641;583.19;20;EUR;1;Tokai ST-36 Stratocaster Limited Edition 1982 - Blue Burst
+10303841698121;680.39;20;EUR;1;Tokai Super Edition Stratocaster 1981 - Metallic Red
 10080918176073;701.99;20;EUR;1;Tokai Telecaster Breezysound Lefthand 2010 - Vintage White
 10209921794377;874.79;20;EUR;1;Trinity by Relish - Metallic Blue
 10164956856649;2429.99;20;EUR;1;Valley Arts Guitar Custom Pro 1985-1986 - Sunburst
