@@ -446,12 +446,14 @@ O004679;971.99;20;EUR;1;Fender Japan 72 Reissue Telecaster 1997-2000 - Black
 JD19017288;1108.07;20;EUR;1;Fender Japan CHAR-MG 69 Reissue Mustang 2019 - Olympic White
 JD16020673;923.39;20;EUR;1;Fender Japan Classic 70s Telecaster 2016 - Blue
 JD25001431_A;1049.75;20;EUR;1;Fender Japan Custom Traditional 60s Telecaster 2025 - Shell Pink
+P041060;777.59;20;EUR;1;Fender Japan Jazz Bass 1993-1994 - Metallic Blue
 P057580;777.59;20;EUR;1;Fender Japan Jazz Bass 1999-2002 - Sunburst
 L028383;874.79;20;EUR;1;Fender Japan Jazz Bass Special 1991-1992 - Black
 JD22019155;914.75;20;EUR;1;Fender Japan Jazzmaster Junior Collection 2022 - Satin Shell Pink
 x00219;874.79;20;EUR;1;Fender Japan JV Stratocaster MOD 1982 - Natural
 JD22008138;1200.95;20;EUR;1;Fender Japan Limited Edition Traditional 60s II Telecaster 2002 - Black
 O090539;874.79;20;EUR;1;Fender Japan Precision Bass 1993-1994 - Lake Placid Blue
+P035011;874.79;20;EUR;1;Fender Japan Precision Bass 1999-2002 - Sunburst
 R081103;874.79;20;EUR;1;Fender Japan Precision Bass 2004-2005 - Candy Apple Red
 E714250;462.23;20;EUR;1;Fender Japan SF-456 Stratocaster 1984-1987 - Black
 L039094;449.27;20;EUR;1;Fender Japan ST-235M Mini Stratocaster 1991-1992 - Black - Vintage
@@ -463,11 +465,11 @@ S070907;831.59;20;EUR;1;Fender Japan ST-50 Stratocaster 1994-1995 - Sunburst - V
 U002334;785.15;20;EUR;1;Fender Japan ST-STD Stratocaster 1995-1996 - Sunburst - Vintage
 T099295.;874.79;20;EUR;1;Fender Japan Standard Stratocaster 1994-1995 - Sunburst - Vintage
 F007782;831.59;20;EUR;1;Fender Japan STR-80R Stratocaster 1986-1987 - Black Burst - Vintage
-F007936;785.15;20;EUR;1;Fender Japan Stratocaster - Black
 H034826;680.39;20;EUR;1;Fender Japan Stratocaster 1988-1989 - Red Repaint
 P020537;785.15;20;EUR;1;Fender Japan Stratocaster 1993-1994 - Candy Apple Red
 O047716;831.59;20;EUR;1;Fender Japan Stratocaster 1993-1994 - Red Repaint - Vintage
 O029929;785.15;20;EUR;1;Fender Japan Stratocaster 1993-1994 - Vintage White
+N098989;874.79;20;EUR;1;Fender Japan TL-40 Telecaster 1993-1994 - Vintage White
 P078474;831.59;20;EUR;1;Fender Japan TL-43 Telecaster 1993-1994 - Black - Vintage
 S076398;790.55;20;EUR;1;Fender Japan TL-50 Telecaster 1994-1995 - Black - Vintage
 JD13017339;831.59;20;EUR;1;Fender Japan TL-STD Telecaster 2013 - Sand
@@ -475,6 +477,7 @@ JD17005471;1385.63;20;EUR;1;Fender Japan TL62B 62’ Telecaster 2017 - Ice Blue 
 JD21009332;914.75;20;EUR;1;Fender Japan Traditional 60s II Stratocaster 2021 - Sunburst
 JD25012431;1330.55;20;EUR;1;Fender Japan Traditional Collection 60s Telecaster 2025 - Stardust Pink
 JD22019734;1229.03;20;EUR;1;Fender Japan Traditional II 60s Jaguar 2022 - Sunburst
+JD25008078_A;1069.19;20;EUR;1;Fender Japan Traditional II 60s Telecaster 2025 - Vintage White
 L14400;7775.99;20;EUR;1;Fender Jazzmaster 1963 Pre CBS - Inca Silver Refin
 MX21551525;831.59;20;EUR;1;Fender Meteora 2021 - Sunburst
 MN541957;777.59;20;EUR;1;Fender Mexico FSR Stratocaster 1995 - Vintage White
@@ -493,7 +496,6 @@ MX22056172;583.19;20;EUR;1;Fender Telecaster 2022 - Butterscotch Blonde
 CC00071854;615.59;20;EUR;1;Fender Telecoustic 2000 - Candy Apple Red
 140109486;615.59;20;EUR;1;Fender Telecoustic 2014 - Flame Maple Sunburst
 MX23132714;971.99;20;EUR;1;Fender Tom Delonge Signature Stratocaster 2023 - Daphne Blue
-E300285;1662.11;20;EUR;1;Fender USA Jazz Bass 1983 - Black
 590108;2631.95;20;EUR;1;Fender USA Precision Bass 1975 - Sunburst
 213756;6317.99;20;EUR;1;Fender USA Telecaster 1968 - Natural
 MX22225634;923.39;20;EUR;1;Fender Vintera 60s Jaguar 2022 - Sunburst
@@ -758,6 +760,7 @@ Q12668;831.59;20;EUR;1;PRS SE Chris Robertson Signature 2016 - Kentucky Blueburs
 H00769;693.35;20;EUR;1;PRS SE Custom 22 2007 - Transparent Black
 M04169;785.15;20;EUR;1;PRS SE Custom 24 2012 - Cherry Red
 E10061;971.99;20;EUR;1;PRS SE Hollowbody Standard 2021 - Fire Red Burst
+O18259;777.59;20;EUR;1;PRS SE Kestrel Bass 2014 - Black
 R28702;831.59;20;EUR;1;PRS SE Kestrel Bass 2017 - Sunburst
 K10759;874.79;20;EUR;1;PRS SE Nick Catanese Signature 2010 - Black
 G03105;738.71;20;EUR;1;PRS SE Soapbar II 2006 - Green Burst
@@ -818,6 +821,8 @@ CN23050227;831.59;20;EUR;1;Tokai Love Rock ALS94T Les Paul 2023 - Goldtop
 x00099;631.79;20;EUR;1;Tokai SG - Cherry Red
 x00098;646.91;20;EUR;1;Tokai SG 38SW - Snow White
 0008641;615.59;20;EUR;1;Tokai Silver Star SS-48 Stratocaster 1980 - Sunburst
+1102450;680.39;20;EUR;1;Tokai Silver Star Stratocaster 1981 - Black - Vintage Japan
+1016935;680.39;20;EUR;1;Tokai Silver Star Stratocaster 1981 - Vintage White - Vintage Japan
 2020346;738.71;20;EUR;1;Tokai Silver Star Stratocaster 1982 - Black
 4045207;738.71;20;EUR;1;Tokai Silver Star Stratocaster 1984 - Vintage White
 1015185;673.91;20;EUR;1;Tokai Springy Sound VS80 1981 - Amber Burst
@@ -843,10 +848,14 @@ G-116547-05;874.79;20;EUR;1;Warwick Corvette Standard Bass 2005 - Brown Natural
 G555729-18;777.59;20;EUR;1;Warwick Infinity RockBass 2018 - Natural
 M112111-04;3693.59;20;EUR;1;Warwick Thumb NT Bass 2004 - Natural Oil Finish
 x00215;971.99;20;EUR;1;Wotan Bass - Natural - Vintage Japan
+004850;680.39;20;EUR;1;Yamaha 400 Pulser Bass 1980 - Natural - Vintage Japan
 x00244;104.97;20;EUR;1;Yamaha DI-10M Distortion Effect Pedal - Vintage Japan
 003308;680.39;20;EUR;1;Yamaha Japan Studio Lord Les Paul SL400S 1990 - Cherry Sunburst
 LJQPO43;777.59;20;EUR;1;Yamaha JB500R Japan Jazz Bass 1981-1983 - Candy Apple Red
 x00245;174.95;20;EUR;1;Yamaha OD-01 Overdrive Effect Pedal - Vintage Japan
 x00248;104.97;20;EUR;1;Yamaha OD-100 Over Drive Effect Pedal - Vintage Japan
 x00247;104.97;20;EUR;1;Yamaha OD-100 Over Drive Effect Pedal - Vintage Japan
+Q35215;777.59;20;EUR;1;Yamaha SF3000 1983 - Cherry Sunburst - Vintage Japan
+005789;680.39;20;EUR;1;Yamaha SL380 Studio Lord Les Paul 1980 - Tobacco Burst - Vintage Japan
+002032;680.39;20;EUR;1;Yamaha SL430 Les Paul 1980 - Black - Vintage Japan
 152513;116.63;20;EUR;1;Zoom GFX-707 Effects Processor Pedal

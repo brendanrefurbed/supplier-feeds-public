@@ -448,12 +448,14 @@ product_code;price_gross;vat;currency;stock;name
 10236555952457;1108.07;20;EUR;1;Fender Japan CHAR-MG 69 Reissue Mustang 2019 - Olympic White
 10047126995273;923.39;20;EUR;1;Fender Japan Classic 70s Telecaster 2016 - Blue
 9974434693449;1049.75;20;EUR;1;Fender Japan Custom Traditional 60s Telecaster 2025 - Shell Pink
+10303854608713;777.59;20;EUR;1;Fender Japan Jazz Bass 1993-1994 - Metallic Blue
 10294145548617;777.59;20;EUR;1;Fender Japan Jazz Bass 1999-2002 - Sunburst
 10231534420297;874.79;20;EUR;1;Fender Japan Jazz Bass Special 1991-1992 - Black
 9947289682249;914.75;20;EUR;1;Fender Japan Jazzmaster Junior Collection 2022 - Satin Shell Pink
 10294092824905;874.79;20;EUR;1;Fender Japan JV Stratocaster MOD 1982 - Natural
 10047138005321;1200.95;20;EUR;1;Fender Japan Limited Edition Traditional 60s II Telecaster 2002 - Black
 10294044754249;874.79;20;EUR;1;Fender Japan Precision Bass 1993-1994 - Lake Placid Blue
+10303889637705;874.79;20;EUR;1;Fender Japan Precision Bass 1999-2002 - Sunburst
 10294049079625;874.79;20;EUR;1;Fender Japan Precision Bass 2004-2005 - Candy Apple Red
 10236596388169;462.23;20;EUR;1;Fender Japan SF-456 Stratocaster 1984-1987 - Black
 9961928294729;449.27;20;EUR;1;Fender Japan ST-235M Mini Stratocaster 1991-1992 - Black - Vintage
@@ -465,11 +467,11 @@ product_code;price_gross;vat;currency;stock;name
 10175463948617;785.15;20;EUR;1;Fender Japan ST-STD Stratocaster 1995-1996 - Sunburst - Vintage
 10080768524617;874.79;20;EUR;1;Fender Japan Standard Stratocaster 1994-1995 - Sunburst - Vintage
 10123540332873;831.59;20;EUR;1;Fender Japan STR-80R Stratocaster 1986-1987 - Black Burst - Vintage
-10240726925641;785.15;20;EUR;1;Fender Japan Stratocaster - Black
 10249366274377;680.39;20;EUR;1;Fender Japan Stratocaster 1988-1989 - Red Repaint
 10240732332361;785.15;20;EUR;1;Fender Japan Stratocaster 1993-1994 - Candy Apple Red
 10131738755401;831.59;20;EUR;1;Fender Japan Stratocaster 1993-1994 - Red Repaint - Vintage
 10141686333769;785.15;20;EUR;1;Fender Japan Stratocaster 1993-1994 - Vintage White
+10303770853705;874.79;20;EUR;1;Fender Japan TL-40 Telecaster 1993-1994 - Vintage White
 10108772352329;831.59;20;EUR;1;Fender Japan TL-43 Telecaster 1993-1994 - Black - Vintage
 10104267800905;790.55;20;EUR;1;Fender Japan TL-50 Telecaster 1994-1995 - Black - Vintage
 10176872644937;831.59;20;EUR;1;Fender Japan TL-STD Telecaster 2013 - Sand
@@ -477,6 +479,7 @@ product_code;price_gross;vat;currency;stock;name
 9989386666313;914.75;20;EUR;1;Fender Japan Traditional 60s II Stratocaster 2021 - Sunburst
 9942059811145;1330.55;20;EUR;1;Fender Japan Traditional Collection 60s Telecaster 2025 - Stardust Pink
 10080808370505;1229.03;20;EUR;1;Fender Japan Traditional II 60s Jaguar 2022 - Sunburst
+10292843446601;1069.19;20;EUR;1;Fender Japan Traditional II 60s Telecaster 2025 - Vintage White
 10033174479177;7775.99;20;EUR;1;Fender Jazzmaster 1963 Pre CBS - Inca Silver Refin
 10240950403401;831.59;20;EUR;1;Fender Meteora 2021 - Sunburst
 9989304320329;777.59;20;EUR;1;Fender Mexico FSR Stratocaster 1995 - Vintage White
@@ -495,7 +498,6 @@ product_code;price_gross;vat;currency;stock;name
 10092544688457;615.59;20;EUR;1;Fender Telecoustic 2000 - Candy Apple Red
 10136243863881;615.59;20;EUR;1;Fender Telecoustic 2014 - Flame Maple Sunburst
 10255390474569;971.99;20;EUR;1;Fender Tom Delonge Signature Stratocaster 2023 - Daphne Blue
-10146526724425;1662.11;20;EUR;1;Fender USA Jazz Bass 1983 - Black
 10136285479241;2631.95;20;EUR;1;Fender USA Precision Bass 1975 - Sunburst
 10023442415945;6317.99;20;EUR;1;Fender USA Telecaster 1968 - Natural
 10236651274569;923.39;20;EUR;1;Fender Vintera 60s Jaguar 2022 - Sunburst
@@ -760,6 +762,7 @@ product_code;price_gross;vat;currency;stock;name
 10209927364937;693.35;20;EUR;1;PRS SE Custom 22 2007 - Transparent Black
 10211613737289;785.15;20;EUR;1;PRS SE Custom 24 2012 - Cherry Red
 10067502039369;971.99;20;EUR;1;PRS SE Hollowbody Standard 2021 - Fire Red Burst
+10303872696649;777.59;20;EUR;1;PRS SE Kestrel Bass 2014 - Black
 10236613230921;831.59;20;EUR;1;PRS SE Kestrel Bass 2017 - Sunburst
 10092560384329;874.79;20;EUR;1;PRS SE Nick Catanese Signature 2010 - Black
 10023465976137;738.71;20;EUR;1;PRS SE Soapbar II 2006 - Green Burst
@@ -820,6 +823,8 @@ product_code;price_gross;vat;currency;stock;name
 10212539990345;631.79;20;EUR;1;Tokai SG - Cherry Red
 10211605479753;646.91;20;EUR;1;Tokai SG 38SW - Snow White
 10111486820681;615.59;20;EUR;1;Tokai Silver Star SS-48 Stratocaster 1980 - Sunburst
+10303715279177;680.39;20;EUR;1;Tokai Silver Star Stratocaster 1981 - Black - Vintage Japan
+10303732384073;680.39;20;EUR;1;Tokai Silver Star Stratocaster 1981 - Vintage White - Vintage Japan
 10199307288905;738.71;20;EUR;1;Tokai Silver Star Stratocaster 1982 - Black
 10240717521225;738.71;20;EUR;1;Tokai Silver Star Stratocaster 1984 - Vintage White
 9949031498057;673.91;20;EUR;1;Tokai Springy Sound VS80 1981 - Amber Burst
@@ -845,10 +850,14 @@ product_code;price_gross;vat;currency;stock;name
 9997843038537;777.59;20;EUR;1;Warwick Infinity RockBass 2018 - Natural
 10210038317385;3693.59;20;EUR;1;Warwick Thumb NT Bass 2004 - Natural Oil Finish
 10143268831561;971.99;20;EUR;1;Wotan Bass - Natural - Vintage Japan
+10303781962057;680.39;20;EUR;1;Yamaha 400 Pulser Bass 1980 - Natural - Vintage Japan
 10175561531721;104.97;20;EUR;1;Yamaha DI-10M Distortion Effect Pedal - Vintage Japan
 10277109432649;680.39;20;EUR;1;Yamaha Japan Studio Lord Les Paul SL400S 1990 - Cherry Sunburst
 10294091252041;777.59;20;EUR;1;Yamaha JB500R Japan Jazz Bass 1981-1983 - Candy Apple Red
 10192919232841;174.95;20;EUR;1;Yamaha OD-01 Overdrive Effect Pedal - Vintage Japan
 10175597969737;104.97;20;EUR;1;Yamaha OD-100 Over Drive Effect Pedal - Vintage Japan
 10176914424137;104.97;20;EUR;1;Yamaha OD-100 Over Drive Effect Pedal - Vintage Japan
+10303849627977;777.59;20;EUR;1;Yamaha SF3000 1983 - Cherry Sunburst - Vintage Japan
+10303723635017;680.39;20;EUR;1;Yamaha SL380 Studio Lord Les Paul 1980 - Tobacco Burst - Vintage Japan
+10303835144521;680.39;20;EUR;1;Yamaha SL430 Les Paul 1980 - Black - Vintage Japan
 10176891388233;116.63;20;EUR;1;Zoom GFX-707 Effects Processor Pedal
