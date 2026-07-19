@@ -1,4 +1,5 @@
 product_code;price_gross;vat;currency;stock;name
+GITB1126;1370.52;21;EUR;1;Aria Pro II PE-900 1978 | Violin Sunburst
 GITB1069;916.92;21;EUR;1;Blueridge BR-140A Historic Dreadnought | Adirondack Natural
 GITB1035;1456.92;21;EUR;1;Carvin LB76 Neck Through | Natural
 GITB1003;1456.92;21;EUR;1;D'Angelico Deluxe EXL-1 Korea | Matte Red
@@ -9,21 +10,29 @@ GITB726;646.92;21;EUR;1;Eko Kiwi 1973 | High Gloss
 GITB1101;754.92;21;EUR;1;Epiphone LE Les Paul Florentine Pro | Flamed Maple
 GITB1022;754.92;21;EUR;1;Epiphone Riviera | Royal Tan
 GITB1078;2752.92;21;EUR;1;ESP Custom Shop Eclipse Japan 1999 | See Thru Blue
+GITB1109;3666.6;21;EUR;1;ESP KH-2 Kirk Hammett Signature | Black
 GITB820;1614.6;21;EUR;1;ESP LTD SN-1 HT | Black Blast
 GITB1105;5286.6;21;EUR;1;ESP Original M-2 CTM NT Titan | Metal Black Sparkle
 GITB903;916.92;21;EUR;1;Fender Acoustasonic Player Jazzmaster | Ice Blue
 GITB1065;1456.92;21;EUR;1;Fender American Player Performer Stratocaster | Arctic White
 GITB1111;1996.92;21;EUR;1;Fender American Pro II Stratocaster | Dark Knight
 GITB1032;1456.92;21;EUR;1;Fender American Standard Telecaster 1995 | Sunburst
+GITB1128;970.92;21;EUR;1;Fender Boxer Telecaster 2021 HH | Torino Red
 GITB1092;4480.92;21;EUR;1;Fender Custom Shop '59 Stratocaster Heavy Relic | White
 GITB932;3346.92;21;EUR;1;Fender Custom Shop '62 California Beach Stratocaster | Blue
 GITB1081;3558.6;21;EUR;1;Fender Custom Shop Strat Eric Clapton Signature 2009 | Grey
 GITB948;2266.92;21;EUR;1;Fender Stratocaster Hardtail 1979 | Natural
 GITB1070;3126.6;21;EUR;1;Fender Stratocaster International 1981 | Monaco Yellow
+GITB1117;1564.92;21;EUR;1;Fender Stratocaster Special Edition 1993 | Sunburst
+GITB1120;1564.92;21;EUR;1;FGN Neo Classic TE 210 | Black
 GITB1040;5398.92;21;EUR;1;Gibson Custom Shop Les Paul | Figured Peacock
+GITB1118;2212.92;21;EUR;1;Gibson Dave Mustaine Flying V | Antique Natural
+GITB1133;4266.0;21;EUR;1;Gibson ES-175D | Sunburst
 GITB894;3666.6;21;EUR;1;Gibson Explorer Designer Series 1985 | White Blue Stripes
 GITB1075;2320.92;21;EUR;1;Gibson Les Paul Classic 2006 | Cherry Sunburst
 GITB1103;2457.0;21;EUR;1;Gibson Les Paul Standard 50s Custom Color | 60s Cherry
+GITB1116;2536.92;21;EUR;1;Gibson Les Paul Standard Bigsby 1991 | Sunburst
+GITB1119;1780.92;21;EUR;1;Gibson Les Paul Studio Session | Honey Burst
 GITB1112;3184.92;21;EUR;1;Gibson Robby Krieger SG 2011 | Heritage Cherry
 53470759321937;0.0;21;EUR;1;Gibson Robby Krieger SG | Heritage Cherry
 52908950126929;10.75;21;EUR;1;GitaarBarbaar Elektrische Gitaarsnaren Regular Light (10-46)
@@ -54,8 +63,10 @@ GITB1088;1402.92;21;EUR;1;Jackson Pro Josh Smith Soloist SL7 | Aquamarine
 GITB979;2104.92;21;EUR;1;Kramer Baretta I 1987 USA | Champagne
 GITB1100;2104.92;21;EUR;1;Maybach Lester 59 | Aged Pelham Blue
 GITB1076;1186.92;21;EUR;1;Orville Les Paul Standard MiJ | Sunburst
+GITB1114;2586.6;21;EUR;1;Peavey Vandenberg Series 1 USA 1988 | Sunfire Red
 GITB998;1780.92;21;EUR;1;PJD Carry Apprentice #957 | Frozen Berry
 GITB942;1510.92;21;EUR;1;PRS CE 24 | Black Cherry
+GITB1121;970.92;21;EUR;1;PRS SE Studio | Lake Blue
 GITB949;1834.92;21;EUR;1;PRS Starla USA Bigsby 2008 | Dark Cherry
 GITB988;916.92;21;EUR;1;Reverend Sensei JR 2025 | Korina Burst
 GITB972;2752.92;21;EUR;1;Sadowsky Metroline Hybrid PJ 4-21 | Black Satin
