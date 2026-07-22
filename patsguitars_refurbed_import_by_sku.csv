@@ -1,5 +1,4 @@
 product_code;price_gross;vat;currency;stock;name
-x00165;139.31;20;EUR;1;Akustikgitarre - Sunburst
 x00226;113.71;20;EUR;1;Amdek CMK-100 Compressor Effect Pedal
 x00227;131.21;20;EUR;1;Amdek FLK-100 Flanger Effect Pedal
 B2316013;874.79;20;EUR;1;Ampete Two Head 20W
@@ -453,13 +452,13 @@ Z3022287;1292.75;20;EUR;1;Fender Highway One Showmaster 2003 - Satin Black
 Z6029664;1166.39;20;EUR;1;Fender Highway One Stratocaster 2006 - Natural
 Z8171865;1200.95;20;EUR;1;Fender Highway One Stratocaster 2008 - Sand
 JD23033210;777.59;20;EUR;1;Fender Japan / Squier 50s Telecaster 2023 - Sunburst
-Q013865;874.79;20;EUR;1;Fender Japan 57 Reissue Stratocaster 1993-1994 - Vintage White
 S022513;831.59;20;EUR;1;Fender Japan 57´ Reissue Stratocaster 1994-1995 - Sunburst - Vintage
 S008177;831.59;20;EUR;1;Fender Japan 57´ Reissue Stratocaster 2006-2008 - Black Gold
 L001770;785.15;20;EUR;1;Fender Japan 60s Reissue Stratocaster 1991-1992 - Sunburst
 9502082;785.15;20;EUR;1;Fender Japan 62 Reissue Stratocaster - Sunburst
 J007479;923.39;20;EUR;1;Fender Japan 62 Reissue Stratocaster 1989-1990 - Sunburst
 N030804;874.79;20;EUR;1;Fender Japan 62 Reissue Stratocaster 1993-1994 - Candy Apple Red
+N035636;874.79;20;EUR;1;Fender Japan 62 Reissue Stratocaster 1993-1994 - Vintage White
 S010895;777.59;20;EUR;1;Fender Japan 62 Reissue Stratocaster 1994-1995 - Candy Apple Red - Matching Headstock
 S001174;777.59;20;EUR;1;Fender Japan 62 Reissue Stratocaster 1994-1995 - Sunburst
 Q026862;874.79;20;EUR;1;Fender Japan 62 Reissue Stratocaster 2002-2004 - Candy Apple Red
@@ -471,7 +470,6 @@ N096867;1166.39;20;EUR;1;Fender Japan 69 Reissue Mustang 1993-1994 - Vintage Whi
 S027192;1166.39;20;EUR;1;Fender Japan 69 Reissue Mustang 1994-1995 - Vintage White
 U022385;1263.59;20;EUR;1;Fender Japan 69 Reissue Mustang 1995-1996 - Candy Apple Red
 O067602;1166.39;20;EUR;1;Fender Japan 69 Reissue Mustang 1997-2000 - Surf Green
-P062363;1263.59;20;EUR;1;Fender Japan 69 Reissue Mustang 1999-2002 - Heavy Relic Vintage White
 N059759;971.99;20;EUR;1;Fender Japan 72 Reissue Stratocaster 1993-1994 - Natural
 O019954;971.99;20;EUR;1;Fender Japan 72 Reissue Stratocaster 1997-2000 - Black
 O099881;874.79;20;EUR;1;Fender Japan 72 Reissue Stratocaster 1997-2000 - Black
@@ -511,7 +509,6 @@ O047716;831.59;20;EUR;1;Fender Japan Stratocaster 1993-1994 - Red Repaint - Vint
 O029929;785.15;20;EUR;1;Fender Japan Stratocaster 1993-1994 - Vintage White
 N031486;874.79;20;EUR;1;Fender Japan Stratocaster 1993-1994 Candy Apple Red
 M024003;665.27;20;EUR;1;Fender Japan TL-235M Telecaster 1992-1993 - Blonde - Vintage
-N098989;874.79;20;EUR;1;Fender Japan TL-40 Telecaster 1993-1994 - Vintage White
 P078474;831.59;20;EUR;1;Fender Japan TL-43 Telecaster 1993-1994 - Black - Vintage
 S076398;790.55;20;EUR;1;Fender Japan TL-50 Telecaster 1994-1995 - Black - Vintage
 JD13017339;831.59;20;EUR;1;Fender Japan TL-STD Telecaster 2013 - Sand
@@ -830,6 +827,7 @@ G03105;738.71;20;EUR;1;PRS SE Soapbar II 2006 - Green Burst
 F02530;646.91;20;EUR;1;PRS SE Standard 2005 - Camo
 K22703;831.59;20;EUR;1;PRS SE Zach Myers Signature 2010 - Royal Blue
 1452007406;1385.63;20;EUR;1;PRS USA S2 Mira 2014 - Vintage Cherry
+VA1901127;874.79;20;EUR;1;Rivolta Combinata Dennis Fano 2019
 122889;58.31;20;EUR;1;Rocktek DIR-01 Distortion Effektpedal
 123170;58.31;20;EUR;1;Rocktek ODR-01 Overdrive Effektpedal
 x00209;139.31;20;EUR;1;Rocktile Pro MM250-MB - Dark Blue
@@ -837,6 +835,7 @@ IW22021383;673.91;20;EUR;1;Schecter Banshee GT FR 2022 - Satin Trans Blue
 W14040095;615.59;20;EUR;1;Schecter Damien Elite FR 2014 - Crimson Red
 L09020638;680.39;20;EUR;1;Schecter Diamond Series Apocalypse V-1 2009 - Limited Edition
 W19080610;1049.75;20;EUR;1;Schecter Diamond Series Hellraiser Hybrid PT 2019 - Ultra Violet
+W10090060;646.91;20;EUR;1;Schecter Diamond Series Hellraiser Special 2010 - Trans Black
 0339684;646.91;20;EUR;1;Schecter Diamond Series S-1 Elite 2013 - Black Cherry
 47358;738.71;20;EUR;1;Schecter HSH Japan - Amber
 x00210;701.99;20;EUR;1;Schecter Japan Progauge 7-String PS600 - Translucent Cherry

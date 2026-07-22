@@ -1,5 +1,4 @@
 product_code;price_gross;vat;currency;stock;name
-10131706872137;139.31;20;EUR;1;Akustikgitarre - Sunburst
 10192944202057;113.71;20;EUR;1;Amdek CMK-100 Compressor Effect Pedal
 10192923165001;131.21;20;EUR;1;Amdek FLK-100 Flanger Effect Pedal
 9692662759753;874.79;20;EUR;1;Ampete Two Head 20W
@@ -455,13 +454,13 @@ product_code;price_gross;vat;currency;stock;name
 10047280906569;1166.39;20;EUR;1;Fender Highway One Stratocaster 2006 - Natural
 10231382573385;1200.95;20;EUR;1;Fender Highway One Stratocaster 2008 - Sand
 10080697418057;777.59;20;EUR;1;Fender Japan / Squier 50s Telecaster 2023 - Sunburst
-10277096554825;874.79;20;EUR;1;Fender Japan 57 Reissue Stratocaster 1993-1994 - Vintage White
 10123556356425;831.59;20;EUR;1;Fender Japan 57´ Reissue Stratocaster 1994-1995 - Sunburst - Vintage
 10115822616905;831.59;20;EUR;1;Fender Japan 57´ Reissue Stratocaster 2006-2008 - Black Gold
 10240946176329;785.15;20;EUR;1;Fender Japan 60s Reissue Stratocaster 1991-1992 - Sunburst
 10240710279497;785.15;20;EUR;1;Fender Japan 62 Reissue Stratocaster - Sunburst
 10277135778121;923.39;20;EUR;1;Fender Japan 62 Reissue Stratocaster 1989-1990 - Sunburst
 10277137645897;874.79;20;EUR;1;Fender Japan 62 Reissue Stratocaster 1993-1994 - Candy Apple Red
+10277076861257;874.79;20;EUR;1;Fender Japan 62 Reissue Stratocaster 1993-1994 - Vintage White
 10276900733257;777.59;20;EUR;1;Fender Japan 62 Reissue Stratocaster 1994-1995 - Candy Apple Red - Matching Headstock
 10292864155977;777.59;20;EUR;1;Fender Japan 62 Reissue Stratocaster 1994-1995 - Sunburst
 10277138661705;874.79;20;EUR;1;Fender Japan 62 Reissue Stratocaster 2002-2004 - Candy Apple Red
@@ -473,7 +472,6 @@ product_code;price_gross;vat;currency;stock;name
 10255387263305;1166.39;20;EUR;1;Fender Japan 69 Reissue Mustang 1994-1995 - Vintage White
 10256743563593;1263.59;20;EUR;1;Fender Japan 69 Reissue Mustang 1995-1996 - Candy Apple Red
 10254425227593;1166.39;20;EUR;1;Fender Japan 69 Reissue Mustang 1997-2000 - Surf Green
-10256710041929;1263.59;20;EUR;1;Fender Japan 69 Reissue Mustang 1999-2002 - Heavy Relic Vintage White
 10292890206537;971.99;20;EUR;1;Fender Japan 72 Reissue Stratocaster 1993-1994 - Natural
 10255385329993;971.99;20;EUR;1;Fender Japan 72 Reissue Stratocaster 1997-2000 - Black
 10277137121609;874.79;20;EUR;1;Fender Japan 72 Reissue Stratocaster 1997-2000 - Black
@@ -513,7 +511,6 @@ product_code;price_gross;vat;currency;stock;name
 10141686333769;785.15;20;EUR;1;Fender Japan Stratocaster 1993-1994 - Vintage White
 10305308098889;874.79;20;EUR;1;Fender Japan Stratocaster 1993-1994 Candy Apple Red
 9903115764041;665.27;20;EUR;1;Fender Japan TL-235M Telecaster 1992-1993 - Blonde - Vintage
-10303770853705;874.79;20;EUR;1;Fender Japan TL-40 Telecaster 1993-1994 - Vintage White
 10108772352329;831.59;20;EUR;1;Fender Japan TL-43 Telecaster 1993-1994 - Black - Vintage
 10104267800905;790.55;20;EUR;1;Fender Japan TL-50 Telecaster 1994-1995 - Black - Vintage
 10176872644937;831.59;20;EUR;1;Fender Japan TL-STD Telecaster 2013 - Sand
@@ -832,6 +829,7 @@ product_code;price_gross;vat;currency;stock;name
 10240933921097;646.91;20;EUR;1;PRS SE Standard 2005 - Camo
 10230962717001;831.59;20;EUR;1;PRS SE Zach Myers Signature 2010 - Royal Blue
 10181841191241;1385.63;20;EUR;1;PRS USA S2 Mira 2014 - Vintage Cherry
+10193153458505;874.79;20;EUR;1;Rivolta Combinata Dennis Fano 2019
 10305825374537;58.31;20;EUR;1;Rocktek DIR-01 Distortion Effektpedal
 10305861124425;58.31;20;EUR;1;Rocktek ODR-01 Overdrive Effektpedal
 10240743735625;139.31;20;EUR;1;Rocktile Pro MM250-MB - Dark Blue
@@ -839,6 +837,7 @@ product_code;price_gross;vat;currency;stock;name
 10067555352905;615.59;20;EUR;1;Schecter Damien Elite FR 2014 - Crimson Red
 10088545714505;680.39;20;EUR;1;Schecter Diamond Series Apocalypse V-1 2009 - Limited Edition
 9997862732105;1049.75;20;EUR;1;Schecter Diamond Series Hellraiser Hybrid PT 2019 - Ultra Violet
+10211634413897;646.91;20;EUR;1;Schecter Diamond Series Hellraiser Special 2010 - Trans Black
 10099295453513;646.91;20;EUR;1;Schecter Diamond Series S-1 Elite 2013 - Black Cherry
 10236605202761;738.71;20;EUR;1;Schecter HSH Japan - Amber
 10092431376713;701.99;20;EUR;1;Schecter Japan Progauge 7-String PS600 - Translucent Cherry
