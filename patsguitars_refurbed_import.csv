@@ -93,7 +93,6 @@ product_code;price_gross;vat;currency;stock;name
 10016042320201;646.91;20;EUR;1;Charvel by Jackson Superstrat - Red
 9861346361673;300.23;20;EUR;1;Charvel by Jackson Superstrat HSS  - Black
 10111504253257;527.03;20;EUR;1;Charvel Desolation DS-1 ST - Black
-10276963418441;971.99;20;EUR;1;Charvel Jim Root Signature 2022 - Matte Black
 10220188959049;831.59;20;EUR;1;Charvel Pro-Mod So Cal 2013 - Red
 9751156588873;402.83;20;EUR;1;Charvette by Charvel 250SW 1989 - White
 9948761719113;485.99;20;EUR;1;Cheri Telecaster Thinline - Sunburst
@@ -426,16 +425,16 @@ product_code;price_gross;vat;currency;stock;name
 10249372827977;165.23;20;EUR;1;Fame URM-1000 Effect Pedal
 9914165526857;3231.89;20;EUR;1;"Fender '52 Telecaster Custom Shop ""California Beach"" NOS Limited Edition 2004 - Pacific Green"
 10294068674889;2138.39;20;EUR;1;Fender 25th Anniversary Stratocaster 1979 - Silver Metallic
-10067502203209;2429.99;20;EUR;1;Fender 54’ Reissue American Stratocaster 40th Anniversary 1994 - Sunburst
+10067502203209;2309.03;20;EUR;1;Fender 54’ Reissue American Stratocaster 40th Anniversary 1994 - Sunburst
 10067515834697;1292.75;20;EUR;1;Fender American Deluxe Stratocaster 2005 - Cherry Sunburst
 10033161535817;1662.11;20;EUR;1;Fender American Deluxe Telecaster 2002 - Cherry Sunburst
+10314074161481;1555.19;20;EUR;1;Fender American Professional II Telecaster Deluxe 2021 - Miami Blue
 10294152757577;1457.99;20;EUR;1;Fender American Professional Stratocaster HSS 2015 - Olympic White
 10220182634825;2429.99;20;EUR;1;Fender American Stratocaster 1979 - Natural
 9997845135689;2915.99;20;EUR;1;Fender American Stratocaster 1982 - Sunburst
 10067734331721;1166.39;20;EUR;1;Fender American Stratocaster 2007 - Seymour Duncan Antiquity
 10276917772617;1943.99;20;EUR;1;Fender American Vintage 52 Reissue Telecaster 1995 - Butterscotch Blonde
 10141638394185;738.71;20;EUR;1;Fender American Vintage Jaguar Body - Sunburst
-10294075130185;1943.99;20;EUR;1;Fender American Vintage Reissue 62 Jazz Bass 1999 - Lake Placid Blue
 10240966000969;646.91;20;EUR;1;Fender Classic 50s Stratocaster 2016 - Surf Green
 9997912670537;4859.99;20;EUR;1;Fender Custom Shop Bloodwood Fretless Bass Masterbuilt by Jason Davis 2003
 10294181757257;2915.99;20;EUR;1;Fender Custom Shop Deluxe Stratocaster 2010 - Natural
@@ -520,6 +519,7 @@ product_code;price_gross;vat;currency;stock;name
 10197952987465;600.47;20;EUR;1;Fender Mexico Telecaster 2002 - Sunburst
 9903118680393;3887.99;20;EUR;1;Fender Mustang 1973 - Sunburst
 10294154297673;1943.99;20;EUR;1;Fender Mustang 1978 - Black
+10314071966025;1457.99;20;EUR;1;Fender Parallel Universe II Maverick Dorado 2020 - Firemist Gold
 10047131386185;738.71;20;EUR;1;Fender Squier 51 Strat/Tele Hybrid - Butterscotch Blonde
 10067744260425;738.71;20;EUR;1;Fender Squier 71’ Reissue Telecaster 2002-2004 - Butterscotch Blonde
 10294157607241;2138.39;20;EUR;1;Fender Stevie Ray Vaughan Signature Stratocaster 1992 - Sunburst
@@ -560,7 +560,6 @@ product_code;price_gross;vat;currency;stock;name
 10033181557065;2770.19;20;EUR;1;Gibson Les Paul Custom Shop 1998 - Catalina Red
 10255401746761;3401.99;20;EUR;1;Gibson Les Paul Deluxe 1980 - Natural
 10305376944457;1263.59;20;EUR;1;Gibson Les Paul Futura Min-ETune 2014 - Plum Insane
-10292887028041;1263.59;20;EUR;1;Gibson Les Paul Junior 2001 - Tobacco Burst
 10091978129737;1316.51;20;EUR;1;Gibson Les Paul Junior 2010 - TV Yellow
 10294176383305;3401.99;20;EUR;1;Gibson Les Paul Recording 1974-1975 - Walnut
 10305319928137;1749.59;20;EUR;1;Gibson Les Paul Signature Player Plus 2018 - Satin Vintage Sunburst
@@ -570,7 +569,6 @@ product_code;price_gross;vat;currency;stock;name
 10231535763785;1263.59;20;EUR;1;Gibson Les Paul Special 2005 - Faded Yellow
 10047311380809;1662.11;20;EUR;1;Gibson Les Paul Special DC 2005 - TV Yellow
 10231420584265;1108.07;20;EUR;1;Gibson Les Paul Special Tribute 2021 - Faded Black
-9704996995401;2186.99;20;EUR;1;Gibson Les Paul Standard 1992 - Ebony
 10305322352969;2138.39;20;EUR;1;Gibson Les Paul Standard 1993 - Ebony
 10255400993097;1943.99;20;EUR;1;Gibson Les Paul Standard 1999 - Cherry Sunburst
 10185962914121;1662.11;20;EUR;1;Gibson Les Paul Standard 1999 - Ebony
@@ -826,6 +824,7 @@ product_code;price_gross;vat;currency;stock;name
 10240743735625;139.31;20;EUR;1;Rocktile Pro MM250-MB - Dark Blue
 9914132496713;673.91;20;EUR;1;Schecter Banshee GT FR 2022 - Satin Trans Blue
 10067555352905;615.59;20;EUR;1;Schecter Damien Elite FR 2014 - Crimson Red
+9878832152905;416.87;20;EUR;1;Schecter Damien-6 2008 - Matte Black
 10088545714505;680.39;20;EUR;1;Schecter Diamond Series Apocalypse V-1 2009 - Limited Edition
 9997862732105;1049.75;20;EUR;1;Schecter Diamond Series Hellraiser Hybrid PT 2019 - Ultra Violet
 10211634413897;646.91;20;EUR;1;Schecter Diamond Series Hellraiser Special 2010 - Trans Black
@@ -843,7 +842,6 @@ product_code;price_gross;vat;currency;stock;name
 9989384175945;583.19;20;EUR;1;Sire Larry Carlton L7 Les Paul - Metallic Gold
 10305803125065;174.95;20;EUR;1;Sobbat Fuzz Breaker Effektpedal
 10199323869513;600.47;20;EUR;1;Solar A2.6FB 2022 - Flame Black Burst Matte
-10169732137289;831.59;20;EUR;1;Solar ABHT1.6 2024 - Trans Purple
 10181758484809;923.39;20;EUR;1;Solar T1.6FRBOP 2022 - Black Matte Open Pore
 10193280237897;831.59;20;EUR;1;Solar T1.6H3TS 2022 - Sunburst
 10181767856457;971.99;20;EUR;1;Solar VAR1.6FR 2025 - Matte Black
