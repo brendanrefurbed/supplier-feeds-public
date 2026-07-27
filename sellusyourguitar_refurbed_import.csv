@@ -1,4 +1,5 @@
 product_code;price_gross;vat;currency;stock;name
+69eb162f-d20d-5744-3af6-cfcdf7799388;523.8;20;GBP;1;Ibanez Studio Series ST55 Brown Sunburst 1980 Vintage Electric Guitar
 3f5e79cc-7d01-5f77-967a-b6047375a075;464.4;20;GBP;1;Fender Player II Mustang Aquatone Blue 2024 Electric Guitar
 e61b2fb2-b5c0-9541-0c67-84fb1b6218d2;523.8;20;GBP;1;Chapman ML3 Pro Thinline 2023 Semi-Hollow Electric Guitar
 d57c58c9-f847-56d5-cb38-71da777cdee1;491.4;20;GBP;1;Epiphone ES-339 PRO Vintage Sunburst 2015 Modified Semi-Hollow Electric
@@ -46,7 +47,6 @@ dee19e00-b138-b5e3-2adf-5b4930dfecfc;1857.6;20;GBP;1;Fender American Vintage Rei
 71735dc5-9bf5-0e15-6aa3-fb489fa9999e;1944.0;20;GBP;1;Taylor 514ce Gloss Natural 2011 Grand Auditorium Electro-Acoustic Guitar
 69c35749-7d9f-67bf-c546-c9bd9bd465d5;2619.0;20;GBP;1;Martin HD-28 Dreadnought Natural 2001 Acoustic Guitar
 b56561d1-644a-54eb-8490-3bd6e754442e;1625.4;20;GBP;1;Ernie Ball Music Man StingRay Vintage Sunburst 1991 Electric Bass Guitar
-96f7b571-dfe6-7060-347f-17a305d9a699;988.2;20;GBP;1;Fender American Standard Stratocaster Candy Cola 2008 Electric Guitar
 c591f2ef-77bd-9d0e-1890-81d83f1cecf6;1690.2;20;GBP;1;Gibson Les Paul Classic Heritage Cherry Sunburst 2019 Electric Guitar
 9d2f311a-30d4-fdc1-80a7-a6c704be3c93;378.0;20;GBP;1;ESP LTD EC-254FM See-Thru Black Cherry 2006 Electric Bass
 2add48d2-37fa-f65d-43ae-a882cbd9b994;232.2;20;GBP;1;Squier Bullet Special ice Blue Metallic 2004 Electric Guitar
@@ -196,7 +196,6 @@ bbf5ab98-507d-5c0a-e5cf-22f8d5a7883a;783.0;20;GBP;1;Peerless Gigmaster Custom Gl
 33ca9212-2d2b-8f46-52aa-3ce603458769;955.8;20;GBP;1;Eastman Juliet Pomona Blonde 2017 Electric Guitar
 968aa9bb-27ed-0be0-dda7-9f572df297c1;507.6;20;GBP;1;Gretsch G9550 New Yorker Vintage Sunburst 2014 Acoustic Guitar
 d58fd6c7-405f-9ec8-8697-b1df99788a18;518.4;20;GBP;1;DeArmond Starfire Semi Hollow Gloss Black Electric Guitar
-35ba99f7-36aa-3ba2-435a-5b678ff2106b;583.2;20;GBP;1;PRS SE Limited Edition Custom 24 Lake Blue 2024 Electric Guitar
 c7088f25-1395-fe58-c310-d4646d089873;486.0;20;GBP;1;Chapman ML-1 Hot Rod Natural 2014 Electric Guitar w/ Mods
 a0036e2c-28ef-ad1b-50a1-6e4e90961f89;1620.0;20;GBP;1;Cream T Guitars Aurora Standard 2PS Noche 2021 Electric Guitar w/ Extra Pickups
 c65e6d7a-f360-10a9-c3bb-32df687a2625;847.8;20;GBP;1;Line 6 Variax JTV-69 Candy Apple Red 2012 Electric Guitar
@@ -210,7 +209,6 @@ fb8c4fd4-fcaa-9523-98c6-3e9e0e537fac;3969.0;20;GBP;1;Gibson ES-335 Historic ‘6
 d9e34f07-870e-5aa5-bd1f-a1733c453182;702.0;20;GBP;1;Epiphone USA Map Guitar Natural Satin 2005 Electric Guitar
 25ba0caa-7ba6-a08b-c885-73acc58cfb38;1350.0;20;GBP;1;Hofner 500/1 Sunburst Hollow Body c.1972 Vintage Left Handed Electric Bass
 0abc381b-25f9-9252-d09c-880fa198d5b8;988.2;20;GBP;1;Gibson Les Paul Studio Wine Red 2005 Electric Guitar
-2d45c792-2933-db7d-5762-8334eebff345;507.6;20;GBP;1;Hagstrom HJ500 Gloss Natural 2006 Hollow Body Electric Guitar
 233f1e0b-d8c3-2eaa-8cc7-d98b20fdee80;432.0;20;GBP;1;Squier Pro-Tone Stratocaster Olympic White 1997 Electric Guitar
 54d34fa2-2454-037a-d692-4b61335d1955;2268.0;20;GBP;1;Gretsch G6122-1959 Chet Atkins ‘1959 Nashville Classic’ Country Gentleman Walnut
 c4e1a2bd-54e6-fb8c-d4d9-e5b8d3cd432f;810.0;20;GBP;1;Fender American Standard Stratocaster 3-Color Sunburst 2004 Electric Guitar
@@ -281,7 +279,6 @@ b8d60fb3-3adc-e915-54f4-b10d92616106;4509.0;20;GBP;1;Martin OM Davy Graham Custo
 8726fb21-14d2-8fcd-0de6-31ab5ae43aa9;1360.8;20;GBP;1;Strandberg Boden OS-7 Red 2016 Headless 7-String Electric Guitar
 96ec0567-887d-d72e-872b-6dbba1505fb1;1474.2;20;GBP;1;PRS CE 24 Gray Black 2020 Electric Guitar
 5f06786a-04b7-f9c0-51ba-5b5e8e189f82;783.0;20;GBP;1;Fret-King Esprit lll Green Label Series Transparent Black Electric Guitar
-2eebc2fe-8f10-ee3b-aa91-2f815b2c064e;680.4;20;GBP;1;Tokai AST96 Ocean Turquoise Metallic 2016 Electric Guitar
 2f5837b8-9e59-2cb0-9f98-64a0937b7b4a;820.8;20;GBP;1;Line 6 Helix Floor Guitar Multi Effects Processor & Line 6 Helix Backpack
 2e7dd4d2-34e1-c53e-e5d5-bc9a6be05ad9;2430.0;20;GBP;1;Taylor 814ce Gloss Natural 2015 Grand Auditorium Electro-Acoustic Guitar
 b506bbc7-9926-2865-3d66-8685ba2254f7;1004.4;20;GBP;1;Chandler Custom Made S Style White Electric Guitar
