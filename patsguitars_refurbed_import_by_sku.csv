@@ -74,7 +74,6 @@ x00168;439.55;20;EUR;1;Burny LG-480 Les Paul - Black
 x00169;554.03;20;EUR;1;Burny LG-480 Les Paul - Metallic
 x00170;808.91;20;EUR;1;Burny LG-75R Les Paul - Honey Burst
 x00123;878.03;20;EUR;1;Burny RLC Les Paul Custom - Ebony
-X00015;898.55;20;EUR;1;Burny RLG70 Super Grade Les Paul - Cherry Sunburst
 x00171;778.67;20;EUR;1;Burny Super Grade Les Paul - Flametop
 F9961043;693.35;20;EUR;1;Burny Super Grade Les Paul 1999 - Cherry Sunburst
 X00027;1166.39;20;EUR;1;Burny Super Grade Les Paul RLG-58 1998 - Cherry Sunburst
@@ -116,6 +115,7 @@ O10075566;599.39;20;EUR;1;Dean VMNTX Dave Mustaine Signature 2010 - Silver
 847759;126.35;20;EUR;1;DOD FX25 Envelope Filter Effektpedal - USA
 326369;131.21;20;EUR;1;DOD FX50-B Overdrive Effect Pedal - USA
 240810;2915.99;20;EUR;1;Duesenberg Fantom A 2024 - Matt Olive
+I01090944;874.79;20;EUR;1;Duesenberg Starplayer DJP-SP 2001 - Black
 x00126;646.91;20;EUR;1;EDWARDS by ESP E-RA-110HR ROUAGE RAYZI
 x00224;485.99;20;EUR;1;Edwards by ESP Les Paul Ebony
 x00135;831.59;20;EUR;1;Edwards by ESP Sugizo Prince ES-150 - Vintage White
@@ -485,7 +485,6 @@ JD19017288;1108.07;20;EUR;1;Fender Japan CHAR-MG 69 Reissue Mustang 2019 - Olymp
 JD16020673;923.39;20;EUR;1;Fender Japan Classic 70s Telecaster 2016 - Blue
 P057580;777.59;20;EUR;1;Fender Japan Jazz Bass 1999-2002 - Sunburst
 L028383;874.79;20;EUR;1;Fender Japan Jazz Bass Special 1991-1992 - Black
-JD22019155;914.75;20;EUR;1;Fender Japan Jazzmaster Junior Collection 2022 - Satin Shell Pink
 P041464;777.59;20;EUR;1;Fender Japan JB-40 Jazz Bass 1993-1994 - Sunburst
 x00219;874.79;20;EUR;1;Fender Japan JV Stratocaster MOD 1982 - Natural
 JD22008138;1200.95;20;EUR;1;Fender Japan Limited Edition Traditional 60s II Telecaster 2002 - Black
@@ -516,7 +515,6 @@ O029423;874.79;20;EUR;1;Fender Japan Stratocaster 1997-2000 - Sunburst
 Q084895_B;242.99;20;EUR;1;Fender Japan Stratocaster Body - Black
 O013401_B;242.99;20;EUR;1;Fender Japan Stratocaster Body - Sunburst
 Q067138_B;242.99;20;EUR;1;Fender Japan Stratocaster Body - Sunburst
-T099295_B;242.99;20;EUR;1;Fender Japan Stratocaster Body - Sunburst
 U049848;874.79;20;EUR;1;Fender Japan Telecaster 1995-1996 - Black
 M024003;665.27;20;EUR;1;Fender Japan TL-235M Telecaster 1992-1993 - Blonde - Vintage
 P078474;831.59;20;EUR;1;Fender Japan TL-43 Telecaster 1993-1994 - Black - Vintage
@@ -553,7 +551,6 @@ MX23132714;923.39;20;EUR;1;Fender Tom Delonge Signature Stratocaster 2023 - Daph
 MX22225634;923.39;20;EUR;1;Fender Vintera 60s Jaguar 2022 - Sunburst
 MX19108796;738.71;20;EUR;1;Fender Vintera 60s Stratocaster 2019 - Sunburst
 MX25075681;874.79;20;EUR;1;Fender Vintera II '50s Precision Bass 2025 - Desert Sand
-E9100428;242.99;20;EUR;1;Fenix by Young Chang Jazz Bass 1991 - Sunburst
 40601;874.79;20;EUR;1;Fernandes Telecaster 1974 - Natural - Vintage Japan
 I120180;462.23;20;EUR;1;FGN Fujigen J-Standard Strat 2012 - Lake Placid Blue
 G201936;831.59;20;EUR;1;FGN Fujigen Japan J-Standard HSS 2020
@@ -572,7 +569,7 @@ CS403683;3401.99;20;EUR;1;Gibson Custom Shop RD Custom 2024 - Ebony
 94024993;1943.99;20;EUR;1;Gibson Firebird V 1994 - Vintage Burst
 126600502;2915.99;20;EUR;1;Gibson Firebird V 2010 - Classic White
 92485718;1943.99;20;EUR;1;Gibson Flying V 1995 - Cherry
-170030808;1943.99;20;EUR;1;Gibson Flying V HP 2016 - Ebony
+170030808;1943.99;20;EUR;1;Gibson Flying V HP High Performance 2016 - Ebony
 111010669;923.39;20;EUR;1;Gibson Flying V Melody Maker 2011 - Ebony
 113994;1283.03;20;EUR;1;Gibson L6-S Custom 1974 - Cherry Sunburst
 128921665;1166.39;20;EUR;1;Gibson Les Paul 70‘s Tribute 2013 - Tobacco Burst
@@ -613,7 +610,6 @@ CS403683;3401.99;20;EUR;1;Gibson Custom Shop RD Custom 2024 - Ebony
 738064;1662.11;20;EUR;1;Gibson SG II 1970-1972 MOD - Brown
 222220159;1200.95;20;EUR;1;Gibson SG Standard 2022 - Ebony
 160056;7775.99;20;EUR;1;Gibson Thunderbird II Bass 1964 – Alembic Custom 1976 – Tree of Life – Ember Red
-01360725;971.99;20;EUR;1;Gibson Thunderbird IV Bass 2000 - Classic White
 12468;971.99;20;EUR;1;Gitane DG-250M - Natural
 x00238;17.27;20;EUR;1;Gitarrenkarton 1180×475×165 mm – Doppelwelliger Versandkarton für Gitarren
 x00239;46.43;20;EUR;1;Gitarrenkarton 3er Set 1180×475×165 mm – Doppelwellige Versandkartons
@@ -621,11 +617,10 @@ x00240;70.19;20;EUR;1;Gitarrenkarton 5er Set 1180×475×165 mm – Doppelwellige
 031986009144;777.59;20;EUR;1;Godin 5th Avenue Kingpin P90 - Cognac Burst
 11905;1154.51;20;EUR;1;Godin L. R. Baggs Acousticaster - Tobacco Burst
 x00184;554.03;20;EUR;1;Grass Roots ESP Forest FR-GT-SH
-x00185;289.43;20;EUR;1;Grassroots Forest Bass G-FR-52B - See thru Red
 x00125;415.79;20;EUR;1;GrassRoots Sugizo Model - Black
 750416;777.59;20;EUR;1;Greco 303 Akustik 1975 - Cherry Sunburst
 I784576;997.91;20;EUR;1;Greco Custom EG-600P Les Paul 1978 - Ebony - Vintage Japan
-02741;914.75;20;EUR;1;Greco EG Ace Frehley Les Paul Custom 1980 - Heritage Cherry Sunburst - Vintage Japan
+02741;824.03;20;EUR;1;Greco EG Ace Frehley Les Paul Custom 1980 - Heritage Cherry Sunburst - Vintage Japan
 x00120;831.59;20;EUR;1;Greco EG Les Paul 1970s - Cherry Sunburst
 x00138;646.91;20;EUR;1;Greco EG Les Paul 1970s - Ebony
 x00294;680.39;20;EUR;1;Greco EG Les Paul 1970s - Sunburst
@@ -731,7 +726,7 @@ S4053035;1385.63;20;EUR;1;Ibanez PF350BK Performer 1994 - Black
 X00055;738.71;20;EUR;1;Ibanez Pre Lawsuit 2375 Stratocaster 1970s - Sunburst
 F0402419;738.71;20;EUR;1;Ibanez Prestige SA1260 2004 - Sunburst
 F700540;462.23;20;EUR;1;Ibanez RB830 Roadstar II Series Bass 1987 - Black
-F422874;665.27;20;EUR;1;Ibanez RG Series 1994 - Luna Sea
+F422874;599.39;20;EUR;1;Ibanez RG Series 1994 - Luna Sea
 W210522;289.43;20;EUR;1;Ibanez RG Standard 2021 - Red
 J860407;923.39;20;EUR;1;Ibanez RG410 Roadstar II Series 1986 - Black
 I220610135;375.83;20;EUR;1;Ibanez RG421 2022 - Natural
@@ -758,7 +753,7 @@ x00199;646.91;20;EUR;1;Juno Flying V - Acryl / Transparent
 x00201;184.67;20;EUR;1;Kapok MEG 9012 Stratocaster - Red
 X00014;194.39;20;EUR;1;Kay Acoustic C950 - Natural
 X00006;184.67;20;EUR;1;Keiper Shortscale Stratocaster Junior - Black
-x00202;693.35;20;EUR;1;Kramer LK-1 1980s - Black
+x00202;658.79;20;EUR;1;Kramer LK-1 1980s - Black
 60867;665.27;20;EUR;1;Kramer Neptune NJ 1980s - Black
 12488;1263.59;20;EUR;1;Kramer Pacer Deluxe - Metallic Blue
 10082901074;473.03;20;EUR;1;Kramer Pariah 2010 - Candy Red Black Flames
@@ -794,7 +789,7 @@ x00237;1385.63;20;EUR;1;Mesa Boogie Mini Rectifier Twenty Five - 100V - Japan Mo
 K21190164;874.79;20;EUR;1;Michael Kelly Custom Collection Patriot Instinct 2021 - Scorched
 x00236;518.39;20;EUR;1;MJT Aged Relic Nitro Jazzmaster Body - Vintage White
 EMCE0146;738.71;20;EUR;1;Mosrite Avenger - Cherry Red
-G26809;1846.79;20;EUR;1;Music Man Benji Madden Signature Silhouette Special 2005 - Madden Green
+G26809;1754.99;20;EUR;1;Music Man Benji Madden Signature Silhouette Special 2005 - Madden Green
 G34133;1263.59;20;EUR;1;Music Man by Ernie Ball Silhouette 2001 - Black
 E21817;1555.19;20;EUR;1;Music Man by Ernie Ball StingRay 3 EQ 2001 - Black
 G03140;849.95;20;EUR;1;Music Man Ernie Ball Axis Sport 1998 - Black
@@ -848,7 +843,7 @@ F02530;646.91;20;EUR;1;PRS SE Standard 2005 - Camo
 K22703;831.59;20;EUR;1;PRS SE Zach Myers Signature 2010 - Royal Blue
 IB00331;583.19;20;EUR;1;PRS Tremonti 2015 - Black
 1452007406;1385.63;20;EUR;1;PRS USA S2 Mira 2014 - Vintage Cherry
-TF2272;2138.39;20;EUR;1;Rickenbacker 330/12 1980 - Cherry Sunburst
+TF2272;2138.39;20;EUR;1;Rickenbacker 330/12 1980 - Fireglo
 VA1901127_Inz;874.79;20;EUR;1;Rivolta Combinata Dennis Fano 2019
 122889;58.31;20;EUR;1;Rocktek DIR-01 Distortion Effektpedal
 123170;58.31;20;EUR;1;Rocktek ODR-01 Overdrive Effektpedal
@@ -857,8 +852,6 @@ x00296;680.39;20;EUR;1;Samick Korea EPSA-WR Casino 1990s - Cherry Red
 IW22021383;673.91;20;EUR;1;Schecter Banshee GT FR 2022 - Satin Trans Blue
 W14040095;615.59;20;EUR;1;Schecter Damien Elite FR 2014 - Crimson Red
 L09020638;680.39;20;EUR;1;Schecter Diamond Series Apocalypse V-1 2009 - Limited Edition
-W19080610;1049.75;20;EUR;1;Schecter Diamond Series Hellraiser Hybrid PT 2019 - Ultra Violet
-0339684;646.91;20;EUR;1;Schecter Diamond Series S-1 Elite 2013 - Black Cherry
 47358;738.71;20;EUR;1;Schecter HSH Japan - Amber
 x00210;701.99;20;EUR;1;Schecter Japan Progauge 7-String PS600 - Translucent Cherry
 x00211;738.71;20;EUR;1;Schecter Japan SD-2-22 HSH - Trans Green
@@ -880,7 +873,6 @@ IW22051212;831.59;20;EUR;1;Solar T1.6H3TS 2022 - Sunburst
 IW25050180;971.99;20;EUR;1;Solar VAR1.6FR 2025 - Matte Black
 E729633;646.91;20;EUR;1;Squier Bullet Bass Korea 1987 - Red
 ISSE22002633;388.79;20;EUR;1;Squier by Fender 40th Anniversary Stratocaster 2022 - Satin Seafoam Green
-ICS09118845;646.91;20;EUR;1;Squier by Fender Avril Lavigne Signature Telecaster 2009
 CY99108798;680.39;20;EUR;1;Squier by Fender Jagmaster 1999 - Red
 CY06071771;680.39;20;EUR;1;Squier by Fender Jagmaster 2006 - Metallic Blue
 CY100604631;680.39;20;EUR;1;Squier by Fender Jagmaster 2010 - Candy Apple Red
@@ -894,23 +886,24 @@ X00034;350.99;20;EUR;1;Switch Vibracell - Blue
 1101182138;1069.19;20;EUR;1;Taylor SB1 2011 - Black
 CN23050210;748.43;20;EUR;1;Tokai ALS94GT Love Rock Les Paul 2023 - Goldtop
 C104995;738.71;20;EUR;1;Tokai Breezysound Lefthand Telecaster 2010 - Natural
-150212;997.91;20;EUR;1;Tokai Breezysound TE150 Telecaster 2015 - Blue Flower
-150229;898.55;20;EUR;1;Tokai Breezysound TE150 Telecaster 2015 - Blue Flower
-2044003;1662.11;20;EUR;1;Tokai ES180-AL Alvin Lee Signature Model 2020 - Cherry
+150212;898.55;20;EUR;1;Tokai Breezysound TE150 Telecaster 2015 - Blue Flower
+150229;808.91;20;EUR;1;Tokai Breezysound TE150 Telecaster 2015 - Blue Flower
+2044003;1496.87;20;EUR;1;Tokai ES180-AL Alvin Lee Signature Model 2020 - Cherry
 2025159;738.71;20;EUR;1;Tokai Five Star 1982 - White
 202002;738.71;20;EUR;1;Tokai FSD-65 Five Star Super Edition 1982 - Black
-4013938;449.27;20;EUR;1;Tokai LBX50 Electric Bass 1984 - Metallic Red
-4014377;449.27;20;EUR;1;Tokai LBX50 Electric Bass 1984 - White
+4013938;404.99;20;EUR;1;Tokai LBX50 Electric Bass 1984 - Metallic Red
+4014377;404.99;20;EUR;1;Tokai LBX50 Electric Bass 1984 - White
 CN12040304;524.87;20;EUR;1;Tokai Love Rock ALS80 Les Paul 2012 - Sparkle
 CN23050227;831.59;20;EUR;1;Tokai Love Rock ALS94T Les Paul 2023 - Goldtop
+9404091;741.95;20;EUR;1;Tokai Love Rock Les Paul 1994 - Cherry Sunburst
 0205070;923.39;20;EUR;1;Tokai Love Rock Les Paul 2002 - Honey Burst
 2348101;1229.03;20;EUR;1;Tokai Love Rock Les Paul LS162QZ 2023 - Quilt
 9002301;1123.19;20;EUR;1;Tokai LS100 Love Rock Les Paul 1990 - Mahogany
-2044215;1263.59;20;EUR;1;Tokai LS135 Love Rock Les Paul 2020 - Honeyburst
+2044215;1200.95;20;EUR;1;Tokai LS135 Love Rock Les Paul 2020 - Honeyburst
 1101571;971.99;20;EUR;1;Tokai LS50 Love Rock Les Paul 1981 - Ebony
 0010090;748.43;20;EUR;1;Tokai LS60 Love Rock Les Paul 1980 - Ebony
-1015496;997.91;20;EUR;1;Tokai LS60 Love Rock Les Paul 1981 - All Gold
-9102474;824.03;20;EUR;1;Tokai LS65 Love Rock Les Paul 1991 - Cherry Sunburst
+1015496;898.55;20;EUR;1;Tokai LS60 Love Rock Les Paul 1981 - All Gold
+9102474;741.95;20;EUR;1;Tokai LS65 Love Rock Les Paul 1991 - Cherry Sunburst
 2023582;790.55;20;EUR;1;Tokai Original Series Explorer 1982 - Vintage White
 x00099;631.79;20;EUR;1;Tokai SG - Cherry Red
 x00098;646.91;20;EUR;1;Tokai SG 38SW - Snow White
@@ -920,12 +913,12 @@ x00098;646.91;20;EUR;1;Tokai SG 38SW - Snow White
 2020346;738.71;20;EUR;1;Tokai Silver Star Stratocaster 1982 - Black
 4045207;738.71;20;EUR;1;Tokai Silver Star Stratocaster 1984 - Vintage White
 1015185;673.91;20;EUR;1;Tokai Springy Sound VS80 1981 - Amber Burst
-L99;583.19;20;EUR;1;Tokai SS50 Custom Edition Stratocaster 1984 - Vintage White
+L99;524.87;20;EUR;1;Tokai SS50 Custom Edition Stratocaster 1984 - Vintage White
 L23849;583.19;20;EUR;1;Tokai ST Stratocaster 1980s - Black
 112744;583.19;20;EUR;1;Tokai ST Stratocaster Limited Edition 1980s - Candy Apple Red
 207482;583.19;20;EUR;1;Tokai ST-36 Stratocaster Limited Edition 1982 - Blue Burst
 112711;680.39;20;EUR;1;Tokai Super Edition Stratocaster 1981 - Metallic Red
-L84;599.39;20;EUR;1;Tokai Talbo Blazing Fire 1984 - Aluminium
+L84;539.99;20;EUR;1;Tokai Talbo Blazing Fire 1984 - Aluminium
 C104905;701.99;20;EUR;1;Tokai Telecaster Breezysound Lefthand 2010 - Vintage White
 x00273;97.19;20;EUR;1;Tokai TXC-1 Exciter Effektpedal - Japan
 x00212;874.79;20;EUR;1;Trinity by Relish - Metallic Blue
@@ -942,7 +935,6 @@ X00001;4859.99;20;EUR;1;Wandre Tri-Lam Teenager Blue Jeans 1959 - Multicolour
 K15755811;2138.39;20;EUR;1;Warwick Corvette $$ Double Buck Bass 2011 - Turquoise Blue Oil Finish
 M152729109;2138.39;20;EUR;1;Warwick Corvette $$ Special Edition Double Buck Bass 2009 - Macassar Ebony Top
 G555729-18;777.59;20;EUR;1;Warwick Infinity RockBass 2018 - Natural
-A000014-93;1457.99;20;EUR;1;Warwick Streamer Bass 1993 - Natural
 M112111-04;3693.59;20;EUR;1;Warwick Thumb NT Bass 2004 - Natural Oil Finish
 x00215;971.99;20;EUR;1;Wotan Bass - Natural - Vintage Japan
 004850;680.39;20;EUR;1;Yamaha 400 Pulser Bass 1980 - Natural - Vintage Japan
