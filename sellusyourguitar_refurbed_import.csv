@@ -1,4 +1,15 @@
 product_code;price_gross;vat;currency;stock;name
+4933c27d-e1fc-eb45-617f-18140f516d98;610.2;20;GBP;1;Jackson X Series Soloist SLX Crackle Green Crackle 2019 Electric Guitar
+22584c8b-80a4-fdc2-c413-3e26ae9598fe;696.6;20;GBP;1;Fender Jim Adkins JA-90 Thinline Telecaster Gloss White 2020 Electric Guitar
+5de82058-ae07-5e6c-b077-6e86f63c198b;2554.2;20;GBP;1;Fender Custom Shop 1956 Stratocaster NOS Fiesta Red 2006 Electric Guitar
+e1be5587-3840-da8d-bb89-750ce80a53ab;988.2;20;GBP;1;Neural DSP Quad Cortex Mini Multi Effects Unit
+88ec4645-e919-699e-a4f9-1a0b61b7a032;1339.2;20;GBP;1;Martin Road Series 000E Retro Plus Gloss Natural 2024 Auditorium Electro
+a8281e01-5330-5563-ecac-1168f2344cb6;901.8;20;GBP;1;Gibson SG Tribute Natural Walnut 2022 Electric Guitar
+7b4a461b-cbe8-222b-4de6-632aa754b9c7;756.0;20;GBP;1;D'Angelico Excel EX-59 P90 Solid Black 2016 Hollow Body Electric Guitar
+6a353f2e-20ba-2766-a1a2-cf768e7a8327;1047.6;20;GBP;1;Gibson Les Paul Junior Vintage Tobacco Sunburst 2025 Electric Guitar
+c2c1ccf3-bef0-ca83-2780-eee311863dc9;1047.6;20;GBP;1;Warwick Corvette Standard Fretless Natural 1999 4-String Electric Bass
+99cae8cc-370f-88d2-11c4-216c75a77778;955.8;20;GBP;1;Fender Made in Japan Traditional '60s Stratocaster 2020 Lake Placid Blue
+61a0666b-5895-787c-77f2-e74623cd0c6d;815.4;20;GBP;1;Rivolta Guitars Combinata XVII Black Gloss 2019 Electric Guitar
 2599c535-2db2-511e-6fb4-f4fc5783d92b;1047.6;20;GBP;1;Godin Multiac Nylon Encore Natural Satin 2019 Electro Acoustic Guitar
 cc248fa2-96aa-b72a-a084-d3b75b9d9f50;610.2;20;GBP;1;Fender Player II Telecaster Black 2025 Electric Guitar
 faf9e6f1-cf8c-dd1c-b5ff-fecd0f0f6e5a;5070.6;20;GBP;1;Gibson Custom, Art & Historic 1957 Les Paul Custom 'Black Beauty' Reissue 2000
@@ -9,6 +20,7 @@ c2eef861-82da-c60b-c0d7-42a911367a57;874.8;20;GBP;1;Fender Brad Paisley Signatur
 4a73ebce-b6fb-8e82-df6a-c5d55f83294f;642.6;20;GBP;1;Fender Limited Edition Player Stratocaster Surf Green 2023 Electric Guitar
 96983574-677b-e54d-8bfe-639c9799199d;1047.6;20;GBP;1;Fender Ltd Ed American Performer Timber Telecaster 2-Colour Sunburst 2024 Guitar
 e0231332-5412-1c47-9a3b-17da7333c235;1630.8;20;GBP;1;Gibson Les Paul Gary Moore BFG Signature Lemon Burst 2009 Electric Guitar
+a8ec63e7-a092-5d12-63b1-6f8f0efbb61a;464.4;20;GBP;1;Fender Standard Stratocaster 2001 Electric Guitar
 14bd5fd8-3e00-609f-5dbd-c4f29a85e16c;491.4;20;GBP;1;Grassroots G-Bricoleur Black Takuro Sugawara Signature 2013 Electric Guitar
 de357d8d-3ee2-da63-650f-7c755bf206c8;1161.0;20;GBP;1;Strandberg Boden Standard N2.6 Black Satin Metallic 2025 Electric Guitar
 03e18db2-edd4-f35a-73b0-aa03cb03c85d;496.8;20;GBP;1;Line 6 Variax Standard Sunburst 2015 Modelling Electric Guitar
@@ -98,7 +110,6 @@ c465229a-9299-267a-91bd-42399de9958b;1630.8;20;GBP;1;Fender 60th Anniversary Tri
 6eeef135-a171-116d-130b-61bc1059b775;610.2;20;GBP;1;Ibanez AF105F Natural Hollow Body 2006 Electric Guitar
 35a3e881-f867-1de5-f5ec-1f55a944fbb7;437.4;20;GBP;1;D'Angelico Excel Lexington Auburn 2020 Electro-Acoustic Guitar
 31f71c9e-027c-f9fb-b717-c3acd42a1cda;1917.0;20;GBP;1;Lakewood Sungha Jung Signature Satin Natural 2021 Grand Concert Electro-Acoustic
-ea52d5e1-20c3-58ed-6f25-d336c3083de6;988.2;20;GBP;1;Fender American Standard Stratocaster Olympic White 2008 Electric Guitar
 423b9fa9-5d67-78f6-3f3c-54b391944f81;1161.0;20;GBP;1;Fender Troy Van Leeuwen Jazzmaster Copper Age 2025 Electric Guitar
 b818aa0f-5ac5-c781-f770-3684b76244ab;1279.8;20;GBP;1;Fender 50th Anniversary American Stratocaster Antique Sunburst 1996
 8ef6b390-9f1f-810b-265c-9a3d1b41f6af;1015.2;20;GBP;1;Fender J Mascis Telecaster Bottle Rocket Blue Flake 2021 Electric Gui
@@ -168,7 +179,6 @@ a249e88a-30ee-d488-464d-0a1c0912000b;421.2;20;GBP;1;Westone Thunder 1 Natural 19
 0ac8484f-9ef7-5c18-fc2e-ad3d7076169a;453.6;20;GBP;1;Commodore N25 semi-hollow 1972 Japan Vintage electric guitar
 6045e786-68de-eb61-6dd0-176c408e3516;237.6;20;GBP;1;JHS Sweet Tea V3 Dual Overdrive Guitar Effects Pedal
 b5d8efc8-7098-c3e5-cf49-28d53e9f7a28;1296.0;20;GBP;1;Fender American Standard Stratocaster Shawbucker HSS Black 2016 Modified
-93a61b3e-5172-51a6-c985-e36024bf1eb7;421.2;20;GBP;1;Westone Thunder I Natural Gloss 1983 Electric Bass
 ba3fe75b-4b85-9457-fa79-9284c35c5318;1906.2;20;GBP;1;ESP Eclipse-II QM Duncan See-Thru Black Cherry 2012 Electric Guitar
 d1a904c9-e968-01e1-4bfa-4ab913c077b0;280.8;20;GBP;1;Danelectro Danoblaster Innuendo Gloss Black 2001 Electric Guitar
 ea455dca-0379-e265-4a8a-42d545a78fbb;340.2;20;GBP;1;Fernandes Ravelle Black Gloss 2005 Electric Guitar
