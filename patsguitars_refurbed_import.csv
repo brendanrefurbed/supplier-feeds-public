@@ -25,7 +25,6 @@ product_code;price_gross;vat;currency;stock;name
 9989211717961;1749.59;20;EUR;1;Bad Cat “Lil 15” Amplifier Combo
 9989279220041;1166.39;20;EUR;1;Bad Cat “Mini Cat” Amplifier Head - Black
 10305857814857;97.19;20;EUR;1;BBE Opto Stomp Optical Compressor Effektpedal
-10247181566281;340.19;20;EUR;1;Blackstar AMPED 3 100W Guitar Amplifier Pedal
 10211522937161;184.67;20;EUR;1;Blackstar HTV-112 1x12 Lautsprecher Cabinet 80W
 10016105562441;646.91;20;EUR;1;Blade Levinson Delta Standard Telecaster 2021 - Sunburst
 10305801126217;136.07;20;EUR;1;Boss BF-2 Flanger Effektpedal - Japan
@@ -433,7 +432,6 @@ product_code;price_gross;vat;currency;stock;name
 10276917772617;1943.99;20;EUR;1;Fender American Vintage 52 Reissue Telecaster 1995 - Butterscotch Blonde
 10141638394185;738.71;20;EUR;1;Fender American Vintage Jaguar Body - Sunburst
 10316327747913;777.59;20;EUR;1;Fender Classic 50s Stratocaster 2007 - Surf Green
-10240966000969;646.91;20;EUR;1;Fender Classic 50s Stratocaster 2016 - Surf Green
 9997912670537;4859.99;20;EUR;1;Fender Custom Shop Bloodwood Fretless Bass Masterbuilt by Jason Davis 2003
 10294181757257;2915.99;20;EUR;1;Fender Custom Shop Deluxe Stratocaster 2010 - Natural
 9989299536201;5831.99;20;EUR;1;Fender Custom Shop Nocaster Telecaster Thinline NOS 2005 - Butterscotch Blonde
@@ -553,6 +551,7 @@ product_code;price_gross;vat;currency;stock;name
 9974426796361;524.87;20;EUR;1;Framus Diablo Progressive X - Trans Black
 10033157669193;291.59;20;EUR;1;Framus FR 212 Speaker Cabinet
 10316319588681;1263.59;20;EUR;1;Framus Panthera Custom Shop 2010 - Goldtop
+9903172682057;777.59;20;EUR;1;Framus Semi Hollow - Black
 9890335785289;1317.59;20;EUR;1;Framus Strato Deluxe 1963 - Blonde
 10175549899081;69.97;20;EUR;1;Freedom Custom Guitar Research A/B Switch Box Pedal - Japan
 10277173428553;1555.19;20;EUR;1;Gibson 1960 Les Paul Classic 2002- Ebony
@@ -683,6 +682,7 @@ product_code;price_gross;vat;currency;stock;name
 10176889651529;96.22;20;EUR;1;Guyatone PS-038 Bass Exciter/Limiter B-II Effect Pedal 1987 - Vintage Japan
 10176892305737;131.21;20;EUR;1;Guyatone PS-104 Cross Over Auto Wah Effect Pedal 1980 - Vintage Japan
 10117754880329;439.55;20;EUR;1;Hagstrom Ultra Swede 2008 - Red Burst
+10254404518217;583.19;20;EUR;1;HAGSTROM Viking The Rod LTD 2012 - Black
 10126045675849;231.11;20;EUR;1;Harley Benton Piezo Stratocaster - Sunburst
 10240953811273;777.59;20;EUR;1;Höfner 173 - Vinyl White
 9751180771657;415.52;20;EUR;1;Höfner 520 1960s
@@ -843,7 +843,6 @@ product_code;price_gross;vat;currency;stock;name
 10023466697033;738.71;20;EUR;1;Schecter Japan SD-2-22 HSH - Trans Green
 9890386280777;449.27;20;EUR;1;Schecter JOL Series Telecaster 2024 - Natural
 10305395425609;388.79;20;EUR;1;Schecter Tempest Hercules LTD 2022
-9760018694473;2010.95;20;EUR;1;Schecter USA Custom Shop Michael Anthony Signature Bass 2016 - Handsigned - Inferno Orange
 10315841306953;1360.79;20;EUR;1;Seventy Seven Japan Exrubato CTM JT 2022 - Trans Black
 10315895210313;1360.79;20;EUR;1;Seventy Seven Japan Exrubato STD JT 2021 - Aged Red
 10316410716489;1263.59;20;EUR;1;Seventy Seven Japan Exrubato STD JT 2021 - Aged Red
@@ -873,7 +872,6 @@ product_code;price_gross;vat;currency;stock;name
 10008569971017;748.43;20;EUR;1;Tokai ALS94GT Love Rock Les Paul 2023 - Goldtop
 10091454890313;738.71;20;EUR;1;Tokai Breezysound Lefthand Telecaster 2010 - Natural
 9947266777417;898.55;20;EUR;1;Tokai Breezysound TE150 Telecaster 2015 - Blue Flower
-9947275493705;1496.87;20;EUR;1;Tokai ES180-AL Alvin Lee Signature Model 2020 - Cherry
 10240697270601;738.71;20;EUR;1;Tokai Five Star 1982 - White
 10098898272585;738.71;20;EUR;1;Tokai FSD-65 Five Star Super Edition 1982 - Black
 9948779741513;404.99;20;EUR;1;Tokai LBX50 Electric Bass 1984 - Metallic Red
