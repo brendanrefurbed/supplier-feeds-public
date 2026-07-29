@@ -1,4 +1,5 @@
 product_code;price_gross;vat;currency;stock;name
+2599c535-2db2-511e-6fb4-f4fc5783d92b;1047.6;20;GBP;1;Godin Multiac Nylon Encore Natural Satin 2019 Electro Acoustic Guitar
 cc248fa2-96aa-b72a-a084-d3b75b9d9f50;610.2;20;GBP;1;Fender Player II Telecaster Black 2025 Electric Guitar
 faf9e6f1-cf8c-dd1c-b5ff-fecd0f0f6e5a;5070.6;20;GBP;1;Gibson Custom, Art & Historic 1957 Les Paul Custom 'Black Beauty' Reissue 2000
 19e51854-e2a3-da5b-7067-a506ab66e81b;642.6;20;GBP;1;Fender Player Precision Buttercream 2021 Electric Bass
@@ -8,7 +9,6 @@ c2eef861-82da-c60b-c0d7-42a911367a57;874.8;20;GBP;1;Fender Brad Paisley Signatur
 4a73ebce-b6fb-8e82-df6a-c5d55f83294f;642.6;20;GBP;1;Fender Limited Edition Player Stratocaster Surf Green 2023 Electric Guitar
 96983574-677b-e54d-8bfe-639c9799199d;1047.6;20;GBP;1;Fender Ltd Ed American Performer Timber Telecaster 2-Colour Sunburst 2024 Guitar
 e0231332-5412-1c47-9a3b-17da7333c235;1630.8;20;GBP;1;Gibson Les Paul Gary Moore BFG Signature Lemon Burst 2009 Electric Guitar
-a8ec63e7-a092-5d12-63b1-6f8f0efbb61a;464.4;20;GBP;1;Fender Standard Stratocaster 2001 Electric Guitar
 14bd5fd8-3e00-609f-5dbd-c4f29a85e16c;491.4;20;GBP;1;Grassroots G-Bricoleur Black Takuro Sugawara Signature 2013 Electric Guitar
 de357d8d-3ee2-da63-650f-7c755bf206c8;1161.0;20;GBP;1;Strandberg Boden Standard N2.6 Black Satin Metallic 2025 Electric Guitar
 03e18db2-edd4-f35a-73b0-aa03cb03c85d;496.8;20;GBP;1;Line 6 Variax Standard Sunburst 2015 Modelling Electric Guitar
@@ -47,7 +47,6 @@ ed28090d-15a2-913c-d57c-881e7c7ee9ed;2154.6;20;GBP;1;Gray Guitars Emperor Sherwo
 d771c080-33fd-d3b3-cc9b-59b8fbcc44c4;2208.6;20;GBP;1;Gibson ES-335 Dot Vintage Burst 2023 Semi-Hollow Electric Guitar
 13ace63c-01bc-7fcf-cc65-c02b119b6303;696.6;20;GBP;1;Schecter Japan RJ-1-24-VTR See-Thru Green Electric Guitar
 d215e39b-ef31-c277-a9ac-354f84f0ca5a;1863.0;20;GBP;1;Gibson Les Paul Standard '60s Bourbon Burst 2025 Electric Guitar
-5eebe20b-e5ef-ee37-672f-f0b53773cce1;756.0;20;GBP;1;Gordon Smith GS1 Korina Natural Satin UK Electric Guitar
 8e02ac4b-d369-343b-9267-76b38a1cf434;815.4;20;GBP;1;Eastman DM1 Classic 2024 Gypsy Jazz Acoustic Guitar
 247e8b85-4e36-de69-5da2-f60fd83caf9c;928.8;20;GBP;1;Fender Urge Stu Hamm Black Electric Bass Guitar
 f2d00996-9e43-0c58-ef29-f9f4fd792070;1690.2;20;GBP;1;Gibson EB-0 Modified Cherry c.1960s Vintage Short Scale Electric Bass Guitar
