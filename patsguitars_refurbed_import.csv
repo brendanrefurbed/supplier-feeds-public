@@ -461,7 +461,6 @@ product_code;price_gross;vat;currency;stock;name
 10292782334281;1166.39;20;EUR;1;Fender Japan 69 Reissue Mustang 1993-1994 - Vintage White
 10255387263305;1108.07;20;EUR;1;Fender Japan 69 Reissue Mustang 1994-1995 - Vintage White
 10256743563593;1200.95;20;EUR;1;Fender Japan 69 Reissue Mustang 1995-1996 - Candy Apple Red
-10254425227593;1108.07;20;EUR;1;Fender Japan 69 Reissue Mustang 1997-2000 - Surf Green
 10316372902217;1263.59;20;EUR;1;Fender Japan 69 Reissue Mustang 1997-2000 - Vintage White
 10292890206537;971.99;20;EUR;1;Fender Japan 72 Reissue Stratocaster 1993-1994 - Natural
 10255385329993;923.39;20;EUR;1;Fender Japan 72 Reissue Stratocaster 1997-2000 - Black
@@ -554,7 +553,6 @@ product_code;price_gross;vat;currency;stock;name
 10098886181193;2770.19;20;EUR;1;Gibson Custom Shop 57´ Les Paul Standard 2001 - Planet Green
 10316313264457;3401.99;20;EUR;1;Gibson Custom Shop RD Custom 2024 - Ebony
 10294063366473;2429.99;20;EUR;1;Gibson Explorer Robot 2008 - Metallic Red
-10316884181321;1943.99;20;EUR;1;Gibson Firebird V 1994 - Vintage Burst
 10316288098633;2915.99;20;EUR;1;Gibson Firebird V 2010 - Classic White
 10316902924617;1943.99;20;EUR;1;Gibson Flying V 1995 - Cherry
 10316904857929;1943.99;20;EUR;1;Gibson Flying V HP High Performance 2016 - Ebony
@@ -563,7 +561,6 @@ product_code;price_gross;vat;currency;stock;name
 10176866746697;1166.39;20;EUR;1;Gibson Les Paul 70‘s Tribute 2013 - Tobacco Burst
 10053109285193;2309.03;20;EUR;1;Gibson Les Paul Classic 1960 2006 - Honey Fade
 10228063895881;1662.11;20;EUR;1;Gibson Les Paul Classic 2015 - Vintage Sunburst
-10294165111113;1943.99;20;EUR;1;Gibson Les Paul Classic 2018 - Goldtop
 10033181557065;2770.19;20;EUR;1;Gibson Les Paul Custom Shop 1998 - Catalina Red
 10255401746761;3232.43;20;EUR;1;Gibson Les Paul Deluxe 1980 - Natural
 10305376944457;1263.59;20;EUR;1;Gibson Les Paul Futura Min-ETune 2014 - Plum Insane
@@ -697,7 +694,6 @@ product_code;price_gross;vat;currency;stock;name
 9903021883721;388.79;20;EUR;1;Ibanez EX Series EX170L Lefthand 1993 - Black
 10231359471945;1200.95;20;EUR;1;Ibanez Iceman ICT700 2008 - Black
 10249198829897;1263.59;20;EUR;1;Ibanez Iceman ICT700 2008 - Black
-10212550443337;874.79;20;EUR;1;Ibanez JEM555 Steve Vai Signature - White
 10211501179209;415.79;20;EUR;1;Ibanez JEM555 Steve Vai Signature - White - Defekt
 10249092235593;738.71;20;EUR;1;Ibanez JEM555 Steve Vai Signature 2008 - White
 10230957801801;831.59;20;EUR;1;Ibanez JP20 Joe Pass Signature 1990 - Tobacco Burst
