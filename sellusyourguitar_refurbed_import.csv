@@ -1,4 +1,6 @@
 product_code;price_gross;vat;currency;stock;name
+0ebeb841-249e-72b2-0ea6-9e6b8eb66ed7;988.2;20;GBP;1;Fender Ltd Edition Mark Hoppus Jaguar Bass 3-Color Sunburst 2025 Electric Bass
+34c94bf1-7b39-580e-6199-11ce79343614;642.6;20;GBP;1;D'Angelico Premier EXL-1 Ocean Turquoise 2018 Hollow Body Electric Guitar
 4933c27d-e1fc-eb45-617f-18140f516d98;610.2;20;GBP;1;Jackson X Series Soloist SLX Crackle Green Crackle 2019 Electric Guitar
 22584c8b-80a4-fdc2-c413-3e26ae9598fe;696.6;20;GBP;1;Fender Jim Adkins JA-90 Thinline Telecaster Gloss White 2020 Electric Guitar
 5de82058-ae07-5e6c-b077-6e86f63c198b;2554.2;20;GBP;1;Fender Custom Shop 1956 Stratocaster NOS Fiesta Red 2006 Electric Guitar
@@ -169,7 +171,6 @@ d6386952-14f2-bb57-8bd0-7699c1f73008;847.8;20;GBP;1;Fender American Special Stra
 713d524b-cc70-94fd-35c0-96ec48b1593f;1414.8;20;GBP;1;PRS CE 24 Chrome Blue 2006 Electric Guitar
 27658572-5924-a48f-4c00-2bc17a3d0dbc;307.8;20;GBP;1;Vintage VSA500MP Gloss Natural 2020 Semi-Hollow Electric Guitar
 46500159-fa0b-df79-21e4-b8e5b34d761c;280.8;20;GBP;1;Peavey JF1EX Transparent Red Semi-Hollow Electric Guitar
-d80ec3f9-2e05-0c08-1c0a-214e68932617;658.8;20;GBP;1;Fender Special Edition Player Stratocaster Black 2022 Electric Guitar
 73a76cc7-c7bd-07b5-c607-95b4ed3212be;1814.4;20;GBP;1;Alusonic Django Standard 5 Gloss Audi RS Nardo Grey 2011 5-String Bass
 d27c4a5b-f6c3-28b0-407c-fe0753ebfbb0;1242.0;20;GBP;1;Patrick Eggle Guitars Berlin Pro Cherry 1993 Electric Guitar
 5267a0aa-1a63-0ccb-01c2-222baca85ba6;388.8;20;GBP;1;Crafter SAT-M Midnight Blue 2007 Hybrid Electric Acoustic Guitar
@@ -229,7 +230,6 @@ d9e34f07-870e-5aa5-bd1f-a1733c453182;702.0;20;GBP;1;Epiphone USA Map Guitar Natu
 233f1e0b-d8c3-2eaa-8cc7-d98b20fdee80;432.0;20;GBP;1;Squier Pro-Tone Stratocaster Olympic White 1997 Electric Guitar
 54d34fa2-2454-037a-d692-4b61335d1955;2268.0;20;GBP;1;Gretsch G6122-1959 Chet Atkins ‘1959 Nashville Classic’ Country Gentleman Walnut
 c4e1a2bd-54e6-fb8c-d4d9-e5b8d3cd432f;810.0;20;GBP;1;Fender American Standard Stratocaster 3-Color Sunburst 2004 Electric Guitar
-609cfa78-4718-cd95-70af-3c33f2fd13ff;2538.0;20;GBP;1;PRS McCarty 594 Doublecut Gold Top 2018 Electric Guitar
 cae77372-3cd2-5cf9-2af0-20f38214b6f7;351.0;20;GBP;1;Little Rock Vintage 80 1x12” UK Made Tweed Valve Guitar Amplifier Combo
 c20ae998-e860-6bb1-d22f-a4d9e22537ac;2268.0;20;GBP;1;Gibson Memphis ES-335 Bass Vintage Sunburst 2013 Semi-Hollow Electric Bass
 55b39dd1-461b-5200-8400-04bb6110d58b;2079.0;20;GBP;1;Larrivee 000-44R Legacy Series Natural Gloss 2022 Acoustic Guitar
