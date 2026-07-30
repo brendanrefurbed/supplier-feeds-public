@@ -3,7 +3,6 @@ product_code;price_gross;vat;currency;stock;name
 6cd0e48d-8058-9847-9ebc-abac97021ba1;1562.76;20;EUR;1;Yamaha Super Flighter SF1000 Natural 1978 MIJ + Case
 a7efe7ac-bb9a-0f11-e574-6e156e3b9b2b;3553.2;20;EUR;1;Gibson USA Les Paul Standard Plus Limited Edition1998
 6b070128-3903-2d18-a1a1-8d2c40b78529;4262.76;20;EUR;1;Greco EX-800 Natural 1977 MIJ – Long Neck Tenon – Maxon U-2000 – OHSC
-2ef82c50-18ee-bb9a-9211-a3f65aeff9c0;1790.64;20;EUR;1;Greco MSV-850 Michael Schenker 1981 - Maxon PU-2 - Super Real - MIJ Fujigen
 be2493e4-5752-3232-03ee-ef9240329f3f;1136.16;20;EUR;1;Fender Japan ST-43 Stratocaster 1993-1994 Black - Made in Japan
 3e627827-f9f2-2485-0eff-4ef5c985631d;2273.4;20;EUR;1;Orville by Gibson Les Paul Custom Wine Red 1989 MIJ
 90ae6ec8-b878-a33a-ab7c-71e6054583cf;1477.44;20;EUR;1;Yamaha SG1000 1981 Japan – Gibson Burstbucker 2
@@ -94,7 +93,7 @@ fd3c863e-66b2-ca25-21d0-a9e49e4e6131;2131.92;20;EUR;1;Fender Strat Plus Deluxe 1
 17c430da-7be5-4a4e-115c-c22981053105;1108.08;20;EUR;1;ESP Edwards E-SE-93R/LT 3-Tone Sunburst
 78217b17-3f92-2c44-fc35-46b39594b1f1;1051.92;20;EUR;1;Edwards E-FR-135B/BA Snow White
 e6ee24c4-33f7-31d0-8537-9468d5abbc6b;1136.16;20;EUR;1;Edwards E-SG-90LT2 Cherry
-25421ace-c37a-aa0a-c660-443eb99b32c2;1846.8;20;EUR;1;Edwards E-MV-125FR Custom Color Order
-619f382b-8797-d921-8bfd-16d78a7740d1;2842.56;20;EUR;1;ESP E-II Stream G Black
-05f270c9-897f-195d-6fc4-99407c6a8b54;1136.16;20;EUR;1;ESP Edwards E-LP-125SD Bigsby
+25421ace-c37a-aa0a-c660-443eb99b32c2;1705.32;20;EUR;1;Edwards E-MV-125FR Custom Color Order
+619f382b-8797-d921-8bfd-16d78a7740d1;2557.44;20;EUR;1;ESP E-II Stream G Black
+05f270c9-897f-195d-6fc4-99407c6a8b54;1051.92;20;EUR;1;ESP Edwards E-LP-125SD Bigsby
 90c8edca-3c60-0627-c1bc-f39dc8dfd252;1136.16;20;EUR;1;Epiphone LPS-80 Made in Japan
