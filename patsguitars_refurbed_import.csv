@@ -155,10 +155,10 @@ product_code;price_gross;vat;currency;stock;name
 10067785285961;1052.99;20;EUR;1;ESP Action Precision Bass 1994 - Sunburst - Vintage Japan
 10212565025097;874.79;20;EUR;1;ESP AS-300 Alfee Akustik - Black
 9937240293705;3110.39;20;EUR;1;ESP E-II Eclipse - Tobacco Burst
+9937295442249;1197.71;20;EUR;1;ESP Edwards Batman Ninja Warrior Viper 2005 - Black
 10057509863753;1929.95;20;EUR;1;ESP FA-II Flying A „The Alfee“ - White
 10141863051593;1292.75;20;EUR;1;ESP Flying A The Alfee 1990 - White - Vintage Japan
 9989367333193;874.79;20;EUR;1;ESP LTD Andy James Signature AJ-1 2014 - Black Satin
-10292891320649;971.99;20;EUR;1;ESP LTD EC-1000T Les Paul Deluxe 2022 - Honey Burst Satin
 10136402493769;1141.55;20;EUR;1;ESP LTD GL-200K George Lynch Signature 2012 - Kamikaze
 10033162649929;1846.79;20;EUR;1;ESP Random Star - Purple Tiger
 9775092203849;1595.15;20;EUR;1;ESP THE ALFEE Signature Angel Classic Junior 1998 - Cherry Sunburst
@@ -484,7 +484,6 @@ product_code;price_gross;vat;currency;stock;name
 10303889637705;874.79;20;EUR;1;Fender Japan Precision Bass 1999-2002 - Sunburst
 10236596388169;462.23;20;EUR;1;Fender Japan SF-456 Stratocaster 1984-1987 - Black
 9961928294729;449.27;20;EUR;1;Fender Japan ST-235M Mini Stratocaster 1991-1992 - Black - Vintage
-10305787855177;242.99;20;EUR;1;Fender Japan ST-362 Stratocaster Body - Black
 10108705636681;831.59;20;EUR;1;Fender Japan ST-43 Stratocaster 1993-1994 - Black
 10108777300297;831.59;20;EUR;1;Fender Japan ST-43 Stratocaster 1993-1994 - Black
 10240736887113;831.59;20;EUR;1;Fender Japan ST-45 Stratocaster 2004-2005 - Vintage White
@@ -803,6 +802,7 @@ product_code;price_gross;vat;currency;stock;name
 10249355198793;831.59;20;EUR;1;Orville LPS-75 Les Paul 1990 - Cherry Sunburst
 10240731119945;738.71;20;EUR;1;Orville SG 1990 - Ebony
 10209971208521;785.15;20;EUR;1;Ovation 1613 1981 - Natural
+10249212526921;680.39;20;EUR;1;Ovation 1627 Glen Campbell Artist 1981 - Natural
 10240660406601;646.91;20;EUR;1;Ovation 1868 Elite 1998 - Sunburst
 10240635306313;738.71;20;EUR;1;Ovation 1869 Custom Legend 2001 - Black
 10240686424393;646.91;20;EUR;1;Ovation 6778 Elite Standard 1998 - Natural
@@ -874,6 +874,7 @@ product_code;price_gross;vat;currency;stock;name
 10098898272585;738.71;20;EUR;1;Tokai FSD-65 Five Star Super Edition 1982 - Black
 9948779741513;404.99;20;EUR;1;Tokai LBX50 Electric Bass 1984 - Metallic Red
 9948779413833;404.99;20;EUR;1;Tokai LBX50 Electric Bass 1984 - White
+10249088827721;971.99;20;EUR;1;Tokai LC-60 Les Paul Custom 1981 - Ebony
 9961976103241;524.87;20;EUR;1;Tokai Love Rock ALS80 Les Paul 2012 - Sparkle
 10015980224841;831.59;20;EUR;1;Tokai Love Rock ALS94T Les Paul 2023 - Goldtop
 10247177175369;923.39;20;EUR;1;Tokai Love Rock Les Paul 2002 - Honey Burst
