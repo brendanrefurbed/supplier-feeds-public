@@ -1,4 +1,9 @@
 product_code;price_gross;vat;currency;stock;name
+6a213ccd-5620-7134-ebd1-ba1de003e5fc;550.8;20;GBP;1;Yamaha Revstar Standard RSS20 Vintage White 2023 Electric Guitar
+9e64cb3e-3bdf-39a7-aa4c-3642efd8dcf5;432.0;20;GBP;1;ESP LTD WA-200 Warbird Distressed Graphic 2016 Electric Guitar
+502b7c05-5f2c-98e8-57f3-4f355a027520;432.0;20;GBP;1;PRS SE CE24 Standard Satin Turquoise 2023 Electric Guitar
+dee5af40-a9ed-a7c1-0fd6-853a4f4d3362;4185.0;20;GBP;1;Gibson 1954 ES-175D VOS Limited Edition Jim Dickinson Burst 2015 Guitar
+cf806294-819f-89ab-0791-b6014d5f62ae;432.0;20;GBP;1;Epiphone DC Pro Mojave Fade 2019 Electric Guitar
 3c7fd9ce-23cd-d336-d0af-684a632ed4dd;469.8;20;GBP;1;Takamine PT-105 Gloss Black 1989 Electro-Acoustic Guitar
 6390fd79-a13d-71d7-58aa-03c142273d6b;394.2;20;GBP;1;Empress Effects Zoia Modular Synthesizer Effects Pedal
 76f2addd-21bf-daed-a31d-86bded5e9432;491.4;20;GBP;1;Yamaha Silent Guitar SLG200N 2017 Nylon String Electro Acoustic Guitar
@@ -7,7 +12,6 @@ ebcc1fb6-179d-7cb0-d20e-854e45379c5b;928.8;20;GBP;1;Taylor 214ce DLX Gloss Natur
 1eecfac9-fc26-adba-c276-d93c2b210137;221.4;20;GBP;1;Gibson Late 70’s Dirty Fingers T.Top Neck Humbucker w/ Gold Bobbins
 dfa614f4-4f92-1814-af89-0bf436ebef57;1220.4;20;GBP;1;Fender American Professional Telecaster Candy Apple Red 2017 USA Electric Guitar
 5f1a0043-e6e5-2af5-f021-c401b50ee9f0;3402.0;20;GBP;1;"PRS ""Dead Spec"" Silver Sky Moc Sand 2024 Electric Guitar"
-c58e7a85-95f7-0ccf-6b74-d3a691a18b73;3682.8;20;GBP;1;PRS Wood Library Special 22 Grey Black Fade 2025 Semi-Hollow Electric Guitar
 cc785c5c-65a1-f931-2a3f-226d904425f5;1701.0;20;GBP;1;Maton EBG808TEC Tommy Emmanuel Natural Satin 2024 Electro Acoustic Guitar
 2974b860-1c73-ca16-0a2e-fab832e19f2c;756.0;20;GBP;1;Washburn Falcon Sunburst 1980 Vintage MIJ Electric Guitar
 1c4fcc0a-4298-c9ac-f1b0-b4274885ed56;523.8;20;GBP;1;Line 6 Variax Standard White 2015 Modelling Electric Guitar
@@ -20,7 +24,6 @@ d818da74-79d2-d2bf-96f6-859b4ec0ff12;610.2;20;GBP;1;Takamine EF-341C Black 1988 
 d41420e6-f3c0-79db-eca7-b78095326208;216.0;20;GBP;1;Ibanez Super 80 ‘Flying Finger’ Gold Vintage c.’70s Passive  Humbucking Pickups
 ded200f7-1c10-a71b-d9d6-26c1120981d4;696.6;20;GBP;1;Fender Deluxe Roadhouse Stratocaster 3-Colour Sunburst 2018 Guitar w/ Mods
 f8f66c0d-b47b-12b7-bd39-afb7adb37570;696.6;20;GBP;1;ESP LTD SN-1000 FR Charcoal Metallic 2015 Modified Electric Guitar
-a4061795-1537-a488-2117-2d04975225e0;216.0;20;GBP;1;Gibson Late 70’s Dirty Fingers T.Top Bridge Humbucker
 5223e793-1bdb-9b58-9fbe-f17e3f9ac123;815.4;20;GBP;1;Schecter Synyster Gates Custom Black and Silver Pinstripe 2009 Electric Guitar
 79b5e84b-46b6-27da-f7b7-be5277a2dc9f;567.0;20;GBP;1;Ibanez AF105 Natural Hollow Body 2006 Electric Guitar
 849e6166-364e-0be1-95a7-104a5b964be3;318.6;20;GBP;1;Third Man Hardware/JHS Troika Delay Effects Pedal
@@ -85,7 +88,6 @@ d771c080-33fd-d3b3-cc9b-59b8fbcc44c4;2208.6;20;GBP;1;Gibson ES-335 Dot Vintage B
 d215e39b-ef31-c277-a9ac-354f84f0ca5a;1863.0;20;GBP;1;Gibson Les Paul Standard '60s Bourbon Burst 2025 Electric Guitar
 8e02ac4b-d369-343b-9267-76b38a1cf434;815.4;20;GBP;1;Eastman DM1 Classic 2024 Gypsy Jazz Acoustic Guitar
 247e8b85-4e36-de69-5da2-f60fd83caf9c;928.8;20;GBP;1;Fender Urge Stu Hamm Black Electric Bass Guitar
-f2d00996-9e43-0c58-ef29-f9f4fd792070;1690.2;20;GBP;1;Gibson EB-0 Modified Cherry c.1960s Vintage Short Scale Electric Bass Guitar
 7c9d3bef-e041-b80e-14d9-0cc8188aca3d;815.4;20;GBP;1;ESP LTD SN1-HT Black Blast 2021 Electric Guitar
 ec3ac9cc-b91b-3be1-efb4-fc8eb11522e9;928.8;20;GBP;1;Ibanez RG3270 Deep Black 2003 Electric Guitar
 9aeaaa02-08bc-763c-0921-3daf81b1de5e;988.2;20;GBP;1;Fender MG-69 Mustang CIJ Vintage White 2006-08 Electric Guitar
@@ -164,7 +166,6 @@ dd709f8f-bd8d-8f45-4404-885ae4e386b7;761.4;20;GBP;1;Reverend Contender RB Outfie
 b6c679e6-eae1-c531-979b-3d1ec7f2317a;874.8;20;GBP;1;PJD Carey Standard Ocean Jade Metallic 2024 Electric Guitar
 8a430609-3187-4a48-c954-690fb8c4daba;6777.0;20;GBP;1;Gibson Custom Shop Inspired By Joe Bonamassa Les Paul Goldtop 2012 Signature
 4422714b-9a7e-cee1-e7ae-1f647b04ef0a;4968.0;20;GBP;1;Gibson Custom Shop Joe Bonamassa Signature Les Paul Standard 2012 ‘Bonaburst’
-820e7a40-3fea-850b-c269-16433ca81804;1917.0;20;GBP;1;Gibson Explorer ‘76 Reissue Cherry Red 2012 Electric Guitar
 d6199249-5deb-197d-3860-24b4d833c4f0;7101.0;20;GBP;1;Gibson Custom Shop Inspired By Joe Bonamassa Aged Les Paul Goldtop 2008
 b0d23dff-5b9c-42dd-56f5-b2a50d8bb316;3758.4;20;GBP;1;PRS Custom 24 Vintage Sunburst 1991 Electric Guitar
 ba56d122-5baa-6fca-bc91-c951a9bf6aa1;496.8;20;GBP;1;Taylor 110 Natural 2004 Left-Handed Acoustic Guitar
@@ -197,7 +198,6 @@ a249e88a-30ee-d488-464d-0a1c0912000b;421.2;20;GBP;1;Westone Thunder 1 Natural 19
 7ae733ff-a8e7-4dff-12e8-c7c7cbd6e11b;291.6;20;GBP;1;Ovation Celebrity Series CS-24-4-G Gloss Natural 2022 Acoustic Guitar
 8536d445-5dd4-ceb2-bdc5-0ab9c170961b;340.2;20;GBP;1;Moollon Custom Shop Overdrive/Distortion Guitar Effects Pedal
 0ac8484f-9ef7-5c18-fc2e-ad3d7076169a;453.6;20;GBP;1;Commodore N25 semi-hollow 1972 Japan Vintage electric guitar
-6045e786-68de-eb61-6dd0-176c408e3516;237.6;20;GBP;1;JHS Sweet Tea V3 Dual Overdrive Guitar Effects Pedal
 b5d8efc8-7098-c3e5-cf49-28d53e9f7a28;1296.0;20;GBP;1;Fender American Standard Stratocaster Shawbucker HSS Black 2016 Modified
 ba3fe75b-4b85-9457-fa79-9284c35c5318;1906.2;20;GBP;1;ESP Eclipse-II QM Duncan See-Thru Black Cherry 2012 Electric Guitar
 d1a904c9-e968-01e1-4bfa-4ab913c077b0;280.8;20;GBP;1;Danelectro Danoblaster Innuendo Gloss Black 2001 Electric Guitar
@@ -227,7 +227,6 @@ d7f2f705-874f-34b4-6e32-e9639c8685ae;988.2;20;GBP;1;PRS S2 Custom 22 Grey Black 
 6db62cda-4b17-b315-c62d-e104c3035deb;475.2;20;GBP;1;Sigma DM-4 'Marquis' Natural Gloss 1989 Dreadnought Acoustic Guitar
 b55af402-fe25-4991-1102-6c5d8a71a5f3;934.2;20;GBP;1;Harmony Jupiter Pearl White 2023 Electric Guitar
 b800c5f3-7ac3-5b44-8e3f-0da5158e7dc9;756.0;20;GBP;1;Ibanez RGRB720 Iron Label Black Flat 2024 7-String Electric Guitar
-bbf5ab98-507d-5c0a-e5cf-22f8d5a7883a;783.0;20;GBP;1;Peerless Gigmaster Custom Gloss White 2008 Hollow-Body Electric Guitar
 1acb55ef-a3bb-be40-88b5-d56009dd9011;459.0;20;GBP;1;Warwick RockBass Corvette Trans Black 5-String Electric Bass
 33ca9212-2d2b-8f46-52aa-3ce603458769;955.8;20;GBP;1;Eastman Juliet Pomona Blonde 2017 Electric Guitar
 968aa9bb-27ed-0be0-dda7-9f572df297c1;507.6;20;GBP;1;Gretsch G9550 New Yorker Vintage Sunburst 2014 Acoustic Guitar
