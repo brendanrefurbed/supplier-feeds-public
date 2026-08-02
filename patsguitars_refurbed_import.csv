@@ -124,6 +124,7 @@ product_code;price_gross;vat;currency;stock;name
 9729078624585;1457.99;20;EUR;1;Eko Ekomaster 400 1960 - Blue Sparkle
 10255396733257;738.71;20;EUR;1;Epiphone 1959 Les Paul Standard - Cherry Sunburst
 9974436364617;1197.71;20;EUR;1;Epiphone 1963 Firebird V Vibrola Maestro 2024 - Frost Blue
+10292775813449;777.59;20;EUR;1;Epiphone Casino VC 1996 - Sunburst
 10199407329609;738.71;20;EUR;1;Epiphone Casino VS 2011 - Tobacco Burst
 10104266031433;527.03;20;EUR;1;Epiphone Dovena Akustik 2007 - Natural
 10294177792329;1263.59;20;EUR;1;Epiphone E230TD Casino inspired by John Lennon 2010 - Natural
@@ -453,11 +454,9 @@ product_code;price_gross;vat;currency;stock;name
 10328345542985;971.99;20;EUR;1;Fender Japan 62 Reissue Precision Bass 2004-2005 - Sunburst
 10240710279497;785.15;20;EUR;1;Fender Japan 62 Reissue Stratocaster - Sunburst
 10277137645897;874.79;20;EUR;1;Fender Japan 62 Reissue Stratocaster 1993-1994 - Candy Apple Red
-10276900733257;777.59;20;EUR;1;Fender Japan 62 Reissue Stratocaster 1994-1995 - Candy Apple Red - Matching Headstock
 10292864155977;777.59;20;EUR;1;Fender Japan 62 Reissue Stratocaster 1994-1995 - Sunburst
 10277138661705;874.79;20;EUR;1;Fender Japan 62 Reissue Stratocaster 2002-2004 - Candy Apple Red
 10111488753993;790.55;20;EUR;1;Fender Japan 62´ Reissue Stratocaster 1984-1987 - Sunburst - Vintage
-10329392546121;1457.99;20;EUR;1;Fender Japan 66 Reissue Jaguar 1997-2000 - Candy Apple Red - Matching Headstock
 10136377360713;1316.51;20;EUR;1;Fender Japan 66 Reissue Jaguar 2006-2008 - Sunburst
 10292805697865;1263.59;20;EUR;1;Fender Japan 66 Reissue Mustang 1997-2000 - Vintage White
 10016150716745;1477.43;20;EUR;1;Fender Japan 66’ Reissue Jaguar 2004-2005 - Sunburst
@@ -779,11 +778,9 @@ product_code;price_gross;vat;currency;stock;name
 10206012997961;97.19;20;EUR;1;MXR Boost/Line Driver - Effektpedal
 10305829667145;126.35;20;EUR;1;MXR KFK Ten Band Equalizer Effektpedal
 10206011588937;97.19;20;EUR;1;MXR Smart Gate - Effektpedal
-10104026202441;701.99;20;EUR;1;Navigator by ESP Espionage Bass - Tobacco Burst
 9729073578313;3887.99;20;EUR;1;o3 Guitars Radon - Alejandro Ramirez - Red
 10328341938505;97.19;20;EUR;1;Olympia by Tacoma OP-2 Akustik Natural
 10016097665353;1166.39;20;EUR;1;Orville by Gibson Firebird 1990 - Vintage Sunburst
-10220022169929;831.59;20;EUR;1;Orville by Gibson Les Paul Standard 1989 - Cherry Sunburst
 10141704225097;878.03;20;EUR;1;Orville by Gibson Thunderbird Bass 1991 - Sunburst - Vintage Japan
 9831303086409;866.15;20;EUR;1;Orville Gibson LPS Les Paul Standard 1990 - Heritage Cherry Sunburst
 10240971800905;923.39;20;EUR;1;Orville Les Paul - Ebony
@@ -835,6 +832,7 @@ product_code;price_gross;vat;currency;stock;name
 10328255955273;971.99;20;EUR;1;Schecter C-1 SLS Elite 2018 - Antique Fade Burst
 10067555352905;615.59;20;EUR;1;Schecter Damien Elite FR 2014 - Crimson Red
 10088545714505;680.39;20;EUR;1;Schecter Diamond Series Apocalypse V-1 2009 - Limited Edition
+10330781581641;874.79;20;EUR;1;Schecter Diamond Series Hellraiser Hybrid Solo-II 2015 - Black Cherry Burst
 10236605202761;738.71;20;EUR;1;Schecter HSH Japan - Amber
 10092431376713;701.99;20;EUR;1;Schecter Japan Progauge 7-String PS600 - Translucent Cherry
 10023466697033;738.71;20;EUR;1;Schecter Japan SD-2-22 HSH - Trans Green
