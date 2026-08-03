@@ -603,7 +603,6 @@ product_code;price_gross;vat;currency;stock;name
 10294231204169;2041.19;20;EUR;1;Gibson Les Paul Traditional 1960 2012 - Satin Honey Burst
 10316317524297;1360.79;20;EUR;1;Gibson Les Paul Tribute T 2016 - Faded Honey Burst
 10256705618249;1846.79;20;EUR;1;Gibson Melody Maker DC 1977 - Sunburst
-10256722166089;1200.95;20;EUR;1;Gibson SG Standard 2022 - Ebony
 10091535728969;7775.99;20;EUR;1;Gibson Thunderbird II Bass 1964 – Alembic Custom 1976 – Tree of Life – Ember Red
 10199291986249;971.99;20;EUR;1;Gitane DG-250M - Natural
 10108285387081;17.27;20;EUR;1;Gitarrenkarton 1180×475×165 mm – Doppelwelliger Versandkarton für Gitarren
@@ -700,7 +699,6 @@ product_code;price_gross;vat;currency;stock;name
 9914113950025;880.19;20;EUR;1;Höfner Super Solid 173 - Vinyl White
 10305800765769;97.19;20;EUR;1;Hush Rocktron Effektpedal
 10305799061833;106.91;20;EUR;1;Hush Systems Effektpedal
-10136357863753;1457.99;20;EUR;1;Ibanez 2375N Vintage Japan Stratocaster 1970s - Natural
 10047306137929;388.79;20;EUR;1;Ibanez ART80 2009 - Black
 10276976656713;646.91;20;EUR;1;Ibanez Artcore AGS83B-ATF-12-01 2006 - Natural Burst
 10081096827209;615.59;20;EUR;1;Ibanez Artcore Talman TM71 2002 - Goldtop
@@ -798,7 +796,6 @@ product_code;price_gross;vat;currency;stock;name
 10305829667145;126.35;20;EUR;1;MXR KFK Ten Band Equalizer Effektpedal
 10206011588937;97.19;20;EUR;1;MXR Smart Gate - Effektpedal
 9729073578313;3887.99;20;EUR;1;o3 Guitars Radon - Alejandro Ramirez - Red
-10330866483529;116.63;20;EUR;1;OKKO Diablo Gregor Hilden Signature Effektpedal
 10328341938505;97.19;20;EUR;1;Olympia by Tacoma OP-2 Akustik Natural
 10330784268617;388.79;20;EUR;1;Ortega Model 60-RE11LTD - Natural
 10016097665353;1166.39;20;EUR;1;Orville by Gibson Firebird 1990 - Vintage Sunburst
@@ -877,7 +874,6 @@ product_code;price_gross;vat;currency;stock;name
 10316400656713;680.39;20;EUR;1;Squier by Fender Jagmaster 2010 - Candy Apple Red
 10294035022153;680.39;20;EUR;1;Squier by Fender Japan SST-33 Stratocaster 1991-1992 - Black
 10136413798729;728.99;20;EUR;1;Squier Hello Kitty Edition Mini Stratocaster 2006 - Pink
-10330880016713;583.19;20;EUR;1;Squier Japan Bullet H2 1984 - Sunburst
 10315851202889;777.59;20;EUR;1;Squier Japan Stratocaster 1983-1984 - Vintage White
 10330881622345;680.39;20;EUR;1;Squier Japan Stratocaster Contemporary Series 1985-1986 - Black
 10330878509385;194.39;20;EUR;1;Squier Telecaster Body - Sunburst
@@ -917,6 +913,7 @@ product_code;price_gross;vat;currency;stock;name
 10276990615881;554.03;20;EUR;1;Tokai ST Stratocaster 1980s - Black
 10277138202953;554.03;20;EUR;1;Tokai ST Stratocaster Limited Edition 1980s - Candy Apple Red
 10292787085641;583.19;20;EUR;1;Tokai ST-36 Stratocaster Limited Edition 1982 - Blue Burst
+10303841698121;680.39;20;EUR;1;Tokai Super Edition Stratocaster 1981 - Metallic Red
 10080918176073;701.99;20;EUR;1;Tokai Telecaster Breezysound Lefthand 2010 - Vintage White
 10305872363849;97.19;20;EUR;1;Tokai TXC-1 Exciter Effektpedal - Japan
 10209921794377;874.79;20;EUR;1;Trinity by Relish - Metallic Blue
@@ -924,11 +921,9 @@ product_code;price_gross;vat;currency;stock;name
 10231723655497;583.19;20;EUR;1;Victory Amplifiers Sheriff 212 Cabinet
 10074960560457;64.79;20;EUR;1;Vintage Guitar Magazine Price Guide 2026 – Offizieller Gitarren-Preisführer
 10111385829705;176.03;20;EUR;1;Vision Stratocaster - Red
-10152866578761;92.87;20;EUR;1;Vision Superstrat - Sunburst
 10169810288969;87.47;20;EUR;1;VOCU Magic Mic Room Microphone Preamp Pedal
 10315903304009;971.99;20;EUR;1;VOX Bobcat BC-S66 2020 - Sunburst
 10176915636553;139.96;20;EUR;1;VOX Joe Satriani Signature JS-DS Satchurator Distortion Effect Pedal - Japan
-10305872986441;116.63;20;EUR;1;VOX Satchurator Designed with Joe Satriani Effektpedal - Japan
 9722250592585;4859.99;20;EUR;1;Wandre Tri-Lam Teenager Blue Jeans 1959 - Multicolour
 10292790264137;2138.39;20;EUR;1;Warwick Corvette $$ Double Buck Bass 2011 - Turquoise Blue Oil Finish
 10292793246025;2138.39;20;EUR;1;Warwick Corvette $$ Special Edition Double Buck Bass 2009 - Macassar Ebony Top
