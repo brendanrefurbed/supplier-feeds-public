@@ -87,7 +87,6 @@ product_code;price_gross;vat;currency;stock;name
 10016103891273;462.23;20;EUR;1;Charvel by Jackson CDS 1994 - Black
 10115832906057;462.23;20;EUR;1;Charvel by Jackson CDS-38 -  Burst
 9759565021513;460.07;20;EUR;1;Charvel by Jackson HSS Superstrat 1989-1991 - Black
-9797226594633;639.35;20;EUR;1;Charvel by Jackson Model 1A 1986 - Red
 10186053026121;646.91;20;EUR;1;Charvel by Jackson Model 3 HSS - Red
 10033162322249;728.99;20;EUR;1;Charvel by Jackson Model 3 HSS - White
 10016042320201;646.91;20;EUR;1;Charvel by Jackson Superstrat - Red
@@ -511,7 +510,12 @@ product_code;price_gross;vat;currency;stock;name
 10141686333769;785.15;20;EUR;1;Fender Japan Stratocaster 1993-1994 - Vintage White
 10305308098889;874.79;20;EUR;1;Fender Japan Stratocaster 1993-1994 Candy Apple Red
 10316333908297;874.79;20;EUR;1;Fender Japan Stratocaster 1997-2000 - Sunburst
+10330878214473;242.99;20;EUR;1;Fender Japan Stratocaster Body - Black
+10330880770377;242.99;20;EUR;1;Fender Japan Stratocaster Body - Black
+10330881327433;242.99;20;EUR;1;Fender Japan Stratocaster Body - Sunburst
 10316329910601;874.79;20;EUR;1;Fender Japan Telecaster 1995-1996 - Black
+10330880508233;242.99;20;EUR;1;Fender Japan Telecaster Body - Black
+10330880901449;242.99;20;EUR;1;Fender Japan Telecaster Body - Black
 10330881098057;242.99;20;EUR;1;Fender Japan Telecaster Body - Blue
 9903115764041;665.27;20;EUR;1;Fender Japan TL-235M Telecaster 1992-1993 - Blonde - Vintage
 10330895909193;923.39;20;EUR;1;Fender Japan TL-40 Telecaster 1993-1994 - Vintage White
@@ -572,7 +576,6 @@ product_code;price_gross;vat;currency;stock;name
 10316904857929;1943.99;20;EUR;1;Gibson Flying V HP High Performance 2016 - Ebony
 10131764445513;923.39;20;EUR;1;Gibson Flying V Melody Maker 2011 - Ebony
 10023466795337;1283.03;20;EUR;1;Gibson L6-S Custom 1974 - Cherry Sunburst
-10176866746697;1108.07;20;EUR;1;Gibson Les Paul 70‘s Tribute 2013 - Tobacco Burst
 10053109285193;2078.99;20;EUR;1;Gibson Les Paul Classic 1960 2006 - Honey Fade
 10228063895881;1662.11;20;EUR;1;Gibson Les Paul Classic 2015 - Vintage Sunburst
 10329359909193;3401.99;20;EUR;1;Gibson Les Paul Custom Lite 1989 - Heritage Cherry Sunburst
@@ -588,7 +591,6 @@ product_code;price_gross;vat;currency;stock;name
 10047311380809;1662.11;20;EUR;1;Gibson Les Paul Special DC 2005 - TV Yellow
 10231420584265;1108.07;20;EUR;1;Gibson Les Paul Special Tribute 2021 - Faded Black
 10305322352969;2138.39;20;EUR;1;Gibson Les Paul Standard 1993 - Ebony
-10255400993097;1846.79;20;EUR;1;Gibson Les Paul Standard 1999 - Cherry Sunburst
 10185962914121;1662.11;20;EUR;1;Gibson Les Paul Standard 1999 - Ebony
 10136423498057;1929.95;20;EUR;1;Gibson Les Paul Standard DC 2001 - Trans Red
 10316904464713;2332.79;20;EUR;1;Gibson Les Paul Standard DC 2009 - Goldtop
@@ -613,6 +615,7 @@ product_code;price_gross;vat;currency;stock;name
 10230952493385;777.59;20;EUR;1;Greco 303 Akustik 1975 - Cherry Sunburst
 9947276869961;824.03;20;EUR;1;Greco EG Ace Frehley Les Paul Custom 1980 - Heritage Cherry Sunburst - Vintage Japan
 10249247293769;831.59;20;EUR;1;Greco EG Les Paul 1970s - Cherry Sunburst
+10330888143177;680.39;20;EUR;1;Greco EG Les Paul 1970s - Ebony
 10305314128201;680.39;20;EUR;1;Greco EG Les Paul 1970s - Sunburst
 10240956203337;738.71;20;EUR;1;Greco EG Les Paul 1978 - Cherry Sunburst
 10292862746953;680.39;20;EUR;1;Greco EG Les Paul Custom 1970s - Cherry Sunburst
@@ -703,7 +706,7 @@ product_code;price_gross;vat;currency;stock;name
 9808922378569;3401.99;20;EUR;1;Ibanez Artist 2700 1979 - Natural
 10033171530057;777.59;20;EUR;1;Ibanez Concord Akustik 684-12E 1974-1978 - Cherry Sunburst
 9808930505033;833.36;20;EUR;1;Ibanez EKM10T-WRD-12-01 2014 - Wine Red
-9903021883721;388.79;20;EUR;1;Ibanez EX Series EX170L Lefthand 1993 - Black
+9903021883721;369.35;20;EUR;1;Ibanez EX Series EX170L Lefthand 1993 - Black
 10231359471945;1200.95;20;EUR;1;Ibanez Iceman ICT700 2008 - Black
 10249198829897;1263.59;20;EUR;1;Ibanez Iceman ICT700 2008 - Black
 10211501179209;415.79;20;EUR;1;Ibanez JEM555 Steve Vai Signature - White - Defekt
@@ -734,7 +737,7 @@ product_code;price_gross;vat;currency;stock;name
 10327210525001;1457.99;20;EUR;1;Ibanez SDGR SR5000 Prestige Bass 2010 - Natural Oil Stain
 9820897640777;1069.19;20;EUR;1;Ibanez SRMS720 Bass 2024 - Blue Chameleon
 10103767335241;1943.99;20;EUR;1;Ibanez Studio Bass ST924 1979 - Natural
-9903191916873;291.59;20;EUR;1;Ibanez Talman TCY10LE-BLK Lefthand 2021 - Black
+9903191916873;277.55;20;EUR;1;Ibanez Talman TCY10LE-BLK Lefthand 2021 - Black
 9786540851529;510.83;20;EUR;1;Ibanez Talman TM71T 2002 - Jewel Blue
 10330879230281;388.79;20;EUR;1;Ibanez Talman TMX20N 2001 - Natural
 10305876558153;136.07;20;EUR;1;Ibanez TS9 Tube Screamer Effektpedal - Japan
@@ -744,7 +747,7 @@ product_code;price_gross;vat;currency;stock;name
 9942052766025;3324.23;20;EUR;1;James Trussart Rusty Deville 59 2011 - Steel
 10023444119881;646.91;20;EUR;1;Juno Flying V - Acryl / Transparent
 10115830776137;184.67;20;EUR;1;Kapok MEG 9012 Stratocaster - Red
-9903015657801;194.39;20;EUR;1;Kay Acoustic C950 - Natural
+9903015657801;184.67;20;EUR;1;Kay Acoustic C950 - Natural
 10108742631753;184.67;20;EUR;1;Keiper Shortscale Stratocaster Junior - Black
 10169733742921;658.79;20;EUR;1;Kramer LK-1 1980s - Black
 10008552931657;599.39;20;EUR;1;Kramer Neptune NJ 1980s - Black

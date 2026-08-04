@@ -87,7 +87,6 @@ x00174;462.23;20;EUR;1;Charvel by Jackson CDS - Black
 9416248;462.23;20;EUR;1;Charvel by Jackson CDS 1994 - Black
 C107043;462.23;20;EUR;1;Charvel by Jackson CDS-38 -  Burst
 1011875;460.07;20;EUR;1;Charvel by Jackson HSS Superstrat 1989-1991 - Black
-276875;639.35;20;EUR;1;Charvel by Jackson Model 1A 1986 - Red
 245418;646.91;20;EUR;1;Charvel by Jackson Model 3 HSS - Red
 227636;728.99;20;EUR;1;Charvel by Jackson Model 3 HSS - White
 1011707;646.91;20;EUR;1;Charvel by Jackson Superstrat - Red
@@ -509,7 +508,12 @@ P020537;785.15;20;EUR;1;Fender Japan Stratocaster 1993-1994 - Candy Apple Red
 O029929;785.15;20;EUR;1;Fender Japan Stratocaster 1993-1994 - Vintage White
 N031486;874.79;20;EUR;1;Fender Japan Stratocaster 1993-1994 Candy Apple Red
 O029423;874.79;20;EUR;1;Fender Japan Stratocaster 1997-2000 - Sunburst
+S008177_B;242.99;20;EUR;1;Fender Japan Stratocaster Body - Black
+Q049600_B;242.99;20;EUR;1;Fender Japan Stratocaster Body - Black
+S022513_B;242.99;20;EUR;1;Fender Japan Stratocaster Body - Sunburst
 U049848;874.79;20;EUR;1;Fender Japan Telecaster 1995-1996 - Black
+S076398_B;242.99;20;EUR;1;Fender Japan Telecaster Body - Black
+P078474_B;242.99;20;EUR;1;Fender Japan Telecaster Body - Black
 JD16020673_B;242.99;20;EUR;1;Fender Japan Telecaster Body - Blue
 M024003;665.27;20;EUR;1;Fender Japan TL-235M Telecaster 1992-1993 - Blonde - Vintage
 O044654;923.39;20;EUR;1;Fender Japan TL-40 Telecaster 1993-1994 - Vintage White
@@ -570,7 +574,6 @@ CS104982;2770.19;20;EUR;1;Gibson Custom Shop 57´ Les Paul Standard 2001 - Plane
 170030808;1943.99;20;EUR;1;Gibson Flying V HP High Performance 2016 - Ebony
 111010669;923.39;20;EUR;1;Gibson Flying V Melody Maker 2011 - Ebony
 113994;1283.03;20;EUR;1;Gibson L6-S Custom 1974 - Cherry Sunburst
-128921665;1108.07;20;EUR;1;Gibson Les Paul 70‘s Tribute 2013 - Tobacco Burst
 061909;2078.99;20;EUR;1;Gibson Les Paul Classic 1960 2006 - Honey Fade
 150052149.;1662.11;20;EUR;1;Gibson Les Paul Classic 2015 - Vintage Sunburst
 80809571;3401.99;20;EUR;1;Gibson Les Paul Custom Lite 1989 - Heritage Cherry Sunburst
@@ -586,7 +589,6 @@ CS104982;2770.19;20;EUR;1;Gibson Custom Shop 57´ Les Paul Standard 2001 - Plane
 022951307;1662.11;20;EUR;1;Gibson Les Paul Special DC 2005 - TV Yellow
 203910037;1108.07;20;EUR;1;Gibson Les Paul Special Tribute 2021 - Faded Black
 91173445.;2138.39;20;EUR;1;Gibson Les Paul Standard 1993 - Ebony
-92729384;1846.79;20;EUR;1;Gibson Les Paul Standard 1999 - Cherry Sunburst
 90769333.;1662.11;20;EUR;1;Gibson Les Paul Standard 1999 - Ebony
 0141140733;1929.95;20;EUR;1;Gibson Les Paul Standard DC 2001 - Trans Red
 030290579;2332.79;20;EUR;1;Gibson Les Paul Standard DC 2009 - Goldtop
@@ -611,6 +613,7 @@ x00125;415.79;20;EUR;1;GrassRoots Sugizo Model - Black
 750416;777.59;20;EUR;1;Greco 303 Akustik 1975 - Cherry Sunburst
 02741;824.03;20;EUR;1;Greco EG Ace Frehley Les Paul Custom 1980 - Heritage Cherry Sunburst - Vintage Japan
 x00120;831.59;20;EUR;1;Greco EG Les Paul 1970s - Cherry Sunburst
+x00304;680.39;20;EUR;1;Greco EG Les Paul 1970s - Ebony
 x00294;680.39;20;EUR;1;Greco EG Les Paul 1970s - Sunburst
 F784908;738.71;20;EUR;1;Greco EG Les Paul 1978 - Cherry Sunburst
 x00218;680.39;20;EUR;1;Greco EG Les Paul Custom 1970s - Cherry Sunburst
@@ -701,7 +704,7 @@ x00220;1749.59;20;EUR;1;Ibanez Artist 2616 1970s - Cherry Sunburst
 B797218;3401.99;20;EUR;1;Ibanez Artist 2700 1979 - Natural
 X00031;777.59;20;EUR;1;Ibanez Concord Akustik 684-12E 1974-1978 - Cherry Sunburst
 S14110976;833.36;20;EUR;1;Ibanez EKM10T-WRD-12-01 2014 - Wine Red
-3041894;388.79;20;EUR;1;Ibanez EX Series EX170L Lefthand 1993 - Black
+3041894;369.35;20;EUR;1;Ibanez EX Series EX170L Lefthand 1993 - Black
 I080214866;1200.95;20;EUR;1;Ibanez Iceman ICT700 2008 - Black
 I080752560;1263.59;20;EUR;1;Ibanez Iceman ICT700 2008 - Black
 C410405;415.79;20;EUR;1;Ibanez JEM555 Steve Vai Signature - White - Defekt
@@ -732,7 +735,7 @@ I160309694;554.03;20;EUR;1;Ibanez SDGR SR500 1P-06 Bass 2016 - Brown
 F1015762;1457.99;20;EUR;1;Ibanez SDGR SR5000 Prestige Bass 2010 - Natural Oil Stain
 I240206396;1069.19;20;EUR;1;Ibanez SRMS720 Bass 2024 - Blue Chameleon
 I791752;1943.99;20;EUR;1;Ibanez Studio Bass ST924 1979 - Natural
-GS210311142;291.59;20;EUR;1;Ibanez Talman TCY10LE-BLK Lefthand 2021 - Black
+GS210311142;277.55;20;EUR;1;Ibanez Talman TCY10LE-BLK Lefthand 2021 - Black
 S02101734;510.83;20;EUR;1;Ibanez Talman TM71T 2002 - Jewel Blue
 C01010023;388.79;20;EUR;1;Ibanez Talman TMX20N 2001 - Natural
 1423106;136.07;20;EUR;1;Ibanez TS9 Tube Screamer Effektpedal - Japan
@@ -742,7 +745,7 @@ X00004;5831.99;20;EUR;1;James Collins Signature GTO 2023 - Natural
 10298;3324.23;20;EUR;1;James Trussart Rusty Deville 59 2011 - Steel
 x00199;646.91;20;EUR;1;Juno Flying V - Acryl / Transparent
 x00201;184.67;20;EUR;1;Kapok MEG 9012 Stratocaster - Red
-X00014;194.39;20;EUR;1;Kay Acoustic C950 - Natural
+X00014;184.67;20;EUR;1;Kay Acoustic C950 - Natural
 X00006;184.67;20;EUR;1;Keiper Shortscale Stratocaster Junior - Black
 x00202;658.79;20;EUR;1;Kramer LK-1 1980s - Black
 60867;599.39;20;EUR;1;Kramer Neptune NJ 1980s - Black
