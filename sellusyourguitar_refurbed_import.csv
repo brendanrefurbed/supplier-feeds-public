@@ -1,4 +1,6 @@
 product_code;price_gross;vat;currency;stock;name
+e40fd01a-256e-ea75-4b0e-a388ca77c8c9;3456.0;20;GBP;1;Gibson Custom Shop Les Paul Standard Candy Apple Red 2008 Jimmy Page Spec
+632e27c4-da60-5a48-67a3-42dfce11a04c;901.8;20;GBP;1;Fender Limited Edition HM Strat Frozen Yellow 2019 Electric Guitar
 6a213ccd-5620-7134-ebd1-ba1de003e5fc;550.8;20;GBP;1;Yamaha Revstar Standard RSS20 Vintage White 2023 Electric Guitar
 9e64cb3e-3bdf-39a7-aa4c-3642efd8dcf5;432.0;20;GBP;1;ESP LTD WA-200 Warbird Distressed Graphic 2016 Electric Guitar
 502b7c05-5f2c-98e8-57f3-4f355a027520;432.0;20;GBP;1;PRS SE CE24 Standard Satin Turquoise 2023 Electric Guitar
@@ -262,9 +264,7 @@ b99a8fb7-b392-20a5-754c-157e82172ddd;480.6;20;GBP;1;Peavey Rockingham Natural Gl
 28b720e9-d90c-7db5-c201-46950c81f88d;491.4;20;GBP;1;Gibson Embossed Logo Neck Position Mini Humbucker c.1971 Vintage Pickup
 c35784d2-550a-4881-1fbc-242522193c90;253.8;20;GBP;1;Danelectro DJ Food Series Guitar Effects Pedal Case
 df71828f-06f9-6fac-7221-c4b1418a37b2;1020.6;20;GBP;1;Mesa/Boogie F-100 All Valve Combo Amplifier
-31e4ecc9-f6be-8736-0352-65aaaba26445;621.0;20;GBP;1;Sterling by Music Man JP70 John Petrucci Signature TPB 7-String Electric Guitar
 51c14b2c-c105-a02b-04dc-d9bace4a33c3;594.0;20;GBP;1;PRS SE DGT (David Grissom Trem) Gold Top 2023 Electric Guitar
-7b084a21-5c6e-12e9-85ec-9e278c076704;205.2;20;GBP;1;Walrus Audio D1 High-Fidelity Delay Guitar Effects Pedal
 7884b2e9-3d40-f056-33e0-1024b7f63046;685.8;20;GBP;1;Aria Pro II PE-460 Sunburst 1980 Vintage MIJ Electric Guitar
 38340405-94a3-6312-06c6-3349e5a9f05a;567.0;20;GBP;1;Peerless Tonemaster Custom Brown 2007 Hollow Body Electric Guitar
 150a9c0b-facd-e3d3-e69a-e26343933846;1188.0;20;GBP;1;Fender American Deluxe Fat Stratocaster HSS Crimson Red Transparent 2001
@@ -282,7 +282,6 @@ d9c61a90-e883-aa9a-e87a-0db1c6701028;2376.0;20;GBP;1;Gibson Firebird V Vintage S
 bdf2b92f-a1ed-0775-d367-ec897a488448;313.2;20;GBP;1;Line 6 POD GO Portable Guitar Processor Multi-Effects Pedal
 3348676f-dd27-e457-3691-b359531c452b;480.6;20;GBP;1;Peavey Impact Milano Transparent Amber 1994 Electric Guitar
 a2f0f84d-9927-0fb5-1529-2a1a783ca578;1587.6;20;GBP;1;Hofner Jazzica Sunburst (Refin.) Archtop Hollow Body Electric Guitar
-3917dfea-05f5-3607-3788-9dc537c7088b;3456.0;20;GBP;1;Gibson Custom Shop Les Paul Standard Candy Apple Red 2008 Electric Guitar
 ed19b109-91aa-5b42-6f45-27c717cb3318;2381.4;20;GBP;1;PRS Custom 24 10 Top Amber USA 2009 Electric Guitar
 4a8ac40f-4bb3-9db0-1f54-7d00fa134272;2246.4;20;GBP;1;PRS NF53 Black Dog Hair 2023 Electric Guitar
 9f591a4e-6c32-1a42-281d-c9d88652f39a;291.6;20;GBP;1;Keeley Electronics HALO Andy Timmons Signature Dual Echo Guitar Effects Pedal
@@ -332,7 +331,6 @@ d87bb1c6-a91b-395c-73e8-9afe44ebc35e;934.2;20;GBP;1;Gibson SG Special Ebony 2000
 b9166aa2-514e-3ac3-9200-141dd2ef40a2;1134.0;20;GBP;1;Gibson Les Paul Special TV Yellow 2019 Left-Handed Electric Guitar
 389c4629-84db-50f1-db53-5fc9990e82eb;361.8;20;GBP;1;Tanglewood Exotic Java TWJPE Natural Gloss Electro Acoustic Guitar
 516f66fe-2a1c-1a87-a40b-100462441fba;199.8;20;GBP;1;Breedlove Passport C200/SMP Natural Semi-Gloss 2010 Acoustic Guitar
-c0b10c4f-499f-c8e9-0a94-721b369943a0;367.2;20;GBP;1;Blackstar Stage 100 Mkll All-Valve Amplifier Head
 40f0bf78-771c-8844-cc5f-bec95c6d36e8;307.8;20;GBP;1;Digitech Brian May Red Special Effects Pedal
 acb4fdd1-01f5-cf42-d0c9-b779bc76815a;2376.0;20;GBP;1;The Heritage H-157 Natural 2005 Electric Guitar
 038a964a-dc26-ec43-da28-254a5345e1c3;2376.0;20;GBP;1;Haynes Telecaster Deluxe Aged White Relic 2025 Electric Guitar
