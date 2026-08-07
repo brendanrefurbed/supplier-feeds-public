@@ -1,4 +1,17 @@
 product_code;price_gross;vat;currency;stock;name
+612141dc-e211-76fd-4566-d2e98ea09a9d;464.4;20;GBP;1;Jackson Soloist SL3X DX Granite Crystal 2019 Electric Guitar
+da2a27c8-5307-8ae1-aea8-580986f1c647;388.8;20;GBP;1;PRS SE Tremonti Gloss Black 2012 Electric Guitar
+8982920f-8651-0f1a-911c-bc99f1841443;378.0;20;GBP;1;Darkglass Electronics Alpha·Omega Φoton Effects Pedal
+6da17888-8cb9-6542-9e92-d96ddd9d71b1;464.4;20;GBP;1;Fret-King Super 60 Sunburst circa.2000’s Electric Guitar
+ae5eea80-a543-3a67-a51d-e51f85784d37;583.2;20;GBP;1;Yamaha LLX6A Gloss Natural 2012 Electro-Acoustic Guitar
+db2dbd69-4a48-b076-2a7e-379c872c8e98;550.8;20;GBP;1;Yamaha Revstar Standard RSS20 Sunset Burst 2025 Electric Guitar
+84e35f1b-4c73-3bcc-c64d-8e01a3d86e42;842.4;20;GBP;1;ESP LTD EC-1000 Deluxe See-Thru Purple 2008 Electric Guitar
+cca590ed-d132-3dba-7d82-a5055d2bada5;610.2;20;GBP;1;Epiphone 1959 Les Paul Standard Outfit Aged Dark Cherry Burst 2023 Electric
+05c335ef-e246-5091-9ee7-c07416067d61;583.2;20;GBP;1;Epiphone Les Paul Slash November Burst 2022 Electric Guitar
+27397c32-1b56-faf8-5d6c-aac7166deaf7;810.0;20;GBP;1;Epiphone Inspired by Gibson 1959 Les Paul Standard Dark Burst 2024
+cbf4a625-a650-1b13-5856-855b00d43282;988.2;20;GBP;1;Ernie Ball MusicMan SUB 1 Guitar Textured Cinnamon 2004 Electric Guitar
+8da65109-95c4-61dc-09c9-7ee38ca00f81;1215.0;20;GBP;1;G&L Fullerton Deluxe S-500 Cherryburst 2018 Electric Guitar
+24c90908-019c-6673-bdbd-30aee2a80f5f;1047.6;20;GBP;1;Gibson Les Paul Studio Fireburst 2010 Electric Guitar
 ee4ad964-a708-5bb7-a1cb-f5b841d66073;1684.8;20;GBP;1;Auden Sunset Series Grace Golden Sunburst 2024 Electro-Acoustic Guitar
 7e280b33-41d0-ad36-ecd1-e201d1333693;1744.2;20;GBP;1;Gibson J-45 Studio Walnut Gloss Natural 2023 Electro-Acoustic Guitar
 ff38d789-a248-c815-5657-11f062007165;2867.4;20;GBP;1;Fender Custom Shop '63 Stratocaster Fiesta Red Nitrocellulose Relic Guitar
@@ -91,6 +104,7 @@ c34aa695-2f8b-8c32-97e5-acb93847abae;696.6;20;GBP;1;PRS SE Torero Jet White 2013
 dbd4a586-76c5-6934-fd0f-eeeb089f0235;550.8;20;GBP;1;Ibanez Jiva Jr Deep Sea Blonde 2020 Electric Guitar
 b623e990-e62f-f376-58c4-669dfd88348b;2376.0;20;GBP;1;Martin Vintage Series OM-28V Left Handed 2001 Auditorium Acoustic Guitar
 30a70c1c-5a0e-18bc-e28b-813973a57bb2;550.8;20;GBP;1;Martin 000-X1 Natural Satin 2009 Acoustic Guitar
+174ca837-65a5-4ec9-352d-2986cac0780b;1047.6;20;GBP;1;Ormsby Goliath GTR 7 Kris Xenopoulos Signature Strawberry Storm 2019 Headless
 03352f46-5eb9-96d7-8b86-3c830f201824;928.8;20;GBP;1;PRS S2 Standard 24 Vintage Mahogany 2015 Electric Guitar
 ee6c6531-500e-6f7e-49fa-ad0ecbf56f18;1803.6;20;GBP;1;Gibson Les Paul Standard Heritage Cherry Sunburst Candy 2015 Electric Guitar
 4f2a382a-116b-effc-8231-34a3db46190f;1863.0;20;GBP;1;PRS Myles Kennedy Signature Antique Natural 2024 Electric Guitar
@@ -224,6 +238,7 @@ d7f2f705-874f-34b4-6e32-e9639c8685ae;988.2;20;GBP;1;PRS S2 Custom 22 Grey Black 
 6db62cda-4b17-b315-c62d-e104c3035deb;475.2;20;GBP;1;Sigma DM-4 'Marquis' Natural Gloss 1989 Dreadnought Acoustic Guitar
 b55af402-fe25-4991-1102-6c5d8a71a5f3;934.2;20;GBP;1;Harmony Jupiter Pearl White 2023 Electric Guitar
 b800c5f3-7ac3-5b44-8e3f-0da5158e7dc9;756.0;20;GBP;1;Ibanez RGRB720 Iron Label Black Flat 2024 7-String Electric Guitar
+bbf5ab98-507d-5c0a-e5cf-22f8d5a7883a;783.0;20;GBP;1;Peerless Gigmaster Custom Gloss White 2008 Hollow-Body Electric Guitar
 1acb55ef-a3bb-be40-88b5-d56009dd9011;459.0;20;GBP;1;Warwick RockBass Corvette Trans Black 5-String Electric Bass
 33ca9212-2d2b-8f46-52aa-3ce603458769;955.8;20;GBP;1;Eastman Juliet Pomona Blonde 2017 Electric Guitar
 968aa9bb-27ed-0be0-dda7-9f572df297c1;507.6;20;GBP;1;Gretsch G9550 New Yorker Vintage Sunburst 2014 Acoustic Guitar
@@ -241,6 +256,7 @@ fb8c4fd4-fcaa-9523-98c6-3e9e0e537fac;3969.0;20;GBP;1;Gibson ES-335 Historic ‘6
 d9e34f07-870e-5aa5-bd1f-a1733c453182;702.0;20;GBP;1;Epiphone USA Map Guitar Natural Satin 2005 Electric Guitar
 25ba0caa-7ba6-a08b-c885-73acc58cfb38;1350.0;20;GBP;1;Hofner 500/1 Sunburst Hollow Body c.1972 Vintage Left Handed Electric Bass
 0abc381b-25f9-9252-d09c-880fa198d5b8;988.2;20;GBP;1;Gibson Les Paul Studio Wine Red 2005 Electric Guitar
+2d45c792-2933-db7d-5762-8334eebff345;507.6;20;GBP;1;Hagstrom HJ500 Gloss Natural 2006 Hollow Body Electric Guitar
 233f1e0b-d8c3-2eaa-8cc7-d98b20fdee80;432.0;20;GBP;1;Squier Pro-Tone Stratocaster Olympic White 1997 Electric Guitar
 54d34fa2-2454-037a-d692-4b61335d1955;2268.0;20;GBP;1;Gretsch G6122-1959 Chet Atkins ‘1959 Nashville Classic’ Country Gentleman Walnut
 c4e1a2bd-54e6-fb8c-d4d9-e5b8d3cd432f;810.0;20;GBP;1;Fender American Standard Stratocaster 3-Color Sunburst 2004 Electric Guitar
@@ -329,6 +345,7 @@ d87bb1c6-a91b-395c-73e8-9afe44ebc35e;934.2;20;GBP;1;Gibson SG Special Ebony 2000
 18613413-e131-742e-f41e-320c48c1f75e;2619.0;20;GBP;1;National Tricone Polychrome 2007 Resonator Acoustic Guitar
 8a2fcb7a-345a-3f3b-1122-2ae1b3f0b4b3;793.8;20;GBP;1;ESP LTD Kirk Hammett LTD KH-25 Distressed Black 2012 Left-Handed Electric Guitar
 b9166aa2-514e-3ac3-9200-141dd2ef40a2;1134.0;20;GBP;1;Gibson Les Paul Special TV Yellow 2019 Left-Handed Electric Guitar
+abdaed55-30ce-0103-edd1-65431c7ce08c;340.2;20;GBP;1;Vintage V72 Reissued Custom Flame Tobacco Burst 2016 LH Electric Guitar
 389c4629-84db-50f1-db53-5fc9990e82eb;361.8;20;GBP;1;Tanglewood Exotic Java TWJPE Natural Gloss Electro Acoustic Guitar
 516f66fe-2a1c-1a87-a40b-100462441fba;199.8;20;GBP;1;Breedlove Passport C200/SMP Natural Semi-Gloss 2010 Acoustic Guitar
 40f0bf78-771c-8844-cc5f-bec95c6d36e8;307.8;20;GBP;1;Digitech Brian May Red Special Effects Pedal
@@ -386,7 +403,6 @@ d4ec0048-aad0-844d-df9c-555e21f89d87;199.8;20;GBP;1;ESP LTD B-55 Black 2012 5-St
 d8c2cfe2-aa2f-27af-5d0a-fd150e1f09a6;340.2;20;GBP;1;Godin Freeway Classic Black Pearl 2008 Electric Guitar
 e96ac883-3143-5063-49ff-a07d99ba3845;572.4;20;GBP;1;Marshall SL5 Slash Signature Valve Combo Amplifier
 a626ad1a-bbb0-5065-d26a-cd9d681a3a72;129.6;20;GBP;1;Yamaha APX-SPLI 1992 Electro Acoustic Guitar *Spares/Repairs*
-297b380b-517b-5cbc-b7df-ca81f15635a0;270.0;20;GBP;1;Vintage V1700N Gloss Natural Jumbo Acoustic Guitar Spares/Repairs
 3eef2f45-e3c7-4607-8caa-3a8e1a0e82b8;540.0;20;GBP;1;PRS Archon 25 1x12” Valve Combo Amplifier
 548dd8e8-aaa4-8698-8c0d-63bb9a639fce;108.0;20;GBP;1;Tate FX Antares Modified Limited Edition Raw Enclosure Treble Boost Pedal
 a38a3366-6670-507a-cbc6-e98a61eef39e;135.0;20;GBP;1;Amplitube Tone X Capture Tone Modeling and Re amplification Pedal
