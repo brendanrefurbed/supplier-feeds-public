@@ -88,7 +88,6 @@ product_code;price_gross;vat;currency;stock;name
 10186053026121;646.91;20;EUR;1;Charvel by Jackson Model 3 HSS - Red
 10033162322249;728.99;20;EUR;1;Charvel by Jackson Model 3 HSS - White
 10016042320201;646.91;20;EUR;1;Charvel by Jackson Superstrat - Red
-9861346361673;300.23;20;EUR;1;Charvel by Jackson Superstrat HSS  - Black
 10111504253257;527.03;20;EUR;1;Charvel Desolation DS-1 ST - Black
 10220188959049;831.59;20;EUR;1;Charvel Pro-Mod So Cal 2013 - Red
 10316909019465;971.99;20;EUR;1;Charvel Surfcaster 2005 - Black
@@ -433,7 +432,6 @@ product_code;price_gross;vat;currency;stock;name
 10141638394185;738.71;20;EUR;1;Fender American Vintage Jaguar Body - Sunburst
 10316327747913;777.59;20;EUR;1;Fender Classic 50s Stratocaster 2007 - Surf Green
 10240966000969;646.91;20;EUR;1;Fender Classic 50s Stratocaster 2016 - Surf Green
-10330791641417;874.79;20;EUR;1;Fender Classic Player Baja Telecaster 2010 - Desert Sand
 9997912670537;4859.99;20;EUR;1;Fender Custom Shop Bloodwood Fretless Bass Masterbuilt by Jason Davis 2003
 9989299536201;5831.99;20;EUR;1;Fender Custom Shop Nocaster Telecaster Thinline NOS 2005 - Butterscotch Blonde
 10228045021513;3232.43;20;EUR;1;Fender Custom Shop Showmaster 2026 - Antique Burst
@@ -453,7 +451,6 @@ product_code;price_gross;vat;currency;stock;name
 10328345542985;971.99;20;EUR;1;Fender Japan 62 Reissue Precision Bass 2004-2005 - Sunburst
 10240710279497;785.15;20;EUR;1;Fender Japan 62 Reissue Stratocaster - Sunburst
 10277137645897;831.59;20;EUR;1;Fender Japan 62 Reissue Stratocaster 1993-1994 - Candy Apple Red
-10292864155977;777.59;20;EUR;1;Fender Japan 62 Reissue Stratocaster 1994-1995 - Sunburst
 10277138661705;831.59;20;EUR;1;Fender Japan 62 Reissue Stratocaster 2002-2004 - Candy Apple Red
 10111488753993;790.55;20;EUR;1;Fender Japan 62´ Reissue Stratocaster 1984-1987 - Sunburst - Vintage
 10330905641289;1263.59;20;EUR;1;Fender Japan 66 Reissue Jaguar 1997-2000 - Blue Repaint
@@ -470,6 +467,7 @@ product_code;price_gross;vat;currency;stock;name
 10277137121609;831.59;20;EUR;1;Fender Japan 72 Reissue Stratocaster 1997-2000 - Black
 10303880134985;923.39;20;EUR;1;Fender Japan 72 Reissue Stratocaster 1997-2000 - Black
 10294053568841;971.99;20;EUR;1;Fender Japan 72 Reissue Stratocaster 1997-2000 - Vintage White
+10249153872201;1108.07;20;EUR;1;Fender Japan 72 Reissue Stratocaster ST72-86DSC 2006-2008 - Vintage White
 10329396969801;971.99;20;EUR;1;Fender Japan Aerodyne Stratocaster 2012 - Old Candy Red
 10236555952457;1108.07;20;EUR;1;Fender Japan CHAR-MG 69 Reissue Mustang 2019 - Olympic White
 10329383240009;1360.79;20;EUR;1;Fender Japan Jagstang 1997-1998 - Sonic Blue
@@ -516,11 +514,16 @@ product_code;price_gross;vat;currency;stock;name
 10330894664009;680.39;20;EUR;1;Fender Mexico Stratocaster 1995 - Black
 10199419617609;600.47;20;EUR;1;Fender Mexico Stratocaster 1995 - Vintage White
 10197952987465;600.47;20;EUR;1;Fender Mexico Telecaster 2002 - Sunburst
+10338185642313;1263.59;20;EUR;1;Fender MJT 50s Reissue Stratocaster - Purple Metallic - Heavy Relic
+10338197209417;1263.59;20;EUR;1;Fender MJT 60s Reissue Stratocaster - Burgundy Mist - Heavy Relic
+10338167488841;1263.59;20;EUR;1;Fender MJT 60s Reissue Stratocaster - Candy Apple Green - Heavy Relic
+10338162704713;777.59;20;EUR;1;Fender MOD Stratocaster 2011 - Fiesta Red Nitro
 9903118680393;3887.99;20;EUR;1;Fender Mustang 1973 - Sunburst
 10294154297673;1943.99;20;EUR;1;Fender Mustang 1978 - Black
 10314071966025;1457.99;20;EUR;1;Fender Parallel Universe II Maverick Dorado 2020 - Firemist Gold
 10328327225673;680.39;20;EUR;1;Fender Player Series Stratocaster 2019 - Black
 10330797605193;680.39;20;EUR;1;Fender Player Series Telecaster 2011 - Lake Placid Blue
+10338161656137;1069.19;20;EUR;1;Fender Road Worn 60s Stratocaster 2021 - Lake Placid Blue
 10047131386185;738.71;20;EUR;1;Fender Squier 51 Strat/Tele Hybrid - Butterscotch Blonde
 10067744260425;738.71;20;EUR;1;Fender Squier 71’ Reissue Telecaster 2002-2004 - Butterscotch Blonde
 10330891485513;680.39;20;EUR;1;Fender Squier Series Jazz Bass - CS MOD - Vintage White
@@ -799,6 +802,7 @@ product_code;price_gross;vat;currency;stock;name
 10231389749577;1385.63;20;EUR;1;PRS S2 Standard 22 - Antique White
 10197938897225;831.59;20;EUR;1;PRS SE Chris Robertson Signature 2016 - Kentucky Blueburst
 10209927364937;693.35;20;EUR;1;PRS SE Custom 22 2007 - Transparent Black
+10338163360073;680.39;20;EUR;1;PRS SE Custom 24 2009 - Whale Blue
 10211613737289;785.15;20;EUR;1;PRS SE Custom 24 2012 - Cherry Red
 10067502039369;971.99;20;EUR;1;PRS SE Hollowbody Standard 2021 - Fire Red Burst
 10303872696649;777.59;20;EUR;1;PRS SE Kestrel Bass 2014 - Black
@@ -846,6 +850,7 @@ product_code;price_gross;vat;currency;stock;name
 10330878509385;194.39;20;EUR;1;Squier Telecaster Body - Sunburst
 10216755495241;3110.39;20;EUR;1;Suhr Classic Antique Pro - 3T Sunburst
 10315904942409;2915.99;20;EUR;1;Suhr Classic S 2003 - Candy Apple Red
+10338166210889;2915.99;20;EUR;1;Suhr Classic S HSS 2024 - Sunburst
 10104274551113;350.99;20;EUR;1;Switch Vibracell - Blue
 10316903514441;1555.19;20;EUR;1;Taylor 615-CE Akustik 1999 - Black
 10193354883401;1069.19;20;EUR;1;Taylor SB1 2011 - Black
@@ -854,7 +859,6 @@ product_code;price_gross;vat;currency;stock;name
 9947266777417;898.55;20;EUR;1;Tokai Breezysound TE150 Telecaster 2015 - Blue Flower
 10240697270601;738.71;20;EUR;1;Tokai Five Star 1982 - White
 10098898272585;738.71;20;EUR;1;Tokai FSD-65 Five Star Super Edition 1982 - Black
-9948779741513;404.99;20;EUR;1;Tokai LBX50 Electric Bass 1984 - Metallic Red
 10249088827721;971.99;20;EUR;1;Tokai LC-60 Les Paul Custom 1981 - Ebony
 9961976103241;473.03;20;EUR;1;Tokai Love Rock ALS80 Les Paul 2012 - Sparkle
 10015980224841;831.59;20;EUR;1;Tokai Love Rock ALS94T Les Paul 2023 - Goldtop
@@ -902,9 +906,11 @@ product_code;price_gross;vat;currency;stock;name
 10305816723785;116.63;20;EUR;1;Yamaha FL-100 Flanger Effektpedal
 10315854348617;777.59;20;EUR;1;Yamaha Japan 500S Super Bass 1980 - Black
 10315860640073;874.79;20;EUR;1;Yamaha Japan Lord Player Les Paul 1983 - Tobacco Burst
+10338194424137;777.59;20;EUR;1;Yamaha Japan SC3000 1980 - Sunburst
 10305293975881;971.99;20;EUR;1;Yamaha Japan SG800 1980 - Translucent Red
 10315884298569;1166.39;20;EUR;1;Yamaha Japan SG800S Standard 1980 - Tobacco Burst
 10316397576521;971.99;20;EUR;1;Yamaha Japan SGV300 2001 - Metallic Red
+10338195308873;777.59;20;EUR;1;Yamaha Japan SL400S Studio Lord Les Paul 1980 - Tobacco Sunburst
 10305335591241;874.79;20;EUR;1;Yamaha Japan SL500S Studio Lord Les Paul 1980 - Cherry Sunburst
 10330882376009;874.79;20;EUR;1;Yamaha Japan SL550S Studio Lord Les Paul 1980 - Tobacco Sunburst
 10328403247433;680.39;20;EUR;1;Yamaha Japan SR-500 Super Rock N Roller Stratocaster 1980 - Sunburst
