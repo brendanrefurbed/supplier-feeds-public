@@ -128,10 +128,13 @@ product_code;price_gross;vat;currency;stock;name
 10104266031433;527.03;20;EUR;1;Epiphone Dovena Akustik 2007 - Natural
 10294177792329;1263.59;20;EUR;1;Epiphone E230TD Casino inspired by John Lennon 2010 - Natural
 10330841153865;1263.59;20;EUR;1;Epiphone E230TD Casino inspired by John Lennon 2010 - Natural
+10341701157193;777.59;20;EUR;1;Epiphone Flying V Jeff Waters Signature Annihilation 2011 - Matte Black
 10330851279177;485.99;20;EUR;1;Epiphone FT-79 inspired by Texan 2015 - Natural
+10341717901641;874.79;20;EUR;1;Epiphone Japan Emperor 1997 -  Natural
 10108768551241;831.59;20;EUR;1;Epiphone Japan Les Paul 1996 - Fotoflame
 10329420431689;777.59;20;EUR;1;Epiphone Korea Flying V 1998 - Red
 10220083183945;646.91;20;EUR;1;Epiphone Les Paul 1993 - Tobacco Burst
+10341715804489;583.19;20;EUR;1;Epiphone Les Paul Custom Lefthand 2006 - Ebony
 10231407247689;1108.07;20;EUR;1;Epiphone Les Paul Custom Peter Frampton Signature 2018 - Ebony
 10118152159561;439.55;20;EUR;1;Epiphone Les Paul Junior 2009 - White
 10329383928137;388.79;20;EUR;1;Epiphone Les Paul Special II 2010 - MOD - Lefthand
@@ -139,6 +142,7 @@ product_code;price_gross;vat;currency;stock;name
 10210064236873;415.79;20;EUR;1;Epiphone Les Paul Studio 1998 - Ebony
 10126025064777;462.23;20;EUR;1;Epiphone Les Paul Tribute 2010 - Translucent Black
 10111333466441;439.55;20;EUR;1;Epiphone Les Paul Tribute 2025 - Cherry Sunburst
+10341700632905;388.79;20;EUR;1;Epiphone Limited Edition Wilshire 2007 - White
 9937242030409;1457.99;20;EUR;1;Epiphone SC-450 Scroll 1978 - Natural
 10118132859209;439.55;20;EUR;1;Epiphone SG Bigsby 2007 - Red
 10212573610313;777.59;20;EUR;1;Epiphone SG Custom 2006 - Ivory
@@ -164,6 +168,7 @@ product_code;price_gross;vat;currency;stock;name
 10141863051593;1292.75;20;EUR;1;ESP Flying A The Alfee 1990 - White - Vintage Japan
 9989367333193;874.79;20;EUR;1;ESP LTD Andy James Signature AJ-1 2014 - Black Satin
 10136402493769;1141.55;20;EUR;1;ESP LTD GL-200K George Lynch Signature 2012 - Kamikaze
+10341678973257;1263.59;20;EUR;1;ESP Maverick 1991 - Black
 9775092203849;1595.15;20;EUR;1;ESP THE ALFEE Signature Angel Classic Junior 1998 - Cherry Sunburst
 10249139683657;508.67;20;EUR;1;EVH 5150 Mini Guitar - Red Striped
 10263467327817;61.55;20;EUR;1;Faber ABRH-BA ABRH Bridge, For Gibson® ABR-1, Aged Nickel, Brass saddles natural
@@ -492,6 +497,8 @@ product_code;price_gross;vat;currency;stock;name
 10330878214473;242.99;20;EUR;1;Fender Japan Stratocaster Body - Black
 10330880770377;242.99;20;EUR;1;Fender Japan Stratocaster Body - Black
 10330881327433;242.99;20;EUR;1;Fender Japan Stratocaster Body - Sunburst
+10341671862601;242.99;20;EUR;1;Fender Japan Stratocaster Body - Sunburst
+10341673402697;242.99;20;EUR;1;Fender Japan Stratocaster Body - Vintage White
 10316329910601;874.79;20;EUR;1;Fender Japan Telecaster 1995-1996 - Black
 10330880508233;242.99;20;EUR;1;Fender Japan Telecaster Body - Black
 10330880901449;242.99;20;EUR;1;Fender Japan Telecaster Body - Black
@@ -511,9 +518,16 @@ product_code;price_gross;vat;currency;stock;name
 10330894664009;680.39;20;EUR;1;Fender Mexico Stratocaster 1995 - Black
 10199419617609;600.47;20;EUR;1;Fender Mexico Stratocaster 1995 - Vintage White
 10197952987465;600.47;20;EUR;1;Fender Mexico Telecaster 2002 - Sunburst
+10341722161481;1263.59;20;EUR;1;Fender MJT 50s Reissue Stratocaster - Gilmour Style - Heavy Relic
+10341723078985;1263.59;20;EUR;1;Fender MJT 50s Reissue Stratocaster - Gilmour Style - Heavy Relic
 10338185642313;1263.59;20;EUR;1;Fender MJT 50s Reissue Stratocaster - Purple Metallic - Heavy Relic
+10341707088201;1263.59;20;EUR;1;Fender MJT 50s Reissue Telecaster - Blonde - Heavy Relic
+10341701615945;1263.59;20;EUR;1;Fender MJT 50s Reissue Telecaster - Butterscotch Blonde - Heavy Relic
+10341706793289;1263.59;20;EUR;1;Fender MJT 50s Reissue Telecaster - Butterscotch Blonde - Heavy Relic
+10341704532297;1263.59;20;EUR;1;Fender MJT 50s Reissue Telecaster - Shell Pink - Heavy Relic
 10338197209417;1263.59;20;EUR;1;Fender MJT 60s Reissue Stratocaster - Burgundy Mist - Heavy Relic
 10338167488841;1263.59;20;EUR;1;Fender MJT 60s Reissue Stratocaster - Candy Apple Green - Heavy Relic
+10341702173001;1263.59;20;EUR;1;Fender MJT 60s Reissue Telecaster - Fiesta Red - Heavy Relic
 10338162704713;777.59;20;EUR;1;Fender MOD Stratocaster 2011 - Fiesta Red Nitro
 9903118680393;3887.99;20;EUR;1;Fender Mustang 1973 - Sunburst
 10294154297673;1943.99;20;EUR;1;Fender Mustang 1978 - Black
@@ -654,6 +668,7 @@ product_code;price_gross;vat;currency;stock;name
 9766925009225;345.59;20;EUR;1;Grover Jackson GJr‑R40SP Mini Rhoads 1996 - Dots
 9843703054665;355.31;20;EUR;1;Grover Jackson IG 1996 - Trans Red
 9786588037449;383.39;20;EUR;1;Grover Jackson Superstrat - Blue
+10341891408201;680.39;20;EUR;1;Guild Polara 2017 - Black
 10169839681865;96.22;20;EUR;1;Guyatone Hard Rocker HR2 Effect Pedal 1999 - Vintage Japan
 10169789776201;96.22;20;EUR;1;Guyatone HR2 Hard Rocker 1995 Effect Pedal - Vintage Japan
 10175581454665;131.21;20;EUR;1;Guyatone MM-1 Metal Monster Flip Valve 1994 Effect Pedal - Vintage Japan
@@ -665,6 +680,7 @@ product_code;price_gross;vat;currency;stock;name
 10175560155465;104.97;20;EUR;1;Guyatone PS-038 Bass Exciter/Limiter B-II 1986 Effect Pedal - Vintage Japan
 10176889651529;96.22;20;EUR;1;Guyatone PS-038 Bass Exciter/Limiter B-II Effect Pedal 1987 - Vintage Japan
 10176892305737;131.21;20;EUR;1;Guyatone PS-104 Cross Over Auto Wah Effect Pedal 1980 - Vintage Japan
+10341878202697;583.19;20;EUR;1;Hagstrom Fantomen 2025 - Cosmic Black Burst
 10117754880329;439.55;20;EUR;1;Hagstrom Ultra Swede 2008 - Red Burst
 10254404518217;583.19;20;EUR;1;HAGSTROM Viking The Rod LTD 2012 - Black
 10126045675849;231.11;20;EUR;1;Harley Benton Piezo Stratocaster - Sunburst
@@ -850,6 +866,7 @@ product_code;price_gross;vat;currency;stock;name
 10104274551113;350.99;20;EUR;1;Switch Vibracell - Blue
 10316903514441;1555.19;20;EUR;1;Taylor 615-CE Akustik 1999 - Black
 10193354883401;1069.19;20;EUR;1;Taylor SB1 2011 - Black
+10341675663689;145.79;20;EUR;1;Telecaster Body - Pink
 10008569971017;673.91;20;EUR;1;Tokai ALS94GT Love Rock Les Paul 2023 - Goldtop
 10091454890313;738.71;20;EUR;1;Tokai Breezysound Lefthand Telecaster 2010 - Natural
 9947266777417;898.55;20;EUR;1;Tokai Breezysound TE150 Telecaster 2015 - Blue Flower

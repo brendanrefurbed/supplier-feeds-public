@@ -128,10 +128,13 @@ R96P0133;777.59;20;EUR;1;Epiphone Casino VC 1996 - Sunburst
 N07101263;527.03;20;EUR;1;Epiphone Dovena Akustik 2007 - Natural
 10061501017;1263.59;20;EUR;1;Epiphone E230TD Casino inspired by John Lennon 2010 - Natural
 11101500728;1263.59;20;EUR;1;Epiphone E230TD Casino inspired by John Lennon 2010 - Natural
+1101210536;777.59;20;EUR;1;Epiphone Flying V Jeff Waters Signature Annihilation 2011 - Matte Black
 1507112668;485.99;20;EUR;1;Epiphone FT-79 inspired by Texan 2015 - Natural
+72051;874.79;20;EUR;1;Epiphone Japan Emperor 1997 -  Natural
 606413F;831.59;20;EUR;1;Epiphone Japan Les Paul 1996 - Fotoflame
 S98041791;777.59;20;EUR;1;Epiphone Korea Flying V 1998 - Red
 S93123865;646.91;20;EUR;1;Epiphone Les Paul 1993 - Tobacco Burst
+EE061213934;583.19;20;EUR;1;Epiphone Les Paul Custom Lefthand 2006 - Ebony
 18081509231;1108.07;20;EUR;1;Epiphone Les Paul Custom Peter Frampton Signature 2018 - Ebony
 0911233164;439.55;20;EUR;1;Epiphone Les Paul Junior 2009 - White
 10112305920;388.79;20;EUR;1;Epiphone Les Paul Special II 2010 - MOD - Lefthand
@@ -139,6 +142,7 @@ S93123865;646.91;20;EUR;1;Epiphone Les Paul 1993 - Tobacco Burst
 U98072503;415.79;20;EUR;1;Epiphone Les Paul Studio 1998 - Ebony
 F305339;462.23;20;EUR;1;Epiphone Les Paul Tribute 2010 - Translucent Black
 25041302842;439.55;20;EUR;1;Epiphone Les Paul Tribute 2025 - Cherry Sunburst
+DW07064198;388.79;20;EUR;1;Epiphone Limited Edition Wilshire 2007 - White
 07780702;1457.99;20;EUR;1;Epiphone SC-450 Scroll 1978 - Natural
 SJ07025642;439.55;20;EUR;1;Epiphone SG Bigsby 2007 - Red
 EE061010573;777.59;20;EUR;1;Epiphone SG Custom 2006 - Ivory
@@ -164,6 +168,7 @@ x00180;1929.95;20;EUR;1;ESP FA-II Flying A „The Alfee“ - White
 x00181;1292.75;20;EUR;1;ESP Flying A The Alfee 1990 - White - Vintage Japan
 W14080259;874.79;20;EUR;1;ESP LTD Andy James Signature AJ-1 2014 - Black Satin
 L12073753;1141.55;20;EUR;1;ESP LTD GL-200K George Lynch Signature 2012 - Kamikaze
+59322_Inz;1263.59;20;EUR;1;ESP Maverick 1991 - Black
 50;1595.15;20;EUR;1;ESP THE ALFEE Signature Angel Classic Junior 1998 - Cherry Sunburst
 x00122;508.67;20;EUR;1;EVH 5150 Mini Guitar - Red Striped
 3023-3;61.55;20;EUR;1;Faber ABRH-BA ABRH Bridge, For Gibson® ABR-1, Aged Nickel, Brass saddles natural
@@ -490,6 +495,8 @@ O029423;874.79;20;EUR;1;Fender Japan Stratocaster 1997-2000 - Sunburst
 S008177_B;242.99;20;EUR;1;Fender Japan Stratocaster Body - Black
 Q049600_B;242.99;20;EUR;1;Fender Japan Stratocaster Body - Black
 S022513_B;242.99;20;EUR;1;Fender Japan Stratocaster Body - Sunburst
+U002334_B;242.99;20;EUR;1;Fender Japan Stratocaster Body - Sunburst
+O029929_B;242.99;20;EUR;1;Fender Japan Stratocaster Body - Vintage White
 U049848;874.79;20;EUR;1;Fender Japan Telecaster 1995-1996 - Black
 S076398_B;242.99;20;EUR;1;Fender Japan Telecaster Body - Black
 P078474_B;242.99;20;EUR;1;Fender Japan Telecaster Body - Black
@@ -509,9 +516,16 @@ MN541957;777.59;20;EUR;1;Fender Mexico FSR Stratocaster 1995 - Vintage White
 MN5104711;680.39;20;EUR;1;Fender Mexico Stratocaster 1995 - Black
 MN574446;600.47;20;EUR;1;Fender Mexico Stratocaster 1995 - Vintage White
 MZ2197369;600.47;20;EUR;1;Fender Mexico Telecaster 2002 - Sunburst
+O013401_MJT;1263.59;20;EUR;1;Fender MJT 50s Reissue Stratocaster - Gilmour Style - Heavy Relic
+S022513_MJT;1263.59;20;EUR;1;Fender MJT 50s Reissue Stratocaster - Gilmour Style - Heavy Relic
 Q049600_MJT;1263.59;20;EUR;1;Fender MJT 50s Reissue Stratocaster - Purple Metallic - Heavy Relic
+S030695_MJT;1263.59;20;EUR;1;Fender MJT 50s Reissue Telecaster - Blonde - Heavy Relic
+P078474_MJT;1263.59;20;EUR;1;Fender MJT 50s Reissue Telecaster - Butterscotch Blonde - Heavy Relic
+JD23033210_MJT;1263.59;20;EUR;1;Fender MJT 50s Reissue Telecaster - Butterscotch Blonde - Heavy Relic
+S076398_MJT;1263.59;20;EUR;1;Fender MJT 50s Reissue Telecaster - Shell Pink - Heavy Relic
 Q067138_MJT;1263.59;20;EUR;1;Fender MJT 60s Reissue Stratocaster - Burgundy Mist - Heavy Relic
 T099295_MJT;1263.59;20;EUR;1;Fender MJT 60s Reissue Stratocaster - Candy Apple Green - Heavy Relic
+JD16020673_MJT;1263.59;20;EUR;1;Fender MJT 60s Reissue Telecaster - Fiesta Red - Heavy Relic
 MX10280925;777.59;20;EUR;1;Fender MOD Stratocaster 2011 - Fiesta Red Nitro
 374014;3887.99;20;EUR;1;Fender Mustang 1973 - Sunburst
 S819818;1943.99;20;EUR;1;Fender Mustang 1978 - Black
@@ -652,6 +666,7 @@ x00194;738.71;20;EUR;1;Grover Jackson Flying V - Silver Sparkle
 9620086;345.59;20;EUR;1;Grover Jackson GJr‑R40SP Mini Rhoads 1996 - Dots
 9648171;355.31;20;EUR;1;Grover Jackson IG 1996 - Trans Red
 x00195;383.39;20;EUR;1;Grover Jackson Superstrat - Blue
+KWM1701426;680.39;20;EUR;1;Guild Polara 2017 - Black
 99111777;96.22;20;EUR;1;Guyatone Hard Rocker HR2 Effect Pedal 1999 - Vintage Japan
 95060344;96.22;20;EUR;1;Guyatone HR2 Hard Rocker 1995 Effect Pedal - Vintage Japan
 94061011;131.21;20;EUR;1;Guyatone MM-1 Metal Monster Flip Valve 1994 Effect Pedal - Vintage Japan
@@ -663,6 +678,7 @@ x00195;383.39;20;EUR;1;Grover Jackson Superstrat - Blue
 8612844;104.97;20;EUR;1;Guyatone PS-038 Bass Exciter/Limiter B-II 1986 Effect Pedal - Vintage Japan
 8716202;96.22;20;EUR;1;Guyatone PS-038 Bass Exciter/Limiter B-II Effect Pedal 1987 - Vintage Japan
 801150;131.21;20;EUR;1;Guyatone PS-104 Cross Over Auto Wah Effect Pedal 1980 - Vintage Japan
+G25030479;583.19;20;EUR;1;Hagstrom Fantomen 2025 - Cosmic Black Burst
 M08011166;439.55;20;EUR;1;Hagstrom Ultra Swede 2008 - Red Burst
 G12060623;583.19;20;EUR;1;HAGSTROM Viking The Rod LTD 2012 - Black
 x00196;231.11;20;EUR;1;Harley Benton Piezo Stratocaster - Sunburst
@@ -847,6 +863,7 @@ JST5M9L;3110.39;20;EUR;1;Suhr Classic Antique Pro - 3T Sunburst
 X00034;350.99;20;EUR;1;Switch Vibracell - Blue
 990201115;1555.19;20;EUR;1;Taylor 615-CE Akustik 1999 - Black
 1101182138;1069.19;20;EUR;1;Taylor SB1 2011 - Black
+MX10172285_B;145.79;20;EUR;1;Telecaster Body - Pink
 CN23050210;673.91;20;EUR;1;Tokai ALS94GT Love Rock Les Paul 2023 - Goldtop
 C104995;738.71;20;EUR;1;Tokai Breezysound Lefthand Telecaster 2010 - Natural
 150212;898.55;20;EUR;1;Tokai Breezysound TE150 Telecaster 2015 - Blue Flower
