@@ -61,7 +61,6 @@ product_code;price_gross;vat;currency;stock;name
 10305800012105;77.75;20;EUR;1;Boss PSM-5 Power Supply & Master Switch Effektpedal - Japan
 10305847918921;97.19;20;EUR;1;Boss PW-1 Rocker Wah Effektpedal - Japan
 10305786609993;97.19;20;EUR;1;Boss RC-20 Loop Station Phrase Recorder Effektpedal - Taiwan
-10330873463113;97.19;20;EUR;1;Boss RC-3 Loop Station Effektpedal
 9699639001417;1457.99;20;EUR;1;Burns Hank Marvin Signature - White
 10305409319241;485.99;20;EUR;1;Burny Les Paul - Black Burst
 10118164119881;680.39;20;EUR;1;Burny Les Paul - Goldtop
@@ -89,7 +88,6 @@ product_code;price_gross;vat;currency;stock;name
 10186053026121;615.59;20;EUR;1;Charvel by Jackson Model 3 HSS - Red
 10033162322249;728.99;20;EUR;1;Charvel by Jackson Model 3 HSS - White
 10016042320201;583.19;20;EUR;1;Charvel by Jackson Superstrat - Red
-10111504253257;527.03;20;EUR;1;Charvel Desolation DS-1 ST - Black
 10220188959049;831.59;20;EUR;1;Charvel Pro-Mod So Cal 2013 - Red
 10316909019465;971.99;20;EUR;1;Charvel Surfcaster 2005 - Black
 9948761719113;485.99;20;EUR;1;Cheri Telecaster Thinline - Sunburst
@@ -430,6 +428,7 @@ product_code;price_gross;vat;currency;stock;name
 10067502203209;2309.03;20;EUR;1;Fender 54’ Reissue American Stratocaster 40th Anniversary 1994 - Sunburst
 10067515834697;1292.75;20;EUR;1;Fender American Deluxe Stratocaster 2005 - Cherry Sunburst
 10033161535817;1662.11;20;EUR;1;Fender American Deluxe Telecaster 2002 - Cherry Sunburst
+10316908003657;1263.59;20;EUR;1;Fender American Jazz Bass Standard 2003 - Sunburst
 10294152757577;1385.63;20;EUR;1;Fender American Professional Stratocaster HSS 2015 - Olympic White
 10220182634825;2429.99;20;EUR;1;Fender American Stratocaster 1979 - Natural
 9997845135689;2915.99;20;EUR;1;Fender American Stratocaster 1982 - Sunburst
@@ -494,6 +493,7 @@ product_code;price_gross;vat;currency;stock;name
 10305790247241;242.99;20;EUR;1;Fender Japan STM-94M Stratocaster Body - Black
 10123540332873;831.59;20;EUR;1;Fender Japan STR-80R Stratocaster 1986-1987 - Black Burst - Vintage
 10240732332361;785.15;20;EUR;1;Fender Japan Stratocaster 1993-1994 - Candy Apple Red
+10131738755401;831.59;20;EUR;1;Fender Japan Stratocaster 1993-1994 - Red Repaint - Vintage
 10305308098889;874.79;20;EUR;1;Fender Japan Stratocaster 1993-1994 Candy Apple Red
 10316333908297;874.79;20;EUR;1;Fender Japan Stratocaster 1997-2000 - Sunburst
 10330880770377;242.99;20;EUR;1;Fender Japan Stratocaster Body - Black
@@ -515,7 +515,6 @@ product_code;price_gross;vat;currency;stock;name
 10033174479177;7775.99;20;EUR;1;Fender Jazzmaster 1963 Pre CBS - Inca Silver Refin
 10316303008073;1360.79;20;EUR;1;Fender Lead I 1981 - Natural
 10316385222985;1360.79;20;EUR;1;Fender Limited Edition '72 Telecaster Custom 2012 - Orange Sparkle
-10240950403401;831.59;20;EUR;1;Fender Meteora 2021 - Sunburst
 9989304320329;777.59;20;EUR;1;Fender Mexico FSR Stratocaster 1995 - Vintage White
 10330894664009;680.39;20;EUR;1;Fender Mexico Stratocaster 1995 - Black
 10199419617609;600.47;20;EUR;1;Fender Mexico Stratocaster 1995 - Vintage White
@@ -566,7 +565,6 @@ product_code;price_gross;vat;currency;stock;name
 10175549899081;69.97;20;EUR;1;Freedom Custom Guitar Research A/B Switch Box Pedal - Japan
 10277173428553;1555.19;20;EUR;1;Gibson 1960 Les Paul Classic 2002- Ebony
 10098886181193;2770.19;20;EUR;1;Gibson Custom Shop 57´ Les Paul Standard 2001 - Planet Green
-10294063366473;2309.03;20;EUR;1;Gibson Explorer Robot 2008 - Metallic Red
 10316288098633;2915.99;20;EUR;1;Gibson Firebird V 2010 - Classic White
 10316902924617;1943.99;20;EUR;1;Gibson Flying V 1995 - Cherry
 10316904857929;1943.99;20;EUR;1;Gibson Flying V HP High Performance 2016 - Ebony
@@ -787,7 +785,6 @@ product_code;price_gross;vat;currency;stock;name
 10206011588937;97.19;20;EUR;1;MXR Smart Gate - Effektpedal
 9729073578313;3887.99;20;EUR;1;o3 Guitars Radon - Alejandro Ramirez - Red
 10330784268617;388.79;20;EUR;1;Ortega Model 60-RE11LTD - Natural
-10016097665353;1049.75;20;EUR;1;Orville by Gibson Firebird 1990 - Vintage Sunburst
 10330999259465;878.03;20;EUR;1;Orville by Gibson Thunderbird Bass 1991 - Sunburst - Vintage Japan
 9831303086409;866.15;20;EUR;1;Orville Gibson LPS Les Paul Standard 1990 - Heritage Cherry Sunburst
 10240971800905;923.39;20;EUR;1;Orville Les Paul - Ebony

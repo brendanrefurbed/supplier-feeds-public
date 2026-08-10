@@ -61,7 +61,6 @@ x00285;77.75;20;EUR;1;Boss PSM-5 Power Supply & Master Switch Effektpedal
 x00286;77.75;20;EUR;1;Boss PSM-5 Power Supply & Master Switch Effektpedal - Japan
 x00254;97.19;20;EUR;1;Boss PW-1 Rocker Wah Effektpedal - Japan
 Z040338;97.19;20;EUR;1;Boss RC-20 Loop Station Phrase Recorder Effektpedal - Taiwan
-C9A6897;97.19;20;EUR;1;Boss RC-3 Loop Station Effektpedal
 20700;1457.99;20;EUR;1;Burns Hank Marvin Signature - White
 x00293;485.99;20;EUR;1;Burny Les Paul - Black Burst
 FG22030475;680.39;20;EUR;1;Burny Les Paul - Goldtop
@@ -89,7 +88,6 @@ C107043;462.23;20;EUR;1;Charvel by Jackson CDS-38 -  Burst
 245418;615.59;20;EUR;1;Charvel by Jackson Model 3 HSS - Red
 227636;728.99;20;EUR;1;Charvel by Jackson Model 3 HSS - White
 1011707;583.19;20;EUR;1;Charvel by Jackson Superstrat - Red
-x00175;527.03;20;EUR;1;Charvel Desolation DS-1 ST - Black
 MC132375;831.59;20;EUR;1;Charvel Pro-Mod So Cal 2013 - Red
 05090342;971.99;20;EUR;1;Charvel Surfcaster 2005 - Black
 E304730;485.99;20;EUR;1;Cheri Telecaster Thinline - Sunburst
@@ -428,6 +426,7 @@ BP077;3231.89;20;EUR;1;"Fender '52 Telecaster Custom Shop ""California Beach"" N
 1518;2309.03;20;EUR;1;Fender 54’ Reissue American Stratocaster 40th Anniversary 1994 - Sunburst
 Z4154263;1292.75;20;EUR;1;Fender American Deluxe Stratocaster 2005 - Cherry Sunburst
 DZ1149222;1662.11;20;EUR;1;Fender American Deluxe Telecaster 2002 - Cherry Sunburst
+Z3144784;1263.59;20;EUR;1;Fender American Jazz Bass Standard 2003 - Sunburst
 US15045413;1385.63;20;EUR;1;Fender American Professional Stratocaster HSS 2015 - Olympic White
 S978198;2429.99;20;EUR;1;Fender American Stratocaster 1979 - Natural
 E204812;2915.99;20;EUR;1;Fender American Stratocaster 1982 - Sunburst
@@ -492,6 +491,7 @@ L015289;971.99;20;EUR;1;Fender Japan ST57-85LS Stratocaster 1991-1992 - Black
 S007814_B;242.99;20;EUR;1;Fender Japan STM-94M Stratocaster Body - Black
 F007782;831.59;20;EUR;1;Fender Japan STR-80R Stratocaster 1986-1987 - Black Burst - Vintage
 P020537;785.15;20;EUR;1;Fender Japan Stratocaster 1993-1994 - Candy Apple Red
+O047716;831.59;20;EUR;1;Fender Japan Stratocaster 1993-1994 - Red Repaint - Vintage
 N031486;874.79;20;EUR;1;Fender Japan Stratocaster 1993-1994 Candy Apple Red
 O029423;874.79;20;EUR;1;Fender Japan Stratocaster 1997-2000 - Sunburst
 Q049600_B;242.99;20;EUR;1;Fender Japan Stratocaster Body - Black
@@ -513,7 +513,6 @@ JD22019734;1229.03;20;EUR;1;Fender Japan Traditional II 60s Jaguar 2022 - Sunbur
 L14400;7775.99;20;EUR;1;Fender Jazzmaster 1963 Pre CBS - Inca Silver Refin
 E103634;1360.79;20;EUR;1;Fender Lead I 1981 - Natural
 MX12021260;1360.79;20;EUR;1;Fender Limited Edition '72 Telecaster Custom 2012 - Orange Sparkle
-MX21551525;831.59;20;EUR;1;Fender Meteora 2021 - Sunburst
 MN541957;777.59;20;EUR;1;Fender Mexico FSR Stratocaster 1995 - Vintage White
 MN5104711;680.39;20;EUR;1;Fender Mexico Stratocaster 1995 - Black
 MN574446;600.47;20;EUR;1;Fender Mexico Stratocaster 1995 - Vintage White
@@ -564,7 +563,6 @@ X00012;1317.59;20;EUR;1;Framus Strato Deluxe 1963 - Blonde
 x00234;69.97;20;EUR;1;Freedom Custom Guitar Research A/B Switch Box Pedal - Japan
 022710;1555.19;20;EUR;1;Gibson 1960 Les Paul Classic 2002- Ebony
 CS104982;2770.19;20;EUR;1;Gibson Custom Shop 57´ Les Paul Standard 2001 - Planet Green
-082441;2309.03;20;EUR;1;Gibson Explorer Robot 2008 - Metallic Red
 126600502;2915.99;20;EUR;1;Gibson Firebird V 2010 - Classic White
 92485718;1943.99;20;EUR;1;Gibson Flying V 1995 - Cherry
 170030808;1943.99;20;EUR;1;Gibson Flying V HP High Performance 2016 - Ebony
@@ -785,7 +783,6 @@ AB73G090;126.35;20;EUR;1;MXR KFK Ten Band Equalizer Effektpedal
 x00095;97.19;20;EUR;1;MXR Smart Gate - Effektpedal
 #001;3887.99;20;EUR;1;o3 Guitars Radon - Alejandro Ramirez - Red
 67/180;388.79;20;EUR;1;Ortega Model 60-RE11LTD - Natural
-G006233;1049.75;20;EUR;1;Orville by Gibson Firebird 1990 - Vintage Sunburst
 K096081;866.15;20;EUR;1;Orville Gibson LPS Les Paul Standard 1990 - Heritage Cherry Sunburst
 X00107;923.39;20;EUR;1;Orville Les Paul - Ebony
 x00205;831.59;20;EUR;1;Orville Les Paul 1989-1993 - Cherry Sunburst - Vintage Japan
