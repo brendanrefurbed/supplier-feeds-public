@@ -1,4 +1,14 @@
 product_code;price_gross;vat;currency;stock;name
+050f8f17-aef1-c510-3ce9-a331d01ff50b;874.8;20;GBP;1;Epiphone Shinichi Ubukata ES-355 Custom Olive Drab 2023 Electric Guitar
+80299a57-76c1-4af7-7703-b87cf870f204;172.8;20;GBP;1;Line 6 HX One Stereo Guitar Multi-Effects Pedal
+7aadbb0a-7246-459a-11ce-e39526a695f3;1107.0;20;GBP;1;Fender Jazzmaster JM-66 3-Tone Sunburst CIJ Electric Guitar
+5294e847-e298-75df-600e-c5c53caeeb4d;907.2;20;GBP;1;Peerless Tonemaster JH Special Sunburst Hollow Body Electric Guitar
+90dbb8fa-4a4f-555e-dcb9-0a13ba40ee86;405.0;20;GBP;1;Tokai Love Rock ALS65SGT 2022 Electric Guitar
+a2718921-1221-7086-b9b0-e11cc0ba95f9;2322.0;20;GBP;1;Gibson ES-335 60’s Vintage Burst Semi-Hollow Electric Guitar
+00fe4dc2-06c0-2911-47fb-5be9ed109860;432.0;20;GBP;1;Guild Starfire I DC Cherry Red 2022 Semi-Hollow Electric Guitar
+e0c2c314-1043-2a21-bb34-27217bb58d15;432.0;20;GBP;1;Gretsch G2622T Streamliner Torino Green 2017 Hollow Body Electric Guitar
+cc945a82-7c2a-6452-ebdd-5c8f39b46655;756.0;20;GBP;1;Rivolta Regatta VII Gloss Natural Semi-Hollow Electric Guitar
+dc6b30d2-04ee-03c8-d3c0-0e03c19702ae;583.2;20;GBP;1;HILS HN6 NEXT Series Ultra Gold Chameleon Headless Electric Guitar
 73452ba3-5e08-a046-78a7-09ce30275373;1225.8;20;GBP;1;Fender American Professional II Telecaster 3-Color Sunburst 2022 Left Handed
 6d8e5b87-cb92-abb2-2107-6bc1f81951c6;1247.4;20;GBP;1;Larrivee OM-02 Satin Natural USA Acoustic Guitar
 60404ff7-64c7-0edc-9d49-5f97b6244977;2381.4;20;GBP;1;PRS Custom 24 10 Top Amber USA 2009 Electric Guitar
@@ -110,7 +120,6 @@ b623e990-e62f-f376-58c4-669dfd88348b;2376.0;20;GBP;1;Martin Vintage Series OM-28
 174ca837-65a5-4ec9-352d-2986cac0780b;1047.6;20;GBP;1;Ormsby Goliath GTR 7 Kris Xenopoulos Signature Strawberry Storm 2019 Headless
 03352f46-5eb9-96d7-8b86-3c830f201824;928.8;20;GBP;1;PRS S2 Standard 24 Vintage Mahogany 2015 Electric Guitar
 ee6c6531-500e-6f7e-49fa-ad0ecbf56f18;1803.6;20;GBP;1;Gibson Les Paul Standard Heritage Cherry Sunburst Candy 2015 Electric Guitar
-ed28090d-15a2-913c-d57c-881e7c7ee9ed;2154.6;20;GBP;1;Gray Guitars Emperor Sherwood Green Electric Guitar
 d771c080-33fd-d3b3-cc9b-59b8fbcc44c4;2208.6;20;GBP;1;Gibson ES-335 Dot Vintage Burst 2023 Semi-Hollow Electric Guitar
 13ace63c-01bc-7fcf-cc65-c02b119b6303;696.6;20;GBP;1;Schecter Japan RJ-1-24-VTR See-Thru Green Electric Guitar
 d215e39b-ef31-c277-a9ac-354f84f0ca5a;1863.0;20;GBP;1;Gibson Les Paul Standard '60s Bourbon Burst 2025 Electric Guitar
@@ -152,7 +161,6 @@ c465229a-9299-267a-91bd-42399de9958b;1630.8;20;GBP;1;Fender 60th Anniversary Tri
 6eeef135-a171-116d-130b-61bc1059b775;610.2;20;GBP;1;Ibanez AF105F Natural Hollow Body 2006 Electric Guitar
 35a3e881-f867-1de5-f5ec-1f55a944fbb7;437.4;20;GBP;1;D'Angelico Excel Lexington Auburn 2020 Electro-Acoustic Guitar
 31f71c9e-027c-f9fb-b717-c3acd42a1cda;1917.0;20;GBP;1;Lakewood Sungha Jung Signature Satin Natural 2021 Grand Concert Electro-Acoustic
-423b9fa9-5d67-78f6-3f3c-54b391944f81;1161.0;20;GBP;1;Fender Troy Van Leeuwen Jazzmaster Copper Age 2025 Electric Guitar
 b818aa0f-5ac5-c781-f770-3684b76244ab;1279.8;20;GBP;1;Fender 50th Anniversary American Stratocaster Antique Sunburst 1996
 8ef6b390-9f1f-810b-265c-9a3d1b41f6af;1015.2;20;GBP;1;Fender J Mascis Telecaster Bottle Rocket Blue Flake 2021 Electric Gui
 f75fe7bd-7693-8285-2479-ca44cfc39a4e;54000.0;20;GBP;1;Fender Custom Shop EVH Frankenstein Replica 1 of 300 Masterbuilt by Chip Ellis
@@ -288,7 +296,6 @@ df71828f-06f9-6fac-7221-c4b1418a37b2;1020.6;20;GBP;1;Mesa/Boogie F-100 All Valve
 a596d109-d1df-6b5d-4edd-d16bd470fc48;567.0;20;GBP;1;DeArmond Starfire Special Tobacco Sunburst 2000 Semi-Hollow Electric Guitar
 9ec4eee1-34f0-0cc4-bb3e-58a3185a887c;621.0;20;GBP;1;Ibanez Artcore AS103 Custom Vintage Burst 2010 Semi-Hollow Electric Guitar
 14d8e178-a965-fa68-8ce4-9f74b6ade89c;1528.2;20;GBP;1;Fender American Vintage II '57 Stratocaster Vintage Blonde 2023 Electric Guitar
-1d6ed1d7-7d43-a7e0-55ea-8bb45fb56f66;961.2;20;GBP;1;Fender MIJ ST68-85TX Stratocaster Vintage White 2014 Electric Guitar
 9463479f-7f82-8dc0-a423-96d97a68491f;3288.6;20;GBP;1;PRS 513 10 Top Matteo Mist 2009 Electric Guitar
 1bf5bcdf-a544-9c6c-8b60-c99125397a55;421.2;20;GBP;1;Tokai ATE52 GS Golden Sunburst 2021 Electric Guitar
 a7319de9-453f-93dd-84aa-719acca5814b;1247.4;20;GBP;1;G&L Fullerton Deluxe Legacy USA HSS 2020 Sublime Green Electric Guitar
@@ -317,14 +324,13 @@ b8d60fb3-3adc-e915-54f4-b10d92616106;4509.0;20;GBP;1;Martin OM Davy Graham Custo
 5f06786a-04b7-f9c0-51ba-5b5e8e189f82;783.0;20;GBP;1;Fret-King Esprit lll Green Label Series Transparent Black Electric Guitar
 2e7dd4d2-34e1-c53e-e5d5-bc9a6be05ad9;2430.0;20;GBP;1;Taylor 814ce Gloss Natural 2015 Grand Auditorium Electro-Acoustic Guitar
 b506bbc7-9926-2865-3d66-8685ba2254f7;1004.4;20;GBP;1;Chandler Custom Made S Style White Electric Guitar
-433f45eb-a44f-15f7-3212-874ea839be0d;847.8;20;GBP;1;Fender FSR Mahogany Blacktop Strat HHH Olympic White 2019 Electric Guitar
+433f45eb-a44f-15f7-3212-874ea839be0d;847.8;20;GBP;1;Fender Limited Edition Mahogany Blacktop Stratocaster HHH Olympic White 2019
 f86aa5b4-3ba3-efc9-affd-ca5d87855855;594.0;20;GBP;1;Peerless Electra Orange 2007 Hollow Body Electric Guitar
 64407843-6aae-8ea8-8498-a7405504b6dc;1350.0;20;GBP;1;Overwater Inspiration 5 Natural Satin 2016 5 String Electric Bass
 10b1191e-f86a-2bc6-3c65-9240927922f9;1171.8;20;GBP;1;Godin xtSA Gloss Natural Koa Electric Synth Guitar
 62770efa-18c5-d049-d1b4-971523685786;480.6;20;GBP;1;Danelectro '59M NOS+ Ice Grey Electric Guitar
 f33d8718-5b40-9a4a-a458-9a1d0c1da128;145.8;20;GBP;1;Wampler SLOstortion Smooth SLO Drive Effect Pedal
-a187a732-1866-8721-b381-8f1e90ec43b4;621.0;20;GBP;1;Fender Classic Series Stratocaster 3-Colour Sunburst 2003 Electric Guitar
-341ebc43-7eef-da69-3073-168e0a4414a6;907.2;20;GBP;1;Peerless Tonemaster JH Special Sunburst Hollow Body Electric Guitar
+a187a732-1866-8721-b381-8f1e90ec43b4;621.0;20;GBP;1;Fender Classic Series '50s Stratocaster 3-Colour Sunburst 2003 Electric Guitar
 bcf0ea63-ef64-b5e6-8f2f-82115df3163c;1749.6;20;GBP;1;Gibson Les Paul Standard Lite Double Cutaway Trans Amber 2000 Electric Guitar
 aa9410aa-9334-0f7a-65c3-9c1304e0b501;1074.6;20;GBP;1;Gordon Smith The Gatsby Rockingham Green 2022 Electric Guitar
 8fb4ac32-160b-e8b0-7323-162c5c19523f;1863.0;20;GBP;1;PRS Custom 22 Stoptail Vintage Yellow 1998 Electric Guitar
