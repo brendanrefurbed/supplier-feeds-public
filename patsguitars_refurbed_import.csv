@@ -452,8 +452,8 @@ product_code;price_gross;vat;currency;stock;name
 10047280906569;1166.39;20;EUR;1;Fender Highway One Stratocaster 2006 - Natural
 10231382573385;1200.95;20;EUR;1;Fender Highway One Stratocaster 2008 - Sand
 10328356979017;971.99;20;EUR;1;Fender Japan 54 Reissue Stratocaster 1989-1990 - Sunburst
+10330877329737;971.99;20;EUR;1;Fender Japan 57 Reissue Precision Bass 1989-1990 - Sunburst
 10240946176329;785.15;20;EUR;1;Fender Japan 60s Reissue Stratocaster 1991-1992 - Sunburst
-10330877329737;971.99;20;EUR;1;Fender Japan 62 Reissue Precision Bass 1989-1990 - Sunburst
 10240710279497;785.15;20;EUR;1;Fender Japan 62 Reissue Stratocaster - Sunburst
 10277137645897;831.59;20;EUR;1;Fender Japan 62 Reissue Stratocaster 1993-1994 - Candy Apple Red
 10277138661705;831.59;20;EUR;1;Fender Japan 62 Reissue Stratocaster 2002-2004 - Candy Apple Red
@@ -722,7 +722,6 @@ product_code;price_gross;vat;currency;stock;name
 10249387966793;215.99;20;EUR;1;Ibanez SD9 Sonic Distortion Effect Pedal
 10294134997321;369.35;20;EUR;1;Ibanez SDGR Bass 1992 - Metallic Silver
 10123514478921;554.03;20;EUR;1;Ibanez SDGR SR500 1P-06 Bass 2016 - Brown
-10327210525001;1457.99;20;EUR;1;Ibanez SDGR SR5000 Prestige Bass 2010 - Natural Oil Stain
 9820897640777;1069.19;20;EUR;1;Ibanez SRMS720 Bass 2024 - Blue Chameleon
 10103767335241;1943.99;20;EUR;1;Ibanez Studio Bass ST924 1979 - Natural
 9903191916873;277.55;20;EUR;1;Ibanez Talman TCY10LE-BLK Lefthand 2021 - Black
@@ -775,7 +774,6 @@ product_code;price_gross;vat;currency;stock;name
 10169736462665;518.39;20;EUR;1;MJT Aged Relic Nitro Jazzmaster Body - Vintage White
 10240973799753;738.71;20;EUR;1;Mosrite Avenger - Cherry Red
 10169735709001;1754.99;20;EUR;1;Music Man Benji Madden Signature Silhouette Special 2005 - Madden Green
-10292822540617;1200.95;20;EUR;1;Music Man by Ernie Ball Silhouette 2001 - Black
 10316359074121;1555.19;20;EUR;1;Music Man by Ernie Ball StingRay 3 EQ 2001 - Black
 9914137903433;849.95;20;EUR;1;Music Man Ernie Ball Axis Sport 1998 - Black
 10292879524169;1385.63;20;EUR;1;Music Man StingRay II 1977 - Sunburst
@@ -790,6 +788,7 @@ product_code;price_gross;vat;currency;stock;name
 10141863477577;831.59;20;EUR;1;Orville Les Paul 1989-1993 - Cherry Sunburst - Vintage Japan
 10240927924553;738.71;20;EUR;1;Orville Les Paul 1990 - Ebony
 10141697212745;971.99;20;EUR;1;Orville Les Paul 1993 - Foto Flame - Vintage Japan
+10111336644937;790.55;20;EUR;1;Orville Les Paul Standard 1990 - Cherry Sunburst
 10016076792137;831.59;20;EUR;1;Orville Les Paul Standard 1990 - Heritage Cherry Sunburst
 10123536728393;874.79;20;EUR;1;Orville Les Paul Standard 1993 - Fotoflame - Cherry Sunburst
 10091508597065;831.59;20;EUR;1;Orville LPC Les Paul Custom 1997 - Ebony
@@ -943,6 +942,5 @@ product_code;price_gross;vat;currency;stock;name
 10303723635017;680.39;20;EUR;1;Yamaha SL380 Studio Lord Les Paul 1979 - Tobacco Burst - Vintage Japan
 10303835144521;680.39;20;EUR;1;Yamaha SL430 Les Paul 1977 - Black - Vintage Japan
 10328241373513;777.59;20;EUR;1;Yamaha Super Bass 800s 1977 - Cherry Red
-10329346244937;1555.19;20;EUR;1;Yamaha Vintage Japan SG2000 1977 - Sunburst
 10176891388233;116.63;20;EUR;1;Zoom GFX-707 Effects Processor Pedal
 10305795457353;97.19;20;EUR;1;Zoom Player Pro 4040 Effektpedal
