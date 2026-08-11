@@ -702,7 +702,6 @@ product_code;price_gross;vat;currency;stock;name
 10249198829897;1263.59;20;EUR;1;Ibanez Iceman ICT700 2008 - Black
 10211501179209;415.79;20;EUR;1;Ibanez JEM555 Steve Vai Signature - White - Defekt
 10249092235593;738.71;20;EUR;1;Ibanez JEM555 Steve Vai Signature 2008 - White
-10230957801801;831.59;20;EUR;1;Ibanez JP20 Joe Pass Signature 1990 - Tobacco Burst
 10080957038921;790.55;20;EUR;1;Ibanez Les Paul 2350 - Black
 10249353167177;1385.63;20;EUR;1;Ibanez LR10 Lee Ritenour Signature 1982 - Antique Violin
 10216688189769;1477.43;20;EUR;1;Ibanez Performer PF350 1979 - Cherry Red
@@ -885,11 +884,9 @@ product_code;price_gross;vat;currency;stock;name
 10212529701193;971.99;20;EUR;1;Tokai LS50 Love Rock Les Paul 1981 - Ebony
 9949032644937;748.43;20;EUR;1;Tokai LS60 Love Rock Les Paul 1980 - Ebony
 9947270644041;898.55;20;EUR;1;Tokai LS60 Love Rock Les Paul 1981 - All Gold
-9948849209673;741.95;20;EUR;1;Tokai LS65 Love Rock Les Paul 1991 - Cherry Sunburst
 10104308465993;790.55;20;EUR;1;Tokai Original Series Explorer 1982 - Vintage White
 10212539990345;631.79;20;EUR;1;Tokai SG - Cherry Red
 10211605479753;646.91;20;EUR;1;Tokai SG 38SW - Snow White
-10111486820681;615.59;20;EUR;1;Tokai Silver Star SS-48 Stratocaster 1980 - Sunburst
 10303732384073;680.39;20;EUR;1;Tokai Silver Star Stratocaster 1981 - Vintage White - Vintage Japan
 10199307288905;738.71;20;EUR;1;Tokai Silver Star Stratocaster 1982 - Black
 10240717521225;738.71;20;EUR;1;Tokai Silver Star Stratocaster 1984 - Vintage White
@@ -941,7 +938,6 @@ product_code;price_gross;vat;currency;stock;name
 10175597969737;104.97;20;EUR;1;Yamaha OD-100 Over Drive Effect Pedal - Vintage Japan
 10176914424137;104.97;20;EUR;1;Yamaha OD-100 Over Drive Effect Pedal - Vintage Japan
 10327206658377;1749.59;20;EUR;1;Yamaha PACP12M Pacifica Professional 2024 - Beach Blue Burst
-10327230021961;194.39;20;EUR;1;Yamaha RGX220DZ 2009 - Black
 10303849627977;777.59;20;EUR;1;Yamaha SF3000 1983 - Cherry Sunburst - Vintage Japan
 10330876543305;680.39;20;EUR;1;Yamaha SL380 Studio Lord Les Paul 1979 - Cherry Sunburst
 10303723635017;680.39;20;EUR;1;Yamaha SL380 Studio Lord Les Paul 1979 - Tobacco Burst - Vintage Japan
