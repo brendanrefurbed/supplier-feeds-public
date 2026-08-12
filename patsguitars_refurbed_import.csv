@@ -87,7 +87,6 @@ product_code;price_gross;vat;currency;stock;name
 10186053026121;615.59;20;EUR;1;Charvel by Jackson Model 3 HSS - Red
 10033162322249;728.99;20;EUR;1;Charvel by Jackson Model 3 HSS - White
 10016042320201;583.19;20;EUR;1;Charvel by Jackson Superstrat - Red
-10220188959049;831.59;20;EUR;1;Charvel Pro-Mod So Cal 2013 - Red
 10316909019465;971.99;20;EUR;1;Charvel Surfcaster 2005 - Black
 9948761719113;485.99;20;EUR;1;Cheri Telecaster Thinline - Sunburst
 10219176755529;647.99;20;EUR;1;CITIZEN Ibanez Tube Screamer Tsuno Chrono Limited 500 TSTCC808
@@ -357,7 +356,6 @@ product_code;price_gross;vat;currency;stock;name
 10263121527113;184.67;20;EUR;1;Faber TEC BB Telecaster – Black
 10263136010569;184.67;20;EUR;1;Faber TEC MRR Telecaster – Metallic Red
 10263147807049;323.99;20;EUR;1;Faber TECH Blonde Telecaster – See Through Blonde
-10263140303177;323.99;20;EUR;1;Faber TECH VNT Telecaster – Vintage Natural
 10263470473545;38.87;20;EUR;1;Faber TL-IGA Faber Tone-Lock Kit, 2 Schraubbolzen (Inch Gewinde-thread f. Gibson) + 3 Paar Distanzhülsen, aged
 10263470506313;35.63;20;EUR;1;Faber TL-IGG Faber Tone-Lock Kit, 2 Schraubbolzen (Inch Gewinde-thread f. Gibson) + 3 Paar Distanzhülsen, glossy
 10263470539081;36.71;20;EUR;1;Faber TL-INA Faber Tone-Lock Kit, 2 Schraubbolzen (Inch Gewinde-thread f. Gibson) + 3 Paar Distanzhülsen, aged
@@ -522,7 +520,6 @@ product_code;price_gross;vat;currency;stock;name
 10338185642313;1263.59;20;EUR;1;Fender MJT 50s Reissue Stratocaster - Purple Metallic - Heavy Relic
 10341707088201;1263.59;20;EUR;1;Fender MJT 50s Reissue Telecaster - Blonde - Heavy Relic
 10341701615945;1263.59;20;EUR;1;Fender MJT 50s Reissue Telecaster - Butterscotch Blonde - Heavy Relic
-10341706793289;1263.59;20;EUR;1;Fender MJT 50s Reissue Telecaster - Butterscotch Blonde - Heavy Relic
 10341704532297;1263.59;20;EUR;1;Fender MJT 50s Reissue Telecaster - Shell Pink - Heavy Relic
 10338197209417;1263.59;20;EUR;1;Fender MJT 60s Reissue Stratocaster - Burgundy Mist - Heavy Relic
 10338167488841;1263.59;20;EUR;1;Fender MJT 60s Reissue Stratocaster - Candy Apple Green - Heavy Relic
@@ -604,6 +601,7 @@ product_code;price_gross;vat;currency;stock;name
 10016056738121;498.95;20;EUR;1;Grass Roots ESP Forest FR-GT-SH
 10249239527753;415.79;20;EUR;1;GrassRoots Sugizo Model - Black
 10230952493385;777.59;20;EUR;1;Greco 303 Akustik 1975 - Cherry Sunburst
+10008560861513;898.55;20;EUR;1;Greco Custom EG-600P Les Paul 1978 - Ebony - Vintage Japan
 9947276869961;824.03;20;EUR;1;Greco EG Ace Frehley Les Paul Custom 1980 - Heritage Cherry Sunburst - Vintage Japan
 10249247293769;831.59;20;EUR;1;Greco EG Les Paul 1970s - Cherry Sunburst
 10338153431369;680.39;20;EUR;1;Greco EG Les Paul 1970s - Cherry Sunburst
@@ -706,11 +704,11 @@ product_code;price_gross;vat;currency;stock;name
 10125900349769;738.71;20;EUR;1;Ibanez Pre Lawsuit 2375 Stratocaster 1970s - Sunburst
 10131665355081;738.71;20;EUR;1;Ibanez Prestige SA1260 2004 - Sunburst
 10247177830729;462.23;20;EUR;1;Ibanez RB830 Roadstar II Series Bass 1987 - Black
-9997846970697;599.39;20;EUR;1;Ibanez RG Series 1994 - Luna Sea
 9766982713673;289.43;20;EUR;1;Ibanez RG Standard 2021 - Red
 10176865239369;878.03;20;EUR;1;Ibanez RG410 Roadstar II Series 1986 - Black
 9961964634441;339.11;20;EUR;1;Ibanez RG421 2022 - Natural
 10330899743049;971.99;20;EUR;1;Ibanez RG550 1999 - Road Flare Red
+9997846970697;599.39;20;EUR;1;Ibanez RG570 Series 1994 - Luna Sea
 10277170184521;831.59;20;EUR;1;Ibanez RG670 1993 - Root Beer
 10316908626249;971.99;20;EUR;1;Ibanez RGD61ALET 2023 - Metallic Gray
 10081012416841;1316.51;20;EUR;1;Ibanez RGD71ALPA 2021 - Charcoal Burst Black Stained Flat
@@ -781,14 +779,12 @@ product_code;price_gross;vat;currency;stock;name
 10330784268617;388.79;20;EUR;1;Ortega Model 60-RE11LTD - Natural
 10330999259465;878.03;20;EUR;1;Orville by Gibson Thunderbird Bass 1991 - Sunburst - Vintage Japan
 9831303086409;866.15;20;EUR;1;Orville Gibson LPS Les Paul Standard 1990 - Heritage Cherry Sunburst
-10240971800905;923.39;20;EUR;1;Orville Les Paul - Ebony
 10141863477577;831.59;20;EUR;1;Orville Les Paul 1989-1993 - Cherry Sunburst - Vintage Japan
 10240927924553;738.71;20;EUR;1;Orville Les Paul 1990 - Ebony
 10141697212745;971.99;20;EUR;1;Orville Les Paul 1993 - Foto Flame - Vintage Japan
 10111336644937;790.55;20;EUR;1;Orville Les Paul Standard 1990 - Cherry Sunburst
 10016076792137;831.59;20;EUR;1;Orville Les Paul Standard 1990 - Heritage Cherry Sunburst
 10123536728393;874.79;20;EUR;1;Orville Les Paul Standard 1993 - Fotoflame - Cherry Sunburst
-10091508597065;831.59;20;EUR;1;Orville LPC Les Paul Custom 1997 - Ebony
 10303795233097;874.79;20;EUR;1;Orville LPS Les Paul 1994 - Cherry Sunburst
 10118158582089;790.55;20;EUR;1;Orville LPS Les Paul Standard - Cherry Sunburst
 10092445761865;831.59;20;EUR;1;Orville LPS Les Paul Standard 1990 - Cherry Sunburst
