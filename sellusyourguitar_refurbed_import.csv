@@ -1,9 +1,14 @@
 product_code;price_gross;vat;currency;stock;name
+4b7ec598-0b6c-a113-ed50-26749e2786e9;756.0;20;GBP;1;Taylor 214ce Natural 2012 Electro Acoustic Guitar
+db455f64-d9c2-8f86-513c-18a74e34c43b;610.2;20;GBP;1;Schecter C-7 Pro Aqua Burst 2020 7-String Electric Guitar
+ccb8a6ec-c0ed-39bd-ed14-f0ef17f40d96;869.4;20;GBP;1;Fender Made in Japan Traditional '60s Stratocaster 2024 Lake Placid Blue
+6421b8e8-605f-d21c-6867-2958570c86e7;988.2;20;GBP;1;Gibson Les Paul Tribute Satin Tobacco Burst 2012 Electric Guitar
+3ac11128-5817-16ff-f26e-36129ecea639;761.4;20;GBP;1;Schecter C-1 Apocalypse Rusty Grey 2021 Electric Guitar
+cbaac1c1-5630-93d0-eff7-d6667e5532cd;815.4;20;GBP;1;Schecter Banshee Elite 7 String Gloss Natural 2019 Electric Guitar
 cc38f4ac-53dd-8505-7cbf-3b61e77d1c22;1225.8;20;GBP;1;Ibanez 2453 Howard Roberts Brown Sunburst c.1975 Hollow Body Electric Guitar
 6cf061ac-16c9-1e9e-aeb4-a661468fdb2a;1684.8;20;GBP;1;Maybach Lester Earl Grey 60 Aged 2021 Electric Guitar
 2ad3cccf-0f97-509c-47ea-803756d5bcbf;972.0;20;GBP;1;Fender MIJ ST68 Stratocaster Vintage White 2014 Electric Guitar
 050f8f17-aef1-c510-3ce9-a331d01ff50b;874.8;20;GBP;1;Epiphone Shinichi Ubukata ES-355 Custom Olive Drab 2023 Electric Guitar
-80299a57-76c1-4af7-7703-b87cf870f204;172.8;20;GBP;1;Line 6 HX One Stereo Guitar Multi-Effects Pedal
 5294e847-e298-75df-600e-c5c53caeeb4d;907.2;20;GBP;1;Peerless Tonemaster JH Special Sunburst Hollow Body Electric Guitar
 90dbb8fa-4a4f-555e-dcb9-0a13ba40ee86;405.0;20;GBP;1;Tokai Love Rock ALS65SGT 2022 Electric Guitar
 a2718921-1221-7086-b9b0-e11cc0ba95f9;2322.0;20;GBP;1;Gibson ES-335 60’s Vintage Burst Semi-Hollow Electric Guitar
@@ -69,7 +74,6 @@ e066a5f0-7e0f-e350-26c2-9bfac5f33533;583.2;20;GBP;1;Kemper Profiler PowerRack Di
 2c247fcb-cf85-9477-08ec-753b714277da;556.2;20;GBP;1;Fender California Vintage Palomino Sienna Sunburst 2023 Electro-Acoustic Guitar
 d818da74-79d2-d2bf-96f6-859b4ec0ff12;610.2;20;GBP;1;Takamine EF-341C Black 1988 Electro Acoustic Guitar
 d41420e6-f3c0-79db-eca7-b78095326208;216.0;20;GBP;1;Ibanez Super 80 ‘Flying Finger’ Gold Vintage c.’70s Passive  Humbucking Pickups
-ded200f7-1c10-a71b-d9d6-26c1120981d4;696.6;20;GBP;1;Fender Deluxe Roadhouse Stratocaster 3-Colour Sunburst 2018 Guitar w/ Mods
 f8f66c0d-b47b-12b7-bd39-afb7adb37570;696.6;20;GBP;1;ESP LTD SN-1000 FR Charcoal Metallic 2015 Modified Electric Guitar
 79b5e84b-46b6-27da-f7b7-be5277a2dc9f;567.0;20;GBP;1;Ibanez AF105 Natural Hollow Body 2006 Electric Guitar
 849e6166-364e-0be1-95a7-104a5b964be3;318.6;20;GBP;1;Third Man Hardware/JHS Troika Delay Effects Pedal
@@ -180,7 +184,6 @@ b0709e5f-a655-9544-04d6-b078a2463b3a;2484.0;20;GBP;1;Gibson Custom ES-335 Dot Re
 2d3d5e47-c35c-4e8d-2fa6-0346a38f81a3;847.8;20;GBP;1;Ibanez Q547 Blue Chameleon 2023 Headless 7-String Electric Guitar
 9ad04ac1-2461-6b29-bb5b-3055be6c9f3f;567.0;20;GBP;1;Godin Session Vintage Burst Semi-Gloss 2017 Electric Guitar
 70a1a342-1573-6501-cefb-6f656ad81615;1377.0;20;GBP;1;Hofner Committee Gloss Natural 1960 Modified Hollow Body Electric Guitar
-47198cfc-7a21-8824-109c-e5a199e05ba5;594.0;20;GBP;1;Yamaha Pacifica 612VIIX Teal Green Metallic 2023 Electric Guitar
 e63bb051-9bfe-242a-49cd-a842c70703b3;534.6;20;GBP;1;Jackson X Series Surfcaster 2025 Satin Black Electric Guitar
 87457ef9-d104-dffa-6771-edd8c55d357a;2041.2;20;GBP;1;Ernie Ball Music Man Valentine Limited Edition Starry Night 2017 Electric Guitar
 db557699-11bf-dd23-01ab-7bee82c08425;707.4;20;GBP;1;Ibanez RGRTB621 Iron Label Black Flat 2022 Electric Guitar
@@ -261,7 +264,6 @@ d9e34f07-870e-5aa5-bd1f-a1733c453182;702.0;20;GBP;1;Epiphone USA Map Guitar Natu
 0abc381b-25f9-9252-d09c-880fa198d5b8;988.2;20;GBP;1;Gibson Les Paul Studio Wine Red 2005 Electric Guitar
 2d45c792-2933-db7d-5762-8334eebff345;507.6;20;GBP;1;Hagstrom HJ500 Gloss Natural 2006 Hollow Body Electric Guitar
 233f1e0b-d8c3-2eaa-8cc7-d98b20fdee80;432.0;20;GBP;1;Squier Pro-Tone Stratocaster Olympic White 1997 Electric Guitar
-c4e1a2bd-54e6-fb8c-d4d9-e5b8d3cd432f;810.0;20;GBP;1;Fender American Standard Stratocaster 3-Color Sunburst 2004 Electric Guitar
 cae77372-3cd2-5cf9-2af0-20f38214b6f7;351.0;20;GBP;1;Little Rock Vintage 80 1x12” UK Made Tweed Valve Guitar Amplifier Combo
 c20ae998-e860-6bb1-d22f-a4d9e22537ac;2268.0;20;GBP;1;Gibson Memphis ES-335 Bass Vintage Sunburst 2013 Semi-Hollow Electric Bass
 55b39dd1-461b-5200-8400-04bb6110d58b;2079.0;20;GBP;1;Larrivee 000-44R Legacy Series Natural Gloss 2022 Acoustic Guitar
@@ -326,6 +328,7 @@ f86aa5b4-3ba3-efc9-affd-ca5d87855855;594.0;20;GBP;1;Peerless Electra Orange 2007
 f33d8718-5b40-9a4a-a458-9a1d0c1da128;145.8;20;GBP;1;Wampler SLOstortion Smooth SLO Drive Effect Pedal
 a187a732-1866-8721-b381-8f1e90ec43b4;621.0;20;GBP;1;Fender Classic Series '50s Stratocaster 3-Colour Sunburst 2003 Electric Guitar
 bcf0ea63-ef64-b5e6-8f2f-82115df3163c;1749.6;20;GBP;1;Gibson Les Paul Standard Lite Double Cutaway Trans Amber 2000 Electric Guitar
+3ebf3340-b24e-2364-d678-84c8e6387b5f;928.8;20;GBP;1;Gibson Les Paul 50s Tribute P90 Goldtop 2011 Electric Guitar
 aa9410aa-9334-0f7a-65c3-9c1304e0b501;1074.6;20;GBP;1;Gordon Smith The Gatsby Rockingham Green 2022 Electric Guitar
 8fb4ac32-160b-e8b0-7323-162c5c19523f;1863.0;20;GBP;1;PRS Custom 22 Stoptail Vintage Yellow 1998 Electric Guitar
 d4999a05-0012-9761-0fc6-9f6fe2d644fe;815.4;20;GBP;1;Martin GPCPA5K Grand Performance Natural 2013 Electro Acoustic Guitar
@@ -388,7 +391,6 @@ b0a5b41e-e14b-bebe-2e70-4d83e91bd01a;3315.6;20;GBP;1;Epiphone Triumph Natural 19
 7e224dae-88e8-4e01-9236-04d9612b55a3;129.6;20;GBP;1;N-audio Firesound V3 Boutique 2014 Overdrive Pedal
 632296d4-83dd-87f0-a63a-d701690204b8;1058.4;20;GBP;1;Epiphone Emperor Regent Gloss Natural 2008 Hollow Body Electric Guitar
 64ce72a1-ce45-021c-757f-a6bfe4fc9746;210.6;20;GBP;1;Friedman Motor City Drive 12AX7 Tube Overdrive Pedal
-6e43ccb3-e69b-7cf6-549a-fb9817b43031;253.8;20;GBP;1;KSR Vesta 3 Channel 80s 90s Preamp Pedal
 4dadb752-79e4-58ef-e256-e269c84745bc;3018.6;20;GBP;1;Mayones Custom Shop Patriot 5 Classic VF 'Hulk' 5-String 2014 Electric Bass
 44e5fd37-11f6-c75f-1839-22c1edb11ce1;324.0;20;GBP;1;Hayden HGT A40 40-Watt Valve Amplifier
 9839647b-26c2-aff7-7b5a-20d4b4b08aa6;388.8;20;GBP;1;"Ampeg SVT-410HE Classic Series 4X10"" Bass Speaker Cabinet"
