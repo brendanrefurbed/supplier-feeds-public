@@ -23,8 +23,7 @@ GITB1105;5286.6;21;EUR;1;ESP Original M-2 CTM NT Titan | Metal Black Sparkle
 GITB1129;1672.92;21;EUR;1;Fender American Acoustasonic Strat 2024 | Black
 GITB1065;1456.92;21;EUR;1;Fender American Player Performer Stratocaster | Arctic White
 GITB1032;1456.92;21;EUR;1;Fender American Standard Telecaster 1995 | Sunburst
-GITB1135;2478.6;21;EUR;1;Fender American Ultra II Stratocaster EB | Ultraburst
-GITB1092;4480.92;21;EUR;1;Fender Custom Shop '59 Stratocaster Heavy Relic | White
+GITB1135;2320.92;21;EUR;1;Fender American Ultra II Stratocaster EB | Ultraburst
 GITB932;3126.6;21;EUR;1;Fender Custom Shop '62 California Beach Stratocaster | Blue
 GITB1081;3558.6;21;EUR;1;Fender Custom Shop Strat Eric Clapton Signature 2009 | Grey
 GITB1155;3774.6;21;EUR;1;Fender Custom Shop Telecaster Relic 2014 | Black
@@ -40,15 +39,15 @@ GITB1103;2457.0;21;EUR;1;Gibson Les Paul Standard 50s Custom Color | 60s Cherry
 GITB1099;1809.0;21;EUR;1;Gibson Midtown Standard 2015 | Pelham Blue
 53470759321937;0.0;21;EUR;1;Gibson Robby Krieger SG | Heritage Cherry
 GITB1150;2046.6;21;EUR;1;Gibson Victory Artist 1982 | Sienna Sunburst
-52908950126929;10.75;21;EUR;1;GitaarBarbaar Elektrische Gitaarsnaren Regular Light (10-46)
-52908995936593;29.11;21;EUR;1;GitaarBarbaar Elektrische Gitaarsnaren Regular Light (10-46) 3-Pack
-52907009605969;74.52;21;EUR;1;GitaarBarbaar Gigbag Elektrische Gitaar
-52908988924241;10.75;21;EUR;1;GitaarBarbaar Noiseless Instrumentkabel
-52908988957009;18.31;21;EUR;1;GitaarBarbaar Noiseless Instrumentkabel
-52909006258513;10.75;21;EUR;1;GitaarBarbaar Viking Grip Plectrums 12-Pack Normal & Heavy
-52909006291281;10.75;21;EUR;1;GitaarBarbaar Viking Grip Plectrums 12-Pack Normal & Heavy
-52909027098961;6.43;21;EUR;1;GitaarBarbaar Viking Grip Plectrums 6-Pack Normal & Heavy
-52909027131729;6.43;21;EUR;1;GitaarBarbaar Viking Grip Plectrums 6-Pack Normal & Heavy
+S01;10.75;21;EUR;1;GitaarBarbaar Elektrische Gitaarsnaren Regular Light (10-46)
+S02;29.11;21;EUR;1;GitaarBarbaar Elektrische Gitaarsnaren Regular Light (10-46) 3-Pack
+T01;74.52;21;EUR;1;GitaarBarbaar Gigbag Elektrische Gitaar
+E01;10.75;21;EUR;1;GitaarBarbaar Noiseless Instrumentkabel
+E02;18.31;21;EUR;1;GitaarBarbaar Noiseless Instrumentkabel
+P03;10.75;21;EUR;1;GitaarBarbaar Viking Grip Plectrums 12-Pack Normal & Heavy
+P04;10.75;21;EUR;1;GitaarBarbaar Viking Grip Plectrums 12-Pack Normal & Heavy
+P01;6.43;21;EUR;1;GitaarBarbaar Viking Grip Plectrums 6-Pack Normal & Heavy
+P02;6.43;21;EUR;1;GitaarBarbaar Viking Grip Plectrums 6-Pack Normal & Heavy
 GITB939;722.52;21;EUR;1;Godin Radiator 2000 | White Pearloid
 GITB1033;938.52;21;EUR;1;Gretsch G5422TG Electromatic Bigsby | Snowcrest White
 GITB1156;2104.92;21;EUR;1;Gretsch G6131T Jet Firebird 2004 | Firebird Red
@@ -72,7 +71,6 @@ GITB998;1618.92;21;EUR;1;PJD Carry Apprentice #957 | Frozen Berry
 GITB1134;916.92;21;EUR;1;PRS SE Nick Catanese Signature | Black
 GITB988;592.92;21;EUR;1;Reverend Sensei JR 2025 | Korina Burst
 GITB922;1780.92;21;EUR;1;Smitty Custom Classic Boutique SC | Flamed Amber Burst
-GITB1161;1132.92;21;EUR;1;Solar Jensen Evert Signature 2021 | Black Red Finish
 GITB1162;1078.92;21;EUR;1;Solar V1.6 Kirk Windstein Signature 2021 | Matte White
 GITB1073;895.32;21;EUR;1;Stanford CR Marquee Classic 2022 | Amber
 GITB1054;2752.92;21;EUR;1;The Heritage H-535 Semi Hollow 1993 | Natural
