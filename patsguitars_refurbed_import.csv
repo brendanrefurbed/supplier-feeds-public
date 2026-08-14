@@ -160,7 +160,7 @@ product_code;price_gross;vat;currency;stock;name
 10212565025097;874.79;20;EUR;1;ESP AS-300 Alfee Akustik - Black
 9937240293705;3110.39;20;EUR;1;ESP E-II Eclipse - Tobacco Burst
 9937295442249;1197.71;20;EUR;1;ESP Edwards Batman Ninja Warrior Viper 2005 - Black
-10057509863753;1890.0;20;EUR;1;ESP FA-II Flying A „The Alfee“ - White
+10057509863753;1929.95;20;EUR;1;ESP FA-II Flying A „The Alfee“ - White
 10141863051593;1292.75;20;EUR;1;ESP Flying A The Alfee 1990 - White - Vintage Japan
 9989367333193;874.79;20;EUR;1;ESP LTD Andy James Signature AJ-1 2014 - Black Satin
 10136402493769;1141.55;20;EUR;1;ESP LTD GL-200K George Lynch Signature 2012 - Kamikaze
@@ -573,7 +573,6 @@ product_code;price_gross;vat;currency;stock;name
 10231535763785;1263.59;20;EUR;1;Gibson Les Paul Special 2005 - Faded Yellow
 10047311380809;1662.11;20;EUR;1;Gibson Les Paul Special DC 2005 - TV Yellow
 10231420584265;1108.07;20;EUR;1;Gibson Les Paul Special Tribute 2021 - Faded Black
-10305322352969;2138.39;20;EUR;1;Gibson Les Paul Standard 1993 - Ebony
 10185962914121;1580.03;20;EUR;1;Gibson Les Paul Standard 1999 - Ebony
 10341892129097;1846.79;20;EUR;1;Gibson Les Paul Standard 2025 - Vintage Tobacco Burst
 10136423498057;1929.95;20;EUR;1;Gibson Les Paul Standard DC 2001 - Trans Red
@@ -777,7 +776,6 @@ product_code;price_gross;vat;currency;stock;name
 10141697212745;971.99;20;EUR;1;Orville Les Paul 1993 - Foto Flame - Vintage Japan
 10111336644937;790.55;20;EUR;1;Orville Les Paul Standard 1990 - Cherry Sunburst
 10016076792137;831.59;20;EUR;1;Orville Les Paul Standard 1990 - Heritage Cherry Sunburst
-10123536728393;874.79;20;EUR;1;Orville Les Paul Standard 1993 - Fotoflame - Cherry Sunburst
 10303795233097;874.79;20;EUR;1;Orville LPS Les Paul 1994 - Cherry Sunburst
 10118158582089;790.55;20;EUR;1;Orville LPS Les Paul Standard - Cherry Sunburst
 10092445761865;831.59;20;EUR;1;Orville LPS Les Paul Standard 1990 - Cherry Sunburst
@@ -859,7 +857,6 @@ product_code;price_gross;vat;currency;stock;name
 9947266777417;898.55;20;EUR;1;Tokai Breezysound TE150 Telecaster 2015 - Blue Flower
 10240697270601;738.71;20;EUR;1;Tokai Five Star 1982 - White
 10098898272585;738.71;20;EUR;1;Tokai FSD-65 Five Star Super Edition 1982 - Black
-10341881512265;680.39;20;EUR;1;Tokai Jazz Bass 1980 - Sunburst
 10249088827721;971.99;20;EUR;1;Tokai LC-60 Les Paul Custom 1981 - Ebony
 9961976103241;473.03;20;EUR;1;Tokai Love Rock ALS80 Les Paul 2012 - Sparkle
 10015980224841;748.43;20;EUR;1;Tokai Love Rock ALS94T Les Paul 2023 - Goldtop
