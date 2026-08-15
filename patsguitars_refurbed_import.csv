@@ -109,6 +109,7 @@ product_code;price_gross;vat;currency;stock;name
 10192902390089;131.21;20;EUR;1;DOD FX25 Envelope Filter Effect Pedal - USA
 10305810006345;126.35;20;EUR;1;DOD FX25 Envelope Filter Effektpedal - USA
 10192934076745;131.21;20;EUR;1;DOD FX50-B Overdrive Effect Pedal - USA
+10231383753033;874.79;20;EUR;1;Duesenberg Starplayer DJP-SP 2001 - Black
 10341678055753;242.99;20;EUR;1;Dunlop Crybaby 50th Anniversary Gold Effektpedal
 10104299127113;701.99;20;EUR;1;Eddie Van Halen Frankenstein Strat Replica - Red Striped
 10249312895305;646.91;20;EUR;1;EDWARDS by ESP E-RA-110HR ROUAGE RAYZI
@@ -119,7 +120,6 @@ product_code;price_gross;vat;currency;stock;name
 9729078624585;1457.99;20;EUR;1;Eko Ekomaster 400 1960 - Blue Sparkle
 10255396733257;738.71;20;EUR;1;Epiphone 1959 Les Paul Standard - Cherry Sunburst
 10330898563401;777.59;20;EUR;1;Epiphone by Gibson Flying V 1996 - Alpine White
-10292775813449;738.71;20;EUR;1;Epiphone Casino VC 1996 - Sunburst
 10199407329609;738.71;20;EUR;1;Epiphone Casino VS 2011 - Tobacco Burst
 10104266031433;527.03;20;EUR;1;Epiphone Dovena Akustik 2007 - Natural
 10294177792329;1200.95;20;EUR;1;Epiphone E230TD Casino inspired by John Lennon 2010 - Natural
@@ -444,7 +444,7 @@ product_code;price_gross;vat;currency;stock;name
 10033144365385;161.99;20;EUR;1;Fender Frontman 15G Transistor Verstärker
 10240742490441;1108.07;20;EUR;1;Fender Gold Foil Jazzmaster 2023 - Shoreline Gold
 10047284937033;1292.75;20;EUR;1;Fender Highway One Showmaster 2003 - Satin Black
-10047280906569;1166.39;20;EUR;1;Fender Highway One Stratocaster 2006 - Natural
+10047280906569;1108.07;20;EUR;1;Fender Highway One Stratocaster 2006 - Natural
 10231382573385;1200.95;20;EUR;1;Fender Highway One Stratocaster 2008 - Sand
 10328356979017;971.99;20;EUR;1;Fender Japan 54 Reissue Stratocaster 1989-1990 - Sunburst
 10330877329737;971.99;20;EUR;1;Fender Japan 57 Reissue Precision Bass 1989-1990 - Sunburst
@@ -876,6 +876,7 @@ product_code;price_gross;vat;currency;stock;name
 10277138202953;554.03;20;EUR;1;Tokai ST Stratocaster Limited Edition 1980s - Candy Apple Red
 10292787085641;554.03;20;EUR;1;Tokai ST-36 Stratocaster Limited Edition 1982 - Blue Burst
 10303841698121;680.39;20;EUR;1;Tokai Super Edition Stratocaster 1981 - Metallic Red
+9948801466697;539.99;20;EUR;1;Tokai Talbo Blazing Fire 1984 - Metallic silver
 10080918176073;701.99;20;EUR;1;Tokai Telecaster Breezysound Lefthand 2010 - Vintage White
 10305872363849;97.19;20;EUR;1;Tokai TXC-1 Exciter Effektpedal - Japan
 10209921794377;874.79;20;EUR;1;Trinity by Relish - Metallic Blue
