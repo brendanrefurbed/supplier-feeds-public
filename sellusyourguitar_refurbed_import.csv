@@ -1,4 +1,11 @@
 product_code;price_gross;vat;currency;stock;name
+67dbd214-6faa-5e3e-1f3d-421c5d00a64d;3850.2;20;GBP;1;Gibson Les Paul Deluxe Hall of Fame Edition Double Gold 1991 1 of 250 Ltd Editio
+4521520b-6049-2220-7495-ac04372eeed6;783.0;20;GBP;1;Fender Deluxe Telecaster Thinline 3-Colour Sunburst 2019 Electric Guitar
+1e09a450-32f9-ce2b-5ab6-49cbf476e604;810.0;20;GBP;1;Gibson SG Special Faded Cherry 2005 Electric Guitar
+da78ca7a-c07c-587e-8ac8-24fe92111338;1976.4;20;GBP;1;Gibson J-45 Standard Vintage Sunburst 2007 Electro Acoustic Guitar
+6b7b8605-ade9-e8d5-609f-3b46502c0460;3531.6;20;GBP;1;Gibson Les Paul Custom Wine Red 2004 Electric Guitar
+a4a89f5b-99f8-b743-c286-3af4fd2cf0bc;2149.2;20;GBP;1;Gray Admiral 50s Vintage Bashed Shell Pink Nitro Electric Guitar
+50b0f22f-0667-275d-18b6-e78e7493937f;4185.0;20;GBP;1;Gibson Les Paul ES Lightburst 2015 Electric Guitar
 0ebe89f9-30b8-9d18-6fa3-237832493d31;928.8;20;GBP;1;Fender Vintera Road Worn '70s Telecaster Deluxe Olympic White Nitro 2020
 75d715ac-9e06-ab6b-7245-24cb81fbceed;2467.8;20;GBP;1;PRS Limited Edition Custom 24 Swamp Ash McCarty Tobacco Sunburst 2017
 baead5cd-df59-6374-4465-d37649cbf20c;4185.0;20;GBP;1;Gibson Custom Shop '59 ES-335 Vintage Burst 2021 Semi-Hollow Electric Guitar
@@ -15,12 +22,9 @@ b7561796-be40-9145-b9e4-cd9e310b3481;1749.6;20;GBP;1;Gretsch G6118T Double Anniv
 1c0d62f7-e91b-8958-8828-307b00f4a595;982.8;20;GBP;1;Godin LGX-SA Trans Amber 2001 Electric Synth Access Guitar
 0b873d65-1d55-b0ce-aab6-07e06deea973;615.6;20;GBP;1;Epiphone Sheraton Natural 2024 Semi-Hollow Electric Guitar
 227dd036-9be2-eef9-4ef6-0369a834c2ed;1917.0;20;GBP;1;Taylor 712e 12-Fret Gloss Natural 2017 Electro-Acoustic Guitar
-1e0cb40a-e71e-95c9-52b1-31418c4e6a56;615.6;20;GBP;1;Fender Player II Jaguar Polar White 2025 Electric Guitar
-559bef25-453c-4628-9ad2-82c12e19c0db;610.2;20;GBP;1;Jackson DK2M Dinky Black MIJ Electric Guitar
 c8c63de8-9e8e-d84f-27e4-cfa03072d0c2;615.6;20;GBP;1;Epiphone B.B King Lucille Ebony 2008 Semi-Hollow Electric Guitar
 677b098c-5139-91e1-0561-e9a31a194db2;642.6;20;GBP;1;Kramer Nightswan Polka Dot 2021 Electric Guitar
 65a0c42e-266a-95e0-a283-1629c943e512;642.6;20;GBP;1;Sigma SDM-18 Natural Gloss 2016 Acoustic Guitar
-db455f64-d9c2-8f86-513c-18a74e34c43b;610.2;20;GBP;1;Schecter C-7 Pro Aqua Burst 2020 7-String Electric Guitar
 ccb8a6ec-c0ed-39bd-ed14-f0ef17f40d96;869.4;20;GBP;1;Fender Made in Japan Traditional '60s Stratocaster 2024 Lake Placid Blue
 6421b8e8-605f-d21c-6867-2958570c86e7;988.2;20;GBP;1;Gibson Les Paul Tribute Satin Tobacco Burst 2012 Electric Guitar
 3ac11128-5817-16ff-f26e-36129ecea639;761.4;20;GBP;1;Schecter C-1 Apocalypse Rusty Grey 2021 Electric Guitar
@@ -76,7 +80,6 @@ cf806294-819f-89ab-0791-b6014d5f62ae;432.0;20;GBP;1;Epiphone DC Pro Mojave Fade 
 71636343-5283-5a94-ccb4-ad79bfe7e256;3888.0;20;GBP;1;Martin OMJM 20th Anniversary Platinum Gray Burst 2024 John Mayer Signature
 1eecfac9-fc26-adba-c276-d93c2b210137;221.4;20;GBP;1;Gibson Late 70’s Dirty Fingers T.Top Neck Humbucker w/ Gold Bobbins
 dfa614f4-4f92-1814-af89-0bf436ebef57;1220.4;20;GBP;1;Fender American Professional Telecaster Candy Apple Red 2017 USA Electric Guitar
-cc785c5c-65a1-f931-2a3f-226d904425f5;1701.0;20;GBP;1;Maton EBG808TEC Tommy Emmanuel Natural Satin 2024 Electro Acoustic Guitar
 1c4fcc0a-4298-c9ac-f1b0-b4274885ed56;523.8;20;GBP;1;Line 6 Variax Standard White 2015 Modelling Electric Guitar
 774dd518-f065-c46a-1161-3a39b406c72f;583.2;20;GBP;1;Yamaha BB435 Sunburst 5-String Electric Bass Guitar
 e066a5f0-7e0f-e350-26c2-9bfac5f33533;583.2;20;GBP;1;Kemper Profiler PowerRack Digital Amp Profiler
