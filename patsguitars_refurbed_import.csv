@@ -130,7 +130,6 @@ product_code;price_gross;vat;currency;stock;name
 10349685047625;777.59;20;EUR;1;Epiphone Flying V Prophecy 2024 - Aged Bengal Tiger
 10108768551241;790.55;20;EUR;1;Epiphone Japan Les Paul 1996 - Fotoflame
 10341720031561;388.79;20;EUR;1;Epiphone Korea DOT 2000 - Cherry Sunburst
-10329420431689;777.59;20;EUR;1;Epiphone Korea Flying V 1998 - Red
 10220083183945;646.91;20;EUR;1;Epiphone Les Paul 1993 - Tobacco Burst
 10341715804489;583.19;20;EUR;1;Epiphone Les Paul Custom Lefthand 2006 - Ebony
 10231407247689;1108.07;20;EUR;1;Epiphone Les Paul Custom Peter Frampton Signature 2018 - Ebony
@@ -456,7 +455,6 @@ product_code;price_gross;vat;currency;stock;name
 10277137645897;831.59;20;EUR;1;Fender Japan 62 Reissue Stratocaster 1993-1994 - Candy Apple Red
 10292864155977;777.59;20;EUR;1;Fender Japan 62 Reissue Stratocaster 1994-1995 - Sunburst
 10277138661705;831.59;20;EUR;1;Fender Japan 62 Reissue Stratocaster 2002-2004 - Candy Apple Red
-10111488753993;790.55;20;EUR;1;Fender Japan 62´ Reissue Stratocaster 1984-1987 - Sunburst - Vintage
 10330905641289;1263.59;20;EUR;1;Fender Japan 66 Reissue Jaguar 1997-2000 - Blue Repaint
 10329392546121;1457.99;20;EUR;1;Fender Japan 66 Reissue Jaguar 1997-2000 - Candy Apple Red - Matching Headstock
 10136377360713;1316.51;20;EUR;1;Fender Japan 66 Reissue Jaguar 2006-2008 - Sunburst
@@ -466,6 +464,7 @@ product_code;price_gross;vat;currency;stock;name
 10292782334281;1108.07;20;EUR;1;Fender Japan 69 Reissue Mustang 1993-1994 - Vintage White
 10255387263305;1108.07;20;EUR;1;Fender Japan 69 Reissue Mustang 1994-1995 - Vintage White
 10256743563593;1200.95;20;EUR;1;Fender Japan 69 Reissue Mustang 1995-1996 - Candy Apple Red
+10316372902217;1263.59;20;EUR;1;Fender Japan 69 Reissue Mustang 1997-2000 - Vintage White
 10328248648009;1263.59;20;EUR;1;Fender Japan 69 Reissue Mustang 1999-2002 - Vintage White
 10349681082697;1166.39;20;EUR;1;Fender Japan 72 Reissue JV Stratocaster 1982-1984 - Vintage White
 10349677740361;971.99;20;EUR;1;Fender Japan 72 Reissue Stratocaster 1985-1986 - Vintage White
@@ -702,6 +701,7 @@ product_code;price_gross;vat;currency;stock;name
 10211501179209;415.79;20;EUR;1;Ibanez JEM555 Steve Vai Signature - White - Defekt
 10249092235593;738.71;20;EUR;1;Ibanez JEM555 Steve Vai Signature 2008 - White
 10080957038921;790.55;20;EUR;1;Ibanez Les Paul 2350 - Black
+10023456702793;1016.27;20;EUR;1;Ibanez Les Paul Custom Pre Lawsuit 1973 - Ebony
 10249353167177;1385.63;20;EUR;1;Ibanez LR10 Lee Ritenour Signature 1982 - Antique Violin
 10216688189769;1477.43;20;EUR;1;Ibanez Performer PF350 1979 - Cherry Red
 10199103570249;1316.51;20;EUR;1;Ibanez PF350BK Performer 1994 - Black
@@ -859,6 +859,7 @@ product_code;price_gross;vat;currency;stock;name
 10330878509385;194.39;20;EUR;1;Squier Telecaster Body - Sunburst
 10349671121225;971.99;20;EUR;1;Sterling by Music Man John Petrucci Signature MAJ170 2023 - Chalk Grey
 10216755495241;3110.39;20;EUR;1;Suhr Classic Antique Pro - 3T Sunburst
+10315904942409;2915.99;20;EUR;1;Suhr Classic S 2003 - Candy Apple Red
 10338166210889;2915.99;20;EUR;1;Suhr Classic S HSS 2024 - Sunburst
 10104274551113;350.99;20;EUR;1;Switch Vibracell - Blue
 10316903514441;1555.19;20;EUR;1;Taylor 615-CE Akustik 1999 - Black
