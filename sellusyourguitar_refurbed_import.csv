@@ -1,4 +1,16 @@
 product_code;price_gross;vat;currency;stock;name
+486e5bea-3a30-d4d6-ed22-e9a89a42a76c;523.8;20;GBP;1;Faith FNCETB Neptune Trembessi Series 2016 Electro Acoustic Guitar
+2f8da13e-52ad-78c5-a046-f85a09cb9567;556.2;20;GBP;1;Art & Lutherie Legacy Havana Brown Canada Electro-Acoustic Guitar
+6733b9f9-4a0d-4ca1-acc9-3a615ef1b20a;2916.0;20;GBP;1;Novo Custom Order Voltur Medium Distress Inca Silver 2022 Electric Guitar
+65a1ec3a-5619-35b5-3675-d3397be8bc4d;685.8;20;GBP;1;Ibanez ASV-100-DG Black Low Gloss 2016 Semi-Hollow Electric Guitar
+da826b81-64fb-1236-0475-9666cd51e165;610.2;20;GBP;1;Fender 75th Anniversary Stratocaster in Diamond Anniversary 2020 Electric Guitar
+cd327cba-bed3-8d91-5630-1528332d822e;2149.2;20;GBP;1;Rickenbacker 360 Mapleglo 2021 Semi-Hollow Electric Guitar
+32d33389-82f7-666f-d4be-ba76128a3397;583.2;20;GBP;1;Jackson X Series Monarkh SCX7 Black Gloss 2016 7-String Electric Guitar
+1e8360d9-04f0-0fbc-d05c-e49843d7ccaf;567.0;20;GBP;1;Faith Neptune Blood Moon 2019 Blood Moon Burst Electro-Acoustic Guitar
+2b35dfe2-df0c-8d99-bd72-5af682d721a6;696.6;20;GBP;1;Ibanez RG631ALF Axion Label Blue Chameleon 2025 Electric Guitar
+8595e693-805e-ba2a-0ec8-5deb30cd0a58;966.6;20;GBP;1;Prudencio Saez 5-PS Gloss Natural All-Solid Made in Spain Classical Guitar
+4a19889c-56bb-6174-e255-1c230666273f;723.6;20;GBP;1;Charvel Pro-Mod San Dimas Style 1 HSS HT E Sassafras 2020 Electric Guitar
+39725731-e999-c198-ffa9-75cb688e8aaf;2079.0;20;GBP;1;Gibson Explorer EXP 425 Panther Pink 1986 Electric Guitar
 67dbd214-6faa-5e3e-1f3d-421c5d00a64d;3850.2;20;GBP;1;Gibson Les Paul Deluxe Hall of Fame Edition DoubleGold 1991 1 of 250 Ltd Edition
 4521520b-6049-2220-7495-ac04372eeed6;783.0;20;GBP;1;Fender Deluxe Telecaster Thinline 3-Colour Sunburst 2019 Electric Guitar
 1e09a450-32f9-ce2b-5ab6-49cbf476e604;810.0;20;GBP;1;Gibson SG Special Faded Cherry 2005 Electric Guitar
@@ -101,7 +113,6 @@ e5ef0e68-48aa-1914-5da8-82e007dce0cf;583.2;20;GBP;1;Ibanez AF125 Amber Burst 201
 2599c535-2db2-511e-6fb4-f4fc5783d92b;1047.6;20;GBP;1;Godin Multiac Nylon Encore Natural Satin 2019 Electro Acoustic Guitar
 faf9e6f1-cf8c-dd1c-b5ff-fecd0f0f6e5a;5070.6;20;GBP;1;Gibson Custom, Art & Historic 1957 Les Paul Custom 'Black Beauty' Reissue 2000
 3df3d3d3-8f01-870b-c8fe-7815d7ed003f;729.0;20;GBP;1;Fender Vintera '60s Modified Telecaster Lake Placid Blue 2020 Electric Guitar
-f29086a1-5b8b-708d-004a-9352c7bc2131;550.8;20;GBP;1;Fender Player II Mustang Hialeah Yellow 2024 Electric Guitar
 4a73ebce-b6fb-8e82-df6a-c5d55f83294f;642.6;20;GBP;1;Fender Limited Edition Player Stratocaster Surf Green 2023 Electric Guitar
 96983574-677b-e54d-8bfe-639c9799199d;1047.6;20;GBP;1;Fender Ltd Ed American Performer Timber Telecaster 2-Colour Sunburst 2024 Guitar
 e0231332-5412-1c47-9a3b-17da7333c235;1630.8;20;GBP;1;Gibson Les Paul Gary Moore BFG Signature Lemon Burst 2009 Electric Guitar
@@ -138,6 +149,7 @@ d215e39b-ef31-c277-a9ac-354f84f0ca5a;1863.0;20;GBP;1;Gibson Les Paul Standard '6
 ec3ac9cc-b91b-3be1-efb4-fc8eb11522e9;928.8;20;GBP;1;Ibanez RG3270 Deep Black 2003 Electric Guitar
 71735dc5-9bf5-0e15-6aa3-fb489fa9999e;1944.0;20;GBP;1;Taylor 514ce Gloss Natural 2011 Grand Auditorium Electro-Acoustic Guitar
 69c35749-7d9f-67bf-c546-c9bd9bd465d5;2619.0;20;GBP;1;Martin HD-28 Dreadnought Natural 2001 Acoustic Guitar
+b56561d1-644a-54eb-8490-3bd6e754442e;1625.4;20;GBP;1;Ernie Ball Music Man StingRay Vintage Sunburst 1991 Electric Bass Guitar
 c591f2ef-77bd-9d0e-1890-81d83f1cecf6;1690.2;20;GBP;1;Gibson Les Paul Classic Heritage Cherry Sunburst 2019 Electric Guitar
 9d2f311a-30d4-fdc1-80a7-a6c704be3c93;378.0;20;GBP;1;ESP LTD EC-254FM See-Thru Black Cherry 2006 Electric Bass
 8457ef5f-6bec-f38b-d020-c8827a2cdb01;2376.0;20;GBP;1;Dowina Custom Build Grand Auditorium 2021 Hand Made Acoustic Guitar
