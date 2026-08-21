@@ -450,7 +450,6 @@ product_code;price_gross;vat;currency;stock;name
 10240946176329;785.15;20;EUR;1;Fender Japan 60s Reissue Stratocaster 1991-1992 - Sunburst
 10240710279497;785.15;20;EUR;1;Fender Japan 62 Reissue Stratocaster - Sunburst
 10277137645897;831.59;20;EUR;1;Fender Japan 62 Reissue Stratocaster 1993-1994 - Candy Apple Red
-10292864155977;777.59;20;EUR;1;Fender Japan 62 Reissue Stratocaster 1994-1995 - Sunburst
 10277138661705;831.59;20;EUR;1;Fender Japan 62 Reissue Stratocaster 2002-2004 - Candy Apple Red
 10330905641289;1263.59;20;EUR;1;Fender Japan 66 Reissue Jaguar 1997-2000 - Blue Repaint
 10329392546121;1457.99;20;EUR;1;Fender Japan 66 Reissue Jaguar 1997-2000 - Candy Apple Red - Matching Headstock
@@ -489,7 +488,6 @@ product_code;price_gross;vat;currency;stock;name
 10349664076105;874.79;20;EUR;1;Fender Japan ST54-85L Stratocaster 1984-1987 - Black
 10316361728329;971.99;20;EUR;1;Fender Japan ST57-85LS Stratocaster 1991-1992 - Black
 10305790247241;242.99;20;EUR;1;Fender Japan STM-94M Stratocaster Body - Black
-10240732332361;785.15;20;EUR;1;Fender Japan Stratocaster 1993-1994 - Candy Apple Red
 10131738755401;790.55;20;EUR;1;Fender Japan Stratocaster 1993-1994 - Red Repaint - Vintage
 10316333908297;874.79;20;EUR;1;Fender Japan Stratocaster 1997-2000 - Sunburst
 10330880770377;242.99;20;EUR;1;Fender Japan Stratocaster Body - Black
@@ -556,6 +554,7 @@ product_code;price_gross;vat;currency;stock;name
 9890335785289;1118.87;20;EUR;1;Framus Strato Deluxe 1963 - Blonde
 10175549899081;69.97;20;EUR;1;Freedom Custom Guitar Research A/B Switch Box Pedal - Japan
 10277173428553;1555.19;20;EUR;1;Gibson 1960 Les Paul Classic 2002- Ebony
+10316880806217;1749.59;20;EUR;1;Gibson 76’ Reissue Explorer 204 - Ebony - EMG MOD
 10349665091913;2721.59;20;EUR;1;Gibson Chet Atkins Country Gentleman 1995 - Sunrise Orange
 10316288098633;2915.99;20;EUR;1;Gibson Firebird V 2010 - Classic White
 10316902924617;1943.99;20;EUR;1;Gibson Flying V 1995 - Cherry
@@ -627,17 +626,16 @@ product_code;price_gross;vat;currency;stock;name
 10330883031369;874.79;20;EUR;1;Greco EG450S Les Paul Standard 1978 - Tobacco Sunburst
 10249362276681;738.71;20;EUR;1;Greco EG480 Custom Les Paul 1970s - Sunburst
 10249290514761;738.71;20;EUR;1;Greco EG480R Custom Les Paul 1976 - Cherry Sunburst
-10057513402697;790.55;20;EUR;1;Greco EG500 1973 - Ebony - Vintage Japan
 10104294080841;701.99;20;EUR;1;Greco EG500 Les Paul Standard 1978 - Cherry Sunburst - Vintage Japan
 10349681574217;971.99;20;EUR;1;Greco EG600 Custom Les Paul 1978 - Ebony
 10104285102409;878.03;20;EUR;1;Greco EG600 Les Paul Custom 1978 - Ebony - Vintage Japan
 10210054406473;415.79;20;EUR;1;Greco GOB-700 Bass 1978 - Defekt
 9729076822345;777.59;20;EUR;1;Greco J-80E 1991 - Sunburst
-10008551850313;599.39;20;EUR;1;Greco Jazz Bass 1970s - Natural
 10349680230729;680.39;20;EUR;1;Greco Jazz Bass 1970s - Sunburst
 10067514032457;1052.99;20;EUR;1;Greco JLG-75 1987 - Black
 10143235637577;615.59;20;EUR;1;Greco Les Paul 1970s - Sunburst - Vintage Japan
 10104295817545;790.55;20;EUR;1;Greco Les Paul Bolt on H.K. 1970s - Cherry Sunburst
+10294143058249;874.79;20;EUR;1;Greco Les Paul Custom 1990s - Ebony
 10294139748681;831.59;20;EUR;1;Greco Les Paul EG450 1978 - Ebony
 10091440341321;748.43;20;EUR;1;Greco Les Paul Standard 1977 - Tobacco Burst
 10136076747081;878.03;20;EUR;1;Greco Les Paul Standard 1978 - Ebony
@@ -646,7 +644,6 @@ product_code;price_gross;vat;currency;stock;name
 10349680558409;680.39;20;EUR;1;Greco Matsumoku Stratocaster 1970s - Vintage White
 10249162326345;738.71;20;EUR;1;Greco SE-380 Super Sounds Stratocaster 1979 - Sunburst
 10091491524937;498.95;20;EUR;1;Greco SE450 Scalloped Stratocaster 1980 - Black
-10164906328393;569.15;20;EUR;1;Greco SG Matsumoku 1975 - Cherry - Vintage
 9574622200137;575.63;20;EUR;1;Greco SS-600 1990s - Heritage Cherry
 10254398488905;646.91;20;EUR;1;Greco Stratocaster 1970s - Natural
 10115845816649;701.99;20;EUR;1;Greco Stratocaster 1970s - Vintage White
@@ -882,7 +879,6 @@ product_code;price_gross;vat;currency;stock;name
 10305872363849;97.19;20;EUR;1;Tokai TXC-1 Exciter Effektpedal - Japan
 10209921794377;874.79;20;EUR;1;Trinity by Relish - Metallic Blue
 10164956856649;2429.99;20;EUR;1;Valley Arts Guitar Custom Pro 1985-1986 - Sunburst
-10231723655497;583.19;20;EUR;1;Victory Amplifiers Sheriff 212 Cabinet
 10074960560457;64.79;20;EUR;1;Vintage Guitar Magazine Price Guide 2026 – Offizieller Gitarren-Preisführer
 10111385829705;176.03;20;EUR;1;Vision Stratocaster - Red
 10169810288969;87.47;20;EUR;1;VOCU Magic Mic Room Microphone Preamp Pedal
@@ -909,7 +905,6 @@ product_code;price_gross;vat;currency;stock;name
 10305293975881;923.39;20;EUR;1;Yamaha Japan SG800 1981 - Translucent Red
 10315884298569;1166.39;20;EUR;1;Yamaha Japan SG800S Standard 1982 - Tobacco Burst
 10349676560713;971.99;20;EUR;1;Yamaha Japan SGV300 2000 - Metallic Green
-10316397576521;971.99;20;EUR;1;Yamaha Japan SGV300 2001 - Metallic Red
 10338195308873;777.59;20;EUR;1;Yamaha Japan SL400S Studio Lord Les Paul 1977 - Tobacco Sunburst
 10341886525769;680.39;20;EUR;1;Yamaha Japan SL430 Les Paul 1978 - Ebony
 10305335591241;831.59;20;EUR;1;Yamaha Japan SL500S Studio Lord Les Paul 1978 - Cherry Sunburst
