@@ -82,10 +82,8 @@ product_code;price_gross;vat;currency;stock;name
 9878932881737;300.23;20;EUR;1;Charvel 4-String Bass
 10169710510409;571.31;20;EUR;1;Charvel by Jackson - Custom
 10016103891273;416.87;20;EUR;1;Charvel by Jackson CDS 1994 - Black
-10115832906057;439.55;20;EUR;1;Charvel by Jackson CDS-38 -  Burst
 9759565021513;460.07;20;EUR;1;Charvel by Jackson HSS Superstrat 1989-1991 - Black
 10186053026121;615.59;20;EUR;1;Charvel by Jackson Model 3 HSS - Red
-10033162322249;728.99;20;EUR;1;Charvel by Jackson Model 3 HSS - White
 10016042320201;583.19;20;EUR;1;Charvel by Jackson Superstrat - Red
 10357924823369;1166.39;20;EUR;1;Charvel Pro Mod DK22 Satchel Signature 2021 - Satin White Bengal
 10316909019465;923.39;20;EUR;1;Charvel Surfcaster 2005 - Black
@@ -522,7 +520,6 @@ product_code;price_gross;vat;currency;stock;name
 9989304320329;777.59;20;EUR;1;Fender Mexico FSR Stratocaster 1995 - Vintage White
 10330894664009;680.39;20;EUR;1;Fender Mexico Stratocaster 1995 - Black
 10199419617609;571.31;20;EUR;1;Fender Mexico Stratocaster 1995 - Vintage White
-10197952987465;600.47;20;EUR;1;Fender Mexico Telecaster 2002 - Sunburst
 10341722161481;1263.59;20;EUR;1;Fender MJT 50s Reissue Stratocaster - Gilmour Style - Heavy Relic
 10341723078985;1263.59;20;EUR;1;Fender MJT 50s Reissue Stratocaster - Gilmour Style - Heavy Relic
 10338185642313;1263.59;20;EUR;1;Fender MJT 50s Reissue Stratocaster - Purple Metallic - Heavy Relic
@@ -638,7 +635,6 @@ product_code;price_gross;vat;currency;stock;name
 10292870480201;831.59;20;EUR;1;Greco EG-450 Les Paul Standard 1979 - Tobacco Sunburst
 10240935526729;646.91;20;EUR;1;Greco EG-480 Les Paul Custom 1970s - Sunburst
 10249091383625;831.59;20;EUR;1;Greco EG-500 Standard Les Paul 1977 - Ebony
-10197939355977;831.59;20;EUR;1;Greco EG-500 Super Power Les Paul 1981 - Cherry Sunburst
 10199136567625;790.55;20;EUR;1;Greco EG-550 Rock Spirits Les Paul 1992 - Cherry Sunburst
 10016030785865;997.91;20;EUR;1;Greco EG-600 Les Paul Custom 1978 - Black - Vintage Japan
 10328362516809;777.59;20;EUR;1;Greco EG-700 Les Paul Standard 1977 - Natural
@@ -698,7 +694,6 @@ product_code;price_gross;vat;currency;stock;name
 10176892305737;131.21;20;EUR;1;Guyatone PS-104 Cross Over Auto Wah Effect Pedal 1980 - Vintage Japan
 10341878202697;583.19;20;EUR;1;Hagstrom Fantomen 2025 - Cosmic Black Burst
 10117754880329;439.55;20;EUR;1;Hagstrom Ultra Swede 2008 - Red Burst
-10357643215177;583.19;20;EUR;1;Hagstrom Viking Deluxe 2015 - White Gloss
 10254404518217;554.03;20;EUR;1;HAGSTROM Viking The Rod LTD 2012 - Black
 10126045675849;220.31;20;EUR;1;Harley Benton Piezo Stratocaster - Sunburst
 10240953811273;777.59;20;EUR;1;Höfner 173 - Vinyl White
