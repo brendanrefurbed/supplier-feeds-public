@@ -486,8 +486,6 @@ product_code;price_gross;vat;currency;stock;name
 10236555952457;1108.07;20;EUR;1;Fender Japan CHAR-MG 69 Reissue Mustang 2019 - Olympic White
 10349689373001;971.99;20;EUR;1;Fender Japan Hot Rod Stratocaster 1992-1993 - Red Sunburst
 10349645726025;971.99;20;EUR;1;Fender Japan Hybrid II Stratocaster 2022 - Matte Black
-10294145548617;738.71;20;EUR;1;Fender Japan Jazz Bass 1999-2002 - Sunburst
-10305311506761;738.71;20;EUR;1;Fender Japan JB-40 Jazz Bass 1993-1994 - Sunburst
 10357075280201;971.99;20;EUR;1;Fender Japan JBR-800 Jazz Bass 1987-1988 - Natural
 10316346130761;1292.75;20;EUR;1;Fender Japan Mustang Bass 1997-2000 - Blue Repaint
 10330889126217;971.99;20;EUR;1;Fender Japan PB-43 Precision Bass 1993-1994 - Vintage White
@@ -498,6 +496,7 @@ product_code;price_gross;vat;currency;stock;name
 10349664076105;874.79;20;EUR;1;Fender Japan ST54-85L Stratocaster 1984-1987 - Black
 10316361728329;923.39;20;EUR;1;Fender Japan ST57-85LS Stratocaster 1991-1992 - Black
 10305790247241;242.99;20;EUR;1;Fender Japan STM-94M Stratocaster Body - Black
+10349643104585;971.99;20;EUR;1;Fender Japan Stratocaster 1983 - Vintage White
 10131738755401;790.55;20;EUR;1;Fender Japan Stratocaster 1993-1994 - Red Repaint - Vintage
 10316333908297;831.59;20;EUR;1;Fender Japan Stratocaster 1997-2000 - Sunburst
 10330880770377;242.99;20;EUR;1;Fender Japan Stratocaster Body - Black
@@ -819,7 +818,6 @@ product_code;price_gross;vat;currency;stock;name
 10231389749577;1385.63;20;EUR;1;PRS S2 Standard 22 - Antique White
 10357902770505;1457.99;20;EUR;1;PRS S2 Vela 2017 - Tobacco Sunburst
 10197938897225;831.59;20;EUR;1;PRS SE Chris Robertson Signature 2016 - Kentucky Blueburst
-10357025800521;680.39;20;EUR;1;PRS SE Custom 2019 - Vintage Sunburst
 10209927364937;693.35;20;EUR;1;PRS SE Custom 22 2007 - Transparent Black
 10338163360073;680.39;20;EUR;1;PRS SE Custom 24 2009 - Whale Blue
 10211613737289;746.27;20;EUR;1;PRS SE Custom 24 2012 - Cherry Red
