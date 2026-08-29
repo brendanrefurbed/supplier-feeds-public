@@ -1,6 +1,5 @@
 product_code;price_gross;vat;currency;stock;name
-fc53ff64-e0ed-8046-c9d8-dd0464213a22;1225.8;20;GBP;1;Fender Kurt Cobain Road Worn Jaguar 3-Color Sunburst 2012 Electric Guitar
-05904f62-71b3-d4d1-d35f-98b604c09a08;2030.4;20;GBP;1;Fender American Vintage '62 3-Colour Sunburst 2007 Electric Guitar
+05904f62-71b3-d4d1-d35f-98b604c09a08;2030.4;20;GBP;1;Fender American Vintage '62 Jazzmaster 3-Colour Sunburst 2007 Electric Guitar
 4716c4a6-8713-e3d3-bbfa-7a868a1c9e8e;3213.0;20;GBP;1;Gibson Custom Shop 1957 Les Paul Standard Reissue Goldtop 2003 Electric Guitar
 c4702351-f652-666c-d68d-a8542c51369c;556.2;20;GBP;1;Martin GPCX1RAE Natural Satin 2016 Electro Acoustic Guitar
 df250462-c769-77f6-345d-8180287e3db6;583.2;20;GBP;1;Taylor 114e Grand Auditorium Satin Natural 2022 LH Electro-Acoustic Guitar
@@ -47,7 +46,7 @@ ecbe235c-0c67-e87e-0b82-bed94c35da24;556.2;20;GBP;1;Epiphone Les Paul 1960 Tribu
 1e9eda8c-6e6d-345c-bd7c-e80831c1cb1a;2133.0;20;GBP;1;Larrivee Ltd Edition OM-03 Bhilwara Satin Natural 2023 Orchestra Model Acoustic
 12611af9-7da6-fd69-9634-442223387f3c;756.0;20;GBP;1;Fender Deluxe Telecaster Thinline Candy Apple Red 2016 Electric Guitar
 3bbdb734-89e8-9e28-b09e-c2d5a1aa50cf;1323.0;20;GBP;1;Larrivee OM-02 Satin Natural 2013 Electro-Acoustic Guitar
-3ba58139-87bf-3829-9eda-b9fbd739d092;2835.0;20;GBP;1;Northwood Borneo Rosewood 70 Series OM Gloss Natural Hand-Made Acoustic
+3ba58139-87bf-3829-9eda-b9fbd739d092;2835.0;20;GBP;1;Northwood Borneo Rosewood 70 Series OM Gloss Natural 2016 Hand-Made Acoustic
 132c33e2-b9d0-f75b-ef69-1d18b32d4e65;432.0;20;GBP;1;Gretsch G2622T Streamliner Brandy Wine 2025 Semi-Hollow Electric Guitar
 5f9b97a9-d93b-61d7-ab53-25c077596d64;2835.0;20;GBP;1;Northwood Studio 00 Vintage Cherry Sunburst Acoustic Guitar
 ea403263-6f7c-0fb6-c9a0-f8be9f9bba80;550.8;20;GBP;1;Charvel Pro-Mod So-Cal Style 2 24 HH HT CM Satin Black 2022 Modified Electric
@@ -81,7 +80,6 @@ c8c63de8-9e8e-d84f-27e4-cfa03072d0c2;615.6;20;GBP;1;Epiphone B.B King Lucille Eb
 677b098c-5139-91e1-0561-e9a31a194db2;642.6;20;GBP;1;Kramer Nightswan Polka Dot 2021 Electric Guitar
 65a0c42e-266a-95e0-a283-1629c943e512;642.6;20;GBP;1;Sigma SDM-18 Natural Gloss 2016 Acoustic Guitar
 ccb8a6ec-c0ed-39bd-ed14-f0ef17f40d96;869.4;20;GBP;1;Fender Made in Japan Traditional '60s Stratocaster 2024 Lake Placid Blue
-3ac11128-5817-16ff-f26e-36129ecea639;761.4;20;GBP;1;Schecter C-1 Apocalypse Rusty Grey 2021 Electric Guitar
 cbaac1c1-5630-93d0-eff7-d6667e5532cd;815.4;20;GBP;1;Schecter Banshee Elite 7 String Gloss Natural 2019 Electric Guitar
 cc38f4ac-53dd-8505-7cbf-3b61e77d1c22;1225.8;20;GBP;1;Ibanez 2453 Howard Roberts Brown Sunburst c.1975 Hollow Body Electric Guitar
 6cf061ac-16c9-1e9e-aeb4-a661468fdb2a;1684.8;20;GBP;1;Maybach Lester Earl Grey 60 Aged 2021 Electric Guitar
@@ -187,7 +185,6 @@ c591f2ef-77bd-9d0e-1890-81d83f1cecf6;1690.2;20;GBP;1;Gibson Les Paul Classic Her
 8457ef5f-6bec-f38b-d020-c8827a2cdb01;2376.0;20;GBP;1;Dowina Custom Build Grand Auditorium 2021 Hand Made Acoustic Guitar
 ce23d6f0-32b1-c4a0-1085-3c7f6346ee45;669.6;20;GBP;1;Gretsch Electromatic G5422T Orange Stain 2016 Semi-Hollow Electric Guitar
 eec4325a-faed-d4aa-4501-3b05c420402c;2025.0;20;GBP;1;Gibson EB-0 Refinished White c.1966-'69 Short Scale Electric Bass Guitar
-7ae1ea8b-61b3-d869-21f4-6a58bcab0ab5;1512.0;20;GBP;1;Fender American Vintage '52 Telecaster Butterscotch Blonde 2005 Electric Guitar
 8d17d3bc-f45d-140c-b13b-6d1da23f6b23;847.8;20;GBP;1;Fender Chris Shiflett Telecaster Deluxe Shoreline Gold 2023 Electric Guitar
 998d1e41-fa6e-6af9-9d79-9e3a1dc92a3a;496.8;20;GBP;1;Grassroots Tetsuya Signature 5 String Active Electric Bass Guitar
 24e82535-035d-45b8-4701-122ec8d85280;2786.4;20;GBP;1;PRS DGT Tobacco Sunburst 2024 Electric Guitar
@@ -333,7 +330,6 @@ ef5f6782-4cba-a8db-072a-d3f0dd8bae01;1134.0;20;GBP;1;Fender Strat Plus 3-Color S
 6c86a241-65b9-c8cc-e899-94ff09f03f2a;1474.2;20;GBP;1;Fender American Original '50s Stratocaster 2-Colour Sunburst 2020 Electric Guita
 2176394a-ce2a-ffa7-b65e-49694cab8edd;1360.8;20;GBP;1;Taylor GS7 Grand Symphony Natural Gloss 2009 Acoustic Guitar
 b16e11fc-5726-433a-0c17-8950d312d106;2154.6;20;GBP;1;Rickenbacker 660 Jetglo 2013 Electric Guitar
-891762ec-d952-aca3-515e-80142750cf11;3353.4;20;GBP;1;PRS Tremonti Charcoal Contour Burst 2023 Electric Guitar
 b8d60fb3-3adc-e915-54f4-b10d92616106;4509.0;20;GBP;1;Martin OM Davy Graham Custom Edition (UK) Gloss Natural 2007 Acoustic Guitar
 2fc80e6f-a5aa-d41f-ad04-de059706cf2c;480.6;20;GBP;1;Takamine G406S Gloss Natural Acoustic Guitar
 8726fb21-14d2-8fcd-0de6-31ab5ae43aa9;1360.8;20;GBP;1;Strandberg Boden OS-7 Red 2016 Headless 7-String Electric Guitar
