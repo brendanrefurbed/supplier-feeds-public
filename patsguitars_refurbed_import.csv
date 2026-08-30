@@ -39,6 +39,7 @@ product_code;price_gross;vat;currency;stock;name
 10305804665161;77.75;20;EUR;1;Boss CS-3 Compression Sustainer Effektpedal - Taiwan
 10305877541193;77.75;20;EUR;1;Boss CS-3 Compression Sustainer Effektpedal - Taiwan
 10305870790985;136.07;20;EUR;1;Boss DD-3 Digital Delay Effektpedal - Japan
+10366427529545;97.19;20;EUR;1;Boss DD-7 Digital Delay Effect Pedal
 10305868628297;213.83;20;EUR;1;Boss DM-3 Delay Effektpedal - Japan
 10305799258441;97.19;20;EUR;1;Boss DS-1 Distortion Effektpedal - Taiwan
 10305860436297;97.19;20;EUR;1;Boss DS-1 Distortion Effektpedal - Taiwan
@@ -47,6 +48,7 @@ product_code;price_gross;vat;currency;stock;name
 10305862435145;97.19;20;EUR;1;Boss GE-7B Bass Equalizer Effektpedal - Taiwan
 10305835991369;97.19;20;EUR;1;Boss MD-2 Mega Distortion Effektpedal - Taiwan
 10305863450953;145.79;20;EUR;1;Boss NF-1 Noise Gate Effektpedal - Japan
+10366410916169;77.75;20;EUR;1;Boss NS-2 Noise Suppressor Effect Pedal
 10305868792137;97.19;20;EUR;1;Boss NS-2 Noise Suppressor Effektpedal - Japan
 10305800962377;116.63;20;EUR;1;Boss OD-2 Turbo Over Drive Effektpedal - Japan
 10305804894537;97.19;20;EUR;1;Boss OD-2 Turbo Over Drive Effektpedal - Japan
@@ -98,11 +100,17 @@ product_code;price_gross;vat;currency;stock;name
 10328250974537;646.91;20;EUR;1;CoolZ Japan Fujigen Stratocaster 2012 - Metallic Blue
 10329375441225;646.91;20;EUR;1;CoolZ Japan Fujigen Stratocaster 2014 - Candy Apple Red
 10305360462153;646.91;20;EUR;1;CoolZ Japan Fujigen Telecaster 2012 - Sunburst
+10366163812681;680.39;20;EUR;1;CoolZ Japan Stratocaster 2009 - Sunburst
+10365872963913;680.39;20;EUR;1;CoolZ Japan ZST-V/R Stratocaster 2016 - Sunburst
+10366130684233;680.39;20;EUR;1;CoolZ ZST-10R Stratocaster 2017 - Sunburst
+10366159618377;680.39;20;EUR;1;CoolZ ZST-1R Stratocaster 2014 - Candy Apple Red
+10366183965001;583.19;20;EUR;1;Cordoba Stage - Natural Amber
 9654574383433;777.59;20;EUR;1;Cort Elrick NJS4 Bass 2022 - Black
 10067539657033;615.59;20;EUR;1;Cort S2800 2009 - Cherry Sunburst
 10249387606345;107.99;20;EUR;1;Crybaby GCB-95 Effect Pedal
 10176910393673;69.97;20;EUR;1;D'Addario Planet Waves PW-CT-04 Chromatic Tuner Effect Pedal
 10231404593481;874.79;20;EUR;1;Daion The´81 Caribou Akustik - Cherry
+10365914120521;971.99;20;EUR;1;Dean Dimebag Barrel Signature 2020 - Dime o Flage - Defect
 10349643432265;971.99;20;EUR;1;Dean Dimebag Darrel Signature Razorback 2006 - Black Silver
 10349644120393;1166.39;20;EUR;1;Dean Dimebag Darrell Tribute ML 2003 - Far Beyond Driven
 10349682524489;388.79;20;EUR;1;Dean Sarasota 2006 - Cherry Sunburst
@@ -115,16 +123,21 @@ product_code;price_gross;vat;currency;stock;name
 10341678055753;242.99;20;EUR;1;Dunlop Crybaby 50th Anniversary Gold Effektpedal
 10104299127113;701.99;20;EUR;1;Eddie Van Halen Frankenstein Strat Replica - Red Striped
 10249312895305;646.91;20;EUR;1;EDWARDS by ESP E-RA-110HR ROUAGE RAYZI
+10366771855689;971.99;20;EUR;1;Edwards by ESP Viper Custom Order 2016 - Camouflage
 10305782907209;87.47;20;EUR;1;Effects Bakery An Butter Cooppe Drive Effektpedal
 10305785561417;77.75;20;EUR;1;Effects Bakery French Bread Delay Effektpedal
+10366435524937;77.75;20;EUR;1;EHX Stereo Electric Mistress Effect Pedal
 9729078624585;1457.99;20;EUR;1;Eko Ekomaster 400 1960 - Blue Sparkle
 10255396733257;738.71;20;EUR;1;Epiphone 1959 Les Paul Standard - Cherry Sunburst
+10366176428361;485.99;20;EUR;1;Epiphone Akustik FT-79 Inspired By Texan 2011 - Natural
 10366766121289;1360.79;20;EUR;1;Epiphone Brendon Small Signature Snow Falcon 2016 - Snow Burst
+10366181736777;874.79;20;EUR;1;Epiphone by Gibson Japan Les Paul 1996 - Ebony
 10349684326729;680.39;20;EUR;1;Epiphone Casino 2008 - Natural
 10199407329609;701.99;20;EUR;1;Epiphone Casino VS 2011 - Tobacco Burst
 10104266031433;527.03;20;EUR;1;Epiphone Dovena Akustik 2007 - Natural
 10294177792329;1200.95;20;EUR;1;Epiphone E230TD Casino inspired by John Lennon 2010 - Natural
 10330841153865;1263.59;20;EUR;1;Epiphone E230TD Casino inspired by John Lennon 2010 - Natural
+10365907304777;291.59;20;EUR;1;Epiphone EB-3 Bass 2013 - Pelham Blue
 10358232056137;583.19;20;EUR;1;Epiphone Emperor Swingster FGM 2022 - Forest Green
 10357320909129;777.59;20;EUR;1;Epiphone Explorer 2011 - Ebony
 10108768551241;790.55;20;EUR;1;Epiphone Japan Les Paul 1996 - Fotoflame
@@ -164,6 +177,7 @@ product_code;price_gross;vat;currency;stock;name
 10141863051593;1229.03;20;EUR;1;ESP Flying A The Alfee 1990 - White - Vintage Japan
 9989367333193;874.79;20;EUR;1;ESP LTD Andy James Signature AJ-1 2014 - Black Satin
 10136402493769;1141.55;20;EUR;1;ESP LTD GL-200K George Lynch Signature 2012 - Kamikaze
+10366772478281;1457.99;20;EUR;1;ESP LTD Slayer 25th Anniversary 2011 - Reign in Blood
 9775092203849;1595.15;20;EUR;1;ESP THE ALFEE Signature Angel Classic Junior 1998 - Cherry Sunburst
 10249139683657;508.67;20;EUR;1;EVH 5150 Mini Guitar - Red Striped
 10263467327817;61.55;20;EUR;1;Faber ABRH-BA ABRH Bridge, For Gibson® ABR-1, Aged Nickel, Brass saddles natural
@@ -432,6 +446,7 @@ product_code;price_gross;vat;currency;stock;name
 10349688226121;1943.99;20;EUR;1;Fender American Vintage 57 Reissue Stratocaster 1996 - Sunburst
 10330798883145;1749.59;20;EUR;1;Fender American Vintage 62 Reissue Stratocaster 2001 - Sunburst
 10141638394185;665.27;20;EUR;1;Fender American Vintage Jaguar Body - Sunburst
+10366187307337;971.99;20;EUR;1;Fender Chilli Beans Moto Signature Mustang 2025 - Black
 10358268199241;971.99;20;EUR;1;Fender Classic Series 69 Reissue Telecaster Thinline 2002 - Black
 10357638234441;3401.99;20;EUR;1;Fender Custom Shop 1969 Stratocaster NOS 2001 - Olympic White
 9997912670537;4859.99;20;EUR;1;Fender Custom Shop Bloodwood Fretless Bass Masterbuilt by Jason Davis 2003
@@ -448,15 +463,20 @@ product_code;price_gross;vat;currency;stock;name
 10231382573385;1200.95;20;EUR;1;Fender Highway One Stratocaster 2008 - Sand
 10328356979017;923.39;20;EUR;1;Fender Japan 54 Reissue Stratocaster 1989-1990 - Sunburst
 10349682000201;971.99;20;EUR;1;Fender Japan 54 Reissue Stratocaster 1991 - Metallic Gold - MOD
+10365084533065;1069.19;20;EUR;1;Fender Japan 57 Reissue Stratocaster 2004-2005 - Sonic Blue
 10240946176329;785.15;20;EUR;1;Fender Japan 60s Reissue Stratocaster 1991-1992 - Sunburst
+10365197058377;971.99;20;EUR;1;Fender Japan 62 Reissue Precision Bass 1989-1990 - Black
+10365133553993;971.99;20;EUR;1;Fender Japan 62 Reissue Precision Bass 1991 - Sunburst
 10277137645897;831.59;20;EUR;1;Fender Japan 62 Reissue Stratocaster 1993-1994 - Candy Apple Red
 10277138661705;831.59;20;EUR;1;Fender Japan 62 Reissue Stratocaster 2002-2004 - Candy Apple Red
+10366972592457;1263.59;20;EUR;1;Fender Japan 66 Reissue Jaguar 1997-2000 - Black
 10330905641289;1263.59;20;EUR;1;Fender Japan 66 Reissue Jaguar 1997-2000 - Blue Repaint
 10329392546121;1385.63;20;EUR;1;Fender Japan 66 Reissue Jaguar 1997-2000 - Candy Apple Red - Matching Headstock
 10358272393545;1360.79;20;EUR;1;Fender Japan 66 Reissue Jaguar 2002-2004 - Candy Apple Red - Matching Headstock
 10136377360713;1316.51;20;EUR;1;Fender Japan 66 Reissue Jaguar 2006-2008 - Sunburst
 10357114896713;1263.59;20;EUR;1;Fender Japan 66 Reissue Mustang 1993-1994 - Vintage White
 10292805697865;1200.95;20;EUR;1;Fender Japan 66 Reissue Mustang 1997-2000 - Vintage White
+10365854581065;1263.59;20;EUR;1;Fender Japan 66 Reissue Mustang 1999-2002 - Vintage White
 10016150716745;1330.55;20;EUR;1;Fender Japan 66’ Reissue Jaguar 2004-2005 - Sunburst
 10316379881801;1200.95;20;EUR;1;Fender Japan 66’ Reissue Mustang 2002-2004 - Vintage White
 10292782334281;1108.07;20;EUR;1;Fender Japan 69 Reissue Mustang 1993-1994 - Vintage White
@@ -464,23 +484,30 @@ product_code;price_gross;vat;currency;stock;name
 10316372902217;1200.95;20;EUR;1;Fender Japan 69 Reissue Mustang 1997-2000 - Vintage White
 10328248648009;1200.95;20;EUR;1;Fender Japan 69 Reissue Mustang 1999-2002 - Vintage White
 10358271902025;1263.59;20;EUR;1;Fender Japan 69 Reissue Mustang 2012 - Candy Apple Red - Matching Headstock
+10365818044745;971.99;20;EUR;1;Fender Japan 72 Reissue Stratocaster 1994-1997 - Vintage White
 10277137121609;831.59;20;EUR;1;Fender Japan 72 Reissue Stratocaster 1997-2000 - Black
 10303880134985;878.03;20;EUR;1;Fender Japan 72 Reissue Stratocaster 1997-2000 - Black
 10294053568841;923.39;20;EUR;1;Fender Japan 72 Reissue Stratocaster 1997-2000 - Vintage White
 10249153872201;1108.07;20;EUR;1;Fender Japan 72 Reissue Stratocaster ST72-86DSC 2006-2008 - Vintage White
 10357313143113;1360.79;20;EUR;1;Fender Japan 72 Reissue Telecaster Custom 2010-2011 - White Blonde
 10349642154313;1263.59;20;EUR;1;Fender Japan 77 Reissue Mustang 2007-2010 - Black
+10365110026569;971.99;20;EUR;1;Fender Japan Aerodyne Jazz Bass 2002-2004 - Black
 10329396969801;923.39;20;EUR;1;Fender Japan Aerodyne Stratocaster 2012 - Old Candy Red
 10236555952457;1108.07;20;EUR;1;Fender Japan CHAR-MG 69 Reissue Mustang 2019 - Olympic White
+10364981543241;971.99;20;EUR;1;Fender Japan CST-50R 72 Reissue Stratocaster 1985-1986 - Vintage White
 10349689373001;971.99;20;EUR;1;Fender Japan Hot Rod Stratocaster 1992-1993 - Red Sunburst
 10349645726025;971.99;20;EUR;1;Fender Japan Hybrid II Stratocaster 2022 - Matte Black
+10366180393289;874.79;20;EUR;1;Fender Japan Jazz Bass 1994-1995 - Candy Apple Red
 10294092824905;831.59;20;EUR;1;Fender Japan JV Stratocaster MOD 1982 - Natural
+10366532682057;1360.79;20;EUR;1;Fender Japan Mami Signature Stratocaster 2025 - Omochi Vintage White
 10316346130761;1292.75;20;EUR;1;Fender Japan Mustang Bass 1997-2000 - Blue Repaint
 10330889126217;971.99;20;EUR;1;Fender Japan PB-43 Precision Bass 1993-1994 - Vintage White
 10328355209545;831.59;20;EUR;1;Fender Japan PB-43 Precision Bass 2004-2005 - Sunburst
+10365211509065;874.79;20;EUR;1;Fender Japan PB-50 Precision Bass 1994-1995 - Sunburst
 10303889637705;831.59;20;EUR;1;Fender Japan Precision Bass 1999-2002 - Sunburst
 10358273016137;971.96;20;EUR;1;Fender Japan Precision Bass 2006-2008 - Black
 10236596388169;462.23;20;EUR;1;Fender Japan SF-456 Stratocaster 1984-1987 - Black
+10365864345929;874.79;20;EUR;1;Fender Japan ST-362 Stratocaster 1984-1987 - Vintage White
 10349664076105;874.79;20;EUR;1;Fender Japan ST54-85L Stratocaster 1984-1987 - Black
 10316361728329;923.39;20;EUR;1;Fender Japan ST57-85LS Stratocaster 1991-1992 - Black
 10305790247241;242.99;20;EUR;1;Fender Japan STM-94M Stratocaster Body - Black
@@ -490,10 +517,12 @@ product_code;price_gross;vat;currency;stock;name
 10330880770377;242.99;20;EUR;1;Fender Japan Stratocaster Body - Black
 10330881327433;242.99;20;EUR;1;Fender Japan Stratocaster Body - Sunburst
 10341671862601;242.99;20;EUR;1;Fender Japan Stratocaster Body - Sunburst
+10364991603017;1166.39;20;EUR;1;Fender Japan TC-72 Reissue Telecaster Custom 1997-2000 - Black
 10330880508233;242.99;20;EUR;1;Fender Japan Telecaster Body - Black
 10330880901449;242.99;20;EUR;1;Fender Japan Telecaster Body - Black
 10330881098057;242.99;20;EUR;1;Fender Japan Telecaster Body - Blue
 10349643923785;242.99;20;EUR;1;Fender Japan Telecaster Body - Red Repaint
+10366052630857;874.79;20;EUR;1;Fender Japan TL-STD Telecaster 1994-1995 - Vintage White
 10176872644937;790.55;20;EUR;1;Fender Japan TL-STD Telecaster 2013 - Sand
 10305790804297;242.99;20;EUR;1;Fender Japan TL-STD Telecaster Body - Black
 10033164321097;1185.83;20;EUR;1;Fender Japan TL62B 62’ Telecaster 2017 - Ice Blue Metallic
@@ -515,6 +544,7 @@ product_code;price_gross;vat;currency;stock;name
 10328327225673;646.91;20;EUR;1;Fender Player Series Stratocaster 2019 - Black
 10357922955593;1263.59;20;EUR;1;Fender Ritchie Blackmore Signature Stratocaster 2011 - Olympic White
 10358266954057;1263.59;20;EUR;1;Fender Ritchie Blackmore Signature Stratocaster 2022 - Olympic White
+10364977381705;777.59;20;EUR;1;Fender Showmaster Stratocaster 2005 - Black Cherry Burst
 10047131386185;665.27;20;EUR;1;Fender Squier 51 Strat/Tele Hybrid - Butterscotch Blonde
 10067744260425;738.71;20;EUR;1;Fender Squier 71’ Reissue Telecaster 2002-2004 - Butterscotch Blonde
 10330891485513;680.39;20;EUR;1;Fender Squier Series Jazz Bass - CS MOD - Vintage White
@@ -545,10 +575,8 @@ product_code;price_gross;vat;currency;stock;name
 9890335785289;1118.87;20;EUR;1;Framus Strato Deluxe 1963 - Blonde
 10175549899081;69.97;20;EUR;1;Freedom Custom Guitar Research A/B Switch Box Pedal - Japan
 10277173428553;1555.19;20;EUR;1;Gibson 1960 Les Paul Classic 2002- Ebony
-10367133811017;1749.59;20;EUR;1;Gibson 67 Reissue Flying V 1994 - Ebony
 10366937366857;1846.79;20;EUR;1;Gibson 67 Reissue Flying V 1996 - Ebony
 10316880806217;1662.11;20;EUR;1;Gibson 76’ Reissue Explorer 2004 - Ebony - EMG MOD
-10349665091913;2721.59;20;EUR;1;Gibson Chet Atkins Country Gentleman 1995 - Sunrise Orange
 10358278979913;3887.99;20;EUR;1;Gibson Custom Shop ES-335 2012 - Cherry Red
 10367117001033;2235.59;20;EUR;1;Gibson ES-135 1995 - Vintage Sunburst
 10357927248201;1652.39;20;EUR;1;Gibson ES-139 2013 - Vintage Sunburst
@@ -583,7 +611,6 @@ product_code;price_gross;vat;currency;stock;name
 10033169695049;6316.91;20;EUR;1;Gibson Les Paul Standard Slash 4 Limited Album Edition 2021 - 1 of 250
 10366438277449;1069.19;20;EUR;1;Gibson Les Paul Studio 1996 - Cherry Sunburst
 10358275801417;1166.39;20;EUR;1;Gibson Les Paul Studio 1999 - Ebony
-10358275277129;1166.39;20;EUR;1;Gibson Les Paul Studio 2006 - Ebony
 10357046837577;971.99;20;EUR;1;Gibson Les Paul Studio 2011 - Natural
 10305424326985;1200.95;20;EUR;1;Gibson Les Paul Studio 2016 - Cardinal Red
 10366192091465;1166.39;20;EUR;1;Gibson Les Paul Studio Faded 2016 - Satin Ebony
@@ -598,6 +625,7 @@ product_code;price_gross;vat;currency;stock;name
 10357260321097;1166.39;20;EUR;1;Gibson SG Bass 2015 - Heritage Cherry
 10091535728969;7775.99;20;EUR;1;Gibson Thunderbird II Bass 1964 – Alembic Custom 1976 – Tree of Life – Ember Red
 10367162515785;1749.59;20;EUR;1;Gibson Thunderbird IV Bass 1997 - Vintage Sunburst
+10367173001545;2915.99;20;EUR;1;Gibson Vegas High Roller 2006 - Felt Green
 10199291986249;971.99;20;EUR;1;Gitane DG-250M - Natural
 10108285387081;17.27;20;EUR;1;Gitarrenkarton 1180×475×165 mm – Doppelwelliger Versandkarton für Gitarren
 10110450008393;46.43;20;EUR;1;Gitarrenkarton 3er Set 1180×475×165 mm – Doppelwellige Versandkartons
@@ -613,6 +641,7 @@ product_code;price_gross;vat;currency;stock;name
 10330888143177;680.39;20;EUR;1;Greco EG Les Paul 1970s - Ebony
 10349679345993;777.59;20;EUR;1;Greco EG Les Paul 1970s - Ebony
 10305314128201;646.91;20;EUR;1;Greco EG Les Paul 1970s - Sunburst
+10366187110729;680.39;20;EUR;1;Greco EG Les Paul 1970s - Sunburst
 10240956203337;738.71;20;EUR;1;Greco EG Les Paul 1978 - Cherry Sunburst
 10292862746953;646.91;20;EUR;1;Greco EG Les Paul Custom 1970s - Cherry Sunburst
 10292836827465;646.91;20;EUR;1;Greco EG Les Paul Custom 1970s - Sunburst
@@ -640,6 +669,7 @@ product_code;price_gross;vat;currency;stock;name
 10104285102409;878.03;20;EUR;1;Greco EG600 Les Paul Custom 1978 - Ebony - Vintage Japan
 10357237612873;874.79;20;EUR;1;Greco EGC-480 Les Paul Custom 1990 - Ebony
 10357332771145;874.79;20;EUR;1;Greco EGC-480 Les Paul Custom 1990 - Ebony
+10365234544969;1263.59;20;EUR;1;Greco EX800 Explorer 1978 - Vintage White
 10358175826249;971.99;20;EUR;1;Greco Flying V 1982 - Ebony
 10210054406473;415.79;20;EUR;1;Greco GOB-700 Bass 1978 - Defekt
 9729076822345;777.59;20;EUR;1;Greco J-80E 1991 - Sunburst
@@ -652,6 +682,8 @@ product_code;price_gross;vat;currency;stock;name
 10123548164425;701.99;20;EUR;1;Greco Matsumoku Stratocaster 1970s - Sunburst
 10349678100809;680.39;20;EUR;1;Greco Matsumoku Stratocaster 1970s - Vintage White
 10349680558409;680.39;20;EUR;1;Greco Matsumoku Stratocaster 1970s - Vintage White
+10365918249289;680.39;20;EUR;1;Greco Matsumoku Stratocaster 1970s - Vintage White
+10365878829385;874.79;20;EUR;1;Greco Mercury Precision Bass 1980 - Natural
 10249162326345;738.71;20;EUR;1;Greco SE-380 Super Sounds Stratocaster 1979 - Sunburst
 10091491524937;498.95;20;EUR;1;Greco SE450 Scalloped Stratocaster 1980 - Black
 10254398488905;646.91;20;EUR;1;Greco Stratocaster 1970s - Natural
@@ -677,7 +709,6 @@ product_code;price_gross;vat;currency;stock;name
 10176893223241;104.97;20;EUR;1;Guyatone PS-010 Compression Sustainer Effect Pedal 1986 - Vintage Japan
 10176911081801;113.71;20;EUR;1;Guyatone PS-017 Distortion & Chorus Effect Pedal 1983 - Vintage Japan
 10175560155465;104.97;20;EUR;1;Guyatone PS-038 Bass Exciter/Limiter B-II 1986 Effect Pedal - Vintage Japan
-10176889651529;96.22;20;EUR;1;Guyatone PS-038 Bass Exciter/Limiter B-II Effect Pedal 1987 - Vintage Japan
 10176892305737;131.21;20;EUR;1;Guyatone PS-104 Cross Over Auto Wah Effect Pedal 1980 - Vintage Japan
 10341878202697;583.19;20;EUR;1;Hagstrom Fantomen 2025 - Cosmic Black Burst
 10117754880329;439.55;20;EUR;1;Hagstrom Ultra Swede 2008 - Red Burst
@@ -698,9 +729,10 @@ product_code;price_gross;vat;currency;stock;name
 9903021883721;369.35;20;EUR;1;Ibanez EX Series EX170L Lefthand 1993 - Black
 10231359471945;1200.95;20;EUR;1;Ibanez Iceman ICT700 2008 - Black
 10249198829897;1263.59;20;EUR;1;Ibanez Iceman ICT700 2008 - Black
-10249092235593;738.71;20;EUR;1;Ibanez JEM555 Steve Vai Signature 2008 - White
+10366421369161;77.75;20;EUR;1;Ibanez JD-9 Jet Driver Effect Pedal
 10080957038921;790.55;20;EUR;1;Ibanez Les Paul 2350 - Black
 10023456702793;1016.27;20;EUR;1;Ibanez Les Paul Custom Pre Lawsuit 1973 - Ebony
+10367164449097;874.79;20;EUR;1;Ibanez LGB-30 George Benson Signature 2014 - Vintage Yellow Sunburst
 10249353167177;1385.63;20;EUR;1;Ibanez LR10 Lee Ritenour Signature 1982 - Antique Violin
 10216688189769;1477.43;20;EUR;1;Ibanez Performer PF350 1979 - Cherry Red
 10199103570249;1316.51;20;EUR;1;Ibanez PF350BK Performer 1994 - Black
@@ -708,19 +740,21 @@ product_code;price_gross;vat;currency;stock;name
 9766982713673;289.43;20;EUR;1;Ibanez RG Standard 2021 - Red
 10176865239369;878.03;20;EUR;1;Ibanez RG410 Roadstar II Series 1986 - Black
 9961964634441;339.11;20;EUR;1;Ibanez RG421 2022 - Natural
+10364959883593;1263.59;20;EUR;1;Ibanez RG5121 Prestige 2021 - Burgundy Metallic Flat
 10330899743049;971.99;20;EUR;1;Ibanez RG550 1999 - Road Flare Red
 9997846970697;539.99;20;EUR;1;Ibanez RG570 Series 1994 - Luna Sea
 10277170184521;831.59;20;EUR;1;Ibanez RG670 1993 - Root Beer
 10081012416841;1185.83;20;EUR;1;Ibanez RGD71ALPA 2021 - Charcoal Burst Black Stained Flat
+10366769758537;777.59;20;EUR;1;Ibanez RGDIX6MPB Iron Label 2018 - Surreal Blue Burst
 10230963634505;646.91;20;EUR;1;Ibanez RS440 Roadstar II Series 1985 - Vintage White
 10249387966793;215.99;20;EUR;1;Ibanez SD9 Sonic Distortion Effect Pedal
 10294134997321;369.35;20;EUR;1;Ibanez SDGR Bass 1992 - Metallic Silver
 10123514478921;527.03;20;EUR;1;Ibanez SDGR SR500 1P-06 Bass 2016 - Brown
 9820897640777;1069.19;20;EUR;1;Ibanez SRMS720 Bass 2024 - Blue Chameleon
 10103767335241;1943.99;20;EUR;1;Ibanez Studio Bass ST924 1979 - Natural
+10367078007113;777.59;20;EUR;1;Ibanez Talman TC630 1994 - Black
 9903191916873;277.55;20;EUR;1;Ibanez Talman TCY10LE-BLK Lefthand 2021 - Black
 9786540851529;510.83;20;EUR;1;Ibanez Talman TM71T 2002 - Jewel Blue
-10330879230281;388.79;20;EUR;1;Ibanez Talman TMX20N 2001 - Natural
 10305876558153;136.07;20;EUR;1;Ibanez TS9 Tube Screamer Effektpedal - Japan
 9821268476233;10526.75;20;EUR;1;Ibanez Universe UV77MC Steve Vai Signature 1991 - Multicolor
 9797225742665;5831.99;20;EUR;1;James Collins Signature GTO 2023 - Natural
@@ -738,6 +772,7 @@ product_code;price_gross;vat;currency;stock;name
 10104025678153;790.55;20;EUR;1;Kramer Volante HHFR 2024 - Defender Red
 10220496060745;1943.99;20;EUR;1;Lake Placid Custom by Andre Waldenmaier HSS Floyd Rose 1995 - See Thru Green
 10341676581193;136.07;20;EUR;1;Line 6 DM4 Distortion Modeler Effektpedal
+10365219602761;155.51;20;EUR;1;LPD Pedals Sixty8 Overdrive Effect Pedal
 10305877147977;126.35;20;EUR;1;LY-Rock Klon KTR Effektpedal
 10099292275017;439.55;20;EUR;1;Maestro by Gibson Les Paul 2013 - Red
 10105098076489;3887.99;20;EUR;1;Marshall JCM800 2203 MKII 100W + 1960A 4x12 Cabinet – 1995 Limited Edition Red Stack
@@ -757,6 +792,7 @@ product_code;price_gross;vat;currency;stock;name
 10305872724297;126.35;20;EUR;1;Maxon PT-909 Phase Tone Effektpedal
 10176915505481;139.96;20;EUR;1;Maxon ROD 881 Real Overdrive/Distortion Effect Pedal - Vintage Japan
 10175545082185;122.46;20;EUR;1;Maxon SM-01 Super Metal Effect Pedal - Vintage Japan
+10365227925833;1555.19;20;EUR;1;Maybach Lester 59 2024- Midnight Sunset
 10330879852873;1749.59;20;EUR;1;Maybach Teleman T61 Custom Shop Aged 2018 - Red Rooster
 10231722672457;2309.03;20;EUR;1;Mesa Boogie Mark Five Head 90W
 10199183327561;1316.51;20;EUR;1;Mesa Boogie Mini Rectifier Twenty Five - 100V - Japan Model
@@ -767,8 +803,11 @@ product_code;price_gross;vat;currency;stock;name
 10169735709001;1754.99;20;EUR;1;Music Man Benji Madden Signature Silhouette Special 2005 - Madden Green
 10349662404937;1846.79;20;EUR;1;Music Man by Ernie Ball Sterling Bass 2000 - Pearl Platinum
 10349649592649;1457.99;20;EUR;1;Music Man by Ernie Ball StingRay EX Bass 2001 - Black
+10365222420809;1166.39;20;EUR;1;Music Man by Ernie Ball SUB 1 2004 - Textured Black
 10206012997961;97.19;20;EUR;1;MXR Boost/Line Driver - Effektpedal
 10305829667145;126.35;20;EUR;1;MXR KFK Ten Band Equalizer Effektpedal
+10366435098953;77.75;20;EUR;1;MXR M101 Phase 90 Effect Pedal
+10366434574665;97.19;20;EUR;1;MXR M68 Uni-Vibe Effect Pedal
 10206011588937;97.19;20;EUR;1;MXR Smart Gate - Effektpedal
 9729073578313;3887.99;20;EUR;1;o3 Guitars Radon - Alejandro Ramirez - Red
 10330784268617;388.79;20;EUR;1;Ortega Model 60-RE11LTD - Natural
@@ -786,6 +825,7 @@ product_code;price_gross;vat;currency;stock;name
 10152860811593;790.55;20;EUR;1;Orville LPS Les Paul Standard 1990 - Cherry Sunburst
 10080664650057;1052.99;20;EUR;1;Orville LPS Les Paul Standard 1996 - Quilt Top
 10249355198793;831.59;20;EUR;1;Orville LPS-75 Les Paul 1990 - Cherry Sunburst
+10365151379785;874.79;20;EUR;1;Orville SG 1989-1993 - Vintage White
 10240731119945;738.71;20;EUR;1;Orville SG 1990 - Ebony
 10209971208521;785.15;20;EUR;1;Ovation 1613 1981 - Natural
 10349685702985;583.19;20;EUR;1;Ovation 1627 Glen Campbell Artist - Natural
@@ -799,6 +839,9 @@ product_code;price_gross;vat;currency;stock;name
 10240620200265;646.91;20;EUR;1;Ovation S778 Elite Special 2002 - Natural
 10062276100425;32.39;20;EUR;1;Pat’s Guitars Deluxe E-Gitarren Gigbag
 10169741345097;131.21;20;EUR;1;Pearl DS-06 Distortion 1980s Effect Pedal - Vintage Japan
+10367166185801;291.59;20;EUR;1;Peavey Generation EXP 2003-2005 - Sunburst
+10366435787081;77.75;20;EUR;1;ProCo The RAT Effect Pedal
+10367170576713;3110.39;20;EUR;1;PRS Custom 24 10-Top 1997 - Flamed Maple Grey Black
 10240975405385;1385.63;20;EUR;1;PRS Mira 2008 - Lilac Mist
 10231389749577;1385.63;20;EUR;1;PRS S2 Standard 22 - Antique White
 10357902770505;1457.99;20;EUR;1;PRS S2 Vela 2017 - Tobacco Sunburst
@@ -822,7 +865,7 @@ product_code;price_gross;vat;currency;stock;name
 10305861124425;58.31;20;EUR;1;Rocktek ODR-01 Overdrive Effektpedal
 10316406128969;646.91;20;EUR;1;Samick Korea EPSA-ST Casino 1990s - Sunburst
 10316898140489;646.91;20;EUR;1;Samick Korea EPSA-WR Casino 1990s - Cherry Red
-10328255955273;923.39;20;EUR;1;Schecter C-1 SLS Elite 2018 - Antique Fade Burst
+10366036640073;388.79;20;EUR;1;Samick Korea TLJ Telecaster - Black
 10067555352905;615.59;20;EUR;1;Schecter Damien Elite FR 2014 - Crimson Red
 10088545714505;680.39;20;EUR;1;Schecter Diamond Series Apocalypse V-1 2009 - Limited Edition
 10236605202761;738.71;20;EUR;1;Schecter HSH Japan - Amber
@@ -847,23 +890,31 @@ product_code;price_gross;vat;currency;stock;name
 10328246485321;646.91;20;EUR;1;Squier by Fender Jagmaster 2005 - Sunburst
 10316403179849;646.91;20;EUR;1;Squier by Fender Jagmaster 2006 - Metallic Blue
 10316400656713;646.91;20;EUR;1;Squier by Fender Jagmaster 2010 - Candy Apple Red
+10365891445065;971.99;20;EUR;1;Squier by Fender Japan JV Stratocaster 1983 - Black
 10357895921993;680.39;20;EUR;1;Squier by Fender Japan Silver Series Stratocaster SST-39 1993-1994 - Flame Red Burst
 10294035022153;646.91;20;EUR;1;Squier by Fender Japan SST-33 Stratocaster 1991-1992 - Black
 10358268920137;583.19;20;EUR;1;Squier by Fender Japan ST-398 72 Reissue Stratocaster 1983-1984 - Vintage White
+10365053960521;680.39;20;EUR;1;Squier by Fender Japan Stratocaster 1984 - Black
 10136413798729;656.63;20;EUR;1;Squier Hello Kitty Edition Mini Stratocaster 2006 - Pink
+10365189456201;680.39;20;EUR;1;Squier Japan Precision Bass 1993-1994 - Sunburst
 10315851202889;738.71;20;EUR;1;Squier Japan Stratocaster 1983-1984 - Vintage White
 10330881622345;680.39;20;EUR;1;Squier Japan Stratocaster Contemporary Series 1985-1986 - Black
 10330878509385;194.39;20;EUR;1;Squier Telecaster Body - Sunburst
+10366443618633;874.79;20;EUR;1;Sterling by Music Man John Petrucci Signature JP150FM - Island Burst
+10366433755465;340.19;20;EUR;1;Strymon USA BigSky Effect Pedal
 10216755495241;3110.39;20;EUR;1;Suhr Classic Antique Pro - 3T Sunburst
 10315904942409;2770.19;20;EUR;1;Suhr Classic S 2003 - Candy Apple Red
 10104274551113;350.99;20;EUR;1;Switch Vibracell - Blue
 10316903514441;1477.43;20;EUR;1;Taylor 615-CE Akustik 1999 - Black
 10193354883401;1069.19;20;EUR;1;Taylor SB1 2011 - Black
+10366435885385;116.63;20;EUR;1;TC Electronic Ditto X4 Looper Effect Pedal
+10366154703177;777.59;20;EUR;1;Teisco K-56 Reissue 1999 - Space Grey
 10341675663689;145.79;20;EUR;1;Telecaster Body - Pink
 10008569971017;673.91;20;EUR;1;Tokai ALS94GT Love Rock Les Paul 2023 - Goldtop
 10091454890313;665.27;20;EUR;1;Tokai Breezysound Lefthand Telecaster 2010 - Natural
 10240697270601;738.71;20;EUR;1;Tokai Five Star 1982 - White
 10098898272585;701.99;20;EUR;1;Tokai FSD-65 Five Star Super Edition 1982 - Black
+10366186029385;583.19;20;EUR;1;Tokai LBX Electric Bass 1984 - Metallic Red
 10249088827721;923.39;20;EUR;1;Tokai LC-60 Les Paul Custom 1981 - Ebony
 10358264496457;388.79;20;EUR;1;Tokai Les Paul 1994 Sunburst
 9961976103241;473.03;20;EUR;1;Tokai Love Rock ALS80 Les Paul 2012 - Sparkle
@@ -880,7 +931,9 @@ product_code;price_gross;vat;currency;stock;name
 10277138202953;554.03;20;EUR;1;Tokai ST Stratocaster Limited Edition 1980s - Candy Apple Red
 10292787085641;554.03;20;EUR;1;Tokai ST-36 Stratocaster Limited Edition 1982 - Blue Burst
 10358270460233;680.39;20;EUR;1;Tokai Super Edition Stratocaster 1980s - Black
+10366179115337;680.39;20;EUR;1;Tokai Super Edition Stratocaster 1982 - Black
 10080918176073;701.99;20;EUR;1;Tokai Telecaster Breezysound Lefthand 2010 - Vintage White
+10365864771913;1457.99;20;EUR;1;Tokai TLC-60 Les Paul 1984 - Vintage White
 10305872363849;97.19;20;EUR;1;Tokai TXC-1 Exciter Effektpedal - Japan
 10209921794377;874.79;20;EUR;1;Trinity by Relish - Metallic Blue
 10164956856649;2429.99;20;EUR;1;Valley Arts Guitar Custom Pro 1985-1986 - Sunburst
@@ -890,6 +943,7 @@ product_code;price_gross;vat;currency;stock;name
 10169810288969;87.47;20;EUR;1;VOCU Magic Mic Room Microphone Preamp Pedal
 10315903304009;923.39;20;EUR;1;VOX Bobcat BC-S66 2020 - Sunburst
 10176915636553;139.96;20;EUR;1;VOX Joe Satriani Signature JS-DS Satchurator Distortion Effect Pedal - Japan
+10366432903497;145.79;20;EUR;1;Walrus Audio Julia V2 Effect Pedal
 9722250592585;4859.99;20;EUR;1;Wandre Tri-Lam Teenager Blue Jeans 1959 - Multicolour
 10357047558473;971.99;20;EUR;1;Warwick Corvette $$ Bass 2011 - Natural
 10292790264137;2031.47;20;EUR;1;Warwick Corvette $$ Double Buck Bass 2011 - Turquoise Blue Oil Finish
@@ -907,6 +961,7 @@ product_code;price_gross;vat;currency;stock;name
 10305816723785;116.63;20;EUR;1;Yamaha FL-100 Flanger Effektpedal
 10315854348617;738.71;20;EUR;1;Yamaha Japan 500S Super Bass 1977 - Black
 10315860640073;831.59;20;EUR;1;Yamaha Japan Lord Player Les Paul 1983 - Tobacco Burst
+10365883842889;680.39;20;EUR;1;Yamaha Japan MG-III 1979 - Black
 10338194424137;777.59;20;EUR;1;Yamaha Japan SC3000 1980 - Sunburst
 10305293975881;923.39;20;EUR;1;Yamaha Japan SG800 1981 - Translucent Red
 10315884298569;1108.07;20;EUR;1;Yamaha Japan SG800S Standard 1982 - Tobacco Burst
@@ -917,7 +972,11 @@ product_code;price_gross;vat;currency;stock;name
 10330882376009;874.79;20;EUR;1;Yamaha Japan SL550S Studio Lord Les Paul 1982 - Tobacco Sunburst
 10328403247433;646.91;20;EUR;1;Yamaha Japan SR-500 Super Rock N Roller Stratocaster 1979 - Sunburst
 10316364382537;738.71;20;EUR;1;Yamaha Japan SS700EX 1983 - Black
+10365958357321;680.39;20;EUR;1;Yamaha Japan STH 500 R Stratocaster 1982-1984 - Coral Blue Burst
 10277109432649;646.91;20;EUR;1;Yamaha Japan Studio Lord Les Paul SL400S 1978 - Cherry Sunburst
+10365856678217;680.39;20;EUR;1;Yamaha Japan Studio Lord Les Paul SL400S 1980 - Cherry Sunburst
+10365969039689;777.59;20;EUR;1;Yamaha Japan Studio Lord SL-500 Les Paul 1976 - Ebony
+10366142546249;680.39;20;EUR;1;Yamaha MG-K 1990 - Cream White
 10192919232841;174.95;20;EUR;1;Yamaha OD-01 Overdrive Effect Pedal - Vintage Japan
 10175597969737;104.97;20;EUR;1;Yamaha OD-100 Over Drive Effect Pedal - Vintage Japan
 10176914424137;104.97;20;EUR;1;Yamaha OD-100 Over Drive Effect Pedal - Vintage Japan
