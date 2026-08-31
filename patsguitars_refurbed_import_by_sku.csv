@@ -363,7 +363,6 @@ x00139;139.31;20;EUR;1;Faber STCL RED Stratocaster HSS – Red
 x00149;184.67;20;EUR;1;Faber TEC BB Telecaster – Black
 x00147;184.67;20;EUR;1;Faber TEC MRR Telecaster – Metallic Red
 x00151;323.99;20;EUR;1;Faber TECH Blonde Telecaster – See Through Blonde
-x00150;323.99;20;EUR;1;Faber TECH VNT Telecaster – Vintage Natural
 3000-3;38.87;20;EUR;1;Faber TL-IGA Faber Tone-Lock Kit, 2 Schraubbolzen (Inch Gewinde-thread f. Gibson) + 3 Paar Distanzhülsen, aged
 3000-2;35.63;20;EUR;1;Faber TL-IGG Faber Tone-Lock Kit, 2 Schraubbolzen (Inch Gewinde-thread f. Gibson) + 3 Paar Distanzhülsen, glossy
 3000-1;36.71;20;EUR;1;Faber TL-INA Faber Tone-Lock Kit, 2 Schraubbolzen (Inch Gewinde-thread f. Gibson) + 3 Paar Distanzhülsen, aged
@@ -429,7 +428,6 @@ x00150;323.99;20;EUR;1;Faber TECH VNT Telecaster – Vintage Natural
 3210-2;187.91;20;EUR;1;Faber WRAPT-GG Faber Wraptonate, Intonatable Stoptail Bridge, Gloss Gold
 3210-1;132.83;20;EUR;1;Faber WRAPT-NA Faber Wraptonate, Intonatable Stoptail Bridge, Aged Nickel
 3210-0;120.95;20;EUR;1;Faber WRAPT-NG Faber Wraptonate, Intonatable Stoptail Bridge, Gloss Nickel
-BP077;3231.89;20;EUR;1;"Fender '52 Telecaster Custom Shop ""California Beach"" NOS Limited Edition 2004 - Pacific Green"
 1518;2309.03;20;EUR;1;Fender 54’ Reissue American Stratocaster 40th Anniversary 1994 - Sunburst
 10045551;1263.59;20;EUR;1;Fender American Deluxe Stratocaster 2010 - Kloppmann - Sunset Metallic
 DZ1149222;1422.35;20;EUR;1;Fender American Deluxe Telecaster 2002 - Cherry Sunburst
@@ -456,14 +454,12 @@ US24046630;1200.95;20;EUR;1;Fender Exclusive American Standard Stratocaster 2024
 ICF21004288;874.79;20;EUR;1;Fender FMT Custom Telecaster 2021 - Black Cherry Burst
 13276;161.99;20;EUR;1;Fender Frontman 15G Transistor Verstärker
 Z3022287;996.83;20;EUR;1;Fender Highway One Showmaster 2003 - Satin Black
-Z6029664;1108.07;20;EUR;1;Fender Highway One Stratocaster 2006 - Natural
 Z8171865;1200.95;20;EUR;1;Fender Highway One Stratocaster 2008 - Sand
 I038455;923.39;20;EUR;1;Fender Japan 54 Reissue Stratocaster 1989-1990 - Sunburst
 J031012;971.99;20;EUR;1;Fender Japan 54 Reissue Stratocaster 1991 - Metallic Gold - MOD
 R090825;1069.19;20;EUR;1;Fender Japan 57 Reissue Stratocaster 2004-2005 - Sonic Blue
 L001770;785.15;20;EUR;1;Fender Japan 60s Reissue Stratocaster 1991-1992 - Sunburst
 J012287;971.99;20;EUR;1;Fender Japan 62 Reissue Precision Bass 1989-1990 - Black
-J023790;971.99;20;EUR;1;Fender Japan 62 Reissue Precision Bass 1991 - Sunburst
 N030804;831.59;20;EUR;1;Fender Japan 62 Reissue Stratocaster 1993-1994 - Candy Apple Red
 Q026862;831.59;20;EUR;1;Fender Japan 62 Reissue Stratocaster 2002-2004 - Candy Apple Red
 O044293;1263.59;20;EUR;1;Fender Japan 66 Reissue Jaguar 1997-2000 - Black
@@ -503,9 +499,7 @@ S097928;874.79;20;EUR;1;Fender Japan PB-50 Precision Bass 1994-1995 - Sunburst
 P035011;831.59;20;EUR;1;Fender Japan Precision Bass 1999-2002 - Sunburst
 S081149;971.96;20;EUR;1;Fender Japan Precision Bass 2006-2008 - Black
 E714250;462.23;20;EUR;1;Fender Japan SF-456 Stratocaster 1984-1987 - Black
-E961569;874.79;20;EUR;1;Fender Japan ST-362 Stratocaster 1984-1987 - Vintage White
 E970517;874.79;20;EUR;1;Fender Japan ST54-85L Stratocaster 1984-1987 - Black
-L015289;923.39;20;EUR;1;Fender Japan ST57-85LS Stratocaster 1991-1992 - Black
 S007814_B;242.99;20;EUR;1;Fender Japan STM-94M Stratocaster Body - Black
 E327401;971.99;20;EUR;1;Fender Japan Stratocaster 1983 - Vintage White
 O047716;790.55;20;EUR;1;Fender Japan Stratocaster 1993-1994 - Red Repaint - Vintage
@@ -600,7 +594,6 @@ x00234;69.97;20;EUR;1;Freedom Custom Guitar Research A/B Switch Box Pedal - Japa
 90769333.;1580.03;20;EUR;1;Gibson Les Paul Standard 1999 - Ebony
 234320440;1846.79;20;EUR;1;Gibson Les Paul Standard 2012 - Heritage Cherry Sunburst
 220530256;1846.79;20;EUR;1;Gibson Les Paul Standard 2023 - Classic White
-030850667;1263.59;20;EUR;1;Gibson Les Paul Standard Bass 2005 - Vintage Sunburst
 0141140733;1929.95;20;EUR;1;Gibson Les Paul Standard DC 2001 - Trans Red
 030290579;2216.15;20;EUR;1;Gibson Les Paul Standard DC 2009 - Goldtop
 022950314;2031.47;20;EUR;1;Gibson Les Paul Standard DC Plus 2005 - Amber
@@ -620,7 +613,6 @@ x00234;69.97;20;EUR;1;Freedom Custom Guitar Research A/B Switch Box Pedal - Japa
 100730601;971.99;20;EUR;1;Gibson SG 70‘s Tribute 2013 - Cherry
 150050377;1166.39;20;EUR;1;Gibson SG Bass 2015 - Heritage Cherry
 160056;7775.99;20;EUR;1;Gibson Thunderbird II Bass 1964 – Alembic Custom 1976 – Tree of Life – Ember Red
-91397711;1749.59;20;EUR;1;Gibson Thunderbird IV Bass 1997 - Vintage Sunburst
 012260414;2915.99;20;EUR;1;Gibson Vegas High Roller 2006 - Felt Green
 12468;971.99;20;EUR;1;Gitane DG-250M - Natural
 x00238;17.27;20;EUR;1;Gitarrenkarton 1180×475×165 mm – Doppelwelliger Versandkarton für Gitarren
@@ -672,7 +664,7 @@ x00312;680.39;20;EUR;1;Greco Jazz Bass 1970s - Sunburst
 X00082;615.59;20;EUR;1;Greco Les Paul 1970s - Sunburst - Vintage Japan
 x00222;874.79;20;EUR;1;Greco Les Paul Custom 1990s - Ebony
 J787309;831.59;20;EUR;1;Greco Les Paul EG450 1978 - Ebony
-J776164;673.91;20;EUR;1;Greco Les Paul Standard 1977 - Tobacco Burst
+J776164;748.43;20;EUR;1;Greco Les Paul Standard 1977 - Tobacco Burst
 J787771;878.03;20;EUR;1;Greco Les Paul Standard 1978 - Ebony
 x00189;701.99;20;EUR;1;Greco Matsumoku Stratocaster 1970s - Sunburst
 x00314;680.39;20;EUR;1;Greco Matsumoku Stratocaster 1970s - Vintage White
@@ -680,7 +672,6 @@ x00315;680.39;20;EUR;1;Greco Matsumoku Stratocaster 1970s - Vintage White
 x00342;680.39;20;EUR;1;Greco Matsumoku Stratocaster 1970s - Vintage White
 B801027;874.79;20;EUR;1;Greco Mercury Precision Bass 1980 - Natural
 I791182;738.71;20;EUR;1;Greco SE-380 Super Sounds Stratocaster 1979 - Sunburst
-J806081;449.27;20;EUR;1;Greco SE450 Scalloped Stratocaster 1980 - Black
 x00127;646.91;20;EUR;1;Greco Stratocaster 1970s - Natural
 x00191;701.99;20;EUR;1;Greco Stratocaster 1970s - Vintage White
 G763314;615.59;20;EUR;1;Greco Super Sounds Stratocaster 1976 - Vintage White
@@ -787,7 +778,6 @@ x00262;145.79;20;EUR;1;Maxon FL-9 Flanger Effektpedal
 x00272;126.35;20;EUR;1;Maxon PT-909 Phase Tone Effektpedal
 013HS055;139.96;20;EUR;1;Maxon ROD 881 Real Overdrive/Distortion Effect Pedal - Vintage Japan
 131029;122.46;20;EUR;1;Maxon SM-01 Super Metal Effect Pedal - Vintage Japan
-248337;1555.19;20;EUR;1;Maybach Lester 59 2024- Midnight Sunset
 172000;1749.59;20;EUR;1;Maybach Teleman T61 Custom Shop Aged 2018 - Red Rooster
 MKV-006691;2309.03;20;EUR;1;Mesa Boogie Mark Five Head 90W
 x00237;1316.51;20;EUR;1;Mesa Boogie Mini Rectifier Twenty Five - 100V - Japan Model
@@ -905,7 +895,7 @@ x00337;116.63;20;EUR;1;TC Electronic Ditto X4 Looper Effect Pedal
 F9910113;777.59;20;EUR;1;Teisco K-56 Reissue 1999 - Space Grey
 MX10172285_B;145.79;20;EUR;1;Telecaster Body - Pink
 CN23050210;673.91;20;EUR;1;Tokai ALS94GT Love Rock Les Paul 2023 - Goldtop
-C104995;599.39;20;EUR;1;Tokai Breezysound Lefthand Telecaster 2010 - Natural
+C104995;665.27;20;EUR;1;Tokai Breezysound Lefthand Telecaster 2010 - Natural
 2025159;738.71;20;EUR;1;Tokai Five Star 1982 - White
 202002;701.99;20;EUR;1;Tokai FSD-65 Five Star Super Edition 1982 - Black
 4018977;583.19;20;EUR;1;Tokai LBX Electric Bass 1984 - Metallic Red
@@ -945,7 +935,6 @@ M00045993;1166.39;20;EUR;1;Warwick Corvette ProLine 5 Bass 1993 - Trans Red
 G555729-18;777.59;20;EUR;1;Warwick Infinity RockBass 2018 - Natural
 M112111-04;3693.59;20;EUR;1;Warwick Thumb NT Bass 2004 - Natural Oil Finish
 5081749;583.19;20;EUR;1;Washburn Nuno Bettencourt Signature 1995 - Trans Red
-0201029;874.79;20;EUR;1;Woodstock Old Boy Tele Thinline - Gold
 x00215;971.99;20;EUR;1;Wotan Bass - Natural - Vintage Japan
 x00257;145.79;20;EUR;1;Yamaha AMD-100 American Monster Drive Effektpedal - Japan
 x00264;77.75;20;EUR;1;Yamaha DI-01 Distortion Effektpedal
@@ -963,7 +952,6 @@ QM08088;971.99;20;EUR;1;Yamaha Japan SGV300 2000 - Metallic Green
 001821;777.59;20;EUR;1;Yamaha Japan SL400S Studio Lord Les Paul 1977 - Tobacco Sunburst
 002745;680.39;20;EUR;1;Yamaha Japan SL430 Les Paul 1978 - Ebony
 003615;831.59;20;EUR;1;Yamaha Japan SL500S Studio Lord Les Paul 1978 - Cherry Sunburst
-070230;874.79;20;EUR;1;Yamaha Japan SL550S Studio Lord Les Paul 1982 - Tobacco Sunburst
 006027;646.91;20;EUR;1;Yamaha Japan SR-500 Super Rock N Roller Stratocaster 1979 - Sunburst
 098528;738.71;20;EUR;1;Yamaha Japan SS700EX 1983 - Black
 117255;680.39;20;EUR;1;Yamaha Japan STH 500 R Stratocaster 1982-1984 - Coral Blue Burst
@@ -978,6 +966,5 @@ IKY101E;1749.59;20;EUR;1;Yamaha PACP12M Pacifica Professional 2024 - Beach Blue 
 Q35215;738.71;20;EUR;1;Yamaha SF3000 1983 - Cherry Sunburst - Vintage Japan
 008225;680.39;20;EUR;1;Yamaha SL380 Studio Lord Les Paul 1979 - Cherry Sunburst
 005789;646.91;20;EUR;1;Yamaha SL380 Studio Lord Les Paul 1979 - Tobacco Burst - Vintage Japan
-002180;738.71;20;EUR;1;Yamaha Super Bass 800s 1977 - Cherry Red
 152513;116.63;20;EUR;1;Zoom GFX-707 Effects Processor Pedal
 022767;97.19;20;EUR;1;Zoom Player Pro 4040 Effektpedal
