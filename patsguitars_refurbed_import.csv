@@ -126,7 +126,6 @@ product_code;price_gross;vat;currency;stock;name
 10366771855689;971.99;20;EUR;1;Edwards by ESP Viper Custom Order 2016 - Camouflage
 10305782907209;87.47;20;EUR;1;Effects Bakery An Butter Cooppe Drive Effektpedal
 10305785561417;77.75;20;EUR;1;Effects Bakery French Bread Delay Effektpedal
-10366435524937;77.75;20;EUR;1;EHX Stereo Electric Mistress Effect Pedal
 9729078624585;1457.99;20;EUR;1;Eko Ekomaster 400 1960 - Blue Sparkle
 10255396733257;738.71;20;EUR;1;Epiphone 1959 Les Paul Standard - Cherry Sunburst
 10366176428361;485.99;20;EUR;1;Epiphone Akustik FT-79 Inspired By Texan 2011 - Natural
@@ -457,6 +456,7 @@ product_code;price_gross;vat;currency;stock;name
 10357907194185;874.79;20;EUR;1;Fender FMT Custom Telecaster 2021 - Black Cherry Burst
 10033144365385;161.99;20;EUR;1;Fender Frontman 15G Transistor Verstärker
 10047284937033;996.83;20;EUR;1;Fender Highway One Showmaster 2003 - Satin Black
+10047280906569;1108.07;20;EUR;1;Fender Highway One Stratocaster 2006 - Natural
 10231382573385;1200.95;20;EUR;1;Fender Highway One Stratocaster 2008 - Sand
 10328356979017;923.39;20;EUR;1;Fender Japan 54 Reissue Stratocaster 1989-1990 - Sunburst
 10349682000201;971.99;20;EUR;1;Fender Japan 54 Reissue Stratocaster 1991 - Metallic Gold - MOD
@@ -529,7 +529,6 @@ product_code;price_gross;vat;currency;stock;name
 10341722161481;1263.59;20;EUR;1;Fender MJT 50s Reissue Stratocaster - Gilmour Style - Heavy Relic
 10341723078985;1263.59;20;EUR;1;Fender MJT 50s Reissue Stratocaster - Gilmour Style - Heavy Relic
 10338185642313;1263.59;20;EUR;1;Fender MJT 50s Reissue Stratocaster - Purple Metallic - Heavy Relic
-10341707088201;1263.59;20;EUR;1;Fender MJT 50s Reissue Telecaster - Blonde - Heavy Relic
 10338197209417;1263.59;20;EUR;1;Fender MJT 60s Reissue Stratocaster - Burgundy Mist - Heavy Relic
 10338167488841;1263.59;20;EUR;1;Fender MJT 60s Reissue Stratocaster - Candy Apple Green - Heavy Relic
 10338162704713;777.59;20;EUR;1;Fender MOD Stratocaster 2011 - Fiesta Red Nitro
@@ -568,7 +567,6 @@ product_code;price_gross;vat;currency;stock;name
 9890335785289;1118.87;20;EUR;1;Framus Strato Deluxe 1963 - Blonde
 10175549899081;69.97;20;EUR;1;Freedom Custom Guitar Research A/B Switch Box Pedal - Japan
 10277173428553;1555.19;20;EUR;1;Gibson 1960 Les Paul Classic 2002- Ebony
-10366937366857;1846.79;20;EUR;1;Gibson 67 Reissue Flying V 1996 - Ebony
 10316880806217;1662.11;20;EUR;1;Gibson 76’ Reissue Explorer 2004 - Ebony - EMG MOD
 10358278979913;3887.99;20;EUR;1;Gibson Custom Shop ES-335 2012 - Cherry Red
 10367117001033;2235.59;20;EUR;1;Gibson ES-135 1995 - Vintage Sunburst
@@ -614,7 +612,6 @@ product_code;price_gross;vat;currency;stock;name
 10358174122313;971.99;20;EUR;1;Gibson LPJ 2013 - Satin Cherry
 10256705618249;1846.79;20;EUR;1;Gibson Melody Maker DC 1977 - Sunburst
 10357217296713;971.99;20;EUR;1;Gibson SG 70‘s Tribute 2013 - Cherry
-10357260321097;1166.39;20;EUR;1;Gibson SG Bass 2015 - Heritage Cherry
 10091535728969;7775.99;20;EUR;1;Gibson Thunderbird II Bass 1964 – Alembic Custom 1976 – Tree of Life – Ember Red
 10367173001545;2915.99;20;EUR;1;Gibson Vegas High Roller 2006 - Felt Green
 10199291986249;971.99;20;EUR;1;Gitane DG-250M - Natural
@@ -702,7 +699,6 @@ product_code;price_gross;vat;currency;stock;name
 10341878202697;583.19;20;EUR;1;Hagstrom Fantomen 2025 - Cosmic Black Burst
 10117754880329;439.55;20;EUR;1;Hagstrom Ultra Swede 2008 - Red Burst
 10254404518217;554.03;20;EUR;1;HAGSTROM Viking The Rod LTD 2012 - Black
-10126045675849;220.31;20;EUR;1;Harley Benton Piezo Stratocaster - Sunburst
 10240953811273;777.59;20;EUR;1;Höfner 173 - Vinyl White
 9751180771657;332.63;20;EUR;1;Höfner 520 1960s
 10255402762569;554.03;20;EUR;1;Höfner Colorama Classic - Cherry Red
@@ -895,7 +891,6 @@ product_code;price_gross;vat;currency;stock;name
 10104274551113;350.99;20;EUR;1;Switch Vibracell - Blue
 10316903514441;1477.43;20;EUR;1;Taylor 615-CE Akustik 1999 - Black
 10193354883401;1069.19;20;EUR;1;Taylor SB1 2011 - Black
-10366435885385;116.63;20;EUR;1;TC Electronic Ditto X4 Looper Effect Pedal
 10366154703177;777.59;20;EUR;1;Teisco K-56 Reissue 1999 - Space Grey
 10341675663689;145.79;20;EUR;1;Telecaster Body - Pink
 10008569971017;673.91;20;EUR;1;Tokai ALS94GT Love Rock Les Paul 2023 - Goldtop
