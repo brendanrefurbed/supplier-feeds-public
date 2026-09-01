@@ -93,6 +93,7 @@ product_code;price_gross;vat;currency;stock;name
 10219176755529;647.99;20;EUR;1;CITIZEN Ibanez Tube Screamer Tsuno Chrono Limited 500 TSTCC808
 10111480791369;2527.19;20;EUR;1;Cole Clark FL2EC-BLBL-SUN 2021 - Natural Sunburst
 10131785023817;176.03;20;EUR;1;Collins CDP-1N Akustikgitarre - Natural
+10115807609161;184.67;20;EUR;1;Collins Stratocaster - Black
 10330890174793;680.39;20;EUR;1;CoolZ Japan Fujigen Jazz Bass 2016 - Vintage White
 10327218880841;646.91;20;EUR;1;CoolZ Japan Fujigen JazzBass 2018 - Metallic Blue
 10315865686345;646.91;20;EUR;1;CoolZ Japan Fujigen Stratocaster 2009 - Black
@@ -272,7 +273,6 @@ product_code;price_gross;vat;currency;stock;name
 10263472046409;31.31;20;EUR;1;Faber iNsert-MNA Faber iNsert = Nashville to '59 ABR converter studs, 7mm/4mm, BRASS, nickel plated, aged
 10263472079177;29.15;20;EUR;1;Faber iNsert-MNG Faber iNsert = Nashville to '59 ABR converter studs, 7mm/4mm, BRASS, nickel plated, glossy
 10263070998857;184.67;20;EUR;1;Faber JBC YSR Jazz Bass - Sunburst
-10277476041033;646.91;20;EUR;1;Faber Les Paul Revival Model - Aged Black
 10277464113481;646.91;20;EUR;1;Faber Les Paul Revival Model - Aged Sunburst
 9971870826825;215.99;20;EUR;1;Faber MasterKit Premium – Gibson ABR-1 – Nickel Aged
 9972770570569;215.99;20;EUR;1;Faber MasterKit Premium – Gibson ABR-1 – Nickel Gloss
@@ -527,7 +527,6 @@ product_code;price_gross;vat;currency;stock;name
 9989304320329;777.59;20;EUR;1;Fender Mexico FSR Stratocaster 1995 - Vintage White
 10330894664009;680.39;20;EUR;1;Fender Mexico Stratocaster 1995 - Black
 10341722161481;1263.59;20;EUR;1;Fender MJT 50s Reissue Stratocaster - Gilmour Style - Heavy Relic
-10341723078985;1263.59;20;EUR;1;Fender MJT 50s Reissue Stratocaster - Gilmour Style - Heavy Relic
 10338185642313;1263.59;20;EUR;1;Fender MJT 50s Reissue Stratocaster - Purple Metallic - Heavy Relic
 10338197209417;1263.59;20;EUR;1;Fender MJT 60s Reissue Stratocaster - Burgundy Mist - Heavy Relic
 10338167488841;1263.59;20;EUR;1;Fender MJT 60s Reissue Stratocaster - Candy Apple Green - Heavy Relic
@@ -573,7 +572,6 @@ product_code;price_gross;vat;currency;stock;name
 10357927248201;1652.39;20;EUR;1;Gibson ES-139 2013 - Vintage Sunburst
 10358274851145;2527.19;20;EUR;1;Gibson ES-335 2004 - Iced Tea Sunburst
 10357931409737;2915.99;20;EUR;1;Gibson ES-335 2023 - Vintage Sunburst
-10367148392777;2915.99;20;EUR;1;Gibson ES-335 Dot Reissue 1995 - Vintage Sunburst
 10316288098633;2770.19;20;EUR;1;Gibson Firebird V 2010 - Classic White
 10316902924617;1846.79;20;EUR;1;Gibson Flying V 1995 - Cherry
 10316904857929;1846.79;20;EUR;1;Gibson Flying V HP High Performance 2016 - Ebony
@@ -868,6 +866,7 @@ product_code;price_gross;vat;currency;stock;name
 10305803125065;174.95;20;EUR;1;Sobbat Fuzz Breaker Effektpedal
 10181758484809;878.03;20;EUR;1;Solar T1.6FRBOP 2022 - Black Matte Open Pore
 10193280237897;831.59;20;EUR;1;Solar T1.6H3TS 2022 - Sunburst
+10181767856457;971.99;20;EUR;1;Solar VAR1.6FR 2025 - Matte Black
 10099857949001;615.59;20;EUR;1;Squier Bullet Bass Korea 1987 - Red
 10357128069449;485.99;20;EUR;1;Squier by Fender Bullet Bass 1987 - Black
 10316911214921;646.91;20;EUR;1;Squier by Fender Jagmaster 1999 - Red

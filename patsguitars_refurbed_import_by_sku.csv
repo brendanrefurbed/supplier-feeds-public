@@ -93,6 +93,7 @@ E304730;485.99;20;EUR;1;Cheri Telecaster Thinline - Sunburst
 x00235;647.99;20;EUR;1;CITIZEN Ibanez Tube Screamer Tsuno Chrono Limited 500 TSTCC808
 210137485;2527.19;20;EUR;1;Cole Clark FL2EC-BLBL-SUN 2021 - Natural Sunburst
 HC0412530096;176.03;20;EUR;1;Collins CDP-1N Akustikgitarre - Natural
+x00177;184.67;20;EUR;1;Collins Stratocaster - Black
 D160661;680.39;20;EUR;1;CoolZ Japan Fujigen Jazz Bass 2016 - Vintage White
 F180634;646.91;20;EUR;1;CoolZ Japan Fujigen JazzBass 2018 - Metallic Blue
 I091017;646.91;20;EUR;1;CoolZ Japan Fujigen Stratocaster 2009 - Black
@@ -272,7 +273,6 @@ x00159;646.91;20;EUR;1;Faber FA130S-VFM-HSS Stratocaster – Violin Finish
 3116-1;31.31;20;EUR;1;Faber iNsert-MNA Faber iNsert = Nashville to '59 ABR converter studs, 7mm/4mm, BRASS, nickel plated, aged
 3116-0;29.15;20;EUR;1;Faber iNsert-MNG Faber iNsert = Nashville to '59 ABR converter studs, 7mm/4mm, BRASS, nickel plated, glossy
 x00154;184.67;20;EUR;1;Faber JBC YSR Jazz Bass - Sunburst
-1102363;646.91;20;EUR;1;Faber Les Paul Revival Model - Aged Black
 1102505;646.91;20;EUR;1;Faber Les Paul Revival Model - Aged Sunburst
 x00228;215.99;20;EUR;1;Faber MasterKit Premium – Gibson ABR-1 – Nickel Gloss
 x00229;215.99;20;EUR;1;Faber MasterKit Premium – Metric (Epiphone & Asian) – Nickel Aged
@@ -525,7 +525,6 @@ MX12021260;1292.75;20;EUR;1;Fender Limited Edition '72 Telecaster Custom 2012 - 
 MN541957;777.59;20;EUR;1;Fender Mexico FSR Stratocaster 1995 - Vintage White
 MN5104711;680.39;20;EUR;1;Fender Mexico Stratocaster 1995 - Black
 O013401_MJT;1263.59;20;EUR;1;Fender MJT 50s Reissue Stratocaster - Gilmour Style - Heavy Relic
-S022513_MJT;1263.59;20;EUR;1;Fender MJT 50s Reissue Stratocaster - Gilmour Style - Heavy Relic
 Q049600_MJT;1263.59;20;EUR;1;Fender MJT 50s Reissue Stratocaster - Purple Metallic - Heavy Relic
 Q067138_MJT;1263.59;20;EUR;1;Fender MJT 60s Reissue Stratocaster - Burgundy Mist - Heavy Relic
 T099295_MJT;1263.59;20;EUR;1;Fender MJT 60s Reissue Stratocaster - Candy Apple Green - Heavy Relic
@@ -571,7 +570,6 @@ x00234;69.97;20;EUR;1;Freedom Custom Guitar Research A/B Switch Box Pedal - Japa
 12063701;1652.39;20;EUR;1;Gibson ES-139 2013 - Vintage Sunburst
 01284722;2527.19;20;EUR;1;Gibson ES-335 2004 - Iced Tea Sunburst
 216730360;2915.99;20;EUR;1;Gibson ES-335 2023 - Vintage Sunburst
-93355533;2915.99;20;EUR;1;Gibson ES-335 Dot Reissue 1995 - Vintage Sunburst
 126600502;2770.19;20;EUR;1;Gibson Firebird V 2010 - Classic White
 92485718;1846.79;20;EUR;1;Gibson Flying V 1995 - Cherry
 170030808;1846.79;20;EUR;1;Gibson Flying V HP High Performance 2016 - Ebony
@@ -742,7 +740,7 @@ S02101734;510.83;20;EUR;1;Ibanez Talman TM71T 2002 - Jewel Blue
 910588;10526.75;20;EUR;1;Ibanez Universe UV77MC Steve Vai Signature 1991 - Multicolor
 X00004;5831.99;20;EUR;1;James Collins Signature GTO 2023 - Natural
 10298;3158.99;20;EUR;1;James Trussart Rusty Deville 59 2011 - Steel
-2435;7289.99;20;EUR;1;Jens Ritter Instruments The Red² Cedar Porsch 2025 - Red Champagne
+4235;7289.99;20;EUR;1;Jens Ritter Instruments The Red² Cedar Porsch 2025 - Red Champagne
 x00201;176.03;20;EUR;1;Kapok MEG 9012 Stratocaster - Red
 X00006;176.03;20;EUR;1;Keiper Shortscale Stratocaster Junior - Black
 60188;680.39;20;EUR;1;Kramer EVH Style - Striped
@@ -865,6 +863,7 @@ X00009;866.15;20;EUR;1;Sigma M Stratocaster - Natural
 SN28122274R;174.95;20;EUR;1;Sobbat Fuzz Breaker Effektpedal
 IW22070033;878.03;20;EUR;1;Solar T1.6FRBOP 2022 - Black Matte Open Pore
 IW22051212;831.59;20;EUR;1;Solar T1.6H3TS 2022 - Sunburst
+IW25050180;971.99;20;EUR;1;Solar VAR1.6FR 2025 - Matte Black
 E729633;615.59;20;EUR;1;Squier Bullet Bass Korea 1987 - Red
 E731638;485.99;20;EUR;1;Squier by Fender Bullet Bass 1987 - Black
 CY99108798;646.91;20;EUR;1;Squier by Fender Jagmaster 1999 - Red
