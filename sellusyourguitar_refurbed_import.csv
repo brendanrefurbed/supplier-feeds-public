@@ -1,5 +1,7 @@
 product_code;price_gross;vat;currency;stock;name
-6bf59cab-4ccc-0a8d-598a-ab9ca7506c5a;756.0;20;GBP;1;EVH Wolfgang Special Tobacco Sunburst 2012 Electric Guitar
+308775ca-e535-c2ee-f960-922955d08dc5;756.0;20;GBP;1;Blueridge BR-163 Natural Gloss Acoustic Guitar
+ca876fe3-ff04-b0ed-4b72-8ec3593a431a;637.2;20;GBP;1;Solar A2.6FBB Baritone Flame Black Burst 2023 Baritone Electric Guitar
+f84693f4-8c62-2a2c-d94b-ffc2a952dbd3;955.8;20;GBP;1;Gordon Smith Classic T Deluxe Cherry Burst 2017 Electric Guitar
 bd3e7c19-f052-88fa-9e7e-b37cf12a073e;696.6;20;GBP;1;Fender Player Plus Telecaster Butterscotch Blonde 2023 Electric Guitar
 9099a5e1-b273-3650-a1da-71e991670485;680.4;20;GBP;1;Sterling by Music Man LK100D Luke Blue Electric Guitar w/ Upgraded PU's
 6bfa1534-9be9-cce3-8814-e583601c1614;1161.0;20;GBP;1;Gibson Les Paul Junior Vintage Tobacco Burst 2022 Left-Handed Electric Guitar
@@ -105,12 +107,10 @@ cca590ed-d132-3dba-7d82-a5055d2bada5;610.2;20;GBP;1;Epiphone 1959 Les Paul Stand
 27397c32-1b56-faf8-5d6c-aac7166deaf7;810.0;20;GBP;1;Epiphone Inspired by Gibson 1959 Les Paul Standard Dark Burst 2024
 cbf4a625-a650-1b13-5856-855b00d43282;988.2;20;GBP;1;Ernie Ball MusicMan SUB 1 Guitar Textured Cinnamon 2004 Electric Guitar
 8da65109-95c4-61dc-09c9-7ee38ca00f81;1215.0;20;GBP;1;G&L Fullerton Deluxe S-500 Cherryburst 2018 Electric Guitar
-24c90908-019c-6673-bdbd-30aee2a80f5f;1047.6;20;GBP;1;Gibson Les Paul Studio Fireburst 2010 Electric Guitar
 ee4ad964-a708-5bb7-a1cb-f5b841d66073;1684.8;20;GBP;1;Auden Sunset Series Grace Golden Sunburst 2024 Electro-Acoustic Guitar
 7e280b33-41d0-ad36-ecd1-e201d1333693;1744.2;20;GBP;1;Gibson J-45 Studio Walnut Gloss Natural 2023 Electro-Acoustic Guitar
 3725966d-8213-3e2a-5233-0dcede0839ee;1393.2;20;GBP;1;Dingwall D-Roc Standard Matte Blue-To-Purple Colorshift Multi-Scale
 718ac9c1-4000-0a44-d0ac-75bef79c9d32;577.8;20;GBP;1;Gretsch G5622T Electromatic Single Barrel Burst 2020 Semi-Hollow Electric
-12f7fc2e-9b0e-050a-6d85-e9775b4cdc79;421.2;20;GBP;1;Gretsch G5230T Aleutian Blue 2021 Electric Guitar
 e2caad2e-0ee7-085a-e37c-e70e41db22b5;783.0;20;GBP;1;Yamaha CPX1200II Translucent Black 2015 Medium Jumbo Electro-Acoustic
 bfeecf07-42e5-bd2e-bd83-688f9d7f3165;1690.2;20;GBP;1;ESP E-II Eclipse DB Granite Sparkle 2014 MIJ Electric Guitar
 4781298d-3d07-9fc4-b293-c7424abe8b27;1620.0;20;GBP;1;Gibson Gary Moore Signature Les Paul BFG Lemon Burst 2009 Electric Guitar
@@ -315,7 +315,6 @@ ef5f6782-4cba-a8db-072a-d3f0dd8bae01;1134.0;20;GBP;1;Fender Strat Plus 3-Color S
 2176394a-ce2a-ffa7-b65e-49694cab8edd;1360.8;20;GBP;1;Taylor GS7 Grand Symphony Natural Gloss 2009 Acoustic Guitar
 b16e11fc-5726-433a-0c17-8950d312d106;2154.6;20;GBP;1;Rickenbacker 660 Jetglo 2013 Electric Guitar
 b8d60fb3-3adc-e915-54f4-b10d92616106;4509.0;20;GBP;1;Martin OM Davy Graham Custom Edition (UK) Gloss Natural 2007 Acoustic Guitar
-2fc80e6f-a5aa-d41f-ad04-de059706cf2c;480.6;20;GBP;1;Takamine G406S Gloss Natural Acoustic Guitar
 8726fb21-14d2-8fcd-0de6-31ab5ae43aa9;1360.8;20;GBP;1;Strandberg Boden OS-7 Red 2016 Headless 7-String Electric Guitar
 5f06786a-04b7-f9c0-51ba-5b5e8e189f82;783.0;20;GBP;1;Fret-King Esprit lll Green Label Series Transparent Black Electric Guitar
 b506bbc7-9926-2865-3d66-8685ba2254f7;1004.4;20;GBP;1;Chandler Custom Made S Style White Electric Guitar
