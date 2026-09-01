@@ -1,6 +1,7 @@
 product_code;price_gross;vat;currency;stock;name
 P256271;1057.32;20;GBP;1;1970s Orange 4x12 Guitar Amplifier Cabinet (Pre-Owned)
 N255114;7.55;20;GBP;1;3.5mm Stereo Plug to 2 x RCA Plugs Lead
+P266977;290.52;20;GBP;1;Akai MPC Sample (Pre-Owned)
 P256052;214.92;20;GBP;1;Alto OEX400 Portable PA System (Pre-Owned)
 N255455;68.04;20;GBP;1;Alto Professional Bluetooth Ultimate XLR Stereo Receiver
 N255440;247.32;20;GBP;1;Alto Professional TX415, 700W 15-inch Powered Loudspeaker with Bluetooth
@@ -70,6 +71,7 @@ N254691;34.55;20;GBP;1;Casio SP-20 Sustain Pedal
 N255606;52.92;20;GBP;1;Casio SP-34 Triple Pedal
 N255020;31.32;20;GBP;1;Casio WU-BT10 Wireless MIDI and Audio Bluetooth Adaptor
 P266814;376.92;20;GBP;1;Chapman ML-3 Modern, Natural Mahogany (Pre-Owned)
+P266971;1294.92;20;GBP;1;Charvel Spectrum MIJ (c.1990), Pink (Pre-Owned)
 N254912;12.95;20;GBP;1;Chord 3.5mm Stereo Jack Plug - 2 x 6.3mm Mono Jack Plugs
 N255824;10.79;20;GBP;1;Chord 3.5mm Stereo Jack to 2 x 6.3mm Mono Jack, 1.5m
 N255539;9.71;20;GBP;1;Chord 6.3mm TRS Jack Plug - 2 x 6.3mm Mono Jack Plugs 3m, Classic Audio Leads
@@ -296,6 +298,7 @@ N254742;21.59;20;GBP;1;Dunlop Trigger Fly Capo, Gun Metal
 N255970;7.23;20;GBP;1;Dunlop White Large Thumbpicks, 4 Pack
 N255886;35.63;20;GBP;1;D’Addario Auto Lock Guitar Strap, Black
 P266627;322.92;20;GBP;1;E-mu Planet Phatt Rack Synth Module (Pre-Owned)
+P266930;128.52;20;GBP;1;Electro Harmonix Cathedral (Pre-Owned)
 P266654;430.92;20;GBP;1;Elektron Digitakt mk1 Drum Machine (Pre-Owned)
 N255590;20.51;20;GBP;1;Elixir 11002 80/20 Bronze Acoustic Guitar Strings with Nanoweb Coating, 10-47
 N254777;21.59;20;GBP;1;Elixir 11052 80/20 Bronze Acoustic Guitar Strings with Nanoweb Coating, 12-53
@@ -368,7 +371,9 @@ P266952;4318.92;20;GBP;1;Fender American Standard Stratocaster (1974), 3-Tone Su
 P266870;1078.92;20;GBP;1;Fender American Standard Stratocaster (2007), Maple Fingerboard, 3-Color Sunburst (Pre-Owned)
 P256270;1132.92;20;GBP;1;Fender American Standard Stratocaster 1989 Left-Handed Electric Guitar - in Black (Pre-Owned)
 P266874;1402.92;20;GBP;1;Fender American Standard Stratocaster Two Knob (1983), Ivory (Pre-Owned)
+P266994;754.92;20;GBP;1;Fender Classic Player Baja Telecaster, Maple Fingerboard, 2-Color Sunburst (Pre-Owned)
 P256015;916.92;20;GBP;1;Fender Classic Series 72 Tele Deluxe in Walnut (Pre-Owned)
+P266905;538.92;20;GBP;1;Fender Elvis Presley Signature Kingman (Pre-Owned)
 N254842;32.39;20;GBP;1;Fender FA405 Dreadnought Gig Bag
 N254774;12.95;20;GBP;1;Fender FT-1 Pro Clip-On Tuner, Black
 P266807;970.92;20;GBP;1;Fender Jerry Donahue Signature Telecaster MIJ (1998), Crimson Transparent (Pre-Owned)
@@ -412,6 +417,7 @@ N255022;52.92;20;GBP;1;Gravity SP 5211 ACB Pneumatic Speaker Stand
 N255822;74.52;20;GBP;1;Gravity TMS 4232 B Touring Series Short Microphone Stand
 N255733;81.0;20;GBP;1;Gravity TMS 4322 B Touring Series Microphone Stand
 N255306;733.32;20;GBP;1;Gretsch G5622 Electromatic Center Block Double-Cut with V-Stoptail, Laurel Fingerboard, Claret Burst
+P266906;646.92;20;GBP;1;Gretsch G5622T Electromatic Centre Block with Bigsby, Midnight Sapphire (Pre-Owned)
 N255600;355.32;20;GBP;1;Gretsch Streamliner Jet Club Single-Cut with Wraparound, Mint Metallic
 N254752;376.92;20;GBP;1;Gretsch Streamliner Jet Electric Guitar, Laurel Fingerboard, Gunmetal
 P256152;1024.92;20;GBP;1;Guild F30RCE Standard (2010), Natural (Pre-Owned)
@@ -439,6 +445,7 @@ B254706;268.92;20;GBP;1;Jackson JS Series King V JS32T, Ferrari Red (B-Stock)
 N254961;268.92;20;GBP;1;Jackson JS Series Surfcaster JS22 Electric Guitar, Satin Black
 N254940;268.92;20;GBP;1;Jackson JS Series Surfcaster JS22 Electric Guitar, Snow White
 P256308;160.92;20;GBP;1;James Neligan DEV-DCFI, Deveron Series, Left-handed Dreadnought - in Natural (Pre-Owned)
+P266970;538.92;20;GBP;1;Jay Turser Shark Guitar (Pre-Owned)
 N266494;193.32;20;GBP;1;Jet Guitars JT-300 Electric Guitar, Blue
 N254650;182.52;20;GBP;1;Jet Guitars JT-300 Left-Handed Electric Guitar, Blonde
 N255747;376.92;20;GBP;1;Jet Guitars JT-450, Quilted Transparent Pink
@@ -521,6 +528,7 @@ N255047;21.59;20;GBP;1;Meinl DCS Deluxe Cajon Seat, Black
 N255607;117.72;20;GBP;1;Meinl Headliner Series String Cajon, American White Ash - HCAJ1AWA
 N255259;239.76;20;GBP;1;Meinl Percussion AEMILLI Artisan Edition Cajon Minera Line, Limba
 N254766;128.52;20;GBP;1;Meinl Percussion MCAJ100BK-CBF Headliner Series Snare Cajon, Charcoal Black Fade
+P267000;862.92;20;GBP;1;Mesa Boogie Subway D800 Plus Bass Amp Head (Pre-Owned)
 P256144;150.12;20;GBP;1;MXR M222 Talkbox (Pre-Owned)
 N254727;135.0;20;GBP;1;MXR M75 Super Badass Distortion Pedal
 N254946;227.88;20;GBP;1;MXR Rockman X100 Analog Tone Compressor
@@ -638,6 +646,7 @@ N254931;113.4;20;GBP;1;Shure SM57 Dynamic Instrument Microphone
 N255899;113.4;20;GBP;1;Shure SM58 Dynamic Vocal Microphone
 P266829;430.92;20;GBP;1;Sigma DM18 Acoustic Guitar (Pre-Owned)
 P266823;301.32;20;GBP;1;Sire Larry Carlton L3 P90, Sunburst (Pre-Owned)
+P266999;376.92;20;GBP;1;Sire Larry Carlton L7 Gold Top (Pre-Owned)
 N255482;10.79;20;GBP;1;Snark SN-5X Clip-On Tuner for Guitar, Bass and Violin
 N255565;17.27;20;GBP;1;Soho EDphones Classroom Headphones W/ Soho Audio Link
 P256022;139.32;20;GBP;1;SolidGoldFX SuperDuperDrive Pedal, 'Rudy's Music' Limited Edition (Pre-Owned)
