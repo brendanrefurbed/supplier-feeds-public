@@ -1,4 +1,7 @@
 product_code;price_gross;vat;currency;stock;name
+23121bbb-9059-a992-7cfa-9519e270c526;615.6;20;GBP;1;PRS SE Custom 24-08 Blood Orange 2023 Electric Guitar
+20f409bc-9507-65ef-7431-587e215ec74f;723.6;20;GBP;1;Ibanez Iron Label RGIXL7-ABL Antique Brown 2019 7-String Electric Guitar
+2fb524dd-f2ab-53c7-74f9-6054fdd8c745;696.6;20;GBP;1;Ibanez APEX20 Black 2014 James 'Munky' Shaffer Korn Signature Electric Guitar
 7d6e255e-fa87-e015-e97a-9168da2d1534;815.4;20;GBP;1;Solar S1.6C+ Evertune Carbon Black Matte 2023 Electric Guitar
 9909b336-8df0-d7bf-e379-6b654e586d87;1917.0;20;GBP;1;Ernie Ball Music Man Valentine Trans Buttermilk 2025 Electric Guitar
 67fba0fa-1631-38bd-6bbe-c93e13574514;523.8;20;GBP;1;Schecter C-1 Elite Amber Gloss 2003 Electric Guitar
@@ -22,7 +25,6 @@ efc0a44f-bb21-9c37-2d66-3a01c660941e;615.6;20;GBP;1;Epiphone Les Paul Prophecy B
 3c51e442-efce-74d5-89a2-d9f1ba8ca9fc;723.6;20;GBP;1;Burns Brian May Signature Red Special Cherry Electric Guitar
 7d2b8c97-f80a-accf-9ddc-ac3003aa0463;928.8;20;GBP;1;Fender Aerodyne Special 100DMC Flame Amber 2006-08 Electric Guitar
 1e38a034-d131-9e45-4354-c80bb09ba963;280.8;20;GBP;1;Rapier 33 Fiesta Red 3 Pickup Electric Guitar
-2e3b4fd8-5bea-cacb-1953-016d5ec81851;378.0;20;GBP;1;Epiphone Les Paul Standard Plus Honey Burst 2001 Electric Guitar
 bf26796b-d1e5-9767-a191-b10c50a35289;291.6;20;GBP;1;LAVA GENIE White Foldable Digital Travel Guitar
 2a340d01-563a-96a8-c9a0-ae55d4cbd188;788.4;20;GBP;1;Fender Acoustasonic Player Telecaster Butterscotch Blonde 2022 Electro Acoustic
 11f3d025-0d17-302b-a0e7-19c70b915e09;378.0;20;GBP;1;D'Angelico Premier Mini DC Fiesta Red 2019 Semi-Hollow Electric Guitar
@@ -130,7 +132,6 @@ dfa614f4-4f92-1814-af89-0bf436ebef57;1220.4;20;GBP;1;Fender American Professiona
 1c4fcc0a-4298-c9ac-f1b0-b4274885ed56;523.8;20;GBP;1;Line 6 Variax Standard White 2015 Modelling Electric Guitar
 e066a5f0-7e0f-e350-26c2-9bfac5f33533;583.2;20;GBP;1;Kemper Profiler PowerRack Digital Amp Profiler
 2c247fcb-cf85-9477-08ec-753b714277da;556.2;20;GBP;1;Fender California Vintage Palomino Sienna Sunburst 2023 Electro-Acoustic Guitar
-d818da74-79d2-d2bf-96f6-859b4ec0ff12;610.2;20;GBP;1;Takamine EF-341C Black 1988 Electro Acoustic Guitar
 d41420e6-f3c0-79db-eca7-b78095326208;216.0;20;GBP;1;Ibanez Super 80 ‘Flying Finger’ Gold Vintage c.’70s Passive  Humbucking Pickups
 f8f66c0d-b47b-12b7-bd39-afb7adb37570;696.6;20;GBP;1;ESP LTD SN-1000 FR Charcoal Metallic 2015 Modified Electric Guitar
 79b5e84b-46b6-27da-f7b7-be5277a2dc9f;567.0;20;GBP;1;Ibanez AF105 Natural Hollow Body 2006 Electric Guitar
@@ -139,7 +140,6 @@ f8f66c0d-b47b-12b7-bd39-afb7adb37570;696.6;20;GBP;1;ESP LTD SN-1000 FR Charcoal 
 e5ef0e68-48aa-1914-5da8-82e007dce0cf;583.2;20;GBP;1;Ibanez AF125 Amber Burst 2010 Hollow Body Electric Guitar
 0ebeb841-249e-72b2-0ea6-9e6b8eb66ed7;988.2;20;GBP;1;Fender Ltd Edition Mark Hoppus Jaguar Bass 3-Color Sunburst 2025 Electric Bass
 34c94bf1-7b39-580e-6199-11ce79343614;642.6;20;GBP;1;D'Angelico Premier EXL-1 Ocean Turquoise 2018 Hollow Body Electric Guitar
-88ec4645-e919-699e-a4f9-1a0b61b7a032;1339.2;20;GBP;1;Martin Road Series 000E Retro Plus Gloss Natural 2024 Auditorium Electro
 7b4a461b-cbe8-222b-4de6-632aa754b9c7;756.0;20;GBP;1;D'Angelico Excel EX-59 P90 Solid Black 2016 Hollow Body Electric Guitar
 99cae8cc-370f-88d2-11c4-216c75a77778;955.8;20;GBP;1;Fender Made in Japan Traditional '60s Stratocaster 2020 Lake Placid Blue
 2599c535-2db2-511e-6fb4-f4fc5783d92b;1047.6;20;GBP;1;Godin Multiac Nylon Encore Natural Satin 2019 Electro Acoustic Guitar
