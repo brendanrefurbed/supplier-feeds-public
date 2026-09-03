@@ -1,4 +1,5 @@
 product_code;price_gross;vat;currency;stock;name
+6be59fa8-16f8-56a4-4865-037b3dfd037b;3240.0;20;GBP;1;Gibson Les Paul Deluxe Hall of Fame Edition DoubleGold 1991 1 of 250 Ltd Edition
 f48de582-6bf6-5618-a4b8-6df74e4c7213;1323.0;20;GBP;1;Fender American Professional II Stratocaster Olympic White 2021 Modified Electri
 21324e72-cd37-f0e1-6ba3-a1b8b367655f;432.0;20;GBP;1;EVH Wolfgang Standard Silver Sparkle 2021 Electric Guitar
 23121bbb-9059-a992-7cfa-9519e270c526;615.6;20;GBP;1;PRS SE Custom 24-08 Blood Orange 2023 Electric Guitar
@@ -38,7 +39,6 @@ e482e6de-f431-0e7f-1763-05834e60e9ba;756.0;20;GBP;1;Schecter Sun Valley Super Sh
 ca131bf9-f14a-15eb-5501-bf7a496191b6;2197.8;20;GBP;1;Excelsior Super King Gloss Natural 2009 Hand Made Acoustic Guitar
 d4ffd280-93c9-979c-6ba4-8974287382e1;405.0;20;GBP;1;ESP LTD M-300FM See-Thru Black 2012 Electric Guitar
 f465dc5c-b94f-390a-7b2e-2a3ec8e40038;410.4;20;GBP;1;Burns Marquee Club Series Black 2010 Electric Guitar
-a6e3499c-8743-892c-e55b-2e588149d350;410.4;20;GBP;1;Cigano GJ-15 Grand Bouche Gypsy Jazz Acoustic Guitar
 7c7cc692-36a1-5545-a4e6-9b831348092e;464.4;20;GBP;1;Schecter Demon-7 Satin Black 2016 7-String Electric Guitar
 cf9f28d9-c0f2-2445-1a54-f462c4eb4b5c;405.0;20;GBP;1;Ibanez RG370FMZ Sapphire Blue 2019 Electric Guitar
 dc117813-ec5f-ea40-b2df-b69cef49dbb5;405.0;20;GBP;1;Epiphone EJ200-SCE/VS Vintage Sunburst 2020 Electro Acoustic Guitar
