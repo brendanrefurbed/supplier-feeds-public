@@ -39,7 +39,6 @@ product_code;price_gross;vat;currency;stock;name
 10305804665161;77.75;20;EUR;1;Boss CS-3 Compression Sustainer Effektpedal - Taiwan
 10305877541193;77.75;20;EUR;1;Boss CS-3 Compression Sustainer Effektpedal - Taiwan
 10305870790985;136.07;20;EUR;1;Boss DD-3 Digital Delay Effektpedal - Japan
-10366427529545;97.19;20;EUR;1;Boss DD-7 Digital Delay Effect Pedal
 10305799258441;97.19;20;EUR;1;Boss DS-1 Distortion Effektpedal - Taiwan
 10305860436297;97.19;20;EUR;1;Boss DS-1 Distortion Effektpedal - Taiwan
 10305876656457;77.75;20;EUR;1;Boss FV-50 L Effektpedal
@@ -455,7 +454,6 @@ product_code;price_gross;vat;currency;stock;name
 10349682000201;971.99;20;EUR;1;Fender Japan 54 Reissue Stratocaster 1991 - Metallic Gold - MOD
 10365084533065;1069.19;20;EUR;1;Fender Japan 57 Reissue Stratocaster 2004-2005 - Sonic Blue
 10240946176329;785.15;20;EUR;1;Fender Japan 60s Reissue Stratocaster 1991-1992 - Sunburst
-10365197058377;971.99;20;EUR;1;Fender Japan 62 Reissue Precision Bass 1989-1990 - Black
 10366972592457;1263.59;20;EUR;1;Fender Japan 66 Reissue Jaguar 1997-2000 - Black
 10330905641289;1263.59;20;EUR;1;Fender Japan 66 Reissue Jaguar 1997-2000 - Blue Repaint
 10329392546121;1385.63;20;EUR;1;Fender Japan 66 Reissue Jaguar 1997-2000 - Candy Apple Red - Matching Headstock
@@ -555,6 +553,7 @@ product_code;price_gross;vat;currency;stock;name
 9890335785289;1118.87;20;EUR;1;Framus Strato Deluxe 1963 - Blonde
 10175549899081;69.97;20;EUR;1;Freedom Custom Guitar Research A/B Switch Box Pedal - Japan
 10277173428553;1555.19;20;EUR;1;Gibson 1960 Les Paul Classic 2002- Ebony
+10316880806217;1662.11;20;EUR;1;Gibson 76’ Reissue Explorer 2004 - Ebony - EMG MOD
 10358278979913;3887.99;20;EUR;1;Gibson Custom Shop ES-335 2012 - Cherry Red
 10367117001033;2235.59;20;EUR;1;Gibson ES-135 1995 - Vintage Sunburst
 10357927248201;1652.39;20;EUR;1;Gibson ES-139 2013 - Vintage Sunburst
@@ -622,7 +621,6 @@ product_code;price_gross;vat;currency;stock;name
 10104292901193;790.55;20;EUR;1;Greco EG Les Paul Standard 1980 - Sunburst - Vintage Japan
 10256772202825;738.71;20;EUR;1;Greco EG Les Paul Standard 1980s - Cherry Sunburst
 10249277047113;738.71;20;EUR;1;Greco EG Standard Les Paul 1979 - Cherry Sunburst
-9997855686985;971.99;20;EUR;1;Greco EG-450 Les Paul Standard 1978 - Cherry Sunburst - Vintage Japan
 10292870480201;831.59;20;EUR;1;Greco EG-450 Les Paul Standard 1979 - Tobacco Sunburst
 10240935526729;646.91;20;EUR;1;Greco EG-480 Les Paul Custom 1970s - Sunburst
 10249091383625;831.59;20;EUR;1;Greco EG-500 Standard Les Paul 1977 - Ebony
@@ -630,7 +628,6 @@ product_code;price_gross;vat;currency;stock;name
 10016030785865;997.91;20;EUR;1;Greco EG-600 Les Paul Custom 1978 - Black - Vintage Japan
 10328362516809;738.71;20;EUR;1;Greco EG-700 Les Paul Standard 1977 - Natural
 10305354269001;785.15;20;EUR;1;Greco EG450 Les Paul Standard 1977 - Sunburst
-10199085809993;790.55;20;EUR;1;Greco EG450 Les Paul Standard 1978 - Cherry Sunburst
 10330885030217;874.79;20;EUR;1;Greco EG450 Les Paul Standard 1978 - Tobacco Sunburst
 10103763730761;790.55;20;EUR;1;Greco EG450 Super Power Les Paul 1981 - Tobacco Burst - Vintage Japan
 10330883031369;874.79;20;EUR;1;Greco EG450S Les Paul Standard 1978 - Tobacco Sunburst
@@ -697,7 +694,6 @@ product_code;price_gross;vat;currency;stock;name
 9903021883721;369.35;20;EUR;1;Ibanez EX Series EX170L Lefthand 1993 - Black
 10231359471945;1200.95;20;EUR;1;Ibanez Iceman ICT700 2008 - Black
 10249198829897;1263.59;20;EUR;1;Ibanez Iceman ICT700 2008 - Black
-10366421369161;77.75;20;EUR;1;Ibanez JD-9 Jet Driver Effect Pedal
 10080957038921;790.55;20;EUR;1;Ibanez Les Paul 2350 - Black
 10023456702793;1016.27;20;EUR;1;Ibanez Les Paul Custom Pre Lawsuit 1973 - Ebony
 10367164449097;874.79;20;EUR;1;Ibanez LGB-30 George Benson Signature 2014 - Vintage Yellow Sunburst
@@ -818,7 +814,6 @@ product_code;price_gross;vat;currency;stock;name
 10240933921097;646.91;20;EUR;1;PRS SE Standard 2005 - Camo
 10230962717001;831.59;20;EUR;1;PRS SE Zach Myers Signature 2010 - Royal Blue
 10181841191241;1316.51;20;EUR;1;PRS USA S2 Mira 2014 - Vintage Cherry
-10366889165129;2429.99;20;EUR;1;Rickenbacker 330 2010 - Midnight Blue
 10357178237257;2429.99;20;EUR;1;Rickenbacker 330/6 1997 - Fireglo
 10357305180489;2429.99;20;EUR;1;Rickenbacker 360/12 2013 - Fireglo
 10358190309705;874.79;20;EUR;1;Rivolta Mondata 2019 - Natural
