@@ -1,4 +1,10 @@
 product_code;price_gross;vat;currency;stock;name
+f8f5ff7e-92e3-4634-a763-a9564efcb46c;869.4;20;GBP;1;Fender Lead II USA 1981/82 Wine Red Electric Guitar
+dc472013-39c6-84e6-dbb7-708936976448;1031.4;20;GBP;1;Fender American Performer Stratocaster HSS 2023 Gloss Black Electric Guitar
+bc915744-6706-3266-8548-7e59176aa35b;680.4;20;GBP;1;Schecter C-1 Apocalypse Rusty Grey 2020 Electric Guitar
+50a161de-1774-d46b-628b-1ce78b42981a;1107.0;20;GBP;1;Gibson SG Standard Ebony 2005 Electric Guitar
+efe595f2-cee1-abb5-4557-f33b96fcf3ad;815.4;20;GBP;1;Ibanez RGR752AHBF Weathered Black 2025 7-String Electric Guitar
+70cf3ff3-7f93-e897-91ed-b561cacddc4f;1080.0;20;GBP;1;Fender American Standard Telecaster 2-Color Sunburst 2014 Electric Guitar
 6be59fa8-16f8-56a4-4865-037b3dfd037b;3240.0;20;GBP;1;Gibson Les Paul Deluxe Hall of Fame Edition DoubleGold 1991 1 of 250 Ltd Edition
 f48de582-6bf6-5618-a4b8-6df74e4c7213;1323.0;20;GBP;1;Fender American Professional II Stratocaster Olympic White 2021 Modified Electri
 21324e72-cd37-f0e1-6ba3-a1b8b367655f;432.0;20;GBP;1;EVH Wolfgang Standard Silver Sparkle 2021 Electric Guitar
@@ -99,7 +105,6 @@ cc945a82-7c2a-6452-ebdd-5c8f39b46655;756.0;20;GBP;1;Rivolta Regatta VII Gloss Na
 6d8e5b87-cb92-abb2-2107-6bc1f81951c6;1247.4;20;GBP;1;Larrivee OM-02 Satin Natural USA Acoustic Guitar
 60404ff7-64c7-0edc-9d49-5f97b6244977;2381.4;20;GBP;1;PRS Custom 24 10 Top Amber USA 2009 Electric Guitar
 815ae1d3-063d-5c0f-a6e2-e29f0c160ccc;756.0;20;GBP;1;Ibanez RG2550E Galaxy Black 2005 Electric Guitar
-192308b7-4d70-ca4f-f0f0-86a87dec6d2c;669.6;20;GBP;1;Fender Ltd Ed. Vintera '70s Telecaster Lake Placid Blue 2022 Electric Guitar
 add8f40d-94e7-85cd-c44b-177c35871bcf;756.0;20;GBP;1;Burns Brian May Signature Sunburst Electric Guitar
 f1772818-3f71-53cf-b666-cde59c8225e4;448.2;20;GBP;1;Ibanez AFJ95 Vintage Sunburst 2012 Hollow Body Electric Guitar
 196ebf46-9ce8-91a4-afa0-979acf0a4e22;988.2;20;GBP;1;G&L Fullerton Deluxe Skyhawk HH Surf Green 2020 Electric Guitar
@@ -358,7 +363,6 @@ cf2c9228-4b45-b8bd-e3e9-4d46d00d5876;3537.0;20;GBP;1;Gibson ES-335 Pro Cherry Re
 fd16d32f-961e-dcc7-71f7-8926e9b36886;621.0;20;GBP;1;Sterling by Music Man JV60 James Valentine Signature Black Electric Guitar
 a9007472-8571-af21-26e8-36409fa01b52;2192.4;20;GBP;1;Fender Stratocaster Black 1980 CBS Era Vintage Electric Guitar
 d4ea0511-2fbb-2c69-c7f1-c581f8535227;2160.0;20;GBP;1;Fender Coronado I Sunburst 1966 Hollow Electric Guitar
-2289542b-5248-b31f-994e-3df63bc36137;3375.0;20;GBP;1;Bourgeois 0 Prototype Country Boy Gloss Natural 2010 Acoustic Guitar
 72168717-3f77-3b30-be06-b440f6f04856;453.6;20;GBP;1;"Line 6 Powercab 112 Plus Active 1x12"" Stereo Guitar Speaker System"
 a8950bd3-5975-3b18-0c07-16a33f1fbea8;1107.0;20;GBP;1;Fender Mustang MG69/MH Candy Apple Red 2012 Electric Guitar
 42b31597-5c0b-8d1b-93c7-941b895d3ce3;3726.0;20;GBP;1;"Gibson BB King ""Lucille"" Ebony 1991 Semi-Hollow Electric Guitar"
