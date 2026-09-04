@@ -442,7 +442,6 @@ product_code;price_gross;vat;currency;stock;name
 10111492456777;4859.99;20;EUR;1;Fender Custom Shop ’63 Stratocaster Relic MBD 2023 - Candy Apple Red
 10240964886857;738.71;20;EUR;1;Fender Deluxe Powerhouse Stratocaster 1998 - Lake Placid Blue
 10305305706825;1200.95;20;EUR;1;Fender Exclusive American Standard Stratocaster 2024 - Satin Fiesta Red
-10357907194185;874.79;20;EUR;1;Fender FMT Custom Telecaster 2021 - Black Cherry Burst
 10033144365385;161.99;20;EUR;1;Fender Frontman 15G Transistor Verstärker
 10047284937033;996.83;20;EUR;1;Fender Highway One Showmaster 2003 - Satin Black
 10047280906569;1108.07;20;EUR;1;Fender Highway One Stratocaster 2006 - Natural
@@ -624,7 +623,6 @@ product_code;price_gross;vat;currency;stock;name
 10305354269001;785.15;20;EUR;1;Greco EG450 Les Paul Standard 1977 - Sunburst
 10330885030217;874.79;20;EUR;1;Greco EG450 Les Paul Standard 1978 - Tobacco Sunburst
 10103763730761;790.55;20;EUR;1;Greco EG450 Super Power Les Paul 1981 - Tobacco Burst - Vintage Japan
-10330883031369;874.79;20;EUR;1;Greco EG450S Les Paul Standard 1978 - Tobacco Sunburst
 10249362276681;738.71;20;EUR;1;Greco EG480 Custom Les Paul 1970s - Sunburst
 10249290514761;738.71;20;EUR;1;Greco EG480R Custom Les Paul 1976 - Cherry Sunburst
 10104294080841;701.99;20;EUR;1;Greco EG500 Les Paul Standard 1978 - Cherry Sunburst - Vintage Japan
@@ -690,7 +688,6 @@ product_code;price_gross;vat;currency;stock;name
 10249198829897;1263.59;20;EUR;1;Ibanez Iceman ICT700 2008 - Black
 10080957038921;790.55;20;EUR;1;Ibanez Les Paul 2350 - Black
 10023456702793;1016.27;20;EUR;1;Ibanez Les Paul Custom Pre Lawsuit 1973 - Ebony
-10367164449097;874.79;20;EUR;1;Ibanez LGB-30 George Benson Signature 2014 - Vintage Yellow Sunburst
 10249353167177;1385.63;20;EUR;1;Ibanez LR10 Lee Ritenour Signature 1982 - Antique Violin
 10216688189769;1403.99;20;EUR;1;Ibanez Performer PF350 1979 - Cherry Red
 10199103570249;1316.51;20;EUR;1;Ibanez PF350BK Performer 1994 - Black
@@ -723,7 +720,6 @@ product_code;price_gross;vat;currency;stock;name
 10169733742921;658.79;20;EUR;1;Kramer LK-1 1980s - Black
 10008552931657;599.39;20;EUR;1;Kramer Neptune NJ 1980s - Black
 10277169725769;1263.59;20;EUR;1;Kramer Pacer Deluxe - Metallic Blue
-9925424283977;473.03;20;EUR;1;Kramer Pariah 2010 - Candy Red Black Flames
 10316909543753;1292.75;20;EUR;1;Kramer Richie Sambora Signature 1980s - Vintage White
 9961956573513;339.11;20;EUR;1;Kramer Striker 2022 - Trans Purple
 10104025678153;790.55;20;EUR;1;Kramer Volante HHFR 2024 - Defender Red
@@ -755,12 +751,10 @@ product_code;price_gross;vat;currency;stock;name
 9729058144585;874.79;20;EUR;1;Michael Kelly Custom Collection Patriot Instinct 2021 - Scorched
 10240973799753;738.71;20;EUR;1;Mosrite Avenger - Cherry Red
 10169735709001;1754.99;20;EUR;1;Music Man Benji Madden Signature Silhouette Special 2005 - Madden Green
-10349662404937;1846.79;20;EUR;1;Music Man by Ernie Ball Sterling Bass 2000 - Pearl Platinum
 10349649592649;1457.99;20;EUR;1;Music Man by Ernie Ball StingRay EX Bass 2001 - Black
 10365222420809;1166.39;20;EUR;1;Music Man by Ernie Ball SUB 1 2004 - Textured Black
 10206012997961;97.19;20;EUR;1;MXR Boost/Line Driver - Effektpedal
 10305829667145;126.35;20;EUR;1;MXR KFK Ten Band Equalizer Effektpedal
-10366434574665;97.19;20;EUR;1;MXR M68 Uni-Vibe Effect Pedal
 10206011588937;97.19;20;EUR;1;MXR Smart Gate - Effektpedal
 9729073578313;3887.99;20;EUR;1;o3 Guitars Radon - Alejandro Ramirez - Red
 10330784268617;388.79;20;EUR;1;Ortega Model 60-RE11LTD - Natural
@@ -791,7 +785,6 @@ product_code;price_gross;vat;currency;stock;name
 10062276100425;32.39;20;EUR;1;Pat’s Guitars Deluxe E-Gitarren Gigbag
 10169741345097;131.21;20;EUR;1;Pearl DS-06 Distortion 1980s Effect Pedal - Vintage Japan
 10367166185801;291.59;20;EUR;1;Peavey Generation EXP 2003-2005 - Sunburst
-10366435787081;77.75;20;EUR;1;ProCo The RAT Effect Pedal
 10367170576713;3110.39;20;EUR;1;PRS Custom 24 10-Top 1997 - Flamed Maple Grey Black
 10240975405385;1385.63;20;EUR;1;PRS Mira 2008 - Lilac Mist
 10231389749577;1385.63;20;EUR;1;PRS S2 Standard 22 - Antique White
@@ -866,6 +859,7 @@ product_code;price_gross;vat;currency;stock;name
 10118113952073;1229.03;20;EUR;1;Tokai Love Rock Les Paul LS162QZ 2023 - Quilt
 10172747776329;1200.95;20;EUR;1;Tokai LS135 Love Rock Les Paul 2020 - Honeyburst
 10212529701193;834.83;20;EUR;1;Tokai LS50 Love Rock Les Paul 1981 - Ebony
+9947270644041;768.95;20;EUR;1;Tokai LS60 Love Rock Les Paul 1981 - All Gold
 10212539990345;542.15;20;EUR;1;Tokai SG - Cherry Red
 10211605479753;615.59;20;EUR;1;Tokai SG 38SW - Snow White
 10303732384073;646.91;20;EUR;1;Tokai Silver Star Stratocaster 1981 - Vintage White - Vintage Japan
