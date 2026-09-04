@@ -11,13 +11,11 @@ product_code;price_gross;vat;currency;stock;name
 10305799651657;77.75;20;EUR;1;Aria ADT-1 Distortion Effektpedal - Japan
 10305840742729;77.75;20;EUR;1;Aria ADT-1 Distortion Effektpedal - Japan
 10305863057737;77.75;20;EUR;1;Aria ADT-1 Distortion Effektpedal - Japan
-10305868431689;77.75;20;EUR;1;Aria AFL-1 Flanger Effektpedal - Japan
 9851346452809;524.87;20;EUR;1;Aria Japan Stratocaster 1970s - Natural
 9729057751369;1108.07;20;EUR;1;Aria Pro II PE-140 1976 - Mahogany
 10294047015241;369.35;20;EUR;1;Aria Pro II RVB450-DRS Avante Series Bass - Red Burst
 10254406582601;462.23;20;EUR;1;Aria Pro II The Warrior WR-803 - Black
 10294094004553;369.35;20;EUR;1;Aria Pro II The Warrior-JR 1990s - Black
-10305875444041;97.19;20;EUR;1;Aria Super Sustainer RE-101 Effektpedal
 10305876918601;77.75;20;EUR;1;Arion MTE-1 Tubulator Effektpedal
 10305878065481;77.75;20;EUR;1;Arion SDI-1 Distortion Effektpedal - Japan
 10357406400841;97.19;20;EUR;1;Ashdown Bass Hyper Drive Effektpedal
@@ -67,7 +65,6 @@ product_code;price_gross;vat;currency;stock;name
 10349677379913;583.19;20;EUR;1;Burny Les Paul 2010 - White
 10123517919561;790.55;20;EUR;1;Burny Les Paul FLG-70 1977 - Tobacco Burst - Vintage Japan
 10254407729481;369.35;20;EUR;1;Burny Les Paul LG-480 - Metallic
-10256765026633;738.71;20;EUR;1;Burny Les Paul Standard - Cherry Sunburst
 10115783328073;527.03;20;EUR;1;Burny LG-480 Les Paul - Metallic
 9937288266057;808.91;20;EUR;1;Burny LG-75R Les Paul - Honey Burst
 10249127559497;878.03;20;EUR;1;Burny RLC Les Paul Custom - Ebony
@@ -466,7 +463,6 @@ product_code;price_gross;vat;currency;stock;name
 10316379881801;1200.95;20;EUR;1;Fender Japan 66’ Reissue Mustang 2002-2004 - Vintage White
 10292782334281;1108.07;20;EUR;1;Fender Japan 69 Reissue Mustang 1993-1994 - Vintage White
 10255387263305;1108.07;20;EUR;1;Fender Japan 69 Reissue Mustang 1994-1995 - Vintage White
-10316372902217;1200.95;20;EUR;1;Fender Japan 69 Reissue Mustang 1997-2000 - Vintage White
 10328248648009;1200.95;20;EUR;1;Fender Japan 69 Reissue Mustang 1999-2002 - Vintage White
 10358271902025;1263.59;20;EUR;1;Fender Japan 69 Reissue Mustang 2012 - Candy Apple Red - Matching Headstock
 10365818044745;971.99;20;EUR;1;Fender Japan 72 Reissue Stratocaster 1994-1997 - Vintage White
@@ -706,7 +702,7 @@ product_code;price_gross;vat;currency;stock;name
 9997846970697;485.99;20;EUR;1;Ibanez RG570 Series 1994 - Luna Sea
 10277170184521;831.59;20;EUR;1;Ibanez RG670 1993 - Root Beer
 10081012416841;1185.83;20;EUR;1;Ibanez RGD71ALPA 2021 - Charcoal Burst Black Stained Flat
-10366769758537;777.59;20;EUR;1;Ibanez RGDIX6MPB Iron Label 2018 - Surreal Blue Burst
+10366769758537;777.59;20;EUR;1;Ibanez RGDIX7MPB Iron Label 2018 - Surreal Blue Burst
 10230963634505;646.91;20;EUR;1;Ibanez RS440 Roadstar II Series 1985 - Vintage White
 10249387966793;215.99;20;EUR;1;Ibanez SD9 Sonic Distortion Effect Pedal
 10294134997321;369.35;20;EUR;1;Ibanez SDGR Bass 1992 - Metallic Silver
@@ -813,7 +809,6 @@ product_code;price_gross;vat;currency;stock;name
 10230962717001;831.59;20;EUR;1;PRS SE Zach Myers Signature 2010 - Royal Blue
 10181841191241;1316.51;20;EUR;1;PRS USA S2 Mira 2014 - Vintage Cherry
 10357178237257;2429.99;20;EUR;1;Rickenbacker 330/6 1997 - Fireglo
-10357305180489;2429.99;20;EUR;1;Rickenbacker 360/12 2013 - Fireglo
 10358190309705;874.79;20;EUR;1;Rivolta Mondata 2019 - Natural
 10305825374537;58.31;20;EUR;1;Rocktek DIR-01 Distortion Effektpedal
 10305861124425;58.31;20;EUR;1;Rocktek ODR-01 Overdrive Effektpedal
@@ -832,7 +827,7 @@ product_code;price_gross;vat;currency;stock;name
 10315900256585;1292.75;20;EUR;1;Seventy Seven Japan Exrubato STD JT 2024 - Iced Tea Burst
 10349665616201;1263.59;20;EUR;1;Seventy Seven Japan Exrubato-STD 2020 - Cherry Red
 10315875909961;1292.75;20;EUR;1;Seventy Seven Japan HAWK STD JT 2023 - Antique Brown
-10164977566025;1943.99;20;EUR;1;Siggi Braun Blackbird – Custom Shop - 2011 - Matte Black
+10164977566025;1846.79;20;EUR;1;Siggi Braun Blackbird – Custom Shop - 2011 - Matte Black
 9831290896713;866.15;20;EUR;1;Sigma M Stratocaster - Natural
 9974460318025;2031.47;20;EUR;1;Sign Guitars German Custom Made Relectro 2013 - Black
 10305803125065;174.95;20;EUR;1;Sobbat Fuzz Breaker Effektpedal
