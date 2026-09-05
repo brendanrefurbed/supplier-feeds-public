@@ -1,10 +1,12 @@
 product_code;price_gross;vat;currency;stock;name
+f4422379-8fb9-ad05-413e-f98417e2c4c2;432.0;20;GBP;1;Epiphone SG Custom Ebony 2022 Electric Guitar
+8976acd7-f16a-bdbc-65c9-a6b9e27e9425;756.0;20;GBP;1;ESP LTD Eclipse Custom 1987 Reissue Rainbow Crackle 2023 Electric Guitar
+fc37807b-07c6-8b4a-1f91-7f38d96bce11;464.4;20;GBP;1;Chapman ML1 Modern Baritone Stormburst 2021 Baritone Electric Guitar
 c0c58dc9-f037-d724-10e2-b4a2bcddf88c;550.8;20;GBP;1;Tokai Firebird FB-53 Vintage Sunburst 2022 Electric Guitar
 85891085-1ec9-87e2-758e-6eab7a23b711;1863.0;20;GBP;1;Epiphone Elitist 1965 Casino Outfit Sunburst 2010 Hollow Body Electric Guitar
 a5bbaa84-4787-1620-d922-fcadf10042c4;815.4;20;GBP;1;Harmony Rebel Pearl White 2020 Electric Guitar
 a79cdedd-7faf-ac6b-d658-aa54a5c50ebf;583.2;20;GBP;1;Ibanez Sound Gear SR900FM Transparent Black Flat 2006 Electric Bass
 652045da-d284-0055-b90a-f3d55c4e7f1e;831.6;20;GBP;1;Charvel Pro-Mod San Dimas Style 1 Snow White 2017 Electric Guitar
-b19f41f8-ffc3-4acb-a907-18faf19bab8f;1976.4;20;GBP;1;Ibanez Jem7 Prestige Steve Vai Signature White 2016 Electric Guitar
 f8f5ff7e-92e3-4634-a763-a9564efcb46c;869.4;20;GBP;1;Fender Lead II USA 1981/82 Wine Red Electric Guitar
 dc472013-39c6-84e6-dbb7-708936976448;1031.4;20;GBP;1;Fender American Performer Stratocaster HSS 2023 Gloss Black Electric Guitar
 bc915744-6706-3266-8548-7e59176aa35b;680.4;20;GBP;1;Schecter C-1 Apocalypse Rusty Grey 2020 Electric Guitar
@@ -44,7 +46,6 @@ c852fe45-d017-7517-cd7e-f5b6cebe318b;405.0;20;GBP;1;Gretsch G2420 Streamliner Ca
 6b0c12d5-ef36-e47d-bf6d-58056657de60;378.0;20;GBP;1;Gretsch G2622T Streamliner Village Amber 2025 Semi-Hollow Electric Guitar
 7e0e7470-3367-cfc6-23d4-f88ba973c955;669.6;20;GBP;1;Schecter C-1 Exotic Natural Ebony 2021 Electric Guitar
 e482e6de-f431-0e7f-1763-05834e60e9ba;756.0;20;GBP;1;Schecter Sun Valley Super Shredder FR S LH Riviera Blue 2021 Electric Guitar
-25229f23-a555-9211-a8f4-1139df118529;334.8;20;GBP;1;Friedman IR-D Dual Tube Preamp & DI All-Valve Preamplifier Pedal
 ca131bf9-f14a-15eb-5501-bf7a496191b6;2197.8;20;GBP;1;Excelsior Super King Gloss Natural 2009 Hand Made Acoustic Guitar
 d4ffd280-93c9-979c-6ba4-8974287382e1;405.0;20;GBP;1;ESP LTD M-300FM See-Thru Black 2012 Electric Guitar
 f465dc5c-b94f-390a-7b2e-2a3ec8e40038;410.4;20;GBP;1;Burns Marquee Club Series Black 2010 Electric Guitar
@@ -129,7 +130,6 @@ e40fd01a-256e-ea75-4b0e-a388ca77c8c9;3456.0;20;GBP;1;Gibson Custom Shop Les Paul
 9e64cb3e-3bdf-39a7-aa4c-3642efd8dcf5;432.0;20;GBP;1;ESP LTD WA-200 Warbird Distressed Graphic 2016 Electric Guitar
 502b7c05-5f2c-98e8-57f3-4f355a027520;432.0;20;GBP;1;PRS SE CE24 Standard Satin Turquoise 2023 Electric Guitar
 dee5af40-a9ed-a7c1-0fd6-853a4f4d3362;4185.0;20;GBP;1;Gibson 1954 ES-175D VOS Limited Edition Jim Dickinson Burst 2015 Guitar
-cf806294-819f-89ab-0791-b6014d5f62ae;432.0;20;GBP;1;Epiphone DC Pro Mojave Fade 2019 Electric Guitar
 3c7fd9ce-23cd-d336-d0af-684a632ed4dd;469.8;20;GBP;1;Takamine PT-105 Gloss Black 1989 Electro-Acoustic Guitar
 6390fd79-a13d-71d7-58aa-03c142273d6b;394.2;20;GBP;1;Empress Effects Zoia Modular Synthesizer Effects Pedal
 76f2addd-21bf-daed-a31d-86bded5e9432;491.4;20;GBP;1;Yamaha Silent Guitar SLG200N 2017 Nylon String Electro Acoustic Guitar
@@ -328,7 +328,6 @@ b506bbc7-9926-2865-3d66-8685ba2254f7;1004.4;20;GBP;1;Chandler Custom Made S Styl
 f86aa5b4-3ba3-efc9-affd-ca5d87855855;594.0;20;GBP;1;Peerless Electra Orange 2007 Hollow Body Electric Guitar
 64407843-6aae-8ea8-8498-a7405504b6dc;1350.0;20;GBP;1;Overwater Inspiration 5 Natural Satin 2016 5 String Electric Bass
 10b1191e-f86a-2bc6-3c65-9240927922f9;1171.8;20;GBP;1;Godin xtSA Gloss Natural Koa Electric Synth Guitar
-62770efa-18c5-d049-d1b4-971523685786;480.6;20;GBP;1;Danelectro '59M NOS+ Ice Grey Electric Guitar
 f33d8718-5b40-9a4a-a458-9a1d0c1da128;145.8;20;GBP;1;Wampler SLOstortion Smooth SLO Drive Effect Pedal
 a187a732-1866-8721-b381-8f1e90ec43b4;621.0;20;GBP;1;Fender Classic Series '50s Stratocaster 3-Colour Sunburst 2003 Electric Guitar
 bcf0ea63-ef64-b5e6-8f2f-82115df3163c;1749.6;20;GBP;1;Gibson Les Paul Standard Lite Double Cutaway Trans Amber 2000 Electric Guitar
