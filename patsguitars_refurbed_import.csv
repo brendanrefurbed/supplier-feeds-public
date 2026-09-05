@@ -60,7 +60,6 @@ product_code;price_gross;vat;currency;stock;name
 9699639001417;1457.99;20;EUR;1;Burns Hank Marvin Signature - White
 10305409319241;462.23;20;EUR;1;Burny Les Paul - Black Burst
 10118164119881;612.35;20;EUR;1;Burny Les Paul - Goldtop
-9925430935881;473.03;20;EUR;1;Burny Les Paul - Metallic Red
 9989327847753;339.11;20;EUR;1;Burny Les Paul - Tobacco Burst
 10349677379913;583.19;20;EUR;1;Burny Les Paul 2010 - White
 10123517919561;790.55;20;EUR;1;Burny Les Paul FLG-70 1977 - Tobacco Burst - Vintage Japan
@@ -71,14 +70,12 @@ product_code;price_gross;vat;currency;stock;name
 10216698052937;658.79;20;EUR;1;Burny Super Grade Les Paul 1999 - Cherry Sunburst
 9997871579465;1166.39;20;EUR;1;Burny Super Grade Les Paul RLG-58 1998 - Cherry Sunburst
 10111503794505;439.55;20;EUR;1;Burny Super Grade Les Paul Standard - Cherry Sunburst
-10231538745673;194.39;20;EUR;1;Carl Martin Ampster Effect Pedal
 10067497255241;1943.99;20;EUR;1;Carvin USA AE185 Thinline Tele - Purple
 10033155801417;971.99;20;EUR;1;Ceriatone Big Deluxe / American Classics 5x3 Amp Head
 9878932881737;300.23;20;EUR;1;Charvel 4-String Bass
 10169710510409;571.31;20;EUR;1;Charvel by Jackson - Custom
 10016103891273;416.87;20;EUR;1;Charvel by Jackson CDS 1994 - Black
 9759565021513;460.07;20;EUR;1;Charvel by Jackson HSS Superstrat 1989-1991 - Black
-10186053026121;615.59;20;EUR;1;Charvel by Jackson Model 3 HSS - Red
 10016042320201;583.19;20;EUR;1;Charvel by Jackson Superstrat - Red
 10357924823369;1166.39;20;EUR;1;Charvel Pro Mod DK22 Satchel Signature 2021 - Satin White Bengal
 10316909019465;923.39;20;EUR;1;Charvel Surfcaster 2005 - Black
@@ -116,6 +113,7 @@ product_code;price_gross;vat;currency;stock;name
 10341678055753;242.99;20;EUR;1;Dunlop Crybaby 50th Anniversary Gold Effektpedal
 10104299127113;701.99;20;EUR;1;Eddie Van Halen Frankenstein Strat Replica - Red Striped
 10249312895305;646.91;20;EUR;1;EDWARDS by ESP E-RA-110HR ROUAGE RAYZI
+10379465883977;971.99;20;EUR;1;Edwards by ESP Viper - Camouflage
 10305782907209;87.47;20;EUR;1;Effects Bakery An Butter Cooppe Drive Effektpedal
 10305785561417;77.75;20;EUR;1;Effects Bakery French Bread Delay Effektpedal
 9729078624585;1457.99;20;EUR;1;Eko Ekomaster 400 1960 - Blue Sparkle
@@ -427,6 +425,7 @@ product_code;price_gross;vat;currency;stock;name
 10294152757577;1385.63;20;EUR;1;Fender American Professional Stratocaster HSS 2015 - Olympic White
 10220182634825;2429.99;20;EUR;1;Fender American Stratocaster 1979 - Natural
 9997845135689;2915.99;20;EUR;1;Fender American Stratocaster 1982 - Sunburst
+10379462148425;1263.59;20;EUR;1;Fender American Telecaster 1995 - Vintage White
 10276917772617;1846.79;20;EUR;1;Fender American Vintage 52 Reissue Telecaster 1995 - Butterscotch Blonde
 10349688226121;1943.99;20;EUR;1;Fender American Vintage 57 Reissue Stratocaster 1996 - Sunburst
 10330798883145;1749.59;20;EUR;1;Fender American Vintage 62 Reissue Stratocaster 2001 - Sunburst
@@ -505,10 +504,12 @@ product_code;price_gross;vat;currency;stock;name
 10033174479177;7775.99;20;EUR;1;Fender Jazzmaster 1963 Pre CBS - Inca Silver Refin
 10316303008073;1292.75;20;EUR;1;Fender Lead I 1981 - Natural
 10316385222985;1292.75;20;EUR;1;Fender Limited Edition '72 Telecaster Custom 2012 - Orange Sparkle
+10378912203081;680.39;20;EUR;1;Fender Limited Edition Player Jazz Bass 2023 - Pacific Peach
 9989304320329;777.59;20;EUR;1;Fender Mexico FSR Stratocaster 1995 - Vintage White
 10330894664009;680.39;20;EUR;1;Fender Mexico Stratocaster 1995 - Black
 10341722161481;1263.59;20;EUR;1;Fender MJT 50s Reissue Stratocaster - Gilmour Style - Heavy Relic
 10338185642313;1263.59;20;EUR;1;Fender MJT 50s Reissue Stratocaster - Purple Metallic - Heavy Relic
+10341701615945;1263.59;20;EUR;1;Fender MJT 50s Reissue Telecaster - Butterscotch Blonde - Heavy Relic
 10338197209417;1263.59;20;EUR;1;Fender MJT 60s Reissue Stratocaster - Burgundy Mist - Heavy Relic
 10338167488841;1263.59;20;EUR;1;Fender MJT 60s Reissue Stratocaster - Candy Apple Green - Heavy Relic
 10338162704713;777.59;20;EUR;1;Fender MOD Stratocaster 2011 - Fiesta Red Nitro
@@ -560,6 +561,7 @@ product_code;price_gross;vat;currency;stock;name
 10228063895881;1662.11;20;EUR;1;Gibson Les Paul Classic 2015 - Vintage Sunburst
 10329359909193;3232.43;20;EUR;1;Gibson Les Paul Custom Lite 1989 - Heritage Cherry Sunburst
 10033181557065;2369.51;20;EUR;1;Gibson Les Paul Custom Shop 1998 - Catalina Red
+10379467522377;3401.99;20;EUR;1;Gibson Les Paul Custom Shop 59 Reissue R9 2006 - Cherry Sunburst
 10255401746761;3232.43;20;EUR;1;Gibson Les Paul Deluxe 1980 - Natural
 10091978129737;1185.83;20;EUR;1;Gibson Les Paul Junior 2010 - TV Yellow
 10367099535689;1263.59;20;EUR;1;Gibson Les Paul Junior 2016 - Vintage Sunburst
@@ -568,7 +570,6 @@ product_code;price_gross;vat;currency;stock;name
 10294148235593;1108.07;20;EUR;1;Gibson Les Paul Special 2001 - Ebony
 10349647266121;1263.59;20;EUR;1;Gibson Les Paul Special 2001 - Red
 10141672898889;1141.55;20;EUR;1;Gibson Les Paul Special 2005 - Faded Cherry
-10047311380809;1421.27;20;EUR;1;Gibson Les Paul Special DC 2005 - TV Yellow
 10231420584265;1108.07;20;EUR;1;Gibson Les Paul Special Tribute 2021 - Faded Black
 10185962914121;1580.03;20;EUR;1;Gibson Les Paul Standard 1999 - Ebony
 10367168446793;1846.79;20;EUR;1;Gibson Les Paul Standard 2022 - Heritage Cherry Sunburst
@@ -723,7 +724,6 @@ product_code;price_gross;vat;currency;stock;name
 9961956573513;339.11;20;EUR;1;Kramer Striker 2022 - Trans Purple
 10104025678153;790.55;20;EUR;1;Kramer Volante HHFR 2024 - Defender Red
 10220496060745;1943.99;20;EUR;1;Lake Placid Custom by Andre Waldenmaier HSS Floyd Rose 1995 - See Thru Green
-10365219602761;155.51;20;EUR;1;LPD Pedals Sixty8 Overdrive Effect Pedal
 10305877147977;126.35;20;EUR;1;LY-Rock Klon KTR Effektpedal
 10099292275017;439.55;20;EUR;1;Maestro by Gibson Les Paul 2013 - Red
 10105098076489;3887.99;20;EUR;1;Marshall JCM800 2203 MKII 100W + 1960A 4x12 Cabinet – 1995 Limited Edition Red Stack
@@ -783,6 +783,7 @@ product_code;price_gross;vat;currency;stock;name
 10240620200265;646.91;20;EUR;1;Ovation S778 Elite Special 2002 - Natural
 10062276100425;32.39;20;EUR;1;Pat’s Guitars Deluxe E-Gitarren Gigbag
 10169741345097;131.21;20;EUR;1;Pearl DS-06 Distortion 1980s Effect Pedal - Vintage Japan
+10367166185801;291.59;20;EUR;1;Peavey Generation EXP 2003-2005 - Sunburst
 10367170576713;3110.39;20;EUR;1;PRS Custom 24 10-Top 1997 - Flamed Maple Grey Black
 10240975405385;1385.63;20;EUR;1;PRS Mira 2008 - Lilac Mist
 10231389749577;1385.63;20;EUR;1;PRS S2 Standard 22 - Antique White
@@ -790,6 +791,7 @@ product_code;price_gross;vat;currency;stock;name
 10197938897225;831.59;20;EUR;1;PRS SE Chris Robertson Signature 2016 - Kentucky Blueburst
 10357025800521;680.39;20;EUR;1;PRS SE Custom 2019 - Vintage Sunburst
 10209927364937;693.35;20;EUR;1;PRS SE Custom 22 2007 - Transparent Black
+10379460641097;680.39;20;EUR;1;PRS SE Custom 24 2009 - Trans Black
 10338163360073;680.39;20;EUR;1;PRS SE Custom 24 2009 - Whale Blue
 10211613737289;746.27;20;EUR;1;PRS SE Custom 24 2012 - Cherry Red
 10067502039369;923.39;20;EUR;1;PRS SE Hollowbody Standard 2021 - Fire Red Burst
