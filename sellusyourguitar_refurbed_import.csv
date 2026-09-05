@@ -1,4 +1,6 @@
 product_code;price_gross;vat;currency;stock;name
+c0c58dc9-f037-d724-10e2-b4a2bcddf88c;550.8;20;GBP;1;Tokai Firebird FB-53 Vintage Sunburst 2022 Electric Guitar
+85891085-1ec9-87e2-758e-6eab7a23b711;1863.0;20;GBP;1;Epiphone Elitist 1965 Casino Outfit Sunburst 2010 Hollow Body Electric Guitar
 a5bbaa84-4787-1620-d922-fcadf10042c4;815.4;20;GBP;1;Harmony Rebel Pearl White 2020 Electric Guitar
 a79cdedd-7faf-ac6b-d658-aa54a5c50ebf;583.2;20;GBP;1;Ibanez Sound Gear SR900FM Transparent Black Flat 2006 Electric Bass
 652045da-d284-0055-b90a-f3d55c4e7f1e;831.6;20;GBP;1;Charvel Pro-Mod San Dimas Style 1 Snow White 2017 Electric Guitar
@@ -40,7 +42,6 @@ bf26796b-d1e5-9767-a191-b10c50a35289;291.6;20;GBP;1;LAVA GENIE White Foldable Di
 f9077b22-4db8-a2a8-dbfd-ec8736b5e94d;378.0;20;GBP;1;Epiphone Dot Natural 2017 Semi-Hollow Electric Guitar
 c852fe45-d017-7517-cd7e-f5b6cebe318b;405.0;20;GBP;1;Gretsch G2420 Streamliner Cadillac Green 2021 Hollow Electric Guitar
 6b0c12d5-ef36-e47d-bf6d-58056657de60;378.0;20;GBP;1;Gretsch G2622T Streamliner Village Amber 2025 Semi-Hollow Electric Guitar
-54d2c015-b31a-e8af-b512-f58e152fa6f6;637.2;20;GBP;1;Fender Vintera '60s Stratocaster 3-Color Sunburst 2022 Electric Guitar
 7e0e7470-3367-cfc6-23d4-f88ba973c955;669.6;20;GBP;1;Schecter C-1 Exotic Natural Ebony 2021 Electric Guitar
 e482e6de-f431-0e7f-1763-05834e60e9ba;756.0;20;GBP;1;Schecter Sun Valley Super Shredder FR S LH Riviera Blue 2021 Electric Guitar
 25229f23-a555-9211-a8f4-1139df118529;334.8;20;GBP;1;Friedman IR-D Dual Tube Preamp & DI All-Valve Preamplifier Pedal
@@ -89,7 +90,6 @@ d263dcbf-1006-1237-5574-d60813f00a3f;540.0;20;GBP;1;Peerless Tonemaster Custom W
 941972e9-8c7b-7a8d-4581-08b925b3f380;2349.0;20;GBP;1;Gibson ES-335 'Dot' Ebony 2023 Semi-Hollow Electric Guitar
 9443a680-45a3-21d8-f95a-a7afa5ba0710;2268.0;20;GBP;1;Gibson Memphis ES-335 Bass Vintage Sunburst 2013 Semi-Hollow Electric Bass
 1c0d62f7-e91b-8958-8828-307b00f4a595;982.8;20;GBP;1;Godin LGX-SA Trans Amber 2001 Electric Synth Access Guitar
-227dd036-9be2-eef9-4ef6-0369a834c2ed;1917.0;20;GBP;1;Taylor 712e 12-Fret Gloss Natural 2017 Electro-Acoustic Guitar
 c8c63de8-9e8e-d84f-27e4-cfa03072d0c2;615.6;20;GBP;1;Epiphone B.B King Lucille Ebony 2008 Semi-Hollow Electric Guitar
 677b098c-5139-91e1-0561-e9a31a194db2;642.6;20;GBP;1;Kramer Nightswan Polka Dot 2021 Electric Guitar
 65a0c42e-266a-95e0-a283-1629c943e512;642.6;20;GBP;1;Sigma SDM-18 Natural Gloss 2016 Acoustic Guitar
@@ -258,7 +258,6 @@ d1a904c9-e968-01e1-4bfa-4ab913c077b0;280.8;20;GBP;1;Danelectro Danoblaster Innue
 4e595b54-6229-7c80-ac2d-11542ecd8451;318.6;20;GBP;1;Squier Stratocaster Made in Japan K Serial Black c.1991 Electric Guitar
 1b85a70b-4f44-0e4d-55a7-64c63a16b4b7;307.8;20;GBP;1;Epiphone Dot Studio Cherry 2014 Semi-Hollow Electric Guitar
 74c24fbe-b983-1869-d1bc-302eaa34b918;340.2;20;GBP;1;Sire Marcus Miller U5 Short Mint 2025 Electric Bass
-2a7e965b-2673-42e3-50de-ef0600b408c8;621.0;20;GBP;1;Fender Vintera '60s Stratocaster 3-Colour Sunburst 2022 Electric Guitar
 fbd495db-3ca3-1f75-35b6-413df9fc1777;432.0;20;GBP;1;Sammick LN-20FRQM Faded Sunburst 2010 Electric Guitar
 2311a68f-bbcc-916d-31e6-cd3b3dff7228;648.0;20;GBP;1;Spector Legend 6 Classic Black Cherry 6-String Electric Bass
 1552bc2d-69ab-2e56-7346-f2691bfa6557;318.6;20;GBP;1;Guild Surfliner HH Canyon Dusk 2022 Electric Guitar
