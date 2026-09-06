@@ -77,7 +77,6 @@ product_code;price_gross;vat;currency;stock;name
 10016103891273;416.87;20;EUR;1;Charvel by Jackson CDS 1994 - Black
 9759565021513;460.07;20;EUR;1;Charvel by Jackson HSS Superstrat 1989-1991 - Black
 10016042320201;583.19;20;EUR;1;Charvel by Jackson Superstrat - Red
-10357924823369;1166.39;20;EUR;1;Charvel Pro Mod DK22 Satchel Signature 2021 - Satin White Bengal
 10316909019465;923.39;20;EUR;1;Charvel Surfcaster 2005 - Black
 9751156588873;402.83;20;EUR;1;Charvette by Charvel 250SW 1989 - White
 9948761719113;485.99;20;EUR;1;Cheri Telecaster Thinline - Sunburst
@@ -487,6 +486,7 @@ product_code;price_gross;vat;currency;stock;name
 10349643104585;971.99;20;EUR;1;Fender Japan Stratocaster 1983 - Vintage White
 10131738755401;790.55;20;EUR;1;Fender Japan Stratocaster 1993-1994 - Red Repaint - Vintage
 10316333908297;831.59;20;EUR;1;Fender Japan Stratocaster 1997-2000 - Sunburst
+10330880770377;242.99;20;EUR;1;Fender Japan Stratocaster Body - Black
 10330881327433;242.99;20;EUR;1;Fender Japan Stratocaster Body - Sunburst
 10341671862601;242.99;20;EUR;1;Fender Japan Stratocaster Body - Sunburst
 10364991603017;1166.39;20;EUR;1;Fender Japan TC-72 Reissue Telecaster Custom 1997-2000 - Black
@@ -535,7 +535,6 @@ product_code;price_gross;vat;currency;stock;name
 10358210494793;874.79;20;EUR;1;Fender Vintera 60s MOD PF Telecaster 2020 - Lake Placid Blue
 10220051431753;701.99;20;EUR;1;Fender Vintera 60s Stratocaster 2019 - Sunburst
 10216726659401;874.79;20;EUR;1;Fernandes Telecaster 1974 - Natural - Vintage Japan
-10181802525001;439.55;20;EUR;1;FGN Fujigen J-Standard Strat 2012 - Lake Placid Blue
 10357252686153;680.39;20;EUR;1;FGN Fujigen Japan J-Classic Stratocaster 2015 - Sunburst
 10193134256457;831.59;20;EUR;1;FGN Fujigen Japan J-Standard HSS 2020
 10358269608265;680.39;20;EUR;1;FGN Fujigen Japan Neo Classic Stratocaster 2010 - Candy Apple Red
@@ -795,7 +794,6 @@ product_code;price_gross;vat;currency;stock;name
 10067502039369;923.39;20;EUR;1;PRS SE Hollowbody Standard 2021 - Fire Red Burst
 10236613230921;831.59;20;EUR;1;PRS SE Kestrel Bass 2017 - Sunburst
 10092560384329;874.79;20;EUR;1;PRS SE Nick Catanese Signature 2010 - Black
-10023465976137;632.87;20;EUR;1;PRS SE Soapbar II 2006 - Green Burst
 10240933921097;646.91;20;EUR;1;PRS SE Standard 2005 - Camo
 10230962717001;831.59;20;EUR;1;PRS SE Zach Myers Signature 2010 - Royal Blue
 10181841191241;1316.51;20;EUR;1;PRS USA S2 Mira 2014 - Vintage Cherry
@@ -814,7 +812,6 @@ product_code;price_gross;vat;currency;stock;name
 10305395425609;369.35;20;EUR;1;Schecter Tempest Hercules LTD 2022
 10315841306953;1292.75;20;EUR;1;Seventy Seven Japan Exrubato CTM JT 2022 - Trans Black
 10315895210313;1292.75;20;EUR;1;Seventy Seven Japan Exrubato STD JT 2021 - Aged Red
-10316410716489;1200.95;20;EUR;1;Seventy Seven Japan Exrubato STD JT 2021 - Aged Red
 10315900256585;1292.75;20;EUR;1;Seventy Seven Japan Exrubato STD JT 2024 - Iced Tea Burst
 10349665616201;1263.59;20;EUR;1;Seventy Seven Japan Exrubato-STD 2020 - Cherry Red
 10315875909961;1292.75;20;EUR;1;Seventy Seven Japan HAWK STD JT 2023 - Antique Brown
