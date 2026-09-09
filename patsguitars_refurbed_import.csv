@@ -490,7 +490,6 @@ product_code;price_gross;vat;currency;stock;name
 10294092824905;831.59;20;EUR;1;Fender Japan JV Stratocaster MOD 1982 - Natural
 10366532682057;1360.79;20;EUR;1;Fender Japan Mami Signature Stratocaster 2025 - Omochi Vintage White
 10328355209545;831.59;20;EUR;1;Fender Japan PB-43 Precision Bass 2004-2005 - Sunburst
-10365211509065;874.79;20;EUR;1;Fender Japan PB-50 Precision Bass 1994-1995 - Sunburst
 10358273016137;971.96;20;EUR;1;Fender Japan Precision Bass 2006-2008 - Black
 10236596388169;462.23;20;EUR;1;Fender Japan SF-456 Stratocaster 1984-1987 - Black
 10379443962185;874.79;20;EUR;1;Fender Japan ST-362 Stratocaster 1993-1994 - Fiesta Red
@@ -507,6 +506,7 @@ product_code;price_gross;vat;currency;stock;name
 10330880901449;242.99;20;EUR;1;Fender Japan Telecaster Body - Black
 10330881098057;242.99;20;EUR;1;Fender Japan Telecaster Body - Blue
 10349643923785;242.99;20;EUR;1;Fender Japan Telecaster Body - Red Repaint
+9903115764041;665.27;20;EUR;1;Fender Japan TL-235M Telecaster 1992-1993 - Blonde - Vintage
 10366052630857;874.79;20;EUR;1;Fender Japan TL-STD Telecaster 1994-1995 - Vintage White
 10305790804297;242.99;20;EUR;1;Fender Japan TL-STD Telecaster Body - Black
 10033164321097;1185.83;20;EUR;1;Fender Japan TL62B 62’ Telecaster 2017 - Ice Blue Metallic
@@ -631,6 +631,7 @@ product_code;price_gross;vat;currency;stock;name
 10249277047113;738.71;20;EUR;1;Greco EG Standard Les Paul 1979 - Cherry Sunburst
 10292870480201;831.59;20;EUR;1;Greco EG-450 Les Paul Standard 1979 - Tobacco Sunburst
 10240935526729;646.91;20;EUR;1;Greco EG-480 Les Paul Custom 1970s - Sunburst
+10315862802761;874.79;20;EUR;1;Greco EG-480 Les Paul Standard 1977 - Sunburst
 10249091383625;831.59;20;EUR;1;Greco EG-500 Standard Les Paul 1977 - Ebony
 10199136567625;790.55;20;EUR;1;Greco EG-550 Rock Spirits Les Paul 1992 - Cherry Sunburst
 10016030785865;997.91;20;EUR;1;Greco EG-600 Les Paul Custom 1978 - Black - Vintage Japan
@@ -665,13 +666,13 @@ product_code;price_gross;vat;currency;stock;name
 10131677217097;615.59;20;EUR;1;Greco Super Sounds Stratocaster 1976 - Vintage White
 10249344155977;738.71;20;EUR;1;Greco Super Sounds Stratocaster 1977 - Natural
 10136127766857;701.99;20;EUR;1;Greco Super Sounds Stratocaster 1977 - Vintage White
-10341709709641;485.99;20;EUR;1;Greco Violin Bass 1970s - Sunburst
 10316896338249;1846.79;20;EUR;1;Gretsch 6120 Chet Atkins 1990 - Orange Stain
 10255394308425;2585.51;20;EUR;1;Gretsch 6120DE Duane Eddy Signature 1997 - Ebony Burst
 10292888568137;1754.99;20;EUR;1;Gretsch 6120TM Chet Atkins 1993 - Orange Stain
 10227918635337;1754.99;20;EUR;1;Gretsch G6228FM Jet Players Edition 2018 - Crimson Stain
 10152898527561;701.99;20;EUR;1;Grover Jackson Flying V - Silver Sparkle
 9766925009225;345.59;20;EUR;1;Grover Jackson GJr‑R40SP Mini Rhoads 1996 - Dots
+9843703054665;355.31;20;EUR;1;Grover Jackson IG 1996 - Trans Red
 10341891408201;680.39;20;EUR;1;Guild Polara 2017 - Black
 10169839681865;96.22;20;EUR;1;Guyatone Hard Rocker HR2 Effect Pedal 1999 - Vintage Japan
 10169789776201;96.22;20;EUR;1;Guyatone HR2 Hard Rocker 1995 Effect Pedal - Vintage Japan
@@ -771,7 +772,6 @@ product_code;price_gross;vat;currency;stock;name
 9729073578313;3887.99;20;EUR;1;o3 Guitars Radon - Alejandro Ramirez - Red
 10330784268617;369.35;20;EUR;1;Ortega Model 60-RE11LTD - Natural
 10357203173705;485.99;20;EUR;1;ORTEGA Tour Player RTP LTD - Natur
-10330999259465;834.83;20;EUR;1;Orville by Gibson Thunderbird Bass 1991 - Sunburst - Vintage Japan
 10141863477577;790.55;20;EUR;1;Orville Les Paul 1989-1993 - Cherry Sunburst - Vintage Japan
 10240927924553;738.71;20;EUR;1;Orville Les Paul 1990 - Ebony
 10141697212745;874.79;20;EUR;1;Orville Les Paul 1993 - Foto Flame - Vintage Japan
@@ -791,7 +791,9 @@ product_code;price_gross;vat;currency;stock;name
 10240635306313;738.71;20;EUR;1;Ovation 1869 Custom Legend 2001 - Black
 10240686424393;646.91;20;EUR;1;Ovation 6778 Elite Standard 1998 - Natural
 9808825811273;1846.79;20;EUR;1;Ovation Deacon 12-String 1975-1980 - Sunburst
+10294171926857;1457.99;20;EUR;1;Ovation Double Neck - Defekt
 10315897635145;646.91;20;EUR;1;Ovation Elite 1868 - Tobacco Sunburst
+10294160130377;462.23;20;EUR;1;Ovation S771N Balladeer Special 2001 - Natural
 10240620200265;646.91;20;EUR;1;Ovation S778 Elite Special 2002 - Natural
 10062276100425;32.39;20;EUR;1;Pat’s Guitars Deluxe E-Gitarren Gigbag
 10169741345097;131.21;20;EUR;1;Pearl DS-06 Distortion 1980s Effect Pedal - Vintage Japan
