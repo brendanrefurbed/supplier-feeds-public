@@ -1,4 +1,8 @@
 product_code;price_gross;vat;currency;stock;name
+40d4e460-612d-a9a7-de2f-de8293636bc3;988.2;20;GBP;1;Line 6 Helix Rack Unit w/Helix Control Footswitch & SP1-L6 Expression Pedal
+cb36cbf3-97a6-cfd6-f9e7-350654408a99;842.4;20;GBP;1;ESP LTD EC-1000ET Vintage Honey Burst 2016 Electric Guitar
+9a143b44-0b6f-d3f9-b872-af24ef5de4be;928.8;20;GBP;1;Ibanez EHB1505MS-PLF Multi-Scale 2019 Headless 5-String Electric Bass
+8715b394-a9b4-cb26-7270-b5a18339351c;1247.4;20;GBP;1;Yamaha AC5R A.R.E Vintage Natural 2025 Electro-Acoustic Guitar
 42d6f1c3-c8b9-4f40-7d49-2140deffd08d;2089.8;20;GBP;1;Gibson Les Paul Standard Premium Plus Desert Burst 2013 Electric Guitar
 3fa26df1-fd1f-844e-d415-57e9d88bfde8;453.6;20;GBP;1;Vintage Gordon Giltrap VE3000MGG Natural Satin Electro Acoustic Guitar
 c7c1f35d-af5e-76ed-d160-3c23fca7d258;2592.0;20;GBP;1;Emerald X30-12 Redwood Burl 2022 12-String Electro Acoustic Guitar
@@ -147,8 +151,6 @@ dee5af40-a9ed-a7c1-0fd6-853a4f4d3362;4185.0;20;GBP;1;Gibson 1954 ES-175D VOS Lim
 76f2addd-21bf-daed-a31d-86bded5e9432;491.4;20;GBP;1;Yamaha Silent Guitar SLG200N 2017 Nylon String Electro Acoustic Guitar
 71636343-5283-5a94-ccb4-ad79bfe7e256;3888.0;20;GBP;1;Martin OMJM 20th Anniversary Platinum Gray Burst 2024 John Mayer Signature
 1eecfac9-fc26-adba-c276-d93c2b210137;221.4;20;GBP;1;Gibson Late 70’s Dirty Fingers T.Top Neck Humbucker w/ Gold Bobbins
-dfa614f4-4f92-1814-af89-0bf436ebef57;1220.4;20;GBP;1;Fender American Professional Telecaster Candy Apple Red 2017 USA Electric Guitar
-1c4fcc0a-4298-c9ac-f1b0-b4274885ed56;523.8;20;GBP;1;Line 6 Variax Standard White 2015 Modelling Electric Guitar
 e066a5f0-7e0f-e350-26c2-9bfac5f33533;583.2;20;GBP;1;Kemper Profiler PowerRack Digital Amp Profiler
 2c247fcb-cf85-9477-08ec-753b714277da;556.2;20;GBP;1;Fender California Vintage Palomino Sienna Sunburst 2023 Electro-Acoustic Guitar
 d41420e6-f3c0-79db-eca7-b78095326208;216.0;20;GBP;1;Ibanez Super 80 ‘Flying Finger’ Gold Vintage c.’70s Passive  Humbucking Pickups
@@ -194,7 +196,6 @@ c591f2ef-77bd-9d0e-1890-81d83f1cecf6;1690.2;20;GBP;1;Gibson Les Paul Classic Her
 8457ef5f-6bec-f38b-d020-c8827a2cdb01;2376.0;20;GBP;1;Dowina Custom Build Grand Auditorium 2021 Hand Made Acoustic Guitar
 ce23d6f0-32b1-c4a0-1085-3c7f6346ee45;669.6;20;GBP;1;Gretsch Electromatic G5422T Orange Stain 2016 Semi-Hollow Electric Guitar
 eec4325a-faed-d4aa-4501-3b05c420402c;2025.0;20;GBP;1;Gibson EB-0 Refinished White c.1966-'69 Short Scale Electric Bass Guitar
-8d17d3bc-f45d-140c-b13b-6d1da23f6b23;847.8;20;GBP;1;Fender Chris Shiflett Telecaster Deluxe Shoreline Gold 2023 Electric Guitar
 998d1e41-fa6e-6af9-9d79-9e3a1dc92a3a;496.8;20;GBP;1;Grassroots Tetsuya Signature 5 String Active Electric Bass Guitar
 24e82535-035d-45b8-4701-122ec8d85280;2786.4;20;GBP;1;PRS DGT Tobacco Sunburst 2024 Electric Guitar
 1d2a873e-ce56-a25a-eb96-e4236f4f1e68;1566.0;20;GBP;1;Ernie Ball Music Man StingRay 2 EQ H Black 2010 Electric Bass
@@ -210,6 +211,7 @@ faec9a76-aaa0-5e92-5667-41f1672718b8;1161.0;20;GBP;1;Fender American Series Jazz
 c465229a-9299-267a-91bd-42399de9958b;1630.8;20;GBP;1;Fender 60th Anniversary Triple Jazzmaster Daphne Blue 2018 Electric Guitar
 6eeef135-a171-116d-130b-61bc1059b775;610.2;20;GBP;1;Ibanez AF105F Natural Hollow Body 2006 Electric Guitar
 35a3e881-f867-1de5-f5ec-1f55a944fbb7;437.4;20;GBP;1;D'Angelico Excel Lexington Auburn 2020 Electro-Acoustic Guitar
+4de1692b-ddab-0a36-6115-dc63aee59e36;988.2;20;GBP;1;Taylor GTe Blacktop 2022 Electro Acoustic Guitar
 8ef6b390-9f1f-810b-265c-9a3d1b41f6af;1015.2;20;GBP;1;Fender J Mascis Telecaster Bottle Rocket Blue Flake 2021 Electric Gui
 f75fe7bd-7693-8285-2479-ca44cfc39a4e;54000.0;20;GBP;1;Fender Custom Shop EVH Frankenstein Replica 1 of 300 Masterbuilt by Chip Ellis
 0421faba-8d63-07bd-f25d-2cf7f3e5246b;2370.6;20;GBP;1;Guild M75 Custom Order 1962 USA Red Refin. Electric Guitar
