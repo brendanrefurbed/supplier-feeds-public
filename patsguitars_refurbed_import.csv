@@ -32,7 +32,6 @@ product_code;price_gross;vat;currency;stock;name
 10381683392841;971.99;20;EUR;1;Blade Levinson MG Mustang 1990s - Vintage White
 10374418596169;971.99;20;EUR;1;Blade Levinson R1 Classic Stratocaster 1988-1989 - Red
 10381603438921;680.39;20;EUR;1;Blade Levinson Stratocaster 1989 - Black
-10305869119817;145.79;20;EUR;1;Boss BF-2 Flanger Effektpedal - Japan
 10305823473993;145.79;20;EUR;1;Boss CE-3 Chorus Effektpedal - Japan
 10305861648713;145.79;20;EUR;1;Boss CE-3 Chorus Effektpedal - Japan
 10305868071241;145.79;20;EUR;1;Boss CE-3 Chorus Effektpedal - Japan
@@ -469,7 +468,6 @@ product_code;price_gross;vat;currency;stock;name
 10365854581065;1263.59;20;EUR;1;Fender Japan 66 Reissue Mustang 1999-2002 - Vintage White
 10016150716745;1330.55;20;EUR;1;Fender Japan 66’ Reissue Jaguar 2004-2005 - Sunburst
 10316379881801;1200.95;20;EUR;1;Fender Japan 66’ Reissue Mustang 2002-2004 - Vintage White
-10292782334281;1108.07;20;EUR;1;Fender Japan 69 Reissue Mustang 1993-1994 - Vintage White
 10328248648009;1200.95;20;EUR;1;Fender Japan 69 Reissue Mustang 1999-2002 - Vintage White
 10358271902025;1263.59;20;EUR;1;Fender Japan 69 Reissue Mustang 2012 - Candy Apple Red - Matching Headstock
 10381567689033;971.99;20;EUR;1;Fender Japan 70s Reissue Telecaster 1984-1987 - Natural
@@ -571,7 +569,6 @@ product_code;price_gross;vat;currency;stock;name
 10131764445513;831.59;20;EUR;1;Gibson Flying V Melody Maker 2011 - Ebony
 10381514277193;1749.59;20;EUR;1;Gibson J-45 Deluxe 1982 - Vintage Sunburst
 10228063895881;1580.03;20;EUR;1;Gibson Les Paul Classic 2015 - Vintage Sunburst
-10381690241353;1749.59;20;EUR;1;Gibson Les Paul Classic 2017 - Tobacco Sunburst
 10329359909193;3232.43;20;EUR;1;Gibson Les Paul Custom Lite 1989 - Heritage Cherry Sunburst
 10033181557065;2369.51;20;EUR;1;Gibson Les Paul Custom Shop 1998 - Catalina Red
 10255401746761;3232.43;20;EUR;1;Gibson Les Paul Deluxe 1980 - Natural
@@ -646,7 +643,6 @@ product_code;price_gross;vat;currency;stock;name
 10357237612873;874.79;20;EUR;1;Greco EGC-480 Les Paul Custom 1990 - Ebony
 10357332771145;874.79;20;EUR;1;Greco EGC-480 Les Paul Custom 1990 - Ebony
 10365234544969;1263.59;20;EUR;1;Greco EX800 Explorer 1978 - Vintage White
-10358175826249;971.99;20;EUR;1;Greco Flying V 1982 - Ebony
 10210054406473;415.79;20;EUR;1;Greco GOB-700 Bass 1978 - Defekt
 9729076822345;777.59;20;EUR;1;Greco J-80E 1991 - Sunburst
 10349680230729;680.39;20;EUR;1;Greco Jazz Bass 1970s - Sunburst
