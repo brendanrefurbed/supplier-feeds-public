@@ -4,7 +4,6 @@ product_code;price_gross;vat;currency;stock;name
 10192923165001;131.21;20;EUR;1;Amdek FLK-100 Flanger Effect Pedal
 10381542195529;77.75;20;EUR;1;Ampeg Scrambler Bass Overdrive Effektpedal
 9692662759753;874.79;20;EUR;1;Ampete Two Head 20W
-10305818919241;126.35;20;EUR;1;Animals Pedal 1927 Home Run King Compressor Effektpedal
 10305779237193;126.35;20;EUR;1;Animals Pedal 1927 Homerun King Compressor Effektpedal
 10305778581833;136.07;20;EUR;1;Animals Pedal Surfing Bear Overdrive Effektpedal
 10305782350153;145.79;20;EUR;1;Animals Pedal Tioga Road Cycling Distortion Effektpedal
@@ -111,7 +110,6 @@ product_code;price_gross;vat;currency;stock;name
 10365914120521;971.99;20;EUR;1;Dean Dimebag Barrel Signature 2020 - Dime o Flage - Defect
 10349643432265;971.99;20;EUR;1;Dean Dimebag Darrel Signature Razorback 2006 - Black Silver
 10349682524489;388.79;20;EUR;1;Dean Sarasota 2006 - Cherry Sunburst
-9974454354249;539.99;20;EUR;1;Dean VMNTX Dave Mustaine Signature 2010 - Silver
 10176909312329;139.96;20;EUR;1;Digitech Eric Clapton Signature Crossroads Overdrive Effect Pedal
 10192902390089;131.21;20;EUR;1;DOD FX25 Envelope Filter Effect Pedal - USA
 10305810006345;126.35;20;EUR;1;DOD FX25 Envelope Filter Effektpedal - USA
@@ -164,7 +162,6 @@ product_code;price_gross;vat;currency;stock;name
 10153354592585;18.35;20;EUR;1;Ernie Ball Slash Signature Gitarrensaiten 11-48
 10153363669321;6.47;20;EUR;1;Ernie Ball Super Slinky Gitarrensaiten 9-42
 10153364128073;16.19;20;EUR;1;Ernie Ball Tim Henson Signature Gitarrensaiten 9,5-46
-10067785285961;1052.99;20;EUR;1;ESP Action Precision Bass 1994 - Sunburst - Vintage Japan
 10212565025097;790.55;20;EUR;1;ESP AS-300 Alfee Akustik - Black
 9937240293705;3110.39;20;EUR;1;ESP E-II Eclipse - Tobacco Burst
 10057509863753;1737.71;20;EUR;1;ESP FA-II Flying A „The Alfee“ - White
@@ -452,7 +449,6 @@ product_code;price_gross;vat;currency;stock;name
 10047280906569;1108.07;20;EUR;1;Fender Highway One Stratocaster 2006 - Natural
 10231382573385;1141.55;20;EUR;1;Fender Highway One Stratocaster 2008 - Sand
 10381559562569;971.99;20;EUR;1;Fender Japan 52 Reissue Telecaster 1994-1995 - Fotoflame - Butterscotch Blonde
-10328356979017;923.39;20;EUR;1;Fender Japan 54 Reissue Stratocaster 1989-1990 - Sunburst
 10349682000201;971.99;20;EUR;1;Fender Japan 54 Reissue Stratocaster 1991 - Metallic Gold - MOD
 10379451531593;971.99;20;EUR;1;Fender Japan 57 Reissue Precision Bass 1993-1994 - Candy Apple Red
 10379453530441;874.79;20;EUR;1;Fender Japan 57 Reissue Stratocaster 1999-2002 - Fiesta Red
@@ -477,7 +473,6 @@ product_code;price_gross;vat;currency;stock;name
 10249153872201;1108.07;20;EUR;1;Fender Japan 72 Reissue Stratocaster ST72-86DSC 2006-2008 - Vintage White
 10357313143113;1360.79;20;EUR;1;Fender Japan 72 Reissue Telecaster Custom 2010-2011 - White Blonde
 10349642154313;1263.59;20;EUR;1;Fender Japan 77 Reissue Mustang 2007-2010 - Black
-10365110026569;971.99;20;EUR;1;Fender Japan Aerodyne Jazz Bass 2002-2004 - Black
 10329396969801;923.39;20;EUR;1;Fender Japan Aerodyne Stratocaster 2012 - Old Candy Red
 10236555952457;1108.07;20;EUR;1;Fender Japan CHAR-MG 69 Reissue Mustang 2019 - Olympic White
 10349689373001;971.99;20;EUR;1;Fender Japan Hot Rod Stratocaster 1992-1993 - Red Sunburst
@@ -698,7 +693,6 @@ product_code;price_gross;vat;currency;stock;name
 9903021883721;369.35;20;EUR;1;Ibanez EX Series EX170L Lefthand 1993 - Black
 10231359471945;1141.55;20;EUR;1;Ibanez Iceman ICT700 2008 - Black
 10249198829897;1263.59;20;EUR;1;Ibanez Iceman ICT700 2008 - Black
-10080957038921;790.55;20;EUR;1;Ibanez Les Paul 2350 - Black
 10023456702793;1016.27;20;EUR;1;Ibanez Les Paul Custom Pre Lawsuit 1973 - Ebony
 10249353167177;1385.63;20;EUR;1;Ibanez LR10 Lee Ritenour Signature 1982 - Antique Violin
 10216688189769;1403.99;20;EUR;1;Ibanez Performer PF350 1979 - Cherry Red
@@ -731,7 +725,7 @@ product_code;price_gross;vat;currency;stock;name
 10108742631753;176.03;20;EUR;1;Keiper Shortscale Stratocaster Junior - Black
 10349666337097;680.39;20;EUR;1;Kramer EVH Style - Striped
 10169733742921;658.79;20;EUR;1;Kramer LK-1 1980s - Black
-10277169725769;1263.59;20;EUR;1;Kramer Pacer Deluxe - Metallic Blue
+10277169725769;1200.95;20;EUR;1;Kramer Pacer Deluxe 1985 - Metallic Blue
 9961956573513;305.63;20;EUR;1;Kramer Striker 2022 - Trans Purple
 10104025678153;711.71;20;EUR;1;Kramer Volante HHFR 2024 - Defender Red
 10220496060745;1943.99;20;EUR;1;Lake Placid Custom by Andre Waldenmaier HSS Floyd Rose 1995 - See Thru Green
@@ -761,7 +755,6 @@ product_code;price_gross;vat;currency;stock;name
 9692664168777;4362.11;20;EUR;1;Mesa Boogie MK1 1x12 King Snake Santana Signature 2014 - 190/300
 9729058144585;874.79;20;EUR;1;Michael Kelly Custom Collection Patriot Instinct 2021 - Scorched
 10240973799753;738.71;20;EUR;1;Mosrite Avenger - Cherry Red
-10381681688905;777.59;20;EUR;1;Mosrite The Ventures Model - Black
 10169735709001;1754.99;20;EUR;1;Music Man Benji Madden Signature Silhouette Special 2005 - Madden Green
 10381561200969;1846.79;20;EUR;1;Music Man by Ernie Ball StingRay 3 EQ Bass 2002 - Black
 10349649592649;1457.99;20;EUR;1;Music Man by Ernie Ball StingRay EX Bass 2001 - Black
