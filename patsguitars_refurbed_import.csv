@@ -435,7 +435,6 @@ product_code;price_gross;vat;currency;stock;name
 10141638394185;665.27;20;EUR;1;Fender American Vintage Jaguar Body - Sunburst
 10366187307337;971.99;20;EUR;1;Fender Chilli Beans Moto Signature Mustang 2025 - Black
 10358268199241;971.99;20;EUR;1;Fender Classic Series 69 Reissue Telecaster Thinline 2002 - Black
-10357638234441;3401.99;20;EUR;1;Fender Custom Shop 1969 Stratocaster NOS 2001 - Olympic White
 9997912670537;4859.99;20;EUR;1;Fender Custom Shop Bloodwood Fretless Bass Masterbuilt by Jason Davis 2003
 9989299536201;5831.99;20;EUR;1;Fender Custom Shop Nocaster Telecaster Thinline NOS 2005 - Butterscotch Blonde
 10228045021513;3071.51;20;EUR;1;Fender Custom Shop Showmaster 2026 - Antique Burst
@@ -452,9 +451,7 @@ product_code;price_gross;vat;currency;stock;name
 10379453530441;874.79;20;EUR;1;Fender Japan 57 Reissue Stratocaster 1999-2002 - Fiesta Red
 10365084533065;1069.19;20;EUR;1;Fender Japan 57 Reissue Stratocaster 2004-2005 - Sonic Blue
 10240946176329;785.15;20;EUR;1;Fender Japan 60s Reissue Stratocaster 1991-1992 - Sunburst
-10365133553993;971.99;20;EUR;1;Fender Japan 62 Reissue Precision Bass 1991 - Sunburst
 10387876446537;874.79;20;EUR;1;Fender Japan 62 Reissue Stratocaster 1993-1994 - Vintage White
-10366972592457;1263.59;20;EUR;1;Fender Japan 66 Reissue Jaguar 1997-2000 - Black
 10330905641289;1200.95;20;EUR;1;Fender Japan 66 Reissue Jaguar 1997-2000 - Blue Repaint
 10329392546121;1385.63;20;EUR;1;Fender Japan 66 Reissue Jaguar 1997-2000 - Candy Apple Red - Matching Headstock
 10358272393545;1360.79;20;EUR;1;Fender Japan 66 Reissue Jaguar 2002-2004 - Candy Apple Red - Matching Headstock
@@ -520,7 +517,6 @@ product_code;price_gross;vat;currency;stock;name
 10341722161481;1263.59;20;EUR;1;Fender MJT 50s Reissue Stratocaster - Gilmour Style - Heavy Relic
 10338185642313;1200.95;20;EUR;1;Fender MJT 50s Reissue Stratocaster - Purple Metallic - Heavy Relic
 10341701615945;1263.59;20;EUR;1;Fender MJT 50s Reissue Telecaster - Butterscotch Blonde - Heavy Relic
-10338197209417;1200.95;20;EUR;1;Fender MJT 60s Reissue Stratocaster - Burgundy Mist - Heavy Relic
 10338167488841;1200.95;20;EUR;1;Fender MJT 60s Reissue Stratocaster - Candy Apple Green - Heavy Relic
 10338162704713;738.71;20;EUR;1;Fender MOD Stratocaster 2011 - Fiesta Red Nitro
 9903118680393;3887.99;20;EUR;1;Fender Mustang 1973 - Sunburst
@@ -562,7 +558,6 @@ product_code;price_gross;vat;currency;stock;name
 10381691224393;1943.99;20;EUR;1;Gibson 67 Reissue Flying V 2007 - Cherry
 10316880806217;1662.11;20;EUR;1;Gibson 76’ Reissue Explorer 2004 - Ebony - EMG MOD
 10358278979913;3887.99;20;EUR;1;Gibson Custom Shop ES-335 2012 - Cherry Red
-10357927248201;1652.39;20;EUR;1;Gibson ES-139 2013 - Vintage Sunburst
 10358274851145;2527.19;20;EUR;1;Gibson ES-335 2004 - Iced Tea Sunburst
 10357931409737;2915.99;20;EUR;1;Gibson ES-335 2023 - Vintage Sunburst
 10316288098633;2770.19;20;EUR;1;Gibson Firebird V 2010 - Classic White
@@ -620,7 +615,6 @@ product_code;price_gross;vat;currency;stock;name
 10292862746953;646.91;20;EUR;1;Greco EG Les Paul Custom 1970s - Cherry Sunburst
 10381574537545;680.39;20;EUR;1;Greco EG Les Paul Custom 1970s - Cherry Sunburst
 10292836827465;646.91;20;EUR;1;Greco EG Les Paul Custom 1970s - Sunburst
-10381584859465;874.79;20;EUR;1;Greco EG Les Paul Custom 1986 - Ebony
 10381556646217;874.79;20;EUR;1;Greco EG Les Paul Custom 1990s - Ebony
 10303829213513;831.59;20;EUR;1;Greco EG Les Paul Standard 1977 - Sunburst
 10292840300873;738.71;20;EUR;1;Greco EG Les Paul Standard 1978 - Sunburst
@@ -628,7 +622,6 @@ product_code;price_gross;vat;currency;stock;name
 10256772202825;738.71;20;EUR;1;Greco EG Les Paul Standard 1980s - Cherry Sunburst
 10249277047113;738.71;20;EUR;1;Greco EG Standard Les Paul 1979 - Cherry Sunburst
 10292870480201;831.59;20;EUR;1;Greco EG-450 Les Paul Standard 1979 - Tobacco Sunburst
-10240935526729;646.91;20;EUR;1;Greco EG-480 Les Paul Custom 1970s - Sunburst
 10315862802761;874.79;20;EUR;1;Greco EG-480 Les Paul Standard 1977 - Sunburst
 10249091383625;831.59;20;EUR;1;Greco EG-500 Standard Les Paul 1977 - Ebony
 10199136567625;790.55;20;EUR;1;Greco EG-550 Rock Spirits Les Paul 1992 - Cherry Sunburst
@@ -667,7 +660,6 @@ product_code;price_gross;vat;currency;stock;name
 10255394308425;2585.51;20;EUR;1;Gretsch 6120DE Duane Eddy Signature 1997 - Ebony Burst
 10292888568137;1754.99;20;EUR;1;Gretsch 6120TM Chet Atkins 1993 - Orange Stain
 10227918635337;1754.99;20;EUR;1;Gretsch G6228FM Jet Players Edition 2018 - Crimson Stain
-10152898527561;701.99;20;EUR;1;Grover Jackson Flying V - Silver Sparkle
 9766925009225;345.59;20;EUR;1;Grover Jackson GJr‑R40SP Mini Rhoads 1996 - Dots
 9843703054665;355.31;20;EUR;1;Grover Jackson IG 1996 - Trans Red
 10341891408201;680.39;20;EUR;1;Guild Polara 2017 - Black
@@ -871,7 +863,6 @@ product_code;price_gross;vat;currency;stock;name
 10366186029385;583.19;20;EUR;1;Tokai LBX Electric Bass 1984 - Metallic Red
 10249088827721;923.39;20;EUR;1;Tokai LC-60 Les Paul Custom 1981 - Ebony
 10118113952073;1229.03;20;EUR;1;Tokai Love Rock Les Paul LS162QZ 2023 - Quilt
-10172747776329;1200.95;20;EUR;1;Tokai LS135 Love Rock Les Paul 2020 - Honeyburst
 10212529701193;834.83;20;EUR;1;Tokai LS50 Love Rock Les Paul 1981 - Ebony
 10212539990345;542.15;20;EUR;1;Tokai SG - Cherry Red
 10211605479753;615.59;20;EUR;1;Tokai SG 38SW - Snow White
