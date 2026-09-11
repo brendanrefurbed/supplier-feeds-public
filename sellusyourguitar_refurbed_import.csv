@@ -1,11 +1,12 @@
 product_code;price_gross;vat;currency;stock;name
+1310826237480;491.4;20;GBP;1;Fender Mexican Standard Stratocaster Midnight Blue 2001 Electric Guitar
+1080926239891;610.2;20;GBP;1;Schecter Diamond Series Nick Johnston Signature Atomic White Electric Guitar
 1250826235460;696.6;20;GBP;1;Godin 5th Avenue Kingpin P90 Cognac Burst Hollow Body Archtop Electric Guitar
 10809262398912;550.8;20;GBP;1;Line 6 Helix LT Guitar Multi Effects & Modelling Processor
 1010926237760;2457.0;20;GBP;1;Rickenbacker 360/12 Jetglo 1997 Semi-Hollow 12 String Electric Guitar
 1010926237711;2732.4;20;GBP;1;Gibson Les Paul ES Natural 2016 Semi-Hollow Electric Guitar
 1050926238921;1036.8;20;GBP;1;Fender MIJ Telecaster TL-52-DEX2 Black 1996 Electric Guitar w/Postal Monkey Case
 1080926239896;934.2;20;GBP;1;Schecter C-7 FR SLS Elite Black Fade Burst 2022 7-String Electric Guitar
-1240626218790;378.0;20;GBP;1;Gretsch Streamliner G2622T Imperial Stain 2019 Semi-Hollow Electric Guitar
 1200826233490;1242.0;20;GBP;1;Taylor 414CE 2000 Natural Electro-Acoustic Guitar
 1260826235780;815.4;20;GBP;1;Epiphone Noel Gallagher SuperNova Vintage Sunburst 1997 Electric Guitar
 1280826236460;783.0;20;GBP;1;Yamaha LL-TA Transacoustic Brown Sunburst 2023 Electro-Acoustic Guitar
@@ -53,7 +54,6 @@ product_code;price_gross;vat;currency;stock;name
 1250826235490;1657.8;20;GBP;1;Gibson Les Paul Traditional Desert Burst 2008 Electric Guitar
 1220826234170;556.2;20;GBP;1;Fender Standard Jazz Bass Midnight Blue 1999 Electric Bass
 1310526212341;378.0;20;GBP;1;Eastman PCH2-GACE Thermo-Cure Natural 2021 Electro Acoustic Guitar
-1040826229034;723.6;20;GBP;1;Fender Classic Series '72 Telecaster Deluxe Walnut 2009 Electric Guitar
 1270826236171;3213.0;20;GBP;1;Gibson Custom Shop 1957 Les Paul Standard Reissue Goldtop 2003 Electric Guitar
 1180826232760;583.2;20;GBP;1;Taylor 114e Grand Auditorium Satin Natural 2022 LH Electro-Acoustic Guitar
 1150826232110;615.6;20;GBP;1;Epiphone Les Paul Prophecy Black Aged Gloss 2021 Electric Guitar
@@ -78,7 +78,6 @@ product_code;price_gross;vat;currency;stock;name
 1270726226910;437.4;20;GBP;1;Chapman ML-2 Satin Natural 2013 Electric Guitar
 1110826230941;491.4;20;GBP;1;Fender Modern Player Telecaster Plus Honeyburst 2013 Electric Guitar
 1140826231590;1144.8;20;GBP;1;Gibson SG Standard 120 Ebony 2014 Electric Guitar
-1060826229720;556.2;20;GBP;1;Epiphone Les Paul 1960 Tribute Plus Black Cherry 2015 Electric Guitar
 1020726220992;2133.0;20;GBP;1;Larrivee Ltd Edition OM-03 Bhilwara Satin Natural 2023 Orchestra Model Acoustic
 1020726220995;1323.0;20;GBP;1;Larrivee OM-02 Satin Natural 2013 Electro-Acoustic Guitar
 1020726220996;2835.0;20;GBP;1;Northwood Borneo Rosewood 70 Series OM Gloss Natural 2016 Hand-Made Acoustic
