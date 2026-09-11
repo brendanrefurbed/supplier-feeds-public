@@ -1,4 +1,7 @@
 product_code;price_gross;vat;currency;stock;name
+1250826235460;696.6;20;GBP;1;Godin 5th Avenue Kingpin P90 Cognac Burst Hollow Body Archtop Electric Guitar
+10809262398912;550.8;20;GBP;1;Line 6 Helix LT Guitar Multi Effects & Modelling Processor
+1010926237760;2457.0;20;GBP;1;Rickenbacker 360/12 Jetglo 1997 Semi-Hollow 12 String Electric Guitar
 1010926237711;2732.4;20;GBP;1;Gibson Les Paul ES Natural 2016 Semi-Hollow Electric Guitar
 1050926238921;1036.8;20;GBP;1;Fender MIJ Telecaster TL-52-DEX2 Black 1996 Electric Guitar w/Postal Monkey Case
 1080926239896;934.2;20;GBP;1;Schecter C-7 FR SLS Elite Black Fade Burst 2022 7-String Electric Guitar
@@ -16,15 +19,12 @@ product_code;price_gross;vat;currency;stock;name
 1270826236281;2089.8;20;GBP;1;Rickenbacker 360 Mapleglo 2005 Semi-Hollow Electric Guitar
 1270826236280;2030.4;20;GBP;1;Hofner Jazzica Custom Natural 2003 Archtop Hollow Body Guitar
 1270826235972;1296.0;20;GBP;1;Yamaha SA2000S Sunburst 1979 Semi-Hollow Electric Guitar
-1290826236780;729.0;20;GBP;1;Cordoba C9 Natural Gloss Acoustic Classical Guitar
 1240826235150;448.2;20;GBP;1;Chapman ML1 Modern Baritone Graphite 2017 Electric Guitar
 1070926239381;988.2;20;GBP;1;Blueridge BR-180N Dreadnought Gloss Natural 2011 Electro-Acoustic Guitar
 1020926238112;815.4;20;GBP;1;Peavey T-60 Black 1980 Electric Guitar
 1070926239542;696.6;20;GBP;1;PRS SE Hollowbody Blue Burst 2022 Electric Guitar
 1290826236600;723.6;20;GBP;1;Fender Vintera '70s Jazz Bass 3-Colour Sunburst 2020 Electric Bass
-1310826237330;2565.0;20;GBP;1;Yamaha FG9M Gloss Natural Nitrocellulose Japan Dreadnought Acoustic Guitar
 1280826236400;988.2;20;GBP;1;Gibson Les Paul '100' Studio Manhattan Midnight 2015 Electric Guitar
-1260826235710;2592.0;20;GBP;1;Gibson Les Paul Classic Premium Plus Transparent Amber 1995 Electric Guitar
 1260826235714;1063.8;20;GBP;1;Fender American Stratocaster Black 2005 Electric Guitar w/ Modifications
 1010926237791;432.0;20;GBP;1;Epiphone SG Custom Ebony 2022 Electric Guitar
 1300826237060;756.0;20;GBP;1;ESP LTD Eclipse Custom 1987 Reissue Rainbow Crackle 2023 Electric Guitar
@@ -62,7 +62,6 @@ product_code;price_gross;vat;currency;stock;name
 1130526208103;280.8;20;GBP;1;Rapier 33 Fiesta Red 3 Pickup Electric Guitar
 1060126168421;291.6;20;GBP;1;LAVA GENIE White Foldable Digital Travel Guitar
 1120626215630;378.0;20;GBP;1;Epiphone Dot Natural 2017 Semi-Hollow Electric Guitar
-1100826230610;405.0;20;GBP;1;Gretsch G2420 Streamliner Cadillac Green 2021 Hollow Electric Guitar
 1190826233371;756.0;20;GBP;1;Schecter Sun Valley Super Shredder FR S LH Riviera Blue 2021 Electric Guitar
 1180826233100;2197.8;20;GBP;1;Excelsior Super King Gloss Natural 2009 Hand Made Acoustic Guitar
 1130826231280;410.4;20;GBP;1;Burns Marquee Club Series Black 2010 Electric Guitar
@@ -129,7 +128,6 @@ product_code;price_gross;vat;currency;stock;name
 1240726225961;464.4;20;GBP;1;Jackson Soloist SL3X DX Granite Crystal 2019 Electric Guitar
 1290626220074;464.4;20;GBP;1;Fret-King Super 60 Sunburst circa.2000’s Electric Guitar
 1040826229070;583.2;20;GBP;1;Yamaha LLX6A Gloss Natural 2012 Electro-Acoustic Guitar
-1050826229303;610.2;20;GBP;1;Epiphone 1959 Les Paul Standard Outfit Aged Dark Cherry Burst 2023 Electric
 1050826229301;810.0;20;GBP;1;Epiphone Inspired by Gibson 1959 Les Paul Standard Dark Burst 2024
 1290726227460;988.2;20;GBP;1;Ernie Ball MusicMan SUB 1 Guitar Textured Cinnamon 2004 Electric Guitar
 1090626214511;1215.0;20;GBP;1;G&L Fullerton Deluxe S-500 Cherryburst 2018 Electric Guitar
@@ -210,7 +208,6 @@ product_code;price_gross;vat;currency;stock;name
 1290626219792;1015.2;20;GBP;1;Fender J Mascis Telecaster Bottle Rocket Blue Flake 2021 Electric Gui
 1230626218510;54000.0;20;GBP;1;Fender Custom Shop EVH Frankenstein Replica 1 of 300 Masterbuilt by Chip Ellis
 1200626217543;2370.6;20;GBP;1;Guild M75 Custom Order 1962 USA Red Refin. Electric Guitar
-1230626218430;2613.6;20;GBP;1;Charvel EVH Art Series Red/White/Black Stripe 2006 Electric Guitar
 121022114562;345.6;20;GBP;1;Sterling By Music Man Cutlass CT30SSS Charcoal Frost Electric Guitar
 1210626217877;1274.4;20;GBP;1;Maruszczyk Elwood 4a Gloss White Electric Bass
 1300526212280;1857.6;20;GBP;1;ESP E-II M-II-7 Purple Natural Fade 7-String Electric Guitar
