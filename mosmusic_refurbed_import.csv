@@ -1,6 +1,7 @@
 product_code;price_gross;vat;currency;stock;name
 P256271;1057.32;20;GBP;1;1970s Orange 4x12 Guitar Amplifier Cabinet (Pre-Owned)
 N255114;7.55;20;GBP;1;3.5mm Stereo Plug to 2 x RCA Plugs Lead
+P267055;160.92;20;GBP;1;Alesis SR18 Drum Machine (Pre-Owned)
 P256052;214.92;20;GBP;1;Alto OEX400 Portable PA System (Pre-Owned)
 N255455;68.04;20;GBP;1;Alto Professional Bluetooth Ultimate XLR Stereo Receiver
 N255440;247.32;20;GBP;1;Alto Professional TX415, 700W 15-inch Powered Loudspeaker with Bluetooth
@@ -293,9 +294,10 @@ N254937;21.59;20;GBP;1;Dunlop Trigger Fly Capo, Black
 N255561;23.21;20;GBP;1;Dunlop Trigger Fly Capo, Celtic Knot Special Edition Black
 N254742;21.59;20;GBP;1;Dunlop Trigger Fly Capo, Gun Metal
 N255970;7.23;20;GBP;1;Dunlop White Large Thumbpicks, 4 Pack
+N266992;106.92;20;GBP;1;Dunlop WM31 Mini Supa-Lead
 N255886;35.63;20;GBP;1;D’Addario Auto Lock Guitar Strap, Black
 P266627;322.92;20;GBP;1;E-mu Planet Phatt Rack Synth Module (Pre-Owned)
-P266930;128.52;20;GBP;1;Electro Harmonix Cathedral (Pre-Owned)
+P267014;48.6;20;GBP;1;Electro-Harmonix East River Drive Overdrive Pedal (Pre-Owned)
 P266654;430.92;20;GBP;1;Elektron Digitakt mk1 Drum Machine (Pre-Owned)
 N255590;20.51;20;GBP;1;Elixir 11002 80/20 Bronze Acoustic Guitar Strings with Nanoweb Coating, 10-47
 N254777;21.59;20;GBP;1;Elixir 11052 80/20 Bronze Acoustic Guitar Strings with Nanoweb Coating, 12-53
@@ -320,6 +322,7 @@ N254938;10.79;20;GBP;1;Ernie Ball 4050 Polypro Guitar Strap, Green
 N254713;10.79;20;GBP;1;Ernie Ball 4052 Polypro Guitar Strap, Brown
 N255384;4.09;20;GBP;1;Ernie Ball 4276 Wonder Wipes Fretboard Conditioner, 6 Pack
 N255860;4.09;20;GBP;1;Ernie Ball 4277 Wonder Wipes String Cleaner, 6 Pack
+P267049;85.32;20;GBP;1;Ernie Ball 6166 Volume Pedal (Pre-Owned)
 N255194;7.01;20;GBP;1;Ernie Ball 9179 Everlast 0.6mm Picks, 12 Pack
 N254943;7.01;20;GBP;1;Ernie Ball 9181 Everlast 0.48mm Picks, 12 Pack
 N255240;7.01;20;GBP;1;Ernie Ball 9190 Everlast 0.73mm Picks, 12 Pack
@@ -375,6 +378,7 @@ N254842;32.39;20;GBP;1;Fender FA405 Dreadnought Gig Bag
 N254774;12.95;20;GBP;1;Fender FT-1 Pro Clip-On Tuner, Black
 P266807;970.92;20;GBP;1;Fender Jerry Donahue Signature Telecaster MIJ (1998), Crimson Transparent (Pre-Owned)
 P256301;1132.92;20;GBP;1;Fender John 5 Signature Telecaster, Rosewood, Black (Pre-Owned)
+P267015;85.32;20;GBP;1;Fender Lost Highway Phaser (Pre-Owned)
 N255598;13.49;20;GBP;1;Fender Original Series Instrument Cable, 10', Daphne Blue
 N255556;733.32;20;GBP;1;Fender Player II Telecaster, Rosewood Fingerboard, Aquatone Blue
 N255227;19.43;20;GBP;1;Fender Professional Series Instrument Cable, Straight/Straight, 10', Black
@@ -382,6 +386,7 @@ N255168;139.32;20;GBP;1;Fender Rumble 15 V3 Bass Combo Amplifier
 N254708;171.72;20;GBP;1;Fender Rumble 25 V3 25 Watt Bass Combo
 P256262;1618.92;20;GBP;1;Fender Strat Plus 1993 Electric Guitar - in Lipstick Red (Pre-Owned)
 P267013;91.8;20;GBP;1;Fender The Pelt Fuzz Pedal (Pre-Owned)
+P267018;63.72;20;GBP;1;Fender The Trapper Fuzz Pedal (Pre-Owned)
 P266439;1024.92;20;GBP;1;Fender USA Select Kingman V Acoustic Guitar, Sunburst (Pre-Owned)
 N255545;59.39;20;GBP;1;Fender Venice Soprano Ukulele, 2-Tone Sunburst
 N255833;59.39;20;GBP;1;Fender Venice Soprano Ukulele, Walnut Fingerboard, Black
@@ -457,6 +462,7 @@ N254970;236.52;20;GBP;1;Jim Dunlop Sepultura 40th Anniversary Cry Baby Wah Effec
 P256259;2698.92;20;GBP;1;Jimmy Moon Double Cut Flame Top Electric Guitar - in Trans Ebony (Pre-Owned)
 P266838;52.92;20;GBP;1;Jose Ferrer Estudiante 5208C Half Size Classical Guitar (Pre-Owned)
 P256151;32.4;20;GBP;1;JOYO JF-16 British Sound Pedal (Pre-Owned)
+P267033;27.0;20;GBP;1;JOYO JF22 Oxford Sound (Pre-Owned)
 N254616;85.32;20;GBP;1;Kala Gloss Flame Maple Concert Ukulele, Cherry Burst
 N255092;85.32;20;GBP;1;Kala Gloss Flame Maple Concert Ukulele, Tobacco Burst
 N254686;105.84;20;GBP;1;Kam KWM1920 Dual Microphone Multi-Channel System
@@ -506,7 +512,9 @@ N255195;41.04;20;GBP;1;Mapex H250 Hi-Hat Stand
 N254934;34.56;20;GBP;1;Mapex P250 Single Bass Drum Pedal
 N255582;34.56;20;GBP;1;Mapex S250 Series Snare Stand
 N255478;32.39;20;GBP;1;Mapex T400 Drum Throne
+P266867;52.92;20;GBP;1;Marshall RG1 Regnerator Modulation Pedal (Pre-Owned)
 P256273;2050.92;20;GBP;1;Marshall Vintage JCM800 MK2 100W Valve Amplifier Head (Pre-Owned)
+P267027;42.12;20;GBP;1;Marshall VT1 Vibratrem (Pre-Owned)
 N255646;15.11;20;GBP;1;Martin Authentic Acoustic SP 80/20 Bronze 12 String Extra Light 10-47 Gauge
 N254884;754.92;20;GBP;1;Martin D-X2E Mahogany, X-Series Electro-Acoustic Guitar, Natural
 N255375;8.63;20;GBP;1;Martin M140 Bronze Acoustic Guitar Strings 12-54
