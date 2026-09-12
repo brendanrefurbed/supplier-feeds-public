@@ -3,7 +3,6 @@ product_code;price_gross;vat;currency;stock;name
 x00226;113.71;20;EUR;1;Amdek CMK-100 Compressor Effect Pedal
 x00227;131.21;20;EUR;1;Amdek FLK-100 Flanger Effect Pedal
 B2316013;874.79;20;EUR;1;Ampete Two Head 20W
-x00287;126.35;20;EUR;1;Animals Pedal 1927 Homerun King Compressor Effektpedal
 x00268;136.07;20;EUR;1;Animals Pedal Surfing Bear Overdrive Effektpedal
 x00266;145.79;20;EUR;1;Animals Pedal Tioga Road Cycling Distortion Effektpedal
 x00267;136.07;20;EUR;1;Animals Pedal Vintage Van Driving is Very Fun Effektpedal
@@ -423,6 +422,7 @@ Z9561073;1263.59;20;EUR;1;Fender American Highway One Stratocaster HSS 2010 - Su
 Z3144784;1200.95;20;EUR;1;Fender American Jazz Bass Standard 2003 - Sunburst
 US22090636;1457.99;20;EUR;1;Fender American Professional II Stratocaster 2022 - Miami Blue
 US15045413;1385.63;20;EUR;1;Fender American Professional Stratocaster HSS 2015 - Olympic White
+N3137589;1263.59;20;EUR;1;Fender American Standard Stratocaster 1993 - Lipstick Red
 N7238443;1166.39;20;EUR;1;Fender American Standard Stratocaster 1997 - Black
 S978198;2429.99;20;EUR;1;Fender American Stratocaster 1979 - Natural
 E204812;2915.99;20;EUR;1;Fender American Stratocaster 1982 - Sunburst
@@ -458,6 +458,7 @@ O069312;1200.95;20;EUR;1;Fender Japan 66 Reissue Mustang 1997-2000 - Vintage Whi
 P053247;1263.59;20;EUR;1;Fender Japan 66 Reissue Mustang 1999-2002 - Vintage White
 R064018;1330.55;20;EUR;1;Fender Japan 66’ Reissue Jaguar 2004-2005 - Sunburst
 Q047355;1200.95;20;EUR;1;Fender Japan 66’ Reissue Mustang 2002-2004 - Vintage White
+N091470;1263.59;20;EUR;1;Fender Japan 69 Reissue Mustang 1995-1996 - Vintage White
 P054889;1200.95;20;EUR;1;Fender Japan 69 Reissue Mustang 1999-2002 - Vintage White
 JD12012090;1263.59;20;EUR;1;Fender Japan 69 Reissue Mustang 2012 - Candy Apple Red - Matching Headstock
 E932594_2;971.99;20;EUR;1;Fender Japan 70s Reissue Telecaster 1984-1987 - Natural
@@ -534,6 +535,7 @@ CC00071854;554.03;20;EUR;1;Fender Telecoustic 2000 - Candy Apple Red
 140109486;615.59;20;EUR;1;Fender Telecoustic 2014 - Flame Maple Sunburst
 E011639;971.99;20;EUR;1;Fender USA Lead II 1980 - Red
 S819979;1749.59;20;EUR;1;Fender USA Mustang 1978 - Olympic White
+S823695;1749.59;20;EUR;1;Fender USA Mustang 1978 - Vintage White
 213756;6317.99;20;EUR;1;Fender USA Telecaster 1968 - Natural
 MX22225634;923.39;20;EUR;1;Fender Vintera 60s Jaguar 2022 - Sunburst
 MX19108796;701.99;20;EUR;1;Fender Vintera 60s Stratocaster 2019 - Sunburst
@@ -554,6 +556,7 @@ x00234;69.97;20;EUR;1;Freedom Custom Guitar Research A/B Switch Box Pedal - Japa
 03513326;1943.99;20;EUR;1;Gibson 67 Reissue Flying V 2007 - Cherry
 02844301;1662.11;20;EUR;1;Gibson 76’ Reissue Explorer 2004 - Ebony - EMG MOD
 12022701;3887.99;20;EUR;1;Gibson Custom Shop ES-335 2012 - Cherry Red
+771198;3110.39;20;EUR;1;Gibson Custom Shop Historic Collection 1957 Les Paul Junior VOS 2007 - TV Yellow
 01284722;2527.19;20;EUR;1;Gibson ES-335 2004 - Iced Tea Sunburst
 216730360;2915.99;20;EUR;1;Gibson ES-335 2023 - Vintage Sunburst
 126600502;2770.19;20;EUR;1;Gibson Firebird V 2010 - Classic White
@@ -565,6 +568,7 @@ x00234;69.97;20;EUR;1;Freedom Custom Guitar Research A/B Switch Box Pedal - Japa
 80809571;3232.43;20;EUR;1;Gibson Les Paul Custom Lite 1989 - Heritage Cherry Sunburst
 89543;2369.51;20;EUR;1;Gibson Les Paul Custom Shop 1998 - Catalina Red
 83390502;3232.43;20;EUR;1;Gibson Les Paul Deluxe 1980 - Natural
+101100626;1263.59;20;EUR;1;Gibson Les Paul Junior 2010 - Satin Cherry
 121420420;1185.83;20;EUR;1;Gibson Les Paul Junior 2010 - TV Yellow
 160084932;1263.59;20;EUR;1;Gibson Les Paul Junior 2016 - Vintage Sunburst
 301079;3232.43;20;EUR;1;Gibson Les Paul Recording 1974-1975 - Walnut
@@ -751,6 +755,7 @@ G26809;1754.99;20;EUR;1;Music Man Benji Madden Signature Silhouette Special 2005
 E33338;1846.79;20;EUR;1;Music Man by Ernie Ball StingRay 3 EQ Bass 2002 - Black
 E19373;1457.99;20;EUR;1;Music Man by Ernie Ball StingRay EX Bass 2001 - Black
 X10493;1166.39;20;EUR;1;Music Man by Ernie Ball SUB 1 2004 - Textured Black
+E05321;1555.19;20;EUR;1;Music Man Ernie Ball StingRay EX Bass 2000 - Black Sparkle
 G003944;1360.79;20;EUR;1;Music Man StingRay I 1977-1978 - Sunburst
 x00094;97.19;20;EUR;1;MXR Boost/Line Driver - Effektpedal
 x00095;97.19;20;EUR;1;MXR Smart Gate - Effektpedal
