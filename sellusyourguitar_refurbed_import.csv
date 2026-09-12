@@ -1,4 +1,7 @@
 product_code;price_gross;vat;currency;stock;name
+1070926239520;1765.8;20;GBP;1;Taylor 314ce LTD Shaded Edgeburst 2021 Limited Edition Grand Auditorium
+1290826236960;550.8;20;GBP;1;Guild S-100 Polara Gloss Black 2021 Electric Guitar
+1030926238441;858.6;20;GBP;1;CSL Double Neck Bass & 6 String Walnut c.1970s MIJ Double Neck Electric Guitar
 1090926240101;583.2;20;GBP;1;PRS SE Angelus A60E Gloss Natural 2024 Electro-Acoustic Guitar
 1310826237480;491.4;20;GBP;1;Fender Mexican Standard Stratocaster Midnight Blue 2001 Electric Guitar
 1080926239891;610.2;20;GBP;1;Schecter Diamond Series Nick Johnston Signature Atomic White Electric Guitar
@@ -61,7 +64,6 @@ product_code;price_gross;vat;currency;stock;name
 1070826230080;928.8;20;GBP;1;Fender Aerodyne Special 100DMC Flame Amber 2006-08 Electric Guitar
 1130526208103;280.8;20;GBP;1;Rapier 33 Fiesta Red 3 Pickup Electric Guitar
 1060126168421;291.6;20;GBP;1;LAVA GENIE White Foldable Digital Travel Guitar
-1120626215630;378.0;20;GBP;1;Epiphone Dot Natural 2017 Semi-Hollow Electric Guitar
 1190826233371;756.0;20;GBP;1;Schecter Sun Valley Super Shredder FR S LH Riviera Blue 2021 Electric Guitar
 1180826233100;2197.8;20;GBP;1;Excelsior Super King Gloss Natural 2009 Hand Made Acoustic Guitar
 1130826231280;410.4;20;GBP;1;Burns Marquee Club Series Black 2010 Electric Guitar
@@ -76,7 +78,6 @@ product_code;price_gross;vat;currency;stock;name
 1240826235123;615.6;20;GBP;1;Epiphone Sheraton II PRO Ebony 2018 Semi Hollow Electric Guitar
 1090826230240;437.4;20;GBP;1;Epiphone J-200 EC Studio Parlor Vintage Sunburst 2025 Electro-Acoustic Guitar
 1270726226910;437.4;20;GBP;1;Chapman ML-2 Satin Natural 2013 Electric Guitar
-1110826230941;491.4;20;GBP;1;Fender Modern Player Telecaster Plus Honeyburst 2013 Electric Guitar
 1140826231590;1144.8;20;GBP;1;Gibson SG Standard 120 Ebony 2014 Electric Guitar
 1020726220992;2133.0;20;GBP;1;Larrivee Ltd Edition OM-03 Bhilwara Satin Natural 2023 Orchestra Model Acoustic
 1020726220995;1323.0;20;GBP;1;Larrivee OM-02 Satin Natural 2013 Electro-Acoustic Guitar
@@ -93,7 +94,6 @@ product_code;price_gross;vat;currency;stock;name
 1060826229670;966.6;20;GBP;1;Prudencio Saez 5-PS Gloss Natural All-Solid Made in Spain Classical Guitar
 1100726222775;2079.0;20;GBP;1;Gibson Explorer EXP 425 Panther Pink 1986 Electric Guitar
 1100726222771;3850.2;20;GBP;1;Gibson Les Paul Deluxe Hall of Fame Edition DoubleGold 1991 1 of 250 Ltd Edition
-1080826230150;1976.4;20;GBP;1;Gibson J-45 Standard Vintage Sunburst 2007 Electro Acoustic Guitar
 1040826228910;2467.8;20;GBP;1;PRS Limited Edition Custom 24 Swamp Ash McCarty Tobacco Sunburst 2017
 1230726225910;2041.2;20;GBP;1;PRS Sunburst 245 2009 Electric Guitar
 1040826229072;1209.6;20;GBP;1;Guild True American D25-E Antique Burst c.1998 Electro-Acoustic Dreadnought
@@ -129,7 +129,6 @@ product_code;price_gross;vat;currency;stock;name
 1040826229070;583.2;20;GBP;1;Yamaha LLX6A Gloss Natural 2012 Electro-Acoustic Guitar
 1050826229301;810.0;20;GBP;1;Epiphone Inspired by Gibson 1959 Les Paul Standard Dark Burst 2024
 1290726227460;988.2;20;GBP;1;Ernie Ball MusicMan SUB 1 Guitar Textured Cinnamon 2004 Electric Guitar
-1090626214511;1215.0;20;GBP;1;G&L Fullerton Deluxe S-500 Cherryburst 2018 Electric Guitar
 1010526205620;1684.8;20;GBP;1;Auden Sunset Series Grace Golden Sunburst 2024 Electro-Acoustic Guitar
 1040826229090;1744.2;20;GBP;1;Gibson J-45 Studio Walnut Gloss Natural 2023 Electro-Acoustic Guitar
 1250726226290;1393.2;20;GBP;1;Dingwall D-Roc Standard Matte Blue-To-Purple Colorshift Multi-Scale
@@ -138,7 +137,6 @@ product_code;price_gross;vat;currency;stock;name
 1270726226520;1690.2;20;GBP;1;ESP E-II Eclipse DB Granite Sparkle 2014 MIJ Electric Guitar
 1250726226300;1620.0;20;GBP;1;Gibson Gary Moore Signature Les Paul BFG Lemon Burst 2009 Electric Guitar
 1060326189020;3456.0;20;GBP;1;Gibson Custom Shop Les Paul Standard Candy Apple Red 2008 Jimmy Page Spec
-1060726221860;432.0;20;GBP;1;ESP LTD WA-200 Warbird Distressed Graphic 2016 Electric Guitar
 1140726223720;432.0;20;GBP;1;PRS SE CE24 Standard Satin Turquoise 2023 Electric Guitar
 1250726226320;4185.0;20;GBP;1;Gibson 1954 ES-175D VOS Limited Edition Jim Dickinson Burst 2015 Guitar
 1130626215710;469.8;20;GBP;1;Takamine PT-105 Gloss Black 1989 Electro-Acoustic Guitar
