@@ -1,4 +1,5 @@
 product_code;price_gross;vat;currency;stock;name
+1090926240101;583.2;20;GBP;1;PRS SE Angelus A60E Gloss Natural 2024 Electro-Acoustic Guitar
 1310826237480;491.4;20;GBP;1;Fender Mexican Standard Stratocaster Midnight Blue 2001 Electric Guitar
 1080926239891;610.2;20;GBP;1;Schecter Diamond Series Nick Johnston Signature Atomic White Electric Guitar
 1250826235460;696.6;20;GBP;1;Godin 5th Avenue Kingpin P90 Cognac Burst Hollow Body Archtop Electric Guitar
@@ -31,7 +32,6 @@ product_code;price_gross;vat;currency;stock;name
 1300826237060;756.0;20;GBP;1;ESP LTD Eclipse Custom 1987 Reissue Rainbow Crackle 2023 Electric Guitar
 1270826236240;550.8;20;GBP;1;Tokai Firebird FB-53 Vintage Sunburst 2022 Electric Guitar
 1270826236090;1863.0;20;GBP;1;Epiphone Elitist 1965 Casino Outfit Sunburst 2010 Hollow Body Electric Guitar
-1260826235890;815.4;20;GBP;1;Harmony Rebel Pearl White 2020 Electric Guitar
 1260826235910;583.2;20;GBP;1;Ibanez Sound Gear SR900FM Transparent Black Flat 2006 Electric Bass
 1270826236301;831.6;20;GBP;1;Charvel Pro-Mod San Dimas Style 1 Snow White 2017 Electric Guitar
 1020926238111;869.4;20;GBP;1;Fender Lead II USA 1981/82 Wine Red Electric Guitar
@@ -269,7 +269,6 @@ product_code;price_gross;vat;currency;stock;name
 1040526206260;880.2;20;GBP;1;PRS S2 Standard 22 Satin Antique White 2022 Electric Guitar
 1170126172330;783.0;20;GBP;1;D'Angelico Bedford Deluxe Matte Walnut 2022 Electric Guitar
 1050126168060;475.2;20;GBP;1;Sigma DM-4 'Marquis' Natural Gloss 1989 Dreadnought Acoustic Guitar
-1060526206593;934.2;20;GBP;1;Harmony Jupiter Pearl White 2023 Electric Guitar
 1120126170236;756.0;20;GBP;1;Ibanez RGRB720 Iron Label Black Flat 2024 7-String Electric Guitar
 1060126168420;783.0;20;GBP;1;Peerless Gigmaster Custom Gloss White 2008 Hollow-Body Electric Guitar
 1281225165460;459.0;20;GBP;1;Warwick RockBass Corvette Trans Black 5-String Electric Bass
