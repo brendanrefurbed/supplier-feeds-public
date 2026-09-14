@@ -18,7 +18,6 @@ product_code;price_gross;vat;currency;stock;name
 10294094004553;369.35;20;EUR;1;Aria Pro II The Warrior-JR 1990s - Black
 10305876918601;77.75;20;EUR;1;Arion MTE-1 Tubulator Effektpedal
 10305878065481;77.75;20;EUR;1;Arion SDI-1 Distortion Effektpedal - Japan
-10357406400841;97.19;20;EUR;1;Ashdown Bass Hyper Drive Effektpedal
 10092565201225;1166.39;20;EUR;1;B.C.Rich PRO JR. V Flying V 2004 - Exotic
 10357899526473;583.19;20;EUR;1;Bacchus Universe Series BJM-1R - Candy Apple Red
 10358269215049;388.79;20;EUR;1;Bacchus Universe Series BST-2-RSM Stratocaster HSS - Black
@@ -713,7 +712,6 @@ product_code;price_gross;vat;currency;stock;name
 9808922378569;3401.99;20;EUR;1;Ibanez Artist 2700 1979 - Natural
 9808930505033;833.36;20;EUR;1;Ibanez EKM10T-WRD-12-01 2014 - Wine Red
 9903021883721;369.35;20;EUR;1;Ibanez EX Series EX170L Lefthand 1993 - Black
-10392763662665;340.19;20;EUR;1;Ibanez FRH10N-NTF Akustik 2023 - Natural
 10249198829897;1263.59;20;EUR;1;Ibanez Iceman ICT700 2008 - Black
 10023456702793;1016.27;20;EUR;1;Ibanez Les Paul Custom Pre Lawsuit 1973 - Ebony
 10249353167177;1385.63;20;EUR;1;Ibanez LR10 Lee Ritenour Signature 1982 - Antique Violin
@@ -723,7 +721,6 @@ product_code;price_gross;vat;currency;stock;name
 9766982713673;289.43;20;EUR;1;Ibanez RG Standard 2021 - Red
 10176865239369;878.03;20;EUR;1;Ibanez RG410 Roadstar II Series 1986 - Black
 9961964634441;305.63;20;EUR;1;Ibanez RG421 2022 - Natural
-10381558219081;291.59;20;EUR;1;Ibanez RG421PB 2022 - Caribbean Shoreline Flat
 10330899743049;923.39;20;EUR;1;Ibanez RG550 1999 - Road Flare Red
 10277170184521;831.59;20;EUR;1;Ibanez RG670 1993 - Root Beer
 10081012416841;1185.83;20;EUR;1;Ibanez RGD71ALPA 2021 - Charcoal Burst Black Stained Flat
@@ -764,7 +761,6 @@ product_code;price_gross;vat;currency;stock;name
 10175495405897;104.97;20;EUR;1;Maxon Bass EQ BE-01 Effect Pedal - Vintage Japan
 10175591842121;113.71;20;EUR;1;Maxon CP-F1 Compressor Effector Fire Blade Effect Pedal - Vintage Japan
 10305800274249;145.79;20;EUR;1;Maxon CS-9 Stereo Chorus Effektpedal - Japan
-10169831719241;139.96;20;EUR;1;Maxon D&S II Distortion Sustainer Effect Pedal 1970s - Vintage Japan
 10305791525193;97.19;20;EUR;1;Maxon D&S II Effektpedal
 10305787232585;116.63;20;EUR;1;Maxon DD-02 Delay Digital Effektpedal - Japan
 10305798603081;116.63;20;EUR;1;Maxon DS-F1 Fire Blade Distortion Effection Effektpedal - Japan
@@ -831,7 +827,7 @@ product_code;price_gross;vat;currency;stock;name
 10230962717001;790.55;20;EUR;1;PRS SE Zach Myers Signature 2010 - Royal Blue
 10181841191241;1316.51;20;EUR;1;PRS USA S2 Mira 2014 - Vintage Cherry
 10357178237257;2429.99;20;EUR;1;Rickenbacker 330/6 1997 - Fireglo
-10392517181769;2624.39;20;EUR;1;Rickenbacker 360 2008 - Midnight Blue
+10392517181769;2274.48;20;EUR;1;Rickenbacker 360 2008 - Midnight Blue
 10381686374729;1943.99;20;EUR;1;Rickenbacker 620 2010 - Fireglo
 10386359386441;2138.39;20;EUR;1;Rickenbacker 650C Colorado 2008 - Jetglo
 10358190309705;874.79;20;EUR;1;Rivolta Mondata 2019 - Natural
