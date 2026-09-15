@@ -1,4 +1,7 @@
 product_code;price_gross;vat;currency;stock;name
+1040926238690;570.0;20;GBP;1;Gretsch G5420T Electromatic Orange Stain 2020 Hollow Body Electric Guitar
+1010826228380;800.0;20;GBP;1;Schecter KM-7 Keith Merrow Lambo Orange 2015 7-String Electric Guitar
+1190826233420;420.0;20;GBP;1;Sire Marcus Miller P7 Alder 5 2nd Gen Black 2025 5-String Electric Bass
 1280826236430;420.0;20;GBP;1;Gretsch G2410TG Streamliner Village Amber 2021 Hollowbody Electric Guitar
 1240826235050;510.0;20;GBP;1;Fender Modern Player Telecaster Thinline Deluxe 3-Colour Sunburst 2014 Electric
 1240826235151;400.0;20;GBP;1;PRS SE Custom 22 Cherry Sunburst 2008 Electric Guitar
@@ -66,6 +69,7 @@ product_code;price_gross;vat;currency;stock;name
 1310826237341;1130.0;20;GBP;1;Gibson Les Paul Junior Vintage Tobacco Burst 2022 Left-Handed Electric Guitar
 1250826235490;1620.0;20;GBP;1;Gibson Les Paul Traditional Desert Burst 2008 Electric Guitar
 1310526212341;370.0;20;GBP;1;Eastman PCH2-GACE Thermo-Cure Natural 2021 Electro Acoustic Guitar
+1020826228480;1080.0;20;GBP;1;Fender Acoustasonic Stratocaster 3-Tone Sunburst 2020 Hybrid Guitar
 1270826236171;3130.0;20;GBP;1;Gibson Custom Shop 1957 Les Paul Standard Reissue Goldtop 2003 Electric Guitar
 1180826232760;570.0;20;GBP;1;Taylor 114e Grand Auditorium Satin Natural 2022 LH Electro-Acoustic Guitar
 1150826232110;600.0;20;GBP;1;Epiphone Les Paul Prophecy Black Aged Gloss 2021 Electric Guitar
@@ -104,7 +108,6 @@ product_code;price_gross;vat;currency;stock;name
 1230726225910;1990.0;20;GBP;1;PRS Sunburst 245 2009 Electric Guitar
 1040826229072;1180.0;20;GBP;1;Guild True American D25-E Antique Burst c.1998 Electro-Acoustic Dreadnought
 1300326196132;530.0;20;GBP;1;Peerless Tonemaster Custom Wine Red 2007 Hollow Body Electric Guitar
-1160326191960;980.0;20;GBP;1;Gibson Les Paul Studio Wine Red 2005 Electric Guitar
 1140426200700;980.0;20;GBP;1;PJD York Standard TV Yellow 2023 Electric Guitar
 1200426202751;2290.0;20;GBP;1;Gibson ES-335 'Dot' Ebony 2023 Semi-Hollow Electric Guitar
 1250426204211;2210.0;20;GBP;1;Gibson Memphis ES-335 Bass Vintage Sunburst 2013 Semi-Hollow Electric Bass
@@ -215,7 +218,6 @@ product_code;price_gross;vat;currency;stock;name
 1250526211133;440.0;20;GBP;1;ESP LTD MH-203QM See Thru Blue 2020 Electric Guitar
 1060626213870;530.0;20;GBP;1;Guild M-120L Natural Gloss 2022 Concert Acoustic Guitar
 1120626215690;610.0;20;GBP;1;Epiphone Sheraton II Vintage Sunburst 1996 Semi-Hollow Electric Guitar
-1040626213243;1440.0;20;GBP;1;PRS CE24 Scarlet Red 1990 Electric Guitar
 1100626215260;830.0;20;GBP;1;Ibanez Q547 Blue Chameleon 2023 Headless 7-String Electric Guitar
 1030626213110;560.0;20;GBP;1;Godin Session Vintage Burst Semi-Gloss 2017 Electric Guitar
 1100626214923;1340.0;20;GBP;1;Hofner Committee Gloss Natural 1960 Modified Hollow Body Electric Guitar
