@@ -1,4 +1,10 @@
 product_code;price_gross;vat;currency;stock;name
+1070726222001;370.0;20;GBP;1;Sigma 000MC-15E Satin Natural 2025 Electro-Acoustic Guitar
+1290826236680;390.0;20;GBP;1;Gretsch G5435 Electromatic Black 2013 Electric Guitar
+1240726226150;570.0;20;GBP;1;Epiphone Les Paul Custom Black Beauty 2006 Electric Guitar
+1070926239611;460.0;20;GBP;1;Ovation Elite 2078AX Black Cherry Burst Electro Acoustic Guitar
+1270826235970;1750.0;20;GBP;1;Roland G-808 Natural 1983 Guitar Synthesiser Controller Electric Guitar
+1280826236340;400.0;20;GBP;1;PRS SE 245 Black 2012 Electric Guitar
 1040926238690;570.0;20;GBP;1;Gretsch G5420T Electromatic Orange Stain 2020 Hollow Body Electric Guitar
 1010826228380;800.0;20;GBP;1;Schecter KM-7 Keith Merrow Lambo Orange 2015 7-String Electric Guitar
 1190826233420;420.0;20;GBP;1;Sire Marcus Miller P7 Alder 5 2nd Gen Black 2025 5-String Electric Bass
@@ -175,7 +181,6 @@ product_code;price_gross;vat;currency;stock;name
 1030726221290;600.0;20;GBP;1;Fender FSR Black Paisley Stratocaster HSS 2012 Electric Guitar
 1150726223901;880.0;20;GBP;1;G&L Fullerton Standard Legacy 2018 Ruby Red Metallic Electric Guitar
 1110726223191;740.0;20;GBP;1;Ibanez RGD61ALA Midnight Tropical Rainforest 2021 Electric Guitar
-1090326189977;290.0;20;GBP;1;Yamaha CG171S Gloss Natural 2006 Classical Guitar
 1130726223290;2030.0;20;GBP;1;Epiphone Ltd Ed. 'Back to the Future' ES-345 2025 Semi-Hollow Electric Guitar
 1150726223761;1530.0;20;GBP;1;Fender Thinline Telecaster Natural 2001 Semi-Hollow Electric Guitar
 1100726222842;800.0;20;GBP;1;Schecter SLS Elite-4 Black Fade Burst 2022 Electric Bass
@@ -320,7 +325,6 @@ product_code;price_gross;vat;currency;stock;name
 1030226178320;1330.0;20;GBP;1;Taylor GS7 Grand Symphony Natural Gloss 2009 Acoustic Guitar
 1280226187150;2100.0;20;GBP;1;Rickenbacker 660 Jetglo 2013 Electric Guitar
 1270226186890;4390.0;20;GBP;1;Martin OM Davy Graham Custom Edition (UK) Gloss Natural 2007 Acoustic Guitar
-1180226184010;1330.0;20;GBP;1;Strandberg Boden OS-7 Red 2016 Headless 7-String Electric Guitar
 126012573993;770.0;20;GBP;1;Fret-King Esprit lll Green Label Series Transparent Black Electric Guitar
 1080226180360;980.0;20;GBP;1;Chandler Custom Made S Style White Electric Guitar
 1150226182870;830.0;20;GBP;1;Fender Limited Edition Mahogany Blacktop Stratocaster HHH Olympic White 2019
@@ -358,6 +362,7 @@ product_code;price_gross;vat;currency;stock;name
 1041025140670;3440.0;20;GBP;1;Gibson ES-335 Pro Cherry Red 1980 Vintage Semi-Hollow Electric Guitar
 1261025146890;610.0;20;GBP;1;Sterling by Music Man JV60 James Valentine Signature Black Electric Guitar
 1271025147604;2140.0;20;GBP;1;Fender Stratocaster Black 1980 CBS Era Vintage Electric Guitar
+1271025147601;1820.0;20;GBP;1;Fender Stratocaster Natural Gloss 1981 CBS Era Vintage Electric Guitar
 1011025139701;2100.0;20;GBP;1;Fender Coronado I Sunburst 1966 Hollow Electric Guitar
 1101025142294;450.0;20;GBP;1;"Line 6 Powercab 112 Plus Active 1x12"" Stereo Guitar Speaker System"
 1190825127310;3630.0;20;GBP;1;"Gibson BB King ""Lucille"" Ebony 1991 Semi-Hollow Electric Guitar"
