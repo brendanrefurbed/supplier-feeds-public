@@ -449,9 +449,8 @@ product_code;price_gross;vat;currency;stock;name
 10379453530441;874.79;20;EUR;1;Fender Japan 57 Reissue Stratocaster 1999-2002 - Fiesta Red
 10365084533065;1069.19;20;EUR;1;Fender Japan 57 Reissue Stratocaster 2004-2005 - Sonic Blue
 10240946176329;746.27;20;EUR;1;Fender Japan 60s Reissue Stratocaster 1991-1992 - Sunburst
-10391409951049;971.99;20;EUR;1;Fender Japan 62 Reisaue Stratocaster 1992-1993 - Candy Apple Red
-10390776512841;971.99;20;EUR;1;Fender Japan 62 Reissue Jazz Bass 1995-1995 - Vintage White
 10392626987337;874.79;20;EUR;1;Fender Japan 62 Reissue Stratocaster 1991-1992 - Black
+10391409951049;971.99;20;EUR;1;Fender Japan 62 Reissue Stratocaster 1992-1993 - Candy Apple Red
 10392785092937;874.79;20;EUR;1;Fender Japan 62 Reissue Stratocaster 1993-1994 - Satin Sunburst - MOD
 10387876446537;874.79;20;EUR;1;Fender Japan 62 Reissue Stratocaster 1993-1994 - Vintage White
 10330905641289;1200.95;20;EUR;1;Fender Japan 66 Reissue Jaguar 1997-2000 - Blue Repaint
@@ -501,7 +500,6 @@ product_code;price_gross;vat;currency;stock;name
 10387649823049;874.79;20;EUR;1;Fender Japan Stratocaster 1987-1988 - Vintage White
 10316333908297;831.59;20;EUR;1;Fender Japan Stratocaster 1997-2000 - Sunburst
 10330880770377;242.99;20;EUR;1;Fender Japan Stratocaster Body - Black
-10381550879049;242.99;20;EUR;1;Fender Japan Stratocaster Body - Black
 10330881327433;242.99;20;EUR;1;Fender Japan Stratocaster Body - Sunburst
 10341671862601;242.99;20;EUR;1;Fender Japan Stratocaster Body - Sunburst
 10364991603017;1166.39;20;EUR;1;Fender Japan TC-72 Reissue Telecaster Custom 1997-2000 - Black
@@ -524,8 +522,8 @@ product_code;price_gross;vat;currency;stock;name
 9989304320329;777.59;20;EUR;1;Fender Mexico FSR Stratocaster 1995 - Vintage White
 10330894664009;646.91;20;EUR;1;Fender Mexico Stratocaster 1995 - Black
 10338185642313;1200.95;20;EUR;1;Fender MJT 50s Reissue Stratocaster - Purple Metallic - Heavy Relic
-10341701615945;1200.95;20;EUR;1;Fender MJT 50s Reissue Telecaster - Butterscotch Blonde - Heavy Relic
 10338167488841;1200.95;20;EUR;1;Fender MJT 60s Reissue Stratocaster - Candy Apple Green - Heavy Relic
+10338198716745;1263.59;20;EUR;1;Fender MJT 60s Reissue Stratocaster - Inca Silver - Heavy Relic
 10338162704713;738.71;20;EUR;1;Fender MOD Stratocaster 2011 - Fiesta Red Nitro
 9903118680393;3887.99;20;EUR;1;Fender Mustang 1973 - Sunburst
 10328327225673;646.91;20;EUR;1;Fender Player Series Stratocaster 2019 - Black
@@ -599,7 +597,6 @@ product_code;price_gross;vat;currency;stock;name
 10366192091465;1166.39;20;EUR;1;Gibson Les Paul Studio Faded 2016 - Satin Ebony
 10357388476745;1263.59;20;EUR;1;Gibson Les Paul Studio Thin Body 1995 - Ebony
 10231537336649;2456.99;20;EUR;1;Gibson Les Paul Supreme 2023 -  Wine Red
-10294163013961;1846.79;20;EUR;1;Gibson Les Paul Traditional - 2018 Honey Burst
 10294231204169;1939.67;20;EUR;1;Gibson Les Paul Traditional 1960 2012 - Satin Honey Burst
 10316317524297;1292.75;20;EUR;1;Gibson Les Paul Tribute T 2016 - Faded Honey Burst
 10358174122313;971.99;20;EUR;1;Gibson LPJ 2013 - Satin Cherry
@@ -782,7 +779,6 @@ product_code;price_gross;vat;currency;stock;name
 10092445761865;673.91;20;EUR;1;Orville LPS Les Paul Standard 1990 - Cherry Sunburst
 10249355198793;831.59;20;EUR;1;Orville LPS-75 Les Paul 1990 - Cherry Sunburst
 10365151379785;874.79;20;EUR;1;Orville SG 1989-1993 - Vintage White
-10240731119945;701.99;20;EUR;1;Orville SG 1990 - Ebony
 10209971208521;785.15;20;EUR;1;Ovation 1613 1981 - Natural
 10349685702985;583.19;20;EUR;1;Ovation 1627 Glen Campbell Artist - Natural
 10249212526921;646.91;20;EUR;1;Ovation 1627 Glen Campbell Artist 1981 - Natural
@@ -899,7 +895,6 @@ product_code;price_gross;vat;currency;stock;name
 10169810288969;87.47;20;EUR;1;VOCU Magic Mic Room Microphone Preamp Pedal
 10315903304009;923.39;20;EUR;1;VOX Bobcat BC-S66 2020 - Sunburst
 10176915636553;139.96;20;EUR;1;VOX Joe Satriani Signature JS-DS Satchurator Distortion Effect Pedal - Japan
-10366432903497;145.79;20;EUR;1;Walrus Audio Julia V2 Effect Pedal
 9722250592585;4859.99;20;EUR;1;Wandre Tri-Lam Teenager Blue Jeans 1959 - Multicolour
 10357047558473;971.99;20;EUR;1;Warwick Corvette $$ Bass 2011 - Natural
 10292790264137;2031.47;20;EUR;1;Warwick Corvette $$ Double Buck Bass 2011 - Turquoise Blue Oil Finish
