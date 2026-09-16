@@ -1,4 +1,8 @@
 product_code;price_gross;vat;currency;stock;name
+1170726224180;370.0;20;GBP;1;Cort KX300 Open Pore Cobalt Burst 2023 Electric Guitar
+1140926241601;910.0;20;GBP;1;Gibson Les Paul '50s Tribute T Satin Gold Top Dark Back 2016 Electric Guitar
+1081125151751;1190.0;20;GBP;1;Neural DSP Quad Cortex Multi Effects Unit
+1221025145910;520.0;20;GBP;1;Epiphone Marty Schwartz ES-335 Sixties Cherry 2023 Semi-Hollow Electric Guitar
 1070726222001;370.0;20;GBP;1;Sigma 000MC-15E Satin Natural 2025 Electro-Acoustic Guitar
 1290826236680;390.0;20;GBP;1;Gretsch G5435 Electromatic Black 2013 Electric Guitar
 1240726226150;570.0;20;GBP;1;Epiphone Les Paul Custom Black Beauty 2006 Electric Guitar
@@ -124,7 +128,6 @@ product_code;price_gross;vat;currency;stock;name
 1200726224690;850.0;20;GBP;1;Fender Made in Japan Traditional '60s Stratocaster 2024 Lake Placid Blue
 1310726227981;800.0;20;GBP;1;Schecter Banshee Elite 7 String Gloss Natural 2019 Electric Guitar
 1200526210210;1200.0;20;GBP;1;Ibanez 2453 Howard Roberts Brown Sunburst c.1975 Hollow Body Electric Guitar
-1070826229810;1640.0;20;GBP;1;Maybach Lester Earl Grey 60 Aged 2021 Electric Guitar
 1240326194300;950.0;20;GBP;1;Fender MIJ ST68 Stratocaster Vintage White 2014 Electric Guitar
 1050826229463;860.0;20;GBP;1;Epiphone Shinichi Ubukata ES-355 Custom Olive Drab 2023 Electric Guitar
 1140126171397;890.0;20;GBP;1;Peerless Tonemaster JH Special Sunburst Hollow Body Electric Guitar
@@ -159,6 +162,7 @@ product_code;price_gross;vat;currency;stock;name
 1070726222240;480.0;20;GBP;1;Yamaha Silent Guitar SLG200N 2017 Nylon String Electro Acoustic Guitar
 1090726222610;3780.0;20;GBP;1;Martin OMJM 20th Anniversary Platinum Gray Burst 2024 John Mayer Signature
 1120526208005;220.0;20;GBP;1;Gibson Late 70’s Dirty Fingers T.Top Neck Humbucker w/ Gold Bobbins
+1270726226702;570.0;20;GBP;1;Kemper Profiler Rack (Unpowered) Digital Amp Profiler
 1200726224860;550.0;20;GBP;1;Fender California Vintage Palomino Sienna Sunburst 2023 Electro-Acoustic Guitar
 1120526208004;210.0;20;GBP;1;Ibanez Super 80 ‘Flying Finger’ Gold Vintage c.’70s Passive  Humbucking Pickups
 1240726226161;680.0;20;GBP;1;ESP LTD SN-1000 FR Charcoal Metallic 2015 Modified Electric Guitar
@@ -359,7 +363,6 @@ product_code;price_gross;vat;currency;stock;name
 1091125152196;3690.0;20;GBP;1;D’Angelico New Yorker NYL-4 Hollowbody Electric Guitar
 1091125152197;3860.0;20;GBP;1;James Goodall Rosewood Standard Cutaway Gloss Natural 1994 Hand-Made Acoustic
 1091125152198;5490.0;20;GBP;1;Guild Artist Award 1995 Archtop Electric Guitar
-1041025140670;3440.0;20;GBP;1;Gibson ES-335 Pro Cherry Red 1980 Vintage Semi-Hollow Electric Guitar
 1261025146890;610.0;20;GBP;1;Sterling by Music Man JV60 James Valentine Signature Black Electric Guitar
 1271025147604;2140.0;20;GBP;1;Fender Stratocaster Black 1980 CBS Era Vintage Electric Guitar
 1271025147601;1820.0;20;GBP;1;Fender Stratocaster Natural Gloss 1981 CBS Era Vintage Electric Guitar
