@@ -1,7 +1,14 @@
 product_code;price_gross;vat;currency;stock;name
+1280626219692;370.0;20;GBP;1;Gretsch Electromatic CVT Double Cut Havana Burst 2025 Electric Guitar
+1130526208220;390.0;20;GBP;1;Epiphone Dot Cherry 2004 Semi Hollow Electric Guitar
+1120826231180;740.0;20;GBP;1;Schecter Sunset 6 Extreme Scarlet Burst 2023 Left-Handed Electric Guitar
+1080926239910;1190.0;20;GBP;1;Fender American Deluxe Stratocaster HSS Amber 2006 Electric Guitar
+1140926241610;400.0;20;GBP;1;Epiphone Les Paul Custom Pro Alpine White 2012 Electric Guitar
+1140926241600;1080.0;20;GBP;1;Eastman Romeo NYC Black 2023 Hollow Body Electric Guitar
+1080826230201;660.0;20;GBP;1;Fender Classic Series '72 Telecaster Custom 3-Color Sunburst 1999 Electric Guita
+1081125151751;620.0;20;GBP;1;Jackson X Series Rhoads RRX24 Battleship Gray w/Black Bevels 2022 Modified
 1170726224180;370.0;20;GBP;1;Cort KX300 Open Pore Cobalt Burst 2023 Electric Guitar
 1140926241601;910.0;20;GBP;1;Gibson Les Paul '50s Tribute T Satin Gold Top Dark Back 2016 Electric Guitar
-1081125151751;1190.0;20;GBP;1;Neural DSP Quad Cortex Multi Effects Unit
 1221025145910;520.0;20;GBP;1;Epiphone Marty Schwartz ES-335 Sixties Cherry 2023 Semi-Hollow Electric Guitar
 1070726222001;370.0;20;GBP;1;Sigma 000MC-15E Satin Natural 2025 Electro-Acoustic Guitar
 1290826236680;390.0;20;GBP;1;Gretsch G5435 Electromatic Black 2013 Electric Guitar
@@ -18,13 +25,11 @@ product_code;price_gross;vat;currency;stock;name
 1300626220211;370.0;20;GBP;1;Ibanez AS73 Olive Metallic 2019 Semi-Hollow Electric Guitar
 1100926240600;1590.0;20;GBP;1;Guild M-40 Troubadour Satin Natural 2018 Acoustic Guitar
 1310826237440;460.0;20;GBP;1;Yamaha CSF3M Gloss Natural 2018 Electro Acoustic Guitar
-1050926238811;500.0;20;GBP;1;Faith Jupiter Satin Natural c.2005 Modified Jumbo Acoustic Guitar
 1010926237673;420.0;20;GBP;1;Sire Larry Carlton T7 Dark Navy 2025 Electric Guitar
 1100926240321;890.0;20;GBP;1;Taylor 214ce DLX 2023 Gloss Natural Electro-Acoustic Guitar
 1260826235781;420.0;20;GBP;1;Epiphone Les Paul Standard ‘50s Vintage Sunburst 2022 Electric Guitar
 1200826233590;680.0;20;GBP;1;ESP LTD SN-1000 HT Charcoal Metallic 2018 Electric Guitar
 1160826232250;1130.0;20;GBP;1;Ibanez M80M Weathered Black 2014 Meshuggah Signature 8 String Electric Guitar
-1080926239893;710.0;20;GBP;1;Ibanez RG60ALS Axion Label Black Aurora Burst Matte 2020 Electric Guitar
 1080926240020;1650.0;20;GBP;1;Gibson Les Paul Classic T Gold Top 2017 Electric Guitar
 1210826233810;2090.0;20;GBP;1;Atkin 'The Boosh OS' Pelham Blue Aged Nitro 2023 Electric Guitar
 1070926239520;1720.0;20;GBP;1;Taylor 314ce LTD Shaded Edgeburst 2021 Limited Edition Grand Auditorium
@@ -45,7 +50,6 @@ product_code;price_gross;vat;currency;stock;name
 1080926239892;910.0;20;GBP;1;Ibanez EHB1505MS-PLF Multi-Scale 2019 Headless 5-String Electric Bass
 1290826236830;1220.0;20;GBP;1;Yamaha AC5R A.R.E Vintage Natural 2025 Electro-Acoustic Guitar
 1310826237520;2040.0;20;GBP;1;Gibson Les Paul Standard Premium Plus Desert Burst 2013 Electric Guitar
-1260826235871;450.0;20;GBP;1;Vintage Gordon Giltrap VE3000MGG Natural Satin Electro Acoustic Guitar
 1230826234990;2520.0;20;GBP;1;Emerald X30-12 Redwood Burl 2022 12-String Electro Acoustic Guitar
 1270826236281;2040.0;20;GBP;1;Rickenbacker 360 Mapleglo 2005 Semi-Hollow Electric Guitar
 1270826236280;1980.0;20;GBP;1;Hofner Jazzica Custom Natural 2003 Archtop Hollow Body Guitar
