@@ -156,7 +156,6 @@ product_code;price_gross;vat;currency;stock;name
 10057509863753;1737.71;20;EUR;1;ESP FA-II Flying A „The Alfee“ - White
 10141863051593;1229.03;20;EUR;1;ESP Flying A The Alfee 1990 - White - Vintage Japan
 10136402493769;1141.55;20;EUR;1;ESP LTD GL-200K George Lynch Signature 2012 - Kamikaze
-10366772478281;1457.99;20;EUR;1;ESP LTD Slayer 25th Anniversary 2011 - Reign in Blood
 9731335651657;701.99;20;EUR;1;ESP Stratocaster 1998 - signed by Paul Gilbert
 9775092203849;1595.15;20;EUR;1;ESP THE ALFEE Signature Angel Classic Junior 1998 - Cherry Sunburst
 10249139683657;508.67;20;EUR;1;EVH 5150 Mini Guitar - Red Striped
@@ -468,6 +467,7 @@ product_code;price_gross;vat;currency;stock;name
 10390800597321;874.79;20;EUR;1;Fender Japan 72 Reissue Stratocaster 1984-1987 - Vintage White
 10349677740361;971.99;20;EUR;1;Fender Japan 72 Reissue Stratocaster 1985-1986 - Vintage White
 10381687521609;971.99;20;EUR;1;Fender Japan 72 Reissue Stratocaster 1989-1990 - Silver Repaint
+10365818044745;971.99;20;EUR;1;Fender Japan 72 Reissue Stratocaster 1994-1997 - Vintage White
 10294053568841;923.39;20;EUR;1;Fender Japan 72 Reissue Stratocaster 1997-2000 - Vintage White
 10387971342665;971.99;20;EUR;1;Fender Japan 72 Reissue Stratocaster 1999-2002 - Vintage White
 10249153872201;1108.07;20;EUR;1;Fender Japan 72 Reissue Stratocaster ST72-86DSC 2006-2008 - Vintage White
@@ -516,7 +516,6 @@ product_code;price_gross;vat;currency;stock;name
 10080808370505;1229.03;20;EUR;1;Fender Japan Traditional II 60s Jaguar 2022 - Sunburst
 10316303008073;1292.75;20;EUR;1;Fender Lead I 1981 - Natural
 10316385222985;1292.75;20;EUR;1;Fender Limited Edition '72 Telecaster Custom 2012 - Orange Sparkle
-10378912203081;680.39;20;EUR;1;Fender Limited Edition Player Jazz Bass 2023 - Pacific Peach
 9989304320329;777.59;20;EUR;1;Fender Mexico FSR Stratocaster 1995 - Vintage White
 10330894664009;646.91;20;EUR;1;Fender Mexico Stratocaster 1995 - Black
 10338185642313;1200.95;20;EUR;1;Fender MJT 50s Reissue Stratocaster - Purple Metallic - Heavy Relic
@@ -719,7 +718,6 @@ product_code;price_gross;vat;currency;stock;name
 9903191916873;277.55;20;EUR;1;Ibanez Talman TCY10LE-BLK Lefthand 2021 - Black
 9786540851529;510.83;20;EUR;1;Ibanez Talman TM71T 2002 - Jewel Blue
 9821268476233;10526.75;20;EUR;1;Ibanez Universe UV77MC Steve Vai Signature 1991 - Multicolor
-10381601669449;874.79;20;EUR;1;Italia Modena Classic - Metallic Blue
 10387933135177;194.39;20;EUR;1;Jackson JS22-7 Dinky DKA HT 2016 - Gloss Black
 9797225742665;5831.99;20;EUR;1;James Collins Signature GTO 2023 - Natural
 9942052766025;3158.99;20;EUR;1;James Trussart Rusty Deville 59 2011 - Steel
@@ -732,6 +730,7 @@ product_code;price_gross;vat;currency;stock;name
 9961956573513;305.63;20;EUR;1;Kramer Striker 2022 - Trans Purple
 10104025678153;711.71;20;EUR;1;Kramer Volante HHFR 2024 - Defender Red
 10220496060745;1943.99;20;EUR;1;Lake Placid Custom by Andre Waldenmaier HSS Floyd Rose 1995 - See Thru Green
+10365219602761;155.51;20;EUR;1;LPD Pedals Sixty8 Overdrive Effect Pedal
 10305877147977;126.35;20;EUR;1;LY-Rock Klon KTR Effektpedal
 10099292275017;396.35;20;EUR;1;Maestro by Gibson Les Paul 2013 - Red
 10392789909833;388.79;20;EUR;1;Marcus Miller 5-String Bass 2020 - Cherry Sunburst
@@ -822,6 +821,7 @@ product_code;price_gross;vat;currency;stock;name
 10305395425609;369.35;20;EUR;1;Schecter Tempest Hercules LTD 2022
 10315841306953;1292.75;20;EUR;1;Seventy Seven Japan Exrubato CTM JT 2022 - Trans Black
 10315895210313;1292.75;20;EUR;1;Seventy Seven Japan Exrubato STD JT 2021 - Aged Red
+10316410716489;1200.95;20;EUR;1;Seventy Seven Japan Exrubato STD JT 2021 - Aged Red
 10315900256585;1292.75;20;EUR;1;Seventy Seven Japan Exrubato STD JT 2024 - Iced Tea Burst
 10349665616201;1263.59;20;EUR;1;Seventy Seven Japan Exrubato-STD 2020 - Cherry Red
 10315875909961;1292.75;20;EUR;1;Seventy Seven Japan HAWK STD JT 2023 - Antique Brown
