@@ -1,4 +1,6 @@
 product_code;price_gross;vat;currency;stock;name
+1170926242362;2310.0;20;GBP;1;Patrick James Eggle ‘Jumbo’ Gloss Natural 2004 Slope Shoulder Dreadnought
+1150926241680;1580.0;20;GBP;1;Martin Road Series D E Retro Plus Gloss Natural 2025 Electro-Acoustic Guitar
 1070926239220;370.0;20;GBP;1;Chapman ML1 Modern Baritone Ocean Fade 2021 Baritone Electric Guitar
 1040326188462;300.0;20;GBP;1;Boss GX-10 Guitar Effects Processor
 1170726224281;370.0;20;GBP;1;Squier 40th Anniversary Satin Sea Foam Green 2022 Electric Jazz Bass
@@ -56,7 +58,6 @@ product_code;price_gross;vat;currency;stock;name
 10809262398910;965.0;20;GBP;1;Line 6 Helix Rack Unit w/Helix Control Footswitch & SP1-L6 Expression Pedal
 1080926239894;820.0;20;GBP;1;ESP LTD EC-1000ET Vintage Honey Burst 2016 Electric Guitar
 1080926239892;910.0;20;GBP;1;Ibanez EHB1505MS-PLF Multi-Scale 2019 Headless 5-String Electric Bass
-1290826236830;1220.0;20;GBP;1;Yamaha AC5R A.R.E Vintage Natural 2025 Electro-Acoustic Guitar
 1310826237520;2040.0;20;GBP;1;Gibson Les Paul Standard Premium Plus Desert Burst 2013 Electric Guitar
 1230826234990;2520.0;20;GBP;1;Emerald X30-12 Redwood Burl 2022 12-String Electro Acoustic Guitar
 1270826236281;2040.0;20;GBP;1;Rickenbacker 360 Mapleglo 2005 Semi-Hollow Electric Guitar
@@ -68,7 +69,6 @@ product_code;price_gross;vat;currency;stock;name
 1290826236600;710.0;20;GBP;1;Fender Vintera '70s Jazz Bass 3-Colour Sunburst 2020 Electric Bass
 1280826236400;970.0;20;GBP;1;Gibson Les Paul '100' Studio Manhattan Midnight 2015 Electric Guitar
 1260826235714;1040.0;20;GBP;1;Fender American Stratocaster Black 2005 Electric Guitar w/ Modifications
-1010926237791;420.0;20;GBP;1;Epiphone SG Custom Ebony 2022 Electric Guitar
 1300826237060;740.0;20;GBP;1;ESP LTD Eclipse Custom 1987 Reissue Rainbow Crackle 2023 Electric Guitar
 1270826236240;540.0;20;GBP;1;Tokai Firebird FB-53 Vintage Sunburst 2022 Electric Guitar
 1270826236090;1820.0;20;GBP;1;Epiphone Elitist 1965 Casino Outfit Sunburst 2010 Hollow Body Electric Guitar
@@ -101,7 +101,6 @@ product_code;price_gross;vat;currency;stock;name
 1190826233371;740.0;20;GBP;1;Schecter Sun Valley Super Shredder FR S LH Riviera Blue 2021 Electric Guitar
 1180826233100;2140.0;20;GBP;1;Excelsior Super King Gloss Natural 2009 Hand Made Acoustic Guitar
 1130826231280;400.0;20;GBP;1;Burns Marquee Club Series Black 2010 Electric Guitar
-1110826230900;460.0;20;GBP;1;Schecter Demon-7 Satin Black 2016 7-String Electric Guitar
 1080726222351;400.0;20;GBP;1;Ibanez RG370FMZ Sapphire Blue 2019 Electric Guitar
 1140726223540;400.0;20;GBP;1;Epiphone EJ200-SCE/VS Vintage Sunburst 2020 Electro Acoustic Guitar
 1190626217291;400.0;20;GBP;1;ESP LTD EC-201 Satin Black 2022 Electric Guitar
