@@ -1,4 +1,5 @@
 product_code;price_gross;vat;currency;stock;name
+1170926242361;1460.0;20;GBP;1;Martin 000-15SM Satin Natural 2022 Auditorium Acoustic Guitar
 1170926242362;2310.0;20;GBP;1;Patrick James Eggle ‘Jumbo’ Gloss Natural 2004 Slope Shoulder Dreadnought
 1150926241680;1580.0;20;GBP;1;Martin Road Series D E Retro Plus Gloss Natural 2025 Electro-Acoustic Guitar
 1070926239220;370.0;20;GBP;1;Chapman ML1 Modern Baritone Ocean Fade 2021 Baritone Electric Guitar
@@ -23,7 +24,6 @@ product_code;price_gross;vat;currency;stock;name
 1070726222001;370.0;20;GBP;1;Sigma 000MC-15E Satin Natural 2025 Electro-Acoustic Guitar
 1290826236680;390.0;20;GBP;1;Gretsch G5435 Electromatic Black 2013 Electric Guitar
 1240726226150;570.0;20;GBP;1;Epiphone Les Paul Custom Black Beauty 2006 Electric Guitar
-1070926239611;460.0;20;GBP;1;Ovation Elite 2078AX Black Cherry Burst Electro Acoustic Guitar
 1270826235970;1750.0;20;GBP;1;Roland G-808 Natural 1983 Guitar Synthesiser Controller Electric Guitar
 1280826236340;400.0;20;GBP;1;PRS SE 245 Black 2012 Electric Guitar
 1040926238690;570.0;20;GBP;1;Gretsch G5420T Electromatic Orange Stain 2020 Hollow Body Electric Guitar
@@ -100,13 +100,11 @@ product_code;price_gross;vat;currency;stock;name
 1060126168421;290.0;20;GBP;1;LAVA GENIE White Foldable Digital Travel Guitar
 1190826233371;740.0;20;GBP;1;Schecter Sun Valley Super Shredder FR S LH Riviera Blue 2021 Electric Guitar
 1180826233100;2140.0;20;GBP;1;Excelsior Super King Gloss Natural 2009 Hand Made Acoustic Guitar
-1130826231280;400.0;20;GBP;1;Burns Marquee Club Series Black 2010 Electric Guitar
 1080726222351;400.0;20;GBP;1;Ibanez RG370FMZ Sapphire Blue 2019 Electric Guitar
 1140726223540;400.0;20;GBP;1;Epiphone EJ200-SCE/VS Vintage Sunburst 2020 Electro Acoustic Guitar
 1190626217291;400.0;20;GBP;1;ESP LTD EC-201 Satin Black 2022 Electric Guitar
 1270726226803;310.0;20;GBP;1;Orange Dark Terror 15W Hi-Gain Lunchbox Portable All-Valve Guitar Amplifier Head
 1210726225140;400.0;20;GBP;1;Cort MBC-1 Matt Bellamy Red Sparkle 2016 Electric Guitar
-1040826228960;460.0;20;GBP;1;Höfner HCT-J17-E2 Black 2011 Hollow Body Electric Guitar
 1240826235123;600.0;20;GBP;1;Epiphone Sheraton II PRO Ebony 2018 Semi Hollow Electric Guitar
 1090826230240;430.0;20;GBP;1;Epiphone J-200 EC Studio Parlor Vintage Sunburst 2025 Electro-Acoustic Guitar
 1270726226910;430.0;20;GBP;1;Chapman ML-2 Satin Natural 2013 Electric Guitar
@@ -309,7 +307,6 @@ product_code;price_gross;vat;currency;stock;name
 1220725119410;500.0;20;GBP;1;Hagstrom HJ500 Gloss Natural 2006 Hollow Body Electric Guitar
 131012575200;420.0;20;GBP;1;Squier Pro-Tone Stratocaster Olympic White 1997 Electric Guitar
 10412234452;350.0;20;GBP;1;Little Rock Vintage 80 1x12” UK Made Tweed Valve Guitar Amplifier Combo
-1140426200510;2030.0;20;GBP;1;Larrivee 000-44R Legacy Series Natural Gloss 2022 Acoustic Guitar
 13105251049011;340.0;20;GBP;1;Yamaha RGXA2 Gloss Black 2007 Electric Guitar
 1200426202692;1530.0;20;GBP;1;Epiphone FT-79 Texan USA Vintage Sunburst Acoustic Guitar
 1200426202691;2190.0;20;GBP;1;Gibson Songwriter Standard Gloss Natural 2024 Acoustic Guitar
