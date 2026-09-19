@@ -91,6 +91,7 @@ product_code;price_gross;vat;currency;stock;name
 10381478363465;680.39;20;EUR;1;CoolZ Japan ZJB-1R Jazz Bass 2007 - Sunburst
 10392493261129;874.79;20;EUR;1;CoolZ Japan ZLS-1 Les Paul 2009 - Lemon Burst
 10366130684233;680.39;20;EUR;1;CoolZ Japan ZST-10R Stratocaster 2017 - Sunburst
+10400834126153;680.39;20;EUR;1;CoolZ Japan ZST-1R Stratocaster 2010 - Lace Placid Blue
 10366159618377;680.39;20;EUR;1;CoolZ Japan ZST-1R Stratocaster 2014 - Candy Apple Red
 10365872963913;680.39;20;EUR;1;CoolZ Japan ZST-V/R Stratocaster 2016 - Sunburst
 9654574383433;777.59;20;EUR;1;Cort Elrick NJS4 Bass 2022 - Black
@@ -106,6 +107,7 @@ product_code;price_gross;vat;currency;stock;name
 10305810006345;126.35;20;EUR;1;DOD FX25 Envelope Filter Effektpedal - USA
 10192934076745;131.21;20;EUR;1;DOD FX50-B Overdrive Effect Pedal - USA
 10357093695817;1360.79;20;EUR;1;Duesenberg Starplayer Special 2019 - Black Sparkle
+10400627720521;2138.39;20;EUR;1;Duesenberg Starplayer TV Custom 2015 - Black
 10341678055753;242.99;20;EUR;1;Dunlop Crybaby 50th Anniversary Gold Effektpedal
 10104299127113;631.79;20;EUR;1;Eddie Van Halen Frankenstein Strat Replica - Red Striped
 10249312895305;646.91;20;EUR;1;EDWARDS by ESP E-RA-110HR ROUAGE RAYZI
@@ -153,6 +155,7 @@ product_code;price_gross;vat;currency;stock;name
 9937240293705;3110.39;20;EUR;1;ESP E-II Eclipse - Tobacco Burst
 10057509863753;1737.71;20;EUR;1;ESP FA-II Flying A „The Alfee“ - White
 10141863051593;1229.03;20;EUR;1;ESP Flying A The Alfee 1990 - White - Vintage Japan
+10403322003785;971.99;20;EUR;1;ESP LTD Deluxe Viper-1000 2019 - Quilt Maple Tiger Eye Sunburst
 10398933090633;874.79;20;EUR;1;ESP LTD EC-01FT Deluxe 2024 - Black
 10136402493769;1141.55;20;EUR;1;ESP LTD GL-200K George Lynch Signature 2012 - Kamikaze
 9731335651657;701.99;20;EUR;1;ESP Stratocaster 1998 - signed by Paul Gilbert
@@ -421,6 +424,7 @@ product_code;price_gross;vat;currency;stock;name
 9997845135689;2915.99;20;EUR;1;Fender American Stratocaster 1982 - Sunburst
 10379462148425;1263.59;20;EUR;1;Fender American Telecaster 1995 - Vintage White
 10349688226121;1943.99;20;EUR;1;Fender American Vintage 57 Reissue Stratocaster 1996 - Sunburst
+10403431317833;2138.39;20;EUR;1;Fender American Vintage 62 Reissue Custom Telecaster 1999 - Sunburst
 10330798883145;1662.11;20;EUR;1;Fender American Vintage 62 Reissue Stratocaster 2001 - Sunburst
 10141638394185;665.27;20;EUR;1;Fender American Vintage Jaguar Body - Sunburst
 10366187307337;971.99;20;EUR;1;Fender Chilli Beans Moto Signature Mustang 2025 - Black
@@ -446,6 +450,7 @@ product_code;price_gross;vat;currency;stock;name
 10379453530441;874.79;20;EUR;1;Fender Japan 57 Reissue Stratocaster 1999-2002 - Fiesta Red
 10398929060169;874.79;20;EUR;1;Fender Japan 57 Reissue Stratocaster 2004-2005 - Sunburst
 10240946176329;746.27;20;EUR;1;Fender Japan 60s Reissue Stratocaster 1991-1992 - Sunburst
+10403423322441;971.99;20;EUR;1;Fender Japan 62 Reissue Precision Bass 2006-2008 - Black
 10398951866697;971.99;20;EUR;1;Fender Japan 62 Reissue Stratocaster 1984-1987 - Satin Sunburst
 10398900257097;874.79;20;EUR;1;Fender Japan 62 Reissue Stratocaster 1990-1991 - Black
 10392626987337;874.79;20;EUR;1;Fender Japan 62 Reissue Stratocaster 1991-1992 - Black
@@ -457,7 +462,6 @@ product_code;price_gross;vat;currency;stock;name
 10329392546121;1385.63;20;EUR;1;Fender Japan 66 Reissue Jaguar 1997-2000 - Candy Apple Red - Matching Headstock
 10358272393545;1360.79;20;EUR;1;Fender Japan 66 Reissue Jaguar 2002-2004 - Candy Apple Red - Matching Headstock
 10357114896713;1263.59;20;EUR;1;Fender Japan 66 Reissue Mustang 1993-1994 - Vintage White
-10292805697865;1200.95;20;EUR;1;Fender Japan 66 Reissue Mustang 1997-2000 - Vintage White
 10365854581065;1263.59;20;EUR;1;Fender Japan 66 Reissue Mustang 1999-2002 - Vintage White
 10016150716745;1197.71;20;EUR;1;Fender Japan 66’ Reissue Jaguar 2004-2005 - Sunburst
 10316379881801;1200.95;20;EUR;1;Fender Japan 66’ Reissue Mustang 2002-2004 - Vintage White
@@ -479,6 +483,8 @@ product_code;price_gross;vat;currency;stock;name
 10349645726025;971.99;20;EUR;1;Fender Japan Hybrid II Stratocaster 2022 - Matte Black
 10398921195849;874.79;20;EUR;1;Fender Japan JB-40 Jazz Bass 1993-1994 - Sunburst
 10387851608393;874.79;20;EUR;1;Fender Japan JB-40 Jazz Bass 1993-1994 - Vintage White
+10403404579145;874.79;20;EUR;1;Fender Japan JB-48 Jazz Bass 2007 - Sunburst
+10403451371849;874.79;20;EUR;1;Fender Japan JB-STD Jazz Bass 2007-2010 - Vintage White
 10327216849225;777.59;20;EUR;1;Fender Japan JB-STD Jazz Bass 2012 - Sunburst
 10294092824905;831.59;20;EUR;1;Fender Japan JV Stratocaster MOD 1982 - Natural
 10366532682057;1360.79;20;EUR;1;Fender Japan Mami Signature Stratocaster 2025 - Omochi Vintage White
@@ -486,7 +492,10 @@ product_code;price_gross;vat;currency;stock;name
 10392508662089;874.79;20;EUR;1;Fender Japan PB-38 Precision Bass 1993-1994 - Black
 10328355209545;831.59;20;EUR;1;Fender Japan PB-43 Precision Bass 2004-2005 - Sunburst
 10392733155657;971.99;20;EUR;1;Fender Japan PJ-455 Precision Bass 1984-1987 - Black
+10403470410057;971.99;20;EUR;1;Fender Japan PJM-55R Jazz Bass Special 1988-1989 - Black
 10236596388169;439.55;20;EUR;1;Fender Japan SF-456 Stratocaster 1984-1987 - Black
+10403373580617;874.79;20;EUR;1;Fender Japan ST-362 Stratocaster 1993-1994 - Black
+10403380953417;874.79;20;EUR;1;Fender Japan ST-362 Stratocaster 1993-1994 - Black
 10379443962185;874.79;20;EUR;1;Fender Japan ST-362 Stratocaster 1993-1994 - Fiesta Red
 10391413162313;874.79;20;EUR;1;Fender Japan ST-STD Stratocaster 1994-1995 - Candy Apple Red
 10388033274185;874.79;20;EUR;1;Fender Japan ST-STD Stratocaster 2007-2008 - Black
@@ -519,6 +528,7 @@ product_code;price_gross;vat;currency;stock;name
 10316385222985;1292.75;20;EUR;1;Fender Limited Edition '72 Telecaster Custom 2012 - Orange Sparkle
 9989304320329;777.59;20;EUR;1;Fender Mexico FSR Stratocaster 1995 - Vintage White
 10330894664009;646.91;20;EUR;1;Fender Mexico Stratocaster 1995 - Black
+10400844972361;680.39;20;EUR;1;Fender Mexico Stratocaster 1995 - Black
 10338185642313;1200.95;20;EUR;1;Fender MJT 50s Reissue Stratocaster - Purple Metallic - Heavy Relic
 10338167488841;1200.95;20;EUR;1;Fender MJT 60s Reissue Stratocaster - Candy Apple Green - Heavy Relic
 10338198716745;1263.59;20;EUR;1;Fender MJT 60s Reissue Stratocaster - Inca Silver - Heavy Relic
@@ -700,6 +710,7 @@ product_code;price_gross;vat;currency;stock;name
 9808930505033;833.36;20;EUR;1;Ibanez EKM10T-WRD-12-01 2014 - Wine Red
 9903021883721;369.35;20;EUR;1;Ibanez EX Series EX170L Lefthand 1993 - Black
 10249198829897;1263.59;20;EUR;1;Ibanez Iceman ICT700 2008 - Black
+10403455861065;583.19;20;EUR;1;Ibanez Japan SDGR SR-530 Bass 1990 - Black
 10398956323145;1263.59;20;EUR;1;Ibanez Kiko Loureiro Premium KIKO10BP 2017 - Transparent Gray Burst
 10023456702793;1016.27;20;EUR;1;Ibanez Les Paul Custom Pre Lawsuit 1973 - Ebony
 10249353167177;1385.63;20;EUR;1;Ibanez LR10 Lee Ritenour Signature 1982 - Antique Violin
@@ -838,11 +849,14 @@ product_code;price_gross;vat;currency;stock;name
 10328246485321;646.91;20;EUR;1;Squier by Fender Jagmaster 2005 - Sunburst
 10316403179849;646.91;20;EUR;1;Squier by Fender Jagmaster 2006 - Metallic Blue
 10392512168265;631.79;20;EUR;1;Squier by Fender Japan  ST-362N Stratocaster 1984-1987 - Black
+10400863256905;777.59;20;EUR;1;Squier by Fender Japan JV ST-502 Contemporary Stratocaster 1983 - Black
 10365891445065;971.99;20;EUR;1;Squier by Fender Japan JV Stratocaster 1983 - Black
 10381522108745;680.39;20;EUR;1;Squier by Fender Japan JV Stratocaster 1984 - Vintage White
 10357895921993;680.39;20;EUR;1;Squier by Fender Japan Silver Series Stratocaster SST-39 1993-1994 - Flame Red Burst
 10392772804937;680.39;20;EUR;1;Squier by Fender Japan Silver Series Telecaster 2002-2004 - Black
+10400810533193;971.99;20;EUR;1;Squier by Fender Japan SQ Stratocaster 1984 - Vintage White
 10294035022153;646.91;20;EUR;1;Squier by Fender Japan SST-33 Stratocaster 1991-1992 - Black
+10400855327049;680.39;20;EUR;1;Squier by Fender Japan SST-R Stratocaster 1999-2002 - Transparent Blue Burst
 10358268920137;583.19;20;EUR;1;Squier by Fender Japan ST-398 72 Reissue Stratocaster 1983-1984 - Vintage White
 10365053960521;680.39;20;EUR;1;Squier by Fender Japan Stratocaster 1984 - Black
 10381453885769;583.19;20;EUR;1;Squier by Fender Korea Stratocaster 1991 - Black
