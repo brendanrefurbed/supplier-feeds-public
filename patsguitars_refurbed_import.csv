@@ -423,7 +423,7 @@ product_code;price_gross;vat;currency;stock;name
 10405124211017;1263.59;20;EUR;1;Fender American Performer Stratocaster 2023 - Honeyburst
 10357272183113;1457.99;20;EUR;1;Fender American Professional II Stratocaster 2022 - Miami Blue
 10391403462985;1263.59;20;EUR;1;Fender American Professional Stratocaster HSS Shawbucker 2019 - Sunburst
-10404776837449;1457.99;20;EUR;1;Fender American Special Edition Stratocaster 1993 1993 - Frost Red
+10404776837449;1457.99;20;EUR;1;Fender American Special Edition Stratocaster 1993 - Frost Red
 10392856199497;1263.59;20;EUR;1;Fender American Special Jazz Bass 2010 - Sunburst
 10390692102473;1263.59;20;EUR;1;Fender American Standard Stratocaster 1993 - Lipstick Red
 10381580697929;1166.39;20;EUR;1;Fender American Standard Stratocaster 1997 - Black
@@ -448,8 +448,6 @@ product_code;price_gross;vat;currency;stock;name
 10315906842953;1846.79;20;EUR;1;Fender Eric Clapton Signature Stratocaster 2007 - Pewter
 10305305706825;1200.95;20;EUR;1;Fender Exclusive American Standard Stratocaster 2024 - Satin Fiesta Red
 10033144365385;161.99;20;EUR;1;Fender Frontman 15G Transistor Verstärker
-10047280906569;1108.07;20;EUR;1;Fender Highway One Stratocaster 2006 - Natural
-10231382573385;1141.55;20;EUR;1;Fender Highway One Stratocaster 2008 - Sand
 10381559562569;971.99;20;EUR;1;Fender Japan 52 Reissue Telecaster 1994-1995 - Fotoflame - Butterscotch Blonde
 10392751243593;1166.39;20;EUR;1;Fender Japan 52 Reissue Telecaster 1994-1995 - Natural
 10392790040905;971.99;20;EUR;1;Fender Japan 54 Reissue Stratocaster 1989-1990 - Black
@@ -790,7 +788,6 @@ product_code;price_gross;vat;currency;stock;name
 10169735709001;1754.99;20;EUR;1;Music Man Benji Madden Signature Silhouette Special 2005 - Madden Green
 10316359074121;1555.19;20;EUR;1;Music Man by Ernie Ball StingRay 3 EQ 2001 - Black
 10381561200969;1846.79;20;EUR;1;Music Man by Ernie Ball StingRay 3 EQ Bass 2002 - Black
-10349649592649;1385.63;20;EUR;1;Music Man by Ernie Ball StingRay EX Bass 2001 - Black
 10391502586185;1555.19;20;EUR;1;Music Man Ernie Ball StingRay EX Bass 2000 - Black Sparkle
 10405006836041;2429.99;20;EUR;1;Music Man John Petrucci Signature JP6 Limited 2007 - Blue Dawn
 10381555925321;1360.79;20;EUR;1;Music Man StingRay I 1977-1978 - Sunburst
