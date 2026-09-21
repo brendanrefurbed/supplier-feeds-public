@@ -42,7 +42,6 @@ product_code;price_gross;vat;currency;stock;name
 10305863450953;145.79;20;EUR;1;Boss NF-1 Noise Gate Effektpedal - Japan
 10305868792137;97.19;20;EUR;1;Boss NS-2 Noise Suppressor Effektpedal - Japan
 10305800962377;116.63;20;EUR;1;Boss OD-2 Turbo Over Drive Effektpedal - Japan
-10305804894537;97.19;20;EUR;1;Boss OD-2 Turbo Over Drive Effektpedal - Japan
 10305860010313;97.19;20;EUR;1;Boss OD-2 Turbo Over Drive Effektpedal - Japan
 10305818460489;97.19;20;EUR;1;Boss OD-2 Turbo Over Drive Effektpedal - Taiwan
 10305869742409;97.19;20;EUR;1;Boss OD-2 Turbo Over Drive Effektpedal - Taiwan
@@ -553,7 +552,6 @@ product_code;price_gross;vat;currency;stock;name
 10392519049545;1263.59;20;EUR;1;Fender Ritchie Blackmore Signature Stratocaster 2009 - Olympic White
 10357922955593;1263.59;20;EUR;1;Fender Ritchie Blackmore Signature Stratocaster 2011 - Olympic White
 10358266954057;1263.59;20;EUR;1;Fender Ritchie Blackmore Signature Stratocaster 2022 - Olympic White
-10405023646025;971.99;20;EUR;1;Fender Road Worn 50s Precision Bass 2016 - Fiesta Red
 10364977381705;777.59;20;EUR;1;Fender Showmaster Stratocaster 2005 - Black Cherry Burst
 10047131386185;599.39;20;EUR;1;Fender Squier 51 Strat/Tele Hybrid - Butterscotch Blonde
 10067744260425;665.27;20;EUR;1;Fender Squier 71’ Reissue Telecaster 2002-2004 - Butterscotch Blonde
@@ -634,7 +632,6 @@ product_code;price_gross;vat;currency;stock;name
 10405127913801;1943.99;20;EUR;1;Gibson SG Standard Derek Trucks Signature 2013 - Cherry Red
 10091535728969;7775.99;20;EUR;1;Gibson Thunderbird II Bass 1964 – Alembic Custom 1976 – Tree of Life – Ember Red
 10367173001545;2915.99;20;EUR;1;Gibson Vegas High Roller 2006 - Felt Green
-10392729059657;1943.99;20;EUR;1;Gibson XR-2 Les Paul 1981 - Honey Burst
 10199291986249;971.99;20;EUR;1;Gitane DG-250M - Natural
 10108285387081;17.27;20;EUR;1;Gitarrenkarton 1180×475×165 mm – Doppelwelliger Versandkarton für Gitarren
 10110450008393;46.43;20;EUR;1;Gitarrenkarton 3er Set 1180×475×165 mm – Doppelwellige Versandkartons
@@ -677,7 +674,6 @@ product_code;price_gross;vat;currency;stock;name
 10365234544969;1263.59;20;EUR;1;Greco EX800 Explorer 1978 - Vintage White
 10210054406473;415.79;20;EUR;1;Greco GOB-700 Bass 1978 - Defekt
 9729076822345;777.59;20;EUR;1;Greco J-80E 1991 - Sunburst
-10349680230729;646.91;20;EUR;1;Greco Jazz Bass 1970s - Sunburst
 10294143058249;874.79;20;EUR;1;Greco Les Paul Custom 1990s - Ebony
 10294139748681;831.59;20;EUR;1;Greco Les Paul EG450 1978 - Ebony
 10091440341321;748.43;20;EUR;1;Greco Les Paul Standard 1977 - Tobacco Burst
@@ -726,7 +722,7 @@ product_code;price_gross;vat;currency;stock;name
 10392705958217;388.79;20;EUR;1;Ibanez AF80 Artstar 1994 - Sunburst
 10047306137929;388.79;20;EUR;1;Ibanez ART80 2009 - Black
 10276976656713;646.91;20;EUR;1;Ibanez Artcore AGS83B-ATF-12-01 2006 - Natural Burst
-10403384983881;1943.99;20;EUR;1;Ibanez Artfield ATK100 1990 - Natural Oil
+10403384983881;1943.99;20;EUR;1;Ibanez Artfield AFD40-Z 1990 - Natural Oil
 10294179692873;1662.11;20;EUR;1;Ibanez Artist 2616 1970s - Cherry Sunburst
 9808922378569;3401.99;20;EUR;1;Ibanez Artist 2700 1979 - Natural
 9808930505033;833.36;20;EUR;1;Ibanez EKM10T-WRD-12-01 2014 - Wine Red
@@ -773,7 +769,6 @@ product_code;price_gross;vat;currency;stock;name
 10305877147977;126.35;20;EUR;1;LY-Rock Klon KTR Effektpedal
 10099292275017;396.35;20;EUR;1;Maestro by Gibson Les Paul 2013 - Red
 10105098076489;3887.99;20;EUR;1;Marshall JCM800 2203 MKII 100W + 1960A 4x12 Cabinet – 1995 Limited Edition Red Stack
-10330875527497;77.75;20;EUR;1;Marshall JH-1 The Jackhammer Effektpedal
 9989385290057;680.39;20;EUR;1;Martin LX1 LR Baggs 2011 - Natural
 10124566298953;527.03;20;EUR;1;Mavis Flying V Acryl - Blue
 10386341921097;680.39;20;EUR;1;Mavis Telecaster - Fiesta Red
@@ -866,11 +861,10 @@ product_code;price_gross;vat;currency;stock;name
 9831290896713;866.15;20;EUR;1;Sigma M Stratocaster - Natural
 9974460318025;2031.47;20;EUR;1;Sign Guitars German Custom Made Relectro 2013 - Black
 10305803125065;174.95;20;EUR;1;Sobbat Fuzz Breaker Effektpedal
-10405033476425;583.19;20;EUR;1;Solar E1.6FB 2023 - Flame Black Burst Matte
+10405033476425;583.19;20;EUR;1;Solar E2.6FBB Baritone 2023 - Flame Black Burst Matte
 10193280237897;831.59;20;EUR;1;Solar T1.6H3TS 2022 - Sunburst
 10099857949001;554.03;20;EUR;1;Squier Bullet Bass Korea 1987 - Red
 10357128069449;485.99;20;EUR;1;Squier by Fender Bullet Bass 1987 - Black
-10405086069065;291.59;20;EUR;1;Squier by Fender Classic Vibe 60s Telecaster 2010 - Sunburst
 10316911214921;646.91;20;EUR;1;Squier by Fender Jagmaster 1999 - Red
 10392755896649;680.39;20;EUR;1;Squier by Fender Jagmaster 2004 - Black
 10392793088329;680.39;20;EUR;1;Squier by Fender Jagmaster 2005 - Black
@@ -940,7 +934,6 @@ product_code;price_gross;vat;currency;stock;name
 10292790264137;2031.47;20;EUR;1;Warwick Corvette $$ Double Buck Bass 2011 - Turquoise Blue Oil Finish
 9997843038537;777.59;20;EUR;1;Warwick Infinity RockBass 2018 - Natural
 10210038317385;3693.59;20;EUR;1;Warwick Thumb NT Bass 2004 - Natural Oil Finish
-10349667320137;554.03;20;EUR;1;Washburn Nuno Bettencourt Signature 1995 - Trans Red
 10381541015881;680.39;20;EUR;1;Yamaha AES620 Les Paul 2010 - Amber Flame Maple
 10305797751113;145.79;20;EUR;1;Yamaha AMD-100 American Monster Drive Effektpedal - Japan
 10305787691337;77.75;20;EUR;1;Yamaha DI-01 Distortion Effektpedal
