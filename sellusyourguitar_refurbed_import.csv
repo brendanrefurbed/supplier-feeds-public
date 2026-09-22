@@ -1,4 +1,9 @@
 product_code;price_gross;vat;currency;stock;name
+1100626214910;370.0;20;GBP;1;Squier FSR Classic Vibe 60s Jaguar Olympic White 2022 Electric Guitar
+1180526209421;370.0;20;GBP;1;Epiphone Les Paul Classic T Midnight Sapphire 2014 Electric Guitar
+1220826234743;370.0;20;GBP;1;Epiphone Les Paul Standard Transparent Amber 2010 Electric Guitar
+1150926241900;430.0;20;GBP;1;Washburn J3-TS Tobacco Sunburst 2008 Archtop Electric Guitar
+1070726222002;370.0;20;GBP;1;Raimundo Model 128 Natural Gloss Classical Guitar
 1140926241390;3680.0;20;GBP;1;Gibson Memphis ES-359 Black Beauty Ebony 2018 Ltd Edition Semi-Hollow Electric
 1140926241620;500.0;20;GBP;1;Jackson MG Series DXMGT Transparent Black Electric Guitar
 1190926242851;490.0;20;GBP;1;Fender Player Telecaster Tidepool 2023 Electric Guitar
@@ -7,7 +12,6 @@ product_code;price_gross;vat;currency;stock;name
 1080926239950;740.0;20;GBP;1;Fender Deluxe Roadhouse Stratocaster Mystic Ice Blue 2019 Electric Guitar
 1210826233831;370.0;20;GBP;1;Takamine GD30CE-12 Natural Gloss Electro Acoustic Guitar
 1300726227830;370.0;20;GBP;1;Gretsch G2622LH Single Barrel Stain 2021 Left-Handed Electric Guitar
-1110826230840;370.0;20;GBP;1;Epiphone Les Paul Standard Tobacco Burst 2011 Electric Guitar
 1050926238750;550.0;20;GBP;1;Chapman ML3 Pro Thinline 2023 Semi-Hollow Electric Guitar
 1080926239960;680.0;20;GBP;1;Yamaha FS3 A.R.E Natural Semi-Gloss Concert Acoustic Guitar
 1170926242362;2310.0;20;GBP;1;Patrick James Eggle ‘Jumbo’ Gloss Natural 2004 Slope Shoulder Dreadnought
@@ -27,7 +31,6 @@ product_code;price_gross;vat;currency;stock;name
 1080826230201;660.0;20;GBP;1;Fender Classic Series '72 Telecaster Custom 3-Color Sunburst 1999 Electric Guita
 1081125151751;620.0;20;GBP;1;Jackson X Series Rhoads RRX24 Battleship Gray w/Black Bevels 2022 Modified
 1170726224180;370.0;20;GBP;1;Cort KX300 Open Pore Cobalt Burst 2023 Electric Guitar
-1140926241601;910.0;20;GBP;1;Gibson Les Paul '50s Tribute T Satin Gold Top Dark Back 2016 Electric Guitar
 1221025145910;520.0;20;GBP;1;Epiphone Marty Schwartz ES-335 Sixties Cherry 2023 Semi-Hollow Electric Guitar
 1070726222001;370.0;20;GBP;1;Sigma 000MC-15E Satin Natural 2025 Electro-Acoustic Guitar
 1290826236680;390.0;20;GBP;1;Gretsch G5435 Electromatic Black 2013 Electric Guitar
@@ -169,7 +172,6 @@ product_code;price_gross;vat;currency;stock;name
 1140726223720;420.0;20;GBP;1;PRS SE CE24 Standard Satin Turquoise 2023 Electric Guitar
 1130626215710;460.0;20;GBP;1;Takamine PT-105 Gloss Black 1989 Electro-Acoustic Guitar
 1270726226704;385.0;20;GBP;1;Empress Effects Zoia Modular Synthesizer Effects Pedal
-1070726222240;480.0;20;GBP;1;Yamaha Silent Guitar SLG200N 2017 Nylon String Electro Acoustic Guitar
 1090726222610;3780.0;20;GBP;1;Martin OMJM 20th Anniversary Platinum Gray Burst 2024 John Mayer Signature
 1120526208005;220.0;20;GBP;1;Gibson Late 70’s Dirty Fingers T.Top Neck Humbucker w/ Gold Bobbins
 1270726226702;570.0;20;GBP;1;Kemper Profiler Rack (Unpowered) Digital Amp Profiler
@@ -197,7 +199,6 @@ product_code;price_gross;vat;currency;stock;name
 1150726223761;1530.0;20;GBP;1;Fender Thinline Telecaster Natural 2001 Semi-Hollow Electric Guitar
 1100726222842;800.0;20;GBP;1;Schecter SLS Elite-4 Black Fade Burst 2022 Electric Bass
 1160626216500;680.0;20;GBP;1;PRS SE Torero Jet White 2013 Electric Guitar
-1140726223680;1130.0;20;GBP;1;Fender Alternate Reality Electric XII Lake Placid Blue 2019 12 String Guitar
 1060726221930;540.0;20;GBP;1;Ibanez Jiva Jr Deep Sea Blonde 2020 Electric Guitar
 1200726224731;1760.0;20;GBP;1;Gibson Les Paul Standard Heritage Cherry Sunburst Candy 2015 Electric Guitar
 1240126175000;680.0;20;GBP;1;Schecter Japan RJ-1-24-VTR See-Thru Green Electric Guitar
@@ -349,8 +350,6 @@ product_code;price_gross;vat;currency;stock;name
 1260126175553;2550.0;20;GBP;1;National Tricone Polychrome 2007 Resonator Acoustic Guitar
 1110725116270;340.0;20;GBP;1;Vintage V72 Reissued Custom Flame Tobacco Burst 2016 LH Electric Guitar
 1241125156402;300.0;20;GBP;1;Digitech Brian May Red Special Effects Pedal
-1301225166282;2310.0;20;GBP;1;The Heritage H-157 Natural 2005 Electric Guitar
-1301225166283;2310.0;20;GBP;1;Haynes Telecaster Deluxe Aged White Relic 2025 Electric Guitar
 1091225160950;1380.0;20;GBP;1;Legator Ninja X6-CB Caribbean Blue 2022 Electric Guitar
 1211025145570;2370.0;20;GBP;1;Fender Precision Bass Black 1978 Vintage Electric Bass Guitar
 1121225161785;780.0;20;GBP;1;Peerless Wizard Standard Sunburst 2009 Hollow-Body Electric Guitar
