@@ -458,7 +458,6 @@ product_code;price_gross;vat;currency;stock;name
 10398951866697;971.99;20;EUR;1;Fender Japan 62 Reissue Stratocaster 1984-1987 - Satin Sunburst
 10398900257097;874.79;20;EUR;1;Fender Japan 62 Reissue Stratocaster 1990-1991 - Black
 10392626987337;874.79;20;EUR;1;Fender Japan 62 Reissue Stratocaster 1991-1992 - Black
-10391409951049;971.99;20;EUR;1;Fender Japan 62 Reissue Stratocaster 1992-1993 - Candy Apple Red
 10392785092937;874.79;20;EUR;1;Fender Japan 62 Reissue Stratocaster 1993-1994 - Satin Sunburst - MOD
 10387876446537;874.79;20;EUR;1;Fender Japan 62 Reissue Stratocaster 1993-1994 - Vintage White
 10330905641289;1200.95;20;EUR;1;Fender Japan 66 Reissue Jaguar 1997-2000 - Blue Repaint
@@ -560,6 +559,7 @@ product_code;price_gross;vat;currency;stock;name
 10023442415945;6317.99;20;EUR;1;Fender USA Telecaster 1968 - Natural
 10236651274569;878.03;20;EUR;1;Fender Vintera 60s Jaguar 2022 - Sunburst
 10220051431753;701.99;20;EUR;1;Fender Vintera 60s Stratocaster 2019 - Sunburst
+10316906594633;874.79;20;EUR;1;Fender Vintera II '50s Precision Bass 2025 - Desert Sand
 10390725067081;971.99;20;EUR;1;Fernandes Japan TE-95HT 1980 - Hotei Model
 10386326651209;485.99;20;EUR;1;Fernandes Precision Bass RPB-360  2008 - Red
 10216726659401;874.79;20;EUR;1;Fernandes Telecaster 1974 - Natural - Vintage Japan
@@ -893,6 +893,7 @@ product_code;price_gross;vat;currency;stock;name
 10387863667017;680.39;20;EUR;1;Tokai Japan Original Series Random Star 1983 - Vintage White
 10366186029385;583.19;20;EUR;1;Tokai LBX Electric Bass 1984 - Metallic Red
 10249088827721;923.39;20;EUR;1;Tokai LC-60 Les Paul Custom 1981 - Ebony
+10358264496457;388.79;20;EUR;1;Tokai Les Paul 1994 - Sunburst - Defekt
 10118113952073;1106.99;20;EUR;1;Tokai Love Rock Les Paul LS162QZ 2023 - Quilt
 10398945739081;971.99;20;EUR;1;Tokai Love Rock LS-60 Les Paul 1981 - Tobacco Sunburst
 10212529701193;834.83;20;EUR;1;Tokai LS50 Love Rock Les Paul 1981 - Ebony
