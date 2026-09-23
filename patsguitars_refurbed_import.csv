@@ -130,7 +130,6 @@ product_code;price_gross;vat;currency;stock;name
 10294084927817;646.91;20;EUR;1;Epiphone Les Paul Standard Limited Edition 2009 - Quilt Top
 10210064236873;415.79;20;EUR;1;Epiphone Les Paul Studio 1998 - Ebony
 10126025064777;439.55;20;EUR;1;Epiphone Les Paul Tribute 2010 - Translucent Black
-10111333466441;396.35;20;EUR;1;Epiphone Les Paul Tribute 2025 - Cherry Sunburst
 10404983898441;777.59;20;EUR;1;Epiphone MKH Matt Heafy Signature Les Paul Custom 2013 - Ebony
 9937242030409;1457.99;20;EUR;1;Epiphone SC-450 Scroll 1978 - Natural
 10118132859209;396.35;20;EUR;1;Epiphone SG Bigsby 2007 - Red
@@ -569,7 +568,6 @@ product_code;price_gross;vat;currency;stock;name
 10193134256457;831.59;20;EUR;1;FGN Fujigen Japan J-Standard HSS 2020
 10398924308809;680.39;20;EUR;1;FGN Fujigen Japan J-Standard Jazz Bass 2011 - Candy Apple Red
 10395850834249;680.39;20;EUR;1;FGN Fujigen Japan J-Standard Jazz Bass 2012 2012 - Sunburst
-10358269608265;680.39;20;EUR;1;FGN Fujigen Japan Neo Classic Stratocaster 2010 - Candy Apple Red
 10256650568009;971.99;20;EUR;1;FGN Fujigen Les Paul Custom J-Standard 2012 - Ebony
 10249086009673;965.51;20;EUR;1;FGN Fujigen LS-10 Neo Classic Les Paul 2017
 10392693080393;1263.59;20;EUR;1;FGN Japan Neo Classic NCLS-20R 2016 - Heritage Darkburst
@@ -738,7 +736,6 @@ product_code;price_gross;vat;currency;stock;name
 10366769758537;777.59;20;EUR;1;Ibanez RGDIX7MPB Iron Label 2018 - Surreal Blue Burst
 10249387966793;215.99;20;EUR;1;Ibanez SD9 Sonic Distortion Effect Pedal
 10392711889225;680.39;20;EUR;1;Ibanez SDGR Japan SR-600 Bass 1997 - Pearl White
-10405097439561;291.59;20;EUR;1;Ibanez SDGR SR305 5 String Bass 2013 - Black
 10123514478921;527.03;20;EUR;1;Ibanez SDGR SR500 1P-06 Bass 2016 - Brown
 9820897640777;1069.19;20;EUR;1;Ibanez SRMS720 Bass 2024 - Blue Chameleon
 10103767335241;1943.99;20;EUR;1;Ibanez Studio Bass ST924 1979 - Natural
