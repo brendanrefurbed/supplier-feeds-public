@@ -1,12 +1,12 @@
 product_code;price_gross;vat;currency;stock;name
 P256271;1057.32;20;GBP;1;1970s Orange 4x12 Guitar Amplifier Cabinet (Pre-Owned)
 N255114;7.55;20;GBP;1;3.5mm Stereo Plug to 2 x RCA Plugs Lead
-P267022;85.32;20;GBP;1;Aguilar Octamizer mk1 Octave Pedal (Pre-Owned)
 P256052;214.92;20;GBP;1;Alto OEX400 Portable PA System (Pre-Owned)
 N255455;68.04;20;GBP;1;Alto Professional Bluetooth Ultimate XLR Stereo Receiver
 N255440;247.32;20;GBP;1;Alto Professional TX415, 700W 15-inch Powered Loudspeaker with Bluetooth
 N255055;538.92;20;GBP;1;Alto TS112C 1200W Portable Column Array PA with DSP and Bluetooth
 P256269;430.92;20;GBP;1;Alvarez AJ80CE12 Jumbo 12-String Electro-Acoustic Guitar - in Natural (Pre-Owned)
+P266852;376.92;20;GBP;1;Ampeg J-20 Jet 20-Watt 1x12 Valve Guitar Combo with Tremolo (Pre-Owned)
 P267036;592.92;20;GBP;1;Ampeg J-20 Jet 20-Watt 1x12 Valve Guitar Combo with Tremolo (Pre-Owned)
 P266653;214.92;20;GBP;1;Arturia Drumbrute Impact Drum Machine (Pre-Owned)
 N254834;2.15;20;GBP;1;AV Link 3.5mm Stereo Jack - 2x Male RCA Phono 1.2m
@@ -48,7 +48,7 @@ P266960;484.92;20;GBP;1;Brian Moore iM iGuitar Trans Red Flame Top Electric Guit
 P266954;538.92;20;GBP;1;Burny RLC55JS John Sykes, Black (Pre-Owned)
 P256272;1834.92;20;GBP;1;"Carr Lincoln 18-Watt 2-Channel 1x12"" Guitar Combo (Pre-Owned)"
 N255329;16.19;20;GBP;1;Casio AD-E95 9.5V Mains Adaptor
-N254781;355.32;20;GBP;1;Casio CDP-S360 Digital Piano Black
+N254781;430.92;20;GBP;1;Casio CDP-S360 Digital Piano Black
 N255163;517.32;20;GBP;1;Casio Celviano AP-270 Digital Piano Black
 N255880;1078.92;20;GBP;1;Casio Celviano AP-550 Digital Piano, Black
 N256313;1078.92;20;GBP;1;Casio Celviano AP-550 Digital Piano, White
@@ -121,8 +121,6 @@ N255191;22.68;20;GBP;1;D'Addario by D'Addario Hootenanny Woven Banjo Strap in Ye
 N255386;16.19;20;GBP;1;D'Addario Chrome-Plated Brass Guitar Slide, Small
 N254697;18.35;20;GBP;1;D'Addario CinchFit: Acoustic Jack Lock
 N254749;37.8;20;GBP;1;D'Addario Classic Leather Guitar Strap with Contrast Stitch, Black
-N255723;20.51;20;GBP;1;D'Addario Classic Series Instrument Cable Straight to Right-Angle, 20ft
-N254847;18.35;20;GBP;1;D'Addario Classic Series Instrument Cable Straight to Straight, 20ft
 N255121;29.15;20;GBP;1;D'Addario Classic Series Microphone cable 7.6 m Male To Female XLR
 N255467;20.51;20;GBP;1;D'Addario Classic Series Patch Cable, 3-pack, Right-Angle, 6 Inches
 N254849;10.79;20;GBP;1;D'Addario Classic Series Patch Cable, Right-Angle, 1 Foot
@@ -186,7 +184,7 @@ N255945;31.32;20;GBP;1;D'Addario NS Capo, Silver
 N255107;17.28;20;GBP;1;D'Addario NS Classical Capo Lite
 N255754;34.56;20;GBP;1;D'Addario NS Tri-Action Capo, Black
 N255637;17.27;20;GBP;1;D'Addario NYXL0838 Nickel Wound, Extra Super Light, 08-38
-N255819;17.27;20;GBP;1;D'Addario NYXL0942 Electric Guitar Strings, Super Light, 09-42
+N255819;18.35;20;GBP;1;D'Addario NYXL0942 Electric Guitar Strings, Super Light, 09-42
 N254930;17.27;20;GBP;1;D'Addario NYXL0946 Nickel Wound Electric Guitar Strings, Super Light Top / Regular Bottom, 9-46
 N254886;17.27;20;GBP;1;D'addario NYXL1046BT, Regular Light Balanced Tension Electric Guitar Strings, 10-46
 N255369;18.35;20;GBP;1;D'Addario NYXL1052 Nickel Wound Electric Guitar Strings, Light Top / Heavy Bottom, 10-52
@@ -305,7 +303,6 @@ N254953;21.59;20;GBP;1;Elixir 16102 Phosphor Bronze Nanoweb Acoustic Medium 13-5
 P256267;1078.92;20;GBP;1;Endorphin.es Shuttle Tone Generating Eurorack Modular Synthesiser - in Gold (Pre-Owned)
 P266987;538.92;20;GBP;1;Ensoniq VFX SD Synthesiser (1989) (Pre-Owned)
 P256302;236.52;20;GBP;1;Epiphone Electar Tube 30 Guitar Combo (Pre-Owned)
-P266852;376.92;20;GBP;1;Epiphone J200ec Studio Parlor (Pre-Owned)
 N255622;44.27;20;GBP;1;Ernie Ball 18' Braided Straight/Angle Instrument Cable, Black/Gold
 N255715;40.06;20;GBP;1;Ernie Ball 2838 Slinky Long Scale 6-String Nickel Wound Electric Bass Strings 32-130 Gauge
 N255427;10.79;20;GBP;1;Ernie Ball 4037 Polypro Guitar Strap, Black
@@ -324,7 +321,6 @@ N255983;10.79;20;GBP;1;Ernie Ball Beefy Slinky Nickel Wound Electric Guitar Stri
 N254935;10.03;20;GBP;1;Ernie Ball Burly Slinky Nickel Electric Guitar Strings, 11-52 Gauge
 N255371;10.79;20;GBP;1;Ernie Ball Earthwood Extra Light 80/20 Bronze Acoustic Strings
 N255687;11.65;20;GBP;1;Ernie Ball Earthwood Extra Light Phosphor Bronze Acoustic Guitar Strings, 10-50
-N255611;10.79;20;GBP;1;Ernie Ball Earthwood Light 80/20 Bronze Acoustic Guitar Strings
 N255367;11.65;20;GBP;1;Ernie Ball Earthwood Light Phosphor Bronze Acoustic Guitar Strings, 11-52
 N254956;10.79;20;GBP;1;Ernie Ball Earthwood Medium Light 80/20 Bronze Acoustic Strings
 N255337;11.65;20;GBP;1;Ernie Ball Earthwood Medium Light Phospher Bronze Acoustic Guitar Strings, 12-54
@@ -356,7 +352,6 @@ N254726;30.88;20;GBP;1;Ernie Ball Super Slinky Nickel Wound Electric Bass Guitar
 N255213;9.71;20;GBP;1;Ernie Ball Super Slinky Nickel Wound Electric Guitar Strings, 9-42
 N255069;10.03;20;GBP;1;Ernie Ball Ultra Slinky Nickel Wound Electric Guitar Strings, 10-48 Gauge
 N255300;4.09;20;GBP;1;Ernie Ball Wonder Wipes Instrument Polish, 6 Pack
-P266985;538.92;20;GBP;1;EV ZXA1 Speakers - Pair (Pre-Owned)
 N255548;29.04;20;GBP;1;"Evans 14"" G1 Clear Drum Head"
 N255787;34.56;20;GBP;1;Evans RealFeel Practice Pad, 6 Inch
 N255551;117.72;20;GBP;1;Fender Acoustasonic 15 Acoustic Guitar Amplifier
@@ -366,7 +361,6 @@ P256270;1132.92;20;GBP;1;Fender American Standard Stratocaster 1989 Left-Handed 
 P266874;1402.92;20;GBP;1;Fender American Standard Stratocaster Two Knob (1983), Ivory (Pre-Owned)
 P267095;193.32;20;GBP;1;Fender Champion II 50 Combo Amp (Pre-Owned)
 P266994;754.92;20;GBP;1;Fender Classic Player Baja Telecaster, Maple Fingerboard, 2-Color Sunburst (Pre-Owned)
-P267086;2374.92;20;GBP;1;Fender Custom Shop '51 Relic Precision Bass, Aged Lake Placid Blue (Pre-Owned)
 P266905;538.92;20;GBP;1;Fender Elvis Presley Signature Kingman (Pre-Owned)
 N254842;32.39;20;GBP;1;Fender FA405 Dreadnought Gig Bag
 N254774;12.95;20;GBP;1;Fender FT-1 Pro Clip-On Tuner, Black
@@ -405,7 +399,6 @@ P266688;2158.92;20;GBP;1;Gibson Les Paul Std 50s Tobacco Burst (Pre-Owned)
 P267093;970.92;20;GBP;1;Gibson Les Paul Tribute, Satin Honeyburst (Pre-Owned)
 N255544;11.87;20;GBP;1;Gibson Phosphor Bronze Acoustic Guitar Strings, 11-52 (Ultra Light Gauge)
 N254760;6.47;20;GBP;1;Gibson Premium Microfiber Polish Cloth
-P266894;970.92;20;GBP;1;Gibson SG Special (1983), Black (Pre-Owned)
 N255748;18.36;20;GBP;1;Gibson String Change Kit
 N255858;10.79;20;GBP;1;GM Re-Usable Filter Earplugs
 N255400;301.32;20;GBP;1;Gold Tone BU-1 Concert-Scale Banjo Ukulele
@@ -438,7 +431,6 @@ P266710;646.92;20;GBP;1;Ibanez 684-12 12-String Acoustic (Pre-Owned)
 P266957;646.92;20;GBP;1;Ibanez JEM555 Steve Vai Signature White Electric Guitar (Pre-Owned)
 B266721;1024.92;20;GBP;1;Ibanez JSM20-BKL John Schofield, Black (B-Stock)
 P256084;754.92;20;GBP;1;Ibanez RG1127PBFX Premium Electric Guitar - in Caribbean Islet Flat (Pre-Owned)
-P266815;322.92;20;GBP;1;Ibanez RG7421PB 7-String, Sapphire Blue Flat (Pre-Owned)
 P266614;398.52;20;GBP;1;Ibanez Roadstar II RS440 (1985), Red (Pre-Owned)
 P266771;85.32;20;GBP;1;Irin S-Style Electric, Sparkly Red (Pre-Owned)
 B254706;268.92;20;GBP;1;Jackson JS Series King V JS32T, Ferrari Red (B-Stock)
@@ -485,7 +477,6 @@ N255813;27.0;20;GBP;1;Kona Soprano Ukulele, Yellow
 P266656;430.92;20;GBP;1;Korg Kaossilator Pro+ (Pre-Owned)
 N254973;2.15;20;GBP;1;Korg Magnetune Guitar Tuner
 P266593;322.92;20;GBP;1;Korg MicroKORG XL Synthesiser (Pre-Owned)
-P266976;1186.92;20;GBP;1;Korg Nautilus 61AT Grey Edition (Pre-Owned)
 P256310;10798.92;20;GBP;1;Korg PS3100 Polyphonic Analogue Synthesiser (Pre-Owned)
 N255774;70.19;20;GBP;1;Laka VUC25 Walnut Series Concert Ukulele & Carry Bag
 N254670;26.99;20;GBP;1;Laka VUS15OR Rainbow Series Soprano Ukulele & Carry Bag, Orange
@@ -533,7 +524,6 @@ N255691;6.43;20;GBP;1;Neutrik NC3FXX 3 Pin Female XLR Plug
 P266625;322.92;20;GBP;1;Novation BassStation Rack Synth (Pre-Owned)
 N254792;106.92;20;GBP;1;Nowsonic Chorus Condenser Microphone
 N255980;10.79;20;GBP;1;Nowsonic Performer Dynamic Microphone
-N255831;139.32;20;GBP;1;NU-X Bumblebee Pedalboard, Large
 P256356;85.32;20;GBP;1;Numark NDX200 CD Player (Pre-Owned)
 N255737;74.52;20;GBP;1;NUX Drive Core Deluxe MKII Guitar Effects Pedal
 N255654;139.32;20;GBP;1;NUX Mighty 8 BT MKII 10W Guitar Amplifier
@@ -545,7 +535,6 @@ P266736;85.32;20;GBP;1;Orange Micro Terror 20w Amp Head (Pre-Owned)
 P256095;85.32;20;GBP;1;Peavey KB60 Keyboard Amplifier (Pre-Owned)
 P256090;106.92;20;GBP;1;Peavey Q431FM 31-Band Graphic Equaliser (Pre-Owned)
 P266923;106.92;20;GBP;1;Pittsburgh Modular Lifeforms MIDI 3 MIDI to CV Converter (Pre-Owned)
-N255424;16.19;20;GBP;1;Planet Waves Classic Series Instrument Cable (10ft)
 N254679;5.94;20;GBP;1;Planet Waves PW-PL-02S Protect 1oz Liquid Carnauba Wax
 N254944;16.19;20;GBP;1;Popper Stopper Pop Shield
 N254988;2.15;20;GBP;1;Procell 9V Alkaline Battery
@@ -652,7 +641,7 @@ N255239;344.52;20;GBP;1;Spira S-407 MBK Electric Guitar, Matte Black
 N255041;452.52;20;GBP;1;Spira S-420 Electric Guitar, Black
 N255465;340.2;20;GBP;1;Spira V-400 MBK V-Shaped Electric Guitar, Satin Black
 N254936;463.32;20;GBP;1;Spira V-420 AWH V-Style Electric Guitar, Antique White
-P266969;916.92;20;GBP;1;Spirit by Steinberger Double Neck, Guitar and Bass, Black (Pre-Owned)
+P266969;916.92;20;GBP;1;Spirit by Steinberger Double Neck Black (Pre-Owned)
 N255301;344.52;20;GBP;1;Squier Affinity Series Precision Bass PJ Pack with Rumble 15 Amplifier, Maple Neck, Black
 N255451;409.32;20;GBP;1;Squier Classic Vibe Duo-Sonic HS, Gold Anodized Pickguard, Desert Sand
 N254807;441.72;20;GBP;1;Squier Classic Vibe™ '70s Stratocaster® HT HSS, Olympic White
