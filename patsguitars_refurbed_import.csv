@@ -509,7 +509,6 @@ product_code;price_gross;vat;currency;stock;name
 10330881327433;242.99;20;EUR;1;Fender Japan Stratocaster Body - Sunburst
 10341671862601;242.99;20;EUR;1;Fender Japan Stratocaster Body - Sunburst
 10364991603017;1166.39;20;EUR;1;Fender Japan TC-72 Reissue Telecaster Custom 1997-2000 - Black
-10391425057097;874.79;20;EUR;1;Fender Japan Telecaster 1992-1993 - Black
 10330880508233;242.99;20;EUR;1;Fender Japan Telecaster Body - Black
 10330880901449;242.99;20;EUR;1;Fender Japan Telecaster Body - Black
 10330881098057;242.99;20;EUR;1;Fender Japan Telecaster Body - Blue
@@ -739,7 +738,6 @@ product_code;price_gross;vat;currency;stock;name
 10349687439689;7289.99;20;EUR;1;Jens Ritter Instruments The Red² Cedar Porsch 2025 - Red Champagne
 10115830776137;158.75;20;EUR;1;Kapok MEG 9012 Stratocaster - Red
 10108742631753;158.75;20;EUR;1;Keiper Shortscale Stratocaster Junior - Black
-10349666337097;646.91;20;EUR;1;Kramer EVH Style - Striped
 10169733742921;658.79;20;EUR;1;Kramer LK-1 1980s - Black
 10277169725769;1200.95;20;EUR;1;Kramer Pacer Deluxe 1985 - Metallic Blue
 9961956573513;305.63;20;EUR;1;Kramer Striker 2022 - Trans Purple
@@ -777,6 +775,7 @@ product_code;price_gross;vat;currency;stock;name
 9729073578313;3887.99;20;EUR;1;o3 Guitars Radon - Alejandro Ramirez - Red
 10330784268617;369.35;20;EUR;1;Ortega Model 60-RE11LTD - Natural
 10357203173705;485.99;20;EUR;1;ORTEGA Tour Player RTP LTD - Natur
+10220022169929;831.59;20;EUR;1;Orville by Gibson Les Paul Standard 1989 - Cherry Sunburst
 10141863477577;790.55;20;EUR;1;Orville Les Paul 1989-1993 - Cherry Sunburst - Vintage Japan
 10240927924553;701.99;20;EUR;1;Orville Les Paul 1990 - Ebony
 10141697212745;874.79;20;EUR;1;Orville Les Paul 1993 - Foto Flame - Vintage Japan
@@ -843,7 +842,6 @@ product_code;price_gross;vat;currency;stock;name
 10392755896649;680.39;20;EUR;1;Squier by Fender Jagmaster 2004 - Black
 10392793088329;680.39;20;EUR;1;Squier by Fender Jagmaster 2005 - Black
 10328246485321;646.91;20;EUR;1;Squier by Fender Jagmaster 2005 - Sunburst
-10316403179849;646.91;20;EUR;1;Squier by Fender Jagmaster 2006 - Metallic Blue
 10392512168265;631.79;20;EUR;1;Squier by Fender Japan  ST-362N Stratocaster 1984-1987 - Black
 10400863256905;777.59;20;EUR;1;Squier by Fender Japan JV ST-502 Contemporary Stratocaster 1983 - Black
 10365891445065;971.99;20;EUR;1;Squier by Fender Japan JV Stratocaster 1983 - Black
