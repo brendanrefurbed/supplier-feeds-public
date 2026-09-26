@@ -25,11 +25,9 @@ product_code;price_gross;vat;currency;stock;name
 10381683392841;971.99;20;EUR;1;Blade Levinson MG Mustang 1990s - Vintage White
 10374418596169;971.99;20;EUR;1;Blade Levinson R1 Classic Stratocaster 1988-1989 - Red
 10381603438921;680.39;20;EUR;1;Blade Levinson Stratocaster 1989 - Black
-10305823473993;145.79;20;EUR;1;Boss CE-3 Chorus Effektpedal - Japan
 10305861648713;145.79;20;EUR;1;Boss CE-3 Chorus Effektpedal - Japan
 10305868071241;145.79;20;EUR;1;Boss CE-3 Chorus Effektpedal - Japan
 10305838547273;116.63;20;EUR;1;Boss CS-3 Compression Sustainer Effektpedal - Japan
-10305854374217;97.19;20;EUR;1;Boss CS-3 Compression Sustainer Effektpedal - Japan
 10305870790985;136.07;20;EUR;1;Boss DD-3 Digital Delay Effektpedal - Japan
 10305799258441;97.19;20;EUR;1;Boss DS-1 Distortion Effektpedal - Taiwan
 10305860436297;97.19;20;EUR;1;Boss DS-1 Distortion Effektpedal - Taiwan
@@ -748,7 +746,6 @@ product_code;price_gross;vat;currency;stock;name
 9961956573513;305.63;20;EUR;1;Kramer Striker 2022 - Trans Purple
 10220496060745;1943.99;20;EUR;1;Lake Placid Custom by Andre Waldenmaier HSS Floyd Rose 1995 - See Thru Green
 10365219602761;155.51;20;EUR;1;LPD Pedals Sixty8 Overdrive Effect Pedal
-10305877147977;126.35;20;EUR;1;LY-Rock Klon KTR Effektpedal
 10099292275017;396.35;20;EUR;1;Maestro by Gibson Les Paul 2013 - Red
 10105098076489;3887.99;20;EUR;1;Marshall JCM800 2203 MKII 100W + 1960A 4x12 Cabinet – 1995 Limited Edition Red Stack
 9989385290057;680.39;20;EUR;1;Martin LX1 LR Baggs 2011 - Natural
@@ -769,6 +766,7 @@ product_code;price_gross;vat;currency;stock;name
 10240973799753;701.99;20;EUR;1;Mosrite Avenger - Cherry Red
 10169735709001;1754.99;20;EUR;1;Music Man Benji Madden Signature Silhouette Special 2005 - Madden Green
 10381561200969;1846.79;20;EUR;1;Music Man by Ernie Ball StingRay 3 EQ Bass 2002 - Black
+10349649592649;1385.63;20;EUR;1;Music Man by Ernie Ball StingRay EX Bass 2001 - Black
 10391502586185;1555.19;20;EUR;1;Music Man Ernie Ball StingRay EX Bass 2000 - Black Sparkle
 10405006836041;2429.99;20;EUR;1;Music Man John Petrucci Signature JP6 Limited 2007 - Blue Dawn
 10381555925321;1360.79;20;EUR;1;Music Man StingRay I 1977-1978 - Sunburst
@@ -811,7 +809,6 @@ product_code;price_gross;vat;currency;stock;name
 10379460641097;680.39;20;EUR;1;PRS SE Custom 24 2009 - Trans Black
 10338163360073;646.91;20;EUR;1;PRS SE Custom 24 2009 - Whale Blue
 10211613737289;746.27;20;EUR;1;PRS SE Custom 24 2012 - Cherry Red
-10236613230921;790.55;20;EUR;1;PRS SE Kestrel Bass 2017 - Sunburst
 10413134479689;680.39;20;EUR;1;PRS SE Orianthi 2012 - Black Cherry
 10404849025353;680.39;20;EUR;1;PRS SE Standard 2003 - Royal Blue
 10240933921097;615.59;20;EUR;1;PRS SE Standard 2005 - Camo
@@ -902,6 +899,7 @@ product_code;price_gross;vat;currency;stock;name
 10169810288969;87.47;20;EUR;1;VOCU Magic Mic Room Microphone Preamp Pedal
 10315903304009;923.39;20;EUR;1;VOX Bobcat BC-S66 2020 - Sunburst
 10176915636553;139.96;20;EUR;1;VOX Joe Satriani Signature JS-DS Satchurator Distortion Effect Pedal - Japan
+10366432903497;145.79;20;EUR;1;Walrus Audio Julia V2 Effect Pedal
 9722250592585;4859.99;20;EUR;1;Wandre Tri-Lam Teenager Blue Jeans 1959 - Multicolour
 10357047558473;971.99;20;EUR;1;Warwick Corvette $$ Bass 2011 - Natural
 10292790264137;2031.47;20;EUR;1;Warwick Corvette $$ Double Buck Bass 2011 - Turquoise Blue Oil Finish
