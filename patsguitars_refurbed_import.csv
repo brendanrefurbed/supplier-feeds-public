@@ -76,7 +76,7 @@ product_code;price_gross;vat;currency;stock;name
 10329375441225;646.91;20;EUR;1;CoolZ Japan Fujigen Stratocaster 2014 - Candy Apple Red
 10305360462153;646.91;20;EUR;1;CoolZ Japan Fujigen Telecaster 2012 - Sunburst
 10381601997129;680.39;20;EUR;1;CoolZ Japan Jazz Bass 2018 - Sunburst
-10366163812681;680.39;20;EUR;1;CoolZ Japan Stratocaster 2009 - Sunburst
+10366163812681;680.39;20;EUR;1;CoolZ Japan Medium Scale Stratocaster 2009 - Sunburst
 10381478363465;680.39;20;EUR;1;CoolZ Japan ZJB-1R Jazz Bass 2007 - Sunburst
 10392493261129;874.79;20;EUR;1;CoolZ Japan ZLS-1 Les Paul 2009 - Lemon Burst
 10366130684233;680.39;20;EUR;1;CoolZ Japan ZST-10R Stratocaster 2017 - Sunburst
@@ -486,7 +486,6 @@ product_code;price_gross;vat;currency;stock;name
 10386300469577;874.79;20;EUR;1;Fender Japan Mini Jazzmaster JM-CHAMP 1993-1994 - Vintage White
 10392508662089;874.79;20;EUR;1;Fender Japan PB-38 Precision Bass 1993-1994 - Black
 10328355209545;831.59;20;EUR;1;Fender Japan PB-43 Precision Bass 2004-2005 - Sunburst
-10415953740105;874.79;20;EUR;1;Fender Japan PJR-65R Jazz Bass Special 1986-1987 - Black
 10236596388169;439.55;20;EUR;1;Fender Japan SF-456 Stratocaster 1984-1987 - Black
 10413015531849;874.79;20;EUR;1;Fender Japan ST-36 Stratocaster 1993-1994 - Sunburst
 10403373580617;874.79;20;EUR;1;Fender Japan ST-362 Stratocaster 1993-1994 - Black
@@ -515,7 +514,6 @@ product_code;price_gross;vat;currency;stock;name
 10330881098057;242.99;20;EUR;1;Fender Japan Telecaster Body - Blue
 10349643923785;242.99;20;EUR;1;Fender Japan Telecaster Body - Red Repaint
 10391415980361;874.79;20;EUR;1;Fender Japan TL-40 Telecaster 1993-1994 - Candy Apple Red
-10366052630857;874.79;20;EUR;1;Fender Japan TL-STD Telecaster 1994-1995 - Vintage White
 10305790804297;242.99;20;EUR;1;Fender Japan TL-STD Telecaster Body - Black
 10398970970441;242.99;20;EUR;1;Fender Japan TL-STD Telecaster Body - Black
 10398973460809;242.99;20;EUR;1;Fender Japan TL-STD Telecaster Body - Black
@@ -550,7 +548,6 @@ product_code;price_gross;vat;currency;stock;name
 10391439606089;1749.59;20;EUR;1;Fender USA Mustang 1978 - Vintage White
 10023442415945;6317.99;20;EUR;1;Fender USA Telecaster 1968 - Natural
 10236651274569;878.03;20;EUR;1;Fender Vintera 60s Jaguar 2022 - Sunburst
-10220051431753;701.99;20;EUR;1;Fender Vintera 60s Stratocaster 2019 - Sunburst
 10316906594633;874.79;20;EUR;1;Fender Vintera II '50s Precision Bass 2025 - Desert Sand
 10390725067081;971.99;20;EUR;1;Fernandes Japan TE-95HT 1980 - Hotei Model
 10386326651209;485.99;20;EUR;1;Fernandes Precision Bass RPB-360  2008 - Red
@@ -579,7 +576,6 @@ product_code;price_gross;vat;currency;stock;name
 10357931409737;2915.99;20;EUR;1;Gibson ES-335 2023 - Vintage Sunburst
 10415934243145;3401.99;20;EUR;1;Gibson ES-390TDL 2015 - Cherry Red
 10413158170953;3110.39;20;EUR;1;Gibson Firebird V 1990 - Sunburst
-10316288098633;2770.19;20;EUR;1;Gibson Firebird V 2010 - Classic White
 10415808282953;2915.99;20;EUR;1;Gibson Firebird V 2017 - Vintage Sunburst
 10316902924617;1846.79;20;EUR;1;Gibson Flying V 1995 - Cherry
 10316904857929;1846.79;20;EUR;1;Gibson Flying V HP High Performance 2016 - Ebony
