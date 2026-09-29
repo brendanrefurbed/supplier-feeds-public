@@ -1,18 +1,23 @@
 product_code;price_gross;vat;currency;stock;name
+1280926245510;2500.0;20;GBP;1;Martin 000-28 Gloss Natural 2006 Acoustic Guitar
+1260926245170;2940.0;20;GBP;1;Fender Custom Shop 1956 Stratocaster NOS 2-Tone Sunburst 2005 Electric Guitar
+1170926242480;690.0;20;GBP;1;Yamaha Pacifica Standard Plus Black 2023 Electric Guitar
+1160926242251;910.0;20;GBP;1;Godin LR Baggs Model Fretless Acoustibass Black 1989-92 Electric Bass
+1280926245581;570.0;20;GBP;1;Chapman ML3 Pro Bea Smoke 2018 Electric Guitar
+1260926245171;3030.0;20;GBP;1;Fender Custom Shop Early '59 Stratocaster Trans Cobalt Blue NOS Electric Guitar
+1260926245012;690.0;20;GBP;1;Fender Player Stratocaster 3-Color Sunburst 2020 Electric Guitar w/ Upgrades
 1180926242770;660.0;20;GBP;1;Faith Blood Moon Venus Cutaway 2023 Electro-Acoustic Guitar
 1100926240610;790.0;20;GBP;1;Burns Brian May Signature Red Special Cherry Electric Guitar
-1220926243850;860.0;20;GBP;1;Schecter Sun Valley Super Shredder FR Black Limba 2022 Electric Guitar
 1170926242330;1580.0;20;GBP;1;KINGSNAKE Three Bone Amber Natural Nitrocellulose 2021 Hollow Body Electric
 1040926238640;1140.0;20;GBP;1;Ibanez TOD10 Tim Henson Signature Classic Silver 2024 Electric Guitar
 1170926242550;730.0;20;GBP;1;Charvel Pro-Mod DK24 HH HT M Natural 2019 Electric Guitar
-1210926243282;1020.0;20;GBP;1;Gibson SG Special Pelham Blue 2021 Left Handed Electric Guitar
+1260926245001;1020.0;20;GBP;1;Neural DSP Quad Cortex Mini Multi Effects Unit
 1140926241540;910.0;20;GBP;1;Ernie Ball Music Man SUB Bass Textured Teal 2006 Electric Bass
 1240926244460;3390.0;20;GBP;1;Fender Custom Shop American Custom Stratocaster MN NOS White Blonde 2024
 1130526208141;2550.0;20;GBP;1;Gibson Advanced Jumbo Vintage Sunburst 2007 Slope Shoulder Dreadnought
 1030926238500;1020.0;20;GBP;1;Fender American Standard Stratocaster Black 2000 Electric Guitar
 1250926244712;630.0;20;GBP;1;Fender Player II Stratocaster Black 2024 Electric Guitar
 1110926240680;1130.0;20;GBP;1;Fender American Professional Stratocaster Sonic Grey 2016 Electric Guitar
-1260826235730;1080.0;20;GBP;1;Fender American Acoustasonic Telecaster Sunburst 2024 Hybrid Electro-Acoustic
 1210926243285;1420.0;20;GBP;1;Eastman SB59/v Antique Black Left Handed Electric Guitar
 1210926243280;2550.0;20;GBP;1;Suhr Pete Thorn Signature Ocean Turquoise Metallic Left-Handed Electric Guitar
 1140926241532;2550.0;20;GBP;1;Gretsch 6134 White Penguin 1993 Electric Guitar
@@ -91,7 +96,6 @@ product_code;price_gross;vat;currency;stock;name
 1280826236400;970.0;20;GBP;1;Gibson Les Paul '100' Studio Manhattan Midnight 2015 Electric Guitar
 1260826235714;1040.0;20;GBP;1;Fender American Stratocaster Black 2005 Electric Guitar w/ Modifications
 1300826237060;740.0;20;GBP;1;ESP LTD Eclipse Custom 1987 Reissue Rainbow Crackle 2023 Electric Guitar
-1270826236090;1820.0;20;GBP;1;Epiphone Elitist 1965 Casino Outfit Sunburst 2010 Hollow Body Electric Guitar
 1270826236301;810.0;20;GBP;1;Charvel Pro-Mod San Dimas Style 1 Snow White 2017 Electric Guitar
 1020926238111;850.0;20;GBP;1;Fender Lead II USA 1981/82 Wine Red Electric Guitar
 1270826236300;1010.0;20;GBP;1;Fender American Performer Stratocaster HSS 2023 Gloss Black Electric Guitar
@@ -254,7 +258,6 @@ product_code;price_gross;vat;currency;stock;name
 1170526209190;2520.0;20;GBP;1;Avalon Ard Ri L1-320 Satin Natural 2014 Jumbo Electro-Acoustic Guitar
 1120526208001;300.0;20;GBP;1;Samick JTR Design Linda LN10 Black 2011 Electric Guitar
 1260526211300;940.0;20;GBP;1;Fender American Standard Stratocaster Charcoal Frost Metallic 2008 Electric Guit
-1060326189040;830.0;20;GBP;1;Fender American Special Stratocaster Olympic White 2018 Electric Guitar
 1210526210410;1550.0;20;GBP;1;Martin D-16E Natural Satin 2016 Electro-Acoustic Guitar
 1210526210360;890.0;20;GBP;1;Gibson Les Paul Studio Satin Cherry 2004 Electric Guitar
 11712251632515;100.0;20;GBP;1;Keeley Electronics Aurora Digital Reverb Pedal
@@ -347,6 +350,7 @@ product_code;price_gross;vat;currency;stock;name
 1020226177881;390.0;20;GBP;1;Gretsch G5236 Electromatic Pro Jet Silver Sparkle 2010 Electric Guitar
 1270126175981;1050.0;20;GBP;1;Fender John 5 Black 2004 Telecaster Electric Guitar
 1260126175553;2550.0;20;GBP;1;National Tricone Polychrome 2007 Resonator Acoustic Guitar
+1210126174090;1110.0;20;GBP;1;Gibson Les Paul Special TV Yellow 2019 Left-Handed Electric Guitar
 1110725116270;340.0;20;GBP;1;Vintage V72 Reissued Custom Flame Tobacco Burst 2016 LH Electric Guitar
 1241125156402;300.0;20;GBP;1;Digitech Brian May Red Special Effects Pedal
 1091225160950;1380.0;20;GBP;1;Legator Ninja X6-CB Caribbean Blue 2022 Electric Guitar
