@@ -425,7 +425,6 @@ product_code;price_gross;vat;currency;stock;name
 10379462148425;1263.59;20;EUR;1;Fender American Telecaster 1995 - Vintage White
 10349688226121;1846.79;20;EUR;1;Fender American Vintage 57 Reissue Stratocaster 1996 - Sunburst
 10415777284425;1943.99;20;EUR;1;Fender American Vintage 62 Reissue Precision Bass 1999 - Vintage White
-10330798883145;1662.11;20;EUR;1;Fender American Vintage 62 Reissue Stratocaster 2001 - Sunburst
 10141638394185;665.27;20;EUR;1;Fender American Vintage Jaguar Body - Sunburst
 10366187307337;971.99;20;EUR;1;Fender Chilli Beans Moto Signature Mustang 2025 - Black
 10358268199241;923.39;20;EUR;1;Fender Classic Series 69 Reissue Telecaster Thinline 2002 - Black
@@ -497,6 +496,7 @@ product_code;price_gross;vat;currency;stock;name
 10386300469577;874.79;20;EUR;1;Fender Japan Mini Jazzmaster JM-CHAMP 1993-1994 - Vintage White
 10392508662089;874.79;20;EUR;1;Fender Japan PB-38 Precision Bass 1993-1994 - Black
 10328355209545;831.59;20;EUR;1;Fender Japan PB-43 Precision Bass 2004-2005 - Sunburst
+10415953740105;874.79;20;EUR;1;Fender Japan PJR-65R Jazz Bass Special 1986-1987 - Black
 10423188095305;874.79;20;EUR;1;Fender Japan Precision / Jazz Bass 1993-1994 - Candy Apple Red
 10236596388169;439.55;20;EUR;1;Fender Japan SF-456 Stratocaster 1984-1987 - Black
 10413015531849;874.79;20;EUR;1;Fender Japan ST-36 Stratocaster 1993-1994 - Sunburst
@@ -560,7 +560,6 @@ product_code;price_gross;vat;currency;stock;name
 10092544688457;498.95;20;EUR;1;Fender Telecoustic 2000 - Candy Apple Red
 10136243863881;615.59;20;EUR;1;Fender Telecoustic 2014 - Flame Maple Sunburst
 10358238773577;1662.11;20;EUR;1;Fender USA Mustang 1978 - Olympic White
-10391439606089;1166.4;20;EUR;1;Fender USA Mustang 1978 - Vintage White
 10023442415945;6317.99;20;EUR;1;Fender USA Telecaster 1968 - Natural
 10236651274569;878.03;20;EUR;1;Fender Vintera 60s Jaguar 2022 - Sunburst
 10421711077705;874.79;20;EUR;1;Fender Vintera 60s Jazzmaster 2022 - Olympic White - Matching Headstock
@@ -594,7 +593,6 @@ product_code;price_gross;vat;currency;stock;name
 10316880806217;1662.11;20;EUR;1;Gibson 76’ Reissue Explorer 2004 - Ebony - EMG MOD
 10358278979913;3693.59;20;EUR;1;Gibson Custom Shop ES-335 2012 - Cherry Red
 10390661529929;3110.39;20;EUR;1;Gibson Custom Shop Historic Collection 1957 Les Paul Junior VOS 2007 - TV Yellow
-10423183540553;3401.99;20;EUR;1;Gibson Custom Shop R8 58 Reissue Les Paul Standard 2009 - Cherry Sunburst
 10358274851145;2400.83;20;EUR;1;Gibson ES-335 2004 - Iced Tea Sunburst
 10357931409737;2770.19;20;EUR;1;Gibson ES-335 2023 - Vintage Sunburst
 10415934243145;3401.99;20;EUR;1;Gibson ES-390TDL 2015 - Cherry Red
@@ -616,7 +614,6 @@ product_code;price_gross;vat;currency;stock;name
 10141672898889;1141.55;20;EUR;1;Gibson Les Paul Special 2005 - Faded Cherry
 10047311380809;1421.27;20;EUR;1;Gibson Les Paul Special DC 2005 - TV Yellow
 10231420584265;1052.99;20;EUR;1;Gibson Les Paul Special Tribute 2021 - Faded Black
-10404730143049;2429.99;20;EUR;1;Gibson Les Paul Standard 1988 - Tobacco Sunburst
 10349644415305;1754.99;20;EUR;1;Gibson Les Paul Standard 2023 - Classic White
 10136423498057;1929.95;20;EUR;1;Gibson Les Paul Standard DC 2001 - Trans Red
 10316904464713;2216.15;20;EUR;1;Gibson Les Paul Standard DC 2009 - Goldtop
@@ -901,7 +898,6 @@ product_code;price_gross;vat;currency;stock;name
 10387863667017;680.39;20;EUR;1;Tokai Japan Original Series Random Star 1983 - Vintage White
 10366186029385;583.19;20;EUR;1;Tokai LBX Electric Bass 1984 - Metallic Red
 10358264496457;369.35;20;EUR;1;Tokai Les Paul 1994 - Sunburst - Defekt
-10118113952073;1106.99;20;EUR;1;Tokai Love Rock Les Paul LS162QZ 2023 - Quilt
 10398945739081;971.99;20;EUR;1;Tokai Love Rock LS-60 Les Paul 1981 - Tobacco Sunburst
 10212529701193;834.83;20;EUR;1;Tokai LS50 Love Rock Les Paul 1981 - Ebony
 10212539990345;542.15;20;EUR;1;Tokai SG - Cherry Red
@@ -941,7 +937,6 @@ product_code;price_gross;vat;currency;stock;name
 10305816723785;116.63;20;EUR;1;Yamaha FL-100 Flanger Effektpedal
 10315854348617;738.71;20;EUR;1;Yamaha Japan 500S Super Bass 1977 - Black
 10386435375433;680.39;20;EUR;1;Yamaha Japan BB V4 Bass 1985 - Black
-10315860640073;831.59;20;EUR;1;Yamaha Japan Lord Player Les Paul 1983 - Tobacco Burst
 10365883842889;680.39;20;EUR;1;Yamaha Japan MG-III 1979 - Black
 10403398058313;680.39;20;EUR;1;Yamaha Japan MG-IIR 1990 - Black
 10403352609097;680.39;20;EUR;1;Yamaha Japan MG-MII 1990 - Blue Burst
