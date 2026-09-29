@@ -541,6 +541,7 @@ product_code;price_gross;vat;currency;stock;name
 10330894664009;646.91;20;EUR;1;Fender Mexico Stratocaster 1995 - Black
 10400844972361;680.39;20;EUR;1;Fender Mexico Stratocaster 1995 - Black
 10338185642313;1200.95;20;EUR;1;Fender MJT 50s Reissue Stratocaster - Purple Metallic - Heavy Relic
+10338167488841;1200.95;20;EUR;1;Fender MJT 60s Reissue Stratocaster - Candy Apple Green - Heavy Relic
 10338198716745;1200.95;20;EUR;1;Fender MJT 60s Reissue Stratocaster - Inca Silver - Heavy Relic
 10338162704713;738.71;20;EUR;1;Fender MOD Stratocaster 2011 - Fiesta Red Nitro
 9903118680393;3887.99;20;EUR;1;Fender Mustang 1973 - Sunburst
@@ -754,14 +755,13 @@ product_code;price_gross;vat;currency;stock;name
 9903191916873;277.55;20;EUR;1;Ibanez Talman TCY10LE-BLK Lefthand 2021 - Black
 9786540851529;510.83;20;EUR;1;Ibanez Talman TM71T 2002 - Jewel Blue
 9821268476233;10526.75;20;EUR;1;Ibanez Universe UV77MC Steve Vai Signature 1991 - Multicolor
+10381601669449;874.79;20;EUR;1;Italia Modena Classic - Metallic Blue
 10387933135177;194.39;20;EUR;1;Jackson JS22-7 Dinky DKA HT 2016 - Gloss Black
 9797225742665;5831.99;20;EUR;1;James Collins Signature GTO 2023 - Natural
 9942052766025;3158.99;20;EUR;1;James Trussart Rusty Deville 59 2011 - Steel
 10349687439689;7289.99;20;EUR;1;Jens Ritter Instruments The Red² Cedar Porsch 2025 - Red Champagne
 10115830776137;158.75;20;EUR;1;Kapok MEG 9012 Stratocaster - Red
 10108742631753;158.75;20;EUR;1;Keiper Shortscale Stratocaster Junior - Black
-10415990899017;485.99;20;EUR;1;Kemper Power Kabinet
-10413199130953;971.99;20;EUR;1;Kemper Profiler Stage inkl. Mission EP1-KP Pedal
 10421904769353;680.39;20;EUR;1;Klira Triumphator 1960s - Red
 10421895135561;680.39;20;EUR;1;Kramer Japan EVH Style 1980s - Red Stripes
 10169733742921;658.79;20;EUR;1;Kramer LK-1 1980s - Black
@@ -775,7 +775,6 @@ product_code;price_gross;vat;currency;stock;name
 10386341921097;680.39;20;EUR;1;Mavis Telecaster - Fiesta Red
 10175495405897;104.97;20;EUR;1;Maxon Bass EQ BE-01 Effect Pedal - Vintage Japan
 10175591842121;113.71;20;EUR;1;Maxon CP-F1 Compressor Effector Fire Blade Effect Pedal - Vintage Japan
-10305800274249;145.79;20;EUR;1;Maxon CS-9 Stereo Chorus Effektpedal - Japan
 10305791525193;97.19;20;EUR;1;Maxon D&S II Effektpedal
 10305798603081;116.63;20;EUR;1;Maxon DS-F1 Fire Blade Distortion Effection Effektpedal - Japan
 10305804173641;145.79;20;EUR;1;Maxon FL-9 Flanger Effektpedal
