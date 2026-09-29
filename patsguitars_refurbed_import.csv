@@ -424,7 +424,6 @@ product_code;price_gross;vat;currency;stock;name
 9997845135689;2915.99;20;EUR;1;Fender American Stratocaster 1982 - Sunburst
 10379462148425;1263.59;20;EUR;1;Fender American Telecaster 1995 - Vintage White
 10349688226121;1846.79;20;EUR;1;Fender American Vintage 57 Reissue Stratocaster 1996 - Sunburst
-10403431317833;2138.39;20;EUR;1;Fender American Vintage 62 Reissue Custom Telecaster 1999 - Sunburst
 10415777284425;1943.99;20;EUR;1;Fender American Vintage 62 Reissue Precision Bass 1999 - Vintage White
 10330798883145;1662.11;20;EUR;1;Fender American Vintage 62 Reissue Stratocaster 2001 - Sunburst
 10141638394185;665.27;20;EUR;1;Fender American Vintage Jaguar Body - Sunburst
@@ -446,7 +445,6 @@ product_code;price_gross;vat;currency;stock;name
 10392751243593;1166.39;20;EUR;1;Fender Japan 52 Reissue Telecaster 1994-1995 - Natural
 10415782035785;971.99;20;EUR;1;Fender Japan 52 Reissue Telecaster 1995-1996 - Natural
 10392790040905;971.99;20;EUR;1;Fender Japan 54 Reissue Stratocaster 1989-1990 - Black
-10349682000201;971.99;20;EUR;1;Fender Japan 54 Reissue Stratocaster 1991 - Metallic Gold - MOD
 10400821838153;874.79;20;EUR;1;Fender Japan 57 Reissue  Stratocaster 1984-1987 - Sunburst
 10421701214537;971.99;20;EUR;1;Fender Japan 57 Reissue Precision Bass 1993-1994 - Black
 10419557957961;971.99;20;EUR;1;Fender Japan 57 Reissue ST57US Stratocaster 1999-2002 - Black
@@ -465,7 +463,6 @@ product_code;price_gross;vat;currency;stock;name
 10392785092937;874.79;20;EUR;1;Fender Japan 62 Reissue Stratocaster 1993-1994 - Satin Sunburst - MOD
 10387876446537;874.79;20;EUR;1;Fender Japan 62 Reissue Stratocaster 1993-1994 - Vintage White
 10330905641289;1200.95;20;EUR;1;Fender Japan 66 Reissue Jaguar 1997-2000 - Blue Repaint
-10390710550857;1263.59;20;EUR;1;Fender Japan 66 Reissue Jaguar 1997-2000 - Candy Apple Red
 10329392546121;1385.63;20;EUR;1;Fender Japan 66 Reissue Jaguar 1997-2000 - Candy Apple Red - Matching Headstock
 10358272393545;1292.75;20;EUR;1;Fender Japan 66 Reissue Jaguar 2002-2004 - Candy Apple Red - Matching Headstock
 10357114896713;1200.95;20;EUR;1;Fender Japan 66 Reissue Mustang 1993-1994 - Vintage White
@@ -563,7 +560,7 @@ product_code;price_gross;vat;currency;stock;name
 10092544688457;498.95;20;EUR;1;Fender Telecoustic 2000 - Candy Apple Red
 10136243863881;615.59;20;EUR;1;Fender Telecoustic 2014 - Flame Maple Sunburst
 10358238773577;1662.11;20;EUR;1;Fender USA Mustang 1978 - Olympic White
-10391439606089;1749.59;20;EUR;1;Fender USA Mustang 1978 - Vintage White
+10391439606089;1166.4;20;EUR;1;Fender USA Mustang 1978 - Vintage White
 10023442415945;6317.99;20;EUR;1;Fender USA Telecaster 1968 - Natural
 10236651274569;878.03;20;EUR;1;Fender Vintera 60s Jaguar 2022 - Sunburst
 10421711077705;874.79;20;EUR;1;Fender Vintera 60s Jazzmaster 2022 - Olympic White - Matching Headstock
@@ -878,7 +875,6 @@ product_code;price_gross;vat;currency;stock;name
 10365891445065;971.99;20;EUR;1;Squier by Fender Japan JV Stratocaster 1983 - Black
 10381522108745;680.39;20;EUR;1;Squier by Fender Japan JV Stratocaster 1984 - Vintage White
 10357895921993;646.91;20;EUR;1;Squier by Fender Japan Silver Series Stratocaster SST-39 1993-1994 - Flame Red Burst
-10392772804937;680.39;20;EUR;1;Squier by Fender Japan Silver Series Telecaster 2002-2004 - Black
 10400810533193;971.99;20;EUR;1;Squier by Fender Japan SQ Stratocaster 1984 - Vintage White
 10294035022153;646.91;20;EUR;1;Squier by Fender Japan SST-33 Stratocaster 1991-1992 - Black
 10400855327049;680.39;20;EUR;1;Squier by Fender Japan SST-R Stratocaster 1999-2002 - Transparent Blue Burst
