@@ -90,7 +90,6 @@ product_code;price_gross;vat;currency;stock;name
 10366159618377;680.39;20;EUR;1;CoolZ Japan ZST-1R Stratocaster 2014 - Candy Apple Red
 10419662913865;680.39;20;EUR;1;CoolZ Japan ZST-V-R Stratocaster 2018 - Black
 10365872963913;680.39;20;EUR;1;CoolZ Japan ZST-V/R Stratocaster 2016 - Sunburst
-10405028069705;194.39;20;EUR;1;Cort CR100 Classic Rock Les Paul 2025 -  Black
 9654574383433;777.59;20;EUR;1;Cort Elrick NJS4 Bass 2022 - Black
 10067539657033;554.03;20;EUR;1;Cort S2800 2009 - Cherry Sunburst
 10249387606345;107.99;20;EUR;1;Crybaby GCB-95 Effect Pedal
@@ -119,14 +118,12 @@ product_code;price_gross;vat;currency;stock;name
 10357320909129;738.71;20;EUR;1;Epiphone Explorer 2011 - Ebony
 10108768551241;711.71;20;EUR;1;Epiphone Japan Les Paul 1996 - Fotoflame
 10379455070537;874.79;20;EUR;1;Epiphone Korea Casino VCSB 1994 - Sunburst
-10404992680265;777.59;20;EUR;1;Epiphone Korea Explorer Bass 2000 - Ebony
 10404966990153;777.59;20;EUR;1;Epiphone Korea SG Custom 2001 - Ivory
 10381678674249;583.19;20;EUR;1;Epiphone Korea Thunderbird Bass 1999 - Vintage Sunburst
 10381546651977;583.19;20;EUR;1;Epiphone Les Paul Custom 2011 - Ebony
 10118152159561;396.35;20;EUR;1;Epiphone Les Paul Junior 2009 - White
 10294084927817;646.91;20;EUR;1;Epiphone Les Paul Standard Limited Edition 2009 - Quilt Top
 10210064236873;415.79;20;EUR;1;Epiphone Les Paul Studio 1998 - Ebony
-10126025064777;396.35;20;EUR;1;Epiphone Les Paul Tribute 2010 - Translucent Black
 10404983898441;777.59;20;EUR;1;Epiphone MKH Matt Heafy Signature Les Paul Custom 2013 - Ebony
 9937242030409;1457.99;20;EUR;1;Epiphone SC-450 Scroll 1978 - Natural
 10118132859209;396.35;20;EUR;1;Epiphone SG Bigsby 2007 - Red
@@ -549,7 +546,6 @@ product_code;price_gross;vat;currency;stock;name
 10387987005769;1263.59;20;EUR;1;Fender Ritchie Blackmore Signature Stratocaster 2009 - Olympic White
 10392519049545;1263.59;20;EUR;1;Fender Ritchie Blackmore Signature Stratocaster 2009 - Olympic White
 10357922955593;1200.95;20;EUR;1;Fender Ritchie Blackmore Signature Stratocaster 2011 - Olympic White
-10358266954057;1200.95;20;EUR;1;Fender Ritchie Blackmore Signature Stratocaster 2022 - Olympic White
 10364977381705;777.59;20;EUR;1;Fender Showmaster Stratocaster 2005 - Black Cherry Burst
 10047131386185;599.39;20;EUR;1;Fender Squier 51 Strat/Tele Hybrid - Butterscotch Blonde
 10067744260425;665.27;20;EUR;1;Fender Squier 71’ Reissue Telecaster 2002-2004 - Butterscotch Blonde
@@ -578,8 +574,8 @@ product_code;price_gross;vat;currency;stock;name
 10392693080393;1263.59;20;EUR;1;FGN Japan Neo Classic NCLS-20R 2016 - Heritage Darkburst
 10421760721225;388.79;20;EUR;1;Fine Crystal Series Stratocaster - Acryl Red
 10381604487497;485.99;20;EUR;1;Flying V Painted Pickguard - Black
-10421889597769;680.39;20;EUR;1;Framus 5/57 1959 - Black
-10421852995913;777.59;20;EUR;1;Framus 5/706 Akustik 1953 - Red Burst
+10421889597769;680.39;20;EUR;1;Framus 5/37 1960 - Black
+10421852995913;777.59;20;EUR;1;Framus 5/70 S Akustik 1965 - Black Rose
 9781268087113;1023.83;20;EUR;1;Framus Diablo Custom 2002
 10033157669193;291.59;20;EUR;1;Framus FR 212 Speaker Cabinet
 10419548291401;971.99;20;EUR;1;Framus Hollywood Double Cat 2011 - Red Burst
@@ -603,6 +599,7 @@ product_code;price_gross;vat;currency;stock;name
 10131764445513;831.59;20;EUR;1;Gibson Flying V Melody Maker 2011 - Ebony
 10381514277193;1749.59;20;EUR;1;Gibson J-45 Deluxe 1982 - Vintage Sunburst
 10228063895881;1580.03;20;EUR;1;Gibson Les Paul Classic 2015 - Vintage Sunburst
+10427668627785;1749.59;20;EUR;1;Gibson Les Paul Classic 2017 2017 - Tobacco Sunburst
 10329359909193;3232.43;20;EUR;1;Gibson Les Paul Custom Lite 1989 - Heritage Cherry Sunburst
 10033181557065;2132.99;20;EUR;1;Gibson Les Paul Custom Shop 1998 - Catalina Red
 10255401746761;3071.51;20;EUR;1;Gibson Les Paul Deluxe 1980 - Natural
@@ -671,7 +668,6 @@ product_code;price_gross;vat;currency;stock;name
 10249362276681;701.99;20;EUR;1;Greco EG480 Custom Les Paul 1970s - Sunburst
 10249290514761;701.99;20;EUR;1;Greco EG480R Custom Les Paul 1976 - Cherry Sunburst
 10104294080841;631.79;20;EUR;1;Greco EG500 Les Paul Standard 1978 - Cherry Sunburst - Vintage Japan
-10104285102409;790.55;20;EUR;1;Greco EG600 Les Paul Custom 1978 - Ebony - Vintage Japan
 10357237612873;831.59;20;EUR;1;Greco EGC-480 Les Paul Custom 1990 - Ebony
 10357332771145;831.59;20;EUR;1;Greco EGC-480 Les Paul Custom 1990 - Ebony
 10210054406473;415.79;20;EUR;1;Greco GOB-700 Bass 1978 - Defekt
@@ -739,7 +735,6 @@ product_code;price_gross;vat;currency;stock;name
 9766982713673;289.43;20;EUR;1;Ibanez RG Standard 2021 - Red
 10176865239369;878.03;20;EUR;1;Ibanez RG410 Roadstar II Series 1986 - Black
 9961964634441;305.63;20;EUR;1;Ibanez RG421 2022 - Natural
-10405129224521;291.59;20;EUR;1;Ibanez RG421EX 2019 - Matte Black
 10421921939785;485.99;20;EUR;1;Ibanez RG450AH 1999 - Silver
 10330899743049;923.39;20;EUR;1;Ibanez RG550 1999 - Road Flare Red
 10277170184521;831.59;20;EUR;1;Ibanez RG670 1993 - Root Beer
@@ -802,7 +797,6 @@ product_code;price_gross;vat;currency;stock;name
 10141697212745;874.79;20;EUR;1;Orville Les Paul 1993 - Foto Flame - Vintage Japan
 10016076792137;748.43;20;EUR;1;Orville Les Paul Standard 1990 - Heritage Cherry Sunburst
 10303795233097;831.59;20;EUR;1;Orville LPS Les Paul 1994 - Cherry Sunburst
-10118158582089;711.71;20;EUR;1;Orville LPS Les Paul Standard - Cherry Sunburst
 10092445761865;606.95;20;EUR;1;Orville LPS Les Paul Standard 1990 - Cherry Sunburst
 10249355198793;790.55;20;EUR;1;Orville LPS-75 Les Paul 1990 - Cherry Sunburst
 10365151379785;874.79;20;EUR;1;Orville SG 1989-1993 - Vintage White
