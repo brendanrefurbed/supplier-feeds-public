@@ -98,6 +98,7 @@ product_code;price_gross;vat;currency;stock;name
 10365914120521;971.99;20;EUR;1;Dean Dimebag Barrel Signature 2020 - Dime o Flage - Defect
 10349643432265;923.39;20;EUR;1;Dean Dimebag Darrel Signature Razorback 2006 - Black Silver
 10349682524489;369.35;20;EUR;1;Dean Sarasota 2006 - Cherry Sunburst
+10176909312329;139.96;20;EUR;1;Digitech Eric Clapton Signature Crossroads Overdrive Effect Pedal
 10192902390089;131.21;20;EUR;1;DOD FX25 Envelope Filter Effect Pedal - USA
 10305810006345;126.35;20;EUR;1;DOD FX25 Envelope Filter Effektpedal - USA
 10192934076745;131.21;20;EUR;1;DOD FX50-B Overdrive Effect Pedal - USA
@@ -486,7 +487,7 @@ product_code;price_gross;vat;currency;stock;name
 10387851608393;874.79;20;EUR;1;Fender Japan JB-40 Jazz Bass 1993-1994 - Vintage White
 10403404579145;874.79;20;EUR;1;Fender Japan JB-48 Jazz Bass 2007 - Sunburst
 10403451371849;874.79;20;EUR;1;Fender Japan JB-STD Jazz Bass 2007-2010 - Vintage White
-10327216849225;777.59;20;EUR;1;Fender Japan JB-STD Jazz Bass 2012 - Sunburst
+10327216849225;777.59;20;EUR;1;Fender Japan JB-STD Jazz Bass 2013 - Sunburst
 10294092824905;831.59;20;EUR;1;Fender Japan JV Stratocaster MOD 1982 - Natural
 10405096522057;1749.59;20;EUR;1;Fender Japan Limited Edition JM-66GEX Jazzmaster 1994 - Blonde
 10366532682057;1360.79;20;EUR;1;Fender Japan Mami Signature Stratocaster 2025 - Omochi Vintage White
@@ -681,6 +682,7 @@ product_code;price_gross;vat;currency;stock;name
 10365918249289;680.39;20;EUR;1;Greco Matsumoku Stratocaster 1970s - Vintage White
 10365878829385;874.79;20;EUR;1;Greco Mercury Precision Bass 1980 - Natural
 10392780702025;874.79;20;EUR;1;Greco PB450 Spacy Sound Precision Bass 1981 - Black
+10349665911113;971.99;20;EUR;1;Greco RB Bass 1977 - Natural
 10249162326345;701.99;20;EUR;1;Greco SE-380 Super Sounds Stratocaster 1979 - Sunburst
 10254398488905;615.59;20;EUR;1;Greco Stratocaster 1970s - Natural
 10115845816649;631.79;20;EUR;1;Greco Stratocaster 1970s - Vintage White
@@ -705,7 +707,6 @@ product_code;price_gross;vat;currency;stock;name
 10117754880329;396.35;20;EUR;1;Hagstrom Ultra Swede 2008 - Red Burst
 10405098488137;291.59;20;EUR;1;Harley Benton Hybrid Telecaster - Black
 10240953811273;777.59;20;EUR;1;Höfner 173 - Vinyl White
-9751180771657;332.63;20;EUR;1;Höfner 520 1960s
 10255402762569;527.03;20;EUR;1;Höfner Colorama Classic - Cherry Red
 9914113950025;701.99;20;EUR;1;Höfner Super Solid 173 - Vinyl White
 10386554519881;874.79;20;EUR;1;Hohner Professional L59 T 1992 - Antique Sunburst
