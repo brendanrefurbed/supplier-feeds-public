@@ -1,8 +1,8 @@
 product_code;price_gross;vat;currency;stock;name
 GITB1213;3508.92;21;EUR;1;B&G Little Sister Private Build Proper Copper Limited Edition | Copper
 GITB1104;895.32;21;EUR;1;Charvel Model 2 1H 1988 | Black
-GITB1219;970.92;21;EUR;1;D'Angelico Deluxe Bob Weir Bedford | Matte Stone
 GITB1003;862.92;21;EUR;1;D'Angelico Deluxe EXL-1 Korea | Matte Red
+GITB1219;970.92;21;EUR;1;D'Angelico Premier Bob Weir Bedford | Matte Stone
 GITB1147;2154.6;21;EUR;1;Del-Tone 50's S-style | Black
 GITB1146;2154.6;21;EUR;1;Del-Tone 60's T-style | Gold
 GITB1145;2154.6;21;EUR;1;Del-Tone 60's T-style | Sherwood Green
@@ -14,9 +14,11 @@ GITB1215;2482.92;21;EUR;1;Ernie Ball John Petrucci JP6 | Pearl Redburst
 GITB1078;2752.92;21;EUR;1;ESP Custom Shop Eclipse Japan 1999 | See Thru Blue
 GITB1109;3666.6;21;EUR;1;ESP KH-2 Kirk Hammett Signature | Black
 GITB1105;5286.6;21;EUR;1;ESP Original M-2 CTM NT Titan | Metal Black Sparkle
+GITB1242;1834.92;21;EUR;1;Fender American Deluxe Stratocaster 2005 | 3-Color Sunburst
 GITB1195;2320.92;21;EUR;1;Fender American Ultra II Stratocaster | Sinister Red
 GITB1224;3990.6;21;EUR;1;Fender Closet Classic Pro Custom Shop Telecaster | Black
 GITB1199;4530.6;21;EUR;1;Fender Custom Shop Rory Gallagher Stratocaster | Sunburst
+GITB1232;2266.92;21;EUR;1;Fender Eric Johnson Signature Stratocaster 2020 | Maple
 GITB1198;1996.92;21;EUR;1;Fender Jim Root Jazzmaster USA | Flat Black
 GITB1190;1186.92;21;EUR;1;Fender Richie Sambora Stratocaster 1996 | Red
 GITB1216;2050.92;21;EUR;1;Fender Stratocaster 40th Anniversary Edition | Sunburst
@@ -78,6 +80,5 @@ GITB1173;862.92;21;EUR;1;Schecter J-4 Diamond Series | Sea Foam Green
 GITB1174;1618.92;21;EUR;1;Schecter USA Traditional J-Bass Wembley 2017 | Sunburst
 GITB1141;895.32;21;EUR;1;Taylor 114e 2021 | Natural Walnut
 GITB997;970.92;21;EUR;1;Tobias Growler V 2024 | Naturel
-GITB1167;1564.92;21;EUR;1;Tokai ULS129 Vintage Series 2024 | Violin Finish
 GITB884;592.92;21;EUR;1;Yamaha CPX 700 II | Dusk Sun Red
 GITB1142;1240.92;21;EUR;1;Yamaha TRB1006J 2020 6-String | Translucent Black
