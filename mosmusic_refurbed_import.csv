@@ -27,7 +27,6 @@ N255350;139.32;20;GBP;1;Boss BF-3 Flanger Pedal
 B255017;41.04;20;GBP;1;Boss BT-DUAL Bluetooth Audio Midi Dual Adapter (B-Stock)
 N255201;100.44;20;GBP;1;Boss CE-5 Chorus Ensemble Pedal
 N254690;95.04;20;GBP;1;Boss CS-3 Compression Sustainer Pedal
-P266975;160.92;20;GBP;1;Boss DD2 Delay, Vintage 1980s Made in Japan (Pre-Owned)
 N254626;80.99;20;GBP;1;Boss DS-1 Distortion Pedal
 N255179;294.84;20;GBP;1;Boss Dual Cube Bass LX Amp
 N255278;150.12;20;GBP;1;Boss Dual Cube LX Guitar Amp
@@ -280,6 +279,8 @@ N255970;7.23;20;GBP;1;Dunlop White Large Thumbpicks, 4 Pack
 N255886;35.63;20;GBP;1;D’Addario Auto Lock Guitar Strap, Black
 P266627;322.92;20;GBP;1;E-mu Planet Phatt Rack Synth Module (Pre-Owned)
 P266613;430.92;20;GBP;1;EBS HD350 Professional 350W Bass Amplifier Head (Pre-Owned)
+P267021;160.92;20;GBP;1;Eden EC210 180W 2x10 Bass Combo Amplifier (Pre-Owned)
+P267072;214.92;20;GBP;1;Electro-Voice RE320 Dynamic Broadcast & Instrument Microphone with Case and Stand Clip (Pre-Owned)
 N255590;20.51;20;GBP;1;Elixir 11002 80/20 Bronze Acoustic Guitar Strings with Nanoweb Coating, 10-47
 N254777;21.59;20;GBP;1;Elixir 11052 80/20 Bronze Acoustic Guitar Strings with Nanoweb Coating, 12-53
 N255594;21.59;20;GBP;1;Elixir 11102 80/20 Bronze Acoustic Guitar Strings with Nanoweb Coating, 13-56
@@ -321,7 +322,6 @@ N255850;28.29;20;GBP;1;Ernie Ball Hybrid Slinky Nickel Wound Electric Guitar Str
 N255433;9.71;20;GBP;1;Ernie Ball Hybrid Slinky Nickel Wound Electric Guitar Strings, 9-46
 N255888;26.99;20;GBP;1;Ernie Ball Light Earthwood 80/20 Bronze Acoustic Guitar Strings 11-52 Gauge, 3-Pack
 N255207;10.79;20;GBP;1;Ernie Ball Medium 13-56 Earthwood 80/20 Bronze Acoustic Guitar Strings
-P267020;2158.92;20;GBP;1;Ernie Ball Music Man StingRay 4-String Bass (1987), Birdseye Maple Fretboard, Blue (Pre-Owned)
 N255800;10.79;20;GBP;1;Ernie Ball Not Even Slinky Nickel Wound Electric Guitar Strings, 12-56
 N254674;3.88;20;GBP;1;Ernie Ball P04279 Wonder Wipes Multi-Pack
 N254958;37.68;20;GBP;1;Ernie Ball Power Slinky 5 String Nickel Wound Electric Bass Strings, 50-135
@@ -392,6 +392,7 @@ N255400;301.32;20;GBP;1;Gold Tone BU-1 Concert-Scale Banjo Ukulele
 N254962;754.92;20;GBP;1;Gold Tone CC-100R Cripple Creek Resonator Banjo
 N255867;506.52;20;GBP;1;Gold Tone CC-50 Cripple Creek Banjo with Gig Bag
 N254754;182.52;20;GBP;1;Gold Tone Little Gem Banjo Ukulele Diamond
+P267113;592.92;20;GBP;1;Gordon Smith Gypsy GS2 (2005), Cherry (Pre-Owned)
 N255500;32.39;20;GBP;1;Gravity KSX1 Keyboard Stand
 N255074;48.6;20;GBP;1;Gravity MS 231 HB Microphone Stand with Round Base and One-Hand Clutch
 N254719;36.0;20;GBP;1;Gravity MS4222B Short Microphone Boom Stand with Folding Tripod Base
@@ -462,7 +463,7 @@ N255813;27.0;20;GBP;1;Kona Soprano Ukulele, Yellow
 P266656;430.92;20;GBP;1;Korg Kaossilator Pro+ (Pre-Owned)
 P266593;322.92;20;GBP;1;Korg MicroKORG XL Synthesiser (Pre-Owned)
 P256310;10798.92;20;GBP;1;Korg PS3100 Polyphonic Analogue Synthesiser (Pre-Owned)
-P267042;538.92;20;GBP;1;Kramer Focus 3000 HSS, Metallic Blue, Made in Japan (Pre-Owned)
+P267042;538.92;20;GBP;1;Kramer Focus 3000 HSS (1980s), Metallic Blue, Made in Japan (Pre-Owned)
 N255774;70.19;20;GBP;1;Laka VUC25 Walnut Series Concert Ukulele & Carry Bag
 N254670;26.99;20;GBP;1;Laka VUS15OR Rainbow Series Soprano Ukulele & Carry Bag, Orange
 N255067;594.0;20;GBP;1;"LD Systems Stinger Sub 15 A G3 Active 15"" Bass-Reflex PA subwoofer"
@@ -488,6 +489,7 @@ P256273;2050.92;20;GBP;1;Marshall Vintage JCM800 MK2 100W Valve Amplifier Head (
 P267027;42.12;20;GBP;1;Marshall VT1 Vibratrem (Pre-Owned)
 N255646;15.11;20;GBP;1;Martin Authentic Acoustic SP 80/20 Bronze 12 String Extra Light 10-47 Gauge
 N254884;754.92;20;GBP;1;Martin D-X2E Mahogany, X-Series Electro-Acoustic Guitar, Natural
+P267116;376.92;20;GBP;1;Martin LX1E Little Martin Electro-Acoustic Guitar (Pre-Owned)
 N255375;8.63;20;GBP;1;Martin M140 Bronze Acoustic Guitar Strings 12-54
 N255984;8.63;20;GBP;1;Martin M170 80/20 Bronze Acoustic Guitar Strings 10-47
 N255220;10.79;20;GBP;1;Martin MA140 Authentic Acoustic SP 80/20 Bronze, Light, 12-54
@@ -574,8 +576,10 @@ N255242;20.83;20;GBP;1;Roland 1/4-inch TRS male to XLR male, 10 ft./3 m Length, 
 P266581;376.92;20;GBP;1;Roland MC101 Groovebox (Pre-Owned)
 P256268;322.92;20;GBP;1;Roland S-550 Digital Sampler w/Nalbantov USB Drive (Pre-Owned)
 N266531;808.92;20;GBP;1;Roland SPD-SX Pro Sampling Pad
+P266998;376.92;20;GBP;1;Roland TD-1KPX2 V-Drums Portable Electronic Drum Kit (Pre-Owned)
 P266995;1078.92;20;GBP;1;Roland TD17KVX V-Drum Kit COLLECTION ONLY (Pre-Owned)
 N254877;17.81;20;GBP;1;Roland XLR female to RCA, 10 ft./3 m Length, Black Series Interconnect Cable
+P267081;160.92;20;GBP;1;Roland XV2020 Sound Module (Pre-Owned)
 N255566;16.2;20;GBP;1;Roland, 1/8-inch TRS to 1/8-inch Stereo Cable, Black Series Interconnect Cable
 N255905;11.83;20;GBP;1;Rotosound CL1 Superia Classical Nylon Ball End Strings
 N255012;10.79;20;GBP;1;Rotosound GC-200-BK Guitar Capo Black
@@ -612,6 +616,7 @@ N255081;80.99;20;GBP;1;Shure PGA58 Cardioid Dynamic Vocal Microphone with XLR Ca
 N254931;113.4;20;GBP;1;Shure SM57 Dynamic Instrument Microphone
 N255899;113.4;20;GBP;1;Shure SM58 Dynamic Vocal Microphone
 P266829;430.92;20;GBP;1;Sigma DM18 Acoustic Guitar (Pre-Owned)
+P267051;214.92;20;GBP;1;Singular Sound Beat Buddy and Footswitch (Pre-Owned)
 P266823;301.32;20;GBP;1;Sire Larry Carlton L3 P90, Sunburst (Pre-Owned)
 P266999;376.92;20;GBP;1;Sire Larry Carlton L7 Gold Top (Pre-Owned)
 N255482;10.79;20;GBP;1;Snark SN-5X Clip-On Tuner for Guitar, Bass and Violin
@@ -628,7 +633,7 @@ N254936;463.32;20;GBP;1;Spira V-420 AWH V-Style Electric Guitar, Antique White
 N255301;344.52;20;GBP;1;Squier Affinity Series Precision Bass PJ Pack with Rumble 15 Amplifier, Maple Neck, Black
 N255451;409.32;20;GBP;1;Squier Classic Vibe Duo-Sonic HS, Gold Anodized Pickguard, Desert Sand
 N254807;441.72;20;GBP;1;Squier Classic Vibe™ '70s Stratocaster® HT HSS, Olympic White
-N267109;398.52;20;GBP;1;Squier FSR Classic Vibe '60s Custom Esquire Electric Guitar, LRL, Shoreline Gold
+N267109;376.92;20;GBP;1;Squier FSR Classic Vibe '60s Custom Esquire Electric Guitar, LRL, Shoreline Gold
 B256156;139.32;20;GBP;1;Squier Mini Stratocaster Electric Guitar, Black (B-Stock)
 B255879;150.12;20;GBP;1;Squier Sonic Mustang, Maple Fingerboard, 2-Colour Sunburst, B Stock (B-Stock)
 N255255;182.52;20;GBP;1;Squier Sonic Precision Bass, California Blue
