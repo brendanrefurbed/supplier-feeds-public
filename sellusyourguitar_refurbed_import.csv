@@ -1,4 +1,6 @@
 product_code;price_gross;vat;currency;stock;name
+1230926244110;1920.0;20;GBP;1;Martin 000-18 Gloss Natural 2018 Auditorium Acoustic Guitar
+1240926244600;1140.0;20;GBP;1;Gibson SG Standard Fireburst 2015 Electric Guitar
 1170926242420;400.0;20;GBP;1;Ibanez AFB200-SRD-12-04 Sunset Red 2013 Hollow Body Bass Guitar
 1260926244970;400.0;20;GBP;1;Martin LX1E Little Martin Satin Natural 2015 Electro-Acoustic Travelling Guitar
 1220926243763;420.0;20;GBP;1;Epiphone Les Paul Standard Ltd Edition Gold Sparkle 1997 Electric Guitar
@@ -15,7 +17,6 @@ product_code;price_gross;vat;currency;stock;name
 1260926245011;600.0;20;GBP;1;Fender Player Telecaster Butterscotch Blonde 2022 Electric Guitar w/ upgrades
 1210926243286;540.0;20;GBP;1;Fender Player II Telecaster 3-Colour Sunburst 2025 Left-Handed Electric Guitar
 1260926244940;2260.0;20;GBP;1;Martin D-28 Gloss Natural 2009 Acoustic Guitar
-1210926243550;550.0;20;GBP;1;Yamaha Revstar RS502T Denim Blue 2021 Electric Guitar
 1160926242252;660.0;20;GBP;1;Line 6 Variax Bass 700 Black 2005 Electric Modelling Bass Guitar
 1160926242250;660.0;20;GBP;1;Line 6 Variax Bass 700 Black 2004 Electric Modelling Bass Guitar
 1300926246192;940.0;20;GBP;1;Fender American Standard Stratocaster Olympic White 2003 Electric Guitar
@@ -108,7 +109,6 @@ product_code;price_gross;vat;currency;stock;name
 1270826236281;2040.0;20;GBP;1;Rickenbacker 360 Mapleglo 2005 Semi-Hollow Electric Guitar
 1270826236280;1980.0;20;GBP;1;Hofner Jazzica Custom Natural 2003 Archtop Hollow Body Guitar
 1270826235972;1260.0;20;GBP;1;Yamaha SA2000S Sunburst 1979 Semi-Hollow Electric Guitar
-1240826235150;440.0;20;GBP;1;Chapman ML1 Modern Baritone Graphite 2017 Electric Guitar
 1070926239381;970.0;20;GBP;1;Blueridge BR-180N Dreadnought Gloss Natural 2011 Electro-Acoustic Guitar
 1020926238112;800.0;20;GBP;1;Peavey T-60 Black 1980 Electric Guitar
 1070926239542;680.0;20;GBP;1;PRS SE Hollowbody Blue Burst 2022 Electric Guitar
@@ -119,7 +119,6 @@ product_code;price_gross;vat;currency;stock;name
 1270826236301;810.0;20;GBP;1;Charvel Pro-Mod San Dimas Style 1 Snow White 2017 Electric Guitar
 1020926238111;850.0;20;GBP;1;Fender Lead II USA 1981/82 Wine Red Electric Guitar
 1270826236300;1010.0;20;GBP;1;Fender American Performer Stratocaster HSS 2023 Gloss Black Electric Guitar
-1310826237390;1080.0;20;GBP;1;Gibson SG Standard Ebony 2005 Electric Guitar
 1260826235712;1050.0;20;GBP;1;Fender American Standard Telecaster 2-Color Sunburst 2014 Electric Guitar
 1260826235711;1290.0;20;GBP;1;Fender American Professional II Stratocaster Olympic White 2021 Modified Electri
 1160826232150;1870.0;20;GBP;1;Ernie Ball Music Man Valentine Trans Buttermilk 2025 Electric Guitar
@@ -169,7 +168,6 @@ product_code;price_gross;vat;currency;stock;name
 1200726224690;850.0;20;GBP;1;Fender Made in Japan Traditional '60s Stratocaster 2024 Lake Placid Blue
 1310726227981;800.0;20;GBP;1;Schecter Banshee Elite 7 String Gloss Natural 2019 Electric Guitar
 1200526210210;1200.0;20;GBP;1;Ibanez 2453 Howard Roberts Brown Sunburst c.1975 Hollow Body Electric Guitar
-1070826229810;1640.0;20;GBP;1;Maybach Lester Earl Grey 60 Aged 2021 Electric Guitar
 1240326194300;950.0;20;GBP;1;Fender MIJ ST68 Stratocaster Vintage White 2014 Electric Guitar
 1140126171397;890.0;20;GBP;1;Peerless Tonemaster JH Special Sunburst Hollow Body Electric Guitar
 1030826228790;740.0;20;GBP;1;Rivolta Regatta VII Gloss Natural Semi-Hollow Electric Guitar
@@ -339,7 +337,6 @@ product_code;price_gross;vat;currency;stock;name
 1060326189060;285.0;20;GBP;1;Keeley Electronics HALO Andy Timmons Signature Dual Echo Guitar Effects Pedal
 1100326190050;690.0;20;GBP;1;Sterling by Music Man LK100D Luke Blue Electric Guitar
 1060226179574;830.0;20;GBP;1;Epiphone Peter Frampton Les Paul Custom Ebony 2018 Electric Guitar
-1020326187510;520.0;20;GBP;1;Fender Player II Mustang Aquatone Blue 2024 Electric Guitar
 1060226179710;1110.0;20;GBP;1;Fender Strat Plus 3-Color Sunburst 1991 Electric Guitar
 1070326189510;670.0;20;GBP;1;Jackson Pro Series Dinky DK7M metallic Black 2014 Electric Guitar
 1030226178320;1330.0;20;GBP;1;Taylor GS7 Grand Symphony Natural Gloss 2009 Acoustic Guitar
