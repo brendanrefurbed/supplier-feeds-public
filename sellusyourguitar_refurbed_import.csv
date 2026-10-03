@@ -1,4 +1,6 @@
 product_code;price_gross;vat;currency;stock;name
+1190926243120;2000.0;20;GBP;1;Gretsch 6120TFM Players Edition Nashville 2018 Japan Hollow Body Guitar
+1290926245910;1130.0;20;GBP;1;Gibson SG Standard Heritage Cherry 2010 Electric Guitar
 1230926244110;1920.0;20;GBP;1;Martin 000-18 Gloss Natural 2018 Auditorium Acoustic Guitar
 1240926244600;1140.0;20;GBP;1;Gibson SG Standard Fireburst 2015 Electric Guitar
 1170926242420;400.0;20;GBP;1;Ibanez AFB200-SRD-12-04 Sunset Red 2013 Hollow Body Bass Guitar
@@ -14,7 +16,6 @@ product_code;price_gross;vat;currency;stock;name
 1160926242213;740.0;20;GBP;1;Hagstrom H-III Scandi Sunburst c.1976 Modified Vintage Electric Guitar
 1170926242500;510.0;20;GBP;1;Sigma DM-SG5 Heritage Cherry Sunburst 2022 Electro-Acoustic Guitar
 1240926244480;1190.0;20;GBP;1;Fender American Professional Precision Bass 3-Color Sunburst 2017 Electric Bass
-1260926245011;600.0;20;GBP;1;Fender Player Telecaster Butterscotch Blonde 2022 Electric Guitar w/ upgrades
 1210926243286;540.0;20;GBP;1;Fender Player II Telecaster 3-Colour Sunburst 2025 Left-Handed Electric Guitar
 1260926244940;2260.0;20;GBP;1;Martin D-28 Gloss Natural 2009 Acoustic Guitar
 1160926242252;660.0;20;GBP;1;Line 6 Variax Bass 700 Black 2005 Electric Modelling Bass Guitar
@@ -97,7 +98,6 @@ product_code;price_gross;vat;currency;stock;name
 1250826235460;680.0;20;GBP;1;Godin 5th Avenue Kingpin P90 Cognac Burst Hollow Body Archtop Electric Guitar
 1010926237760;2390.0;20;GBP;1;Rickenbacker 360/12 Jetglo 1997 Semi-Hollow 12 String Electric Guitar
 1010926237711;2660.0;20;GBP;1;Gibson Les Paul ES Natural 2016 Semi-Hollow Electric Guitar
-1050926238921;1010.0;20;GBP;1;Fender MIJ Telecaster TL-52-DEX2 Black 1996 Electric Guitar w/Postal Monkey Case
 1200826233490;1210.0;20;GBP;1;Taylor 414CE 2000 Natural Electro-Acoustic Guitar
 1260826235780;800.0;20;GBP;1;Epiphone Noel Gallagher SuperNova Vintage Sunburst 1997 Electric Guitar
 1280826236460;770.0;20;GBP;1;Yamaha LL-TA Transacoustic Brown Sunburst 2023 Electro-Acoustic Guitar
@@ -191,7 +191,6 @@ product_code;price_gross;vat;currency;stock;name
 1090726222610;3780.0;20;GBP;1;Martin OMJM 20th Anniversary Platinum Gray Burst 2024 John Mayer Signature
 1120526208005;220.0;20;GBP;1;Gibson Late 70’s Dirty Fingers T.Top Neck Humbucker w/ Gold Bobbins
 1270726226702;570.0;20;GBP;1;Kemper Profiler Rack (Unpowered) Digital Amp Profiler
-1200726224860;550.0;20;GBP;1;Fender California Vintage Palomino Sienna Sunburst 2023 Electro-Acoustic Guitar
 1240726226161;680.0;20;GBP;1;ESP LTD SN-1000 FR Charcoal Metallic 2015 Modified Electric Guitar
 1170726224251;560.0;20;GBP;1;Ibanez AF105 Natural Hollow Body 2006 Electric Guitar
 1280726227032;570.0;20;GBP;1;Epiphone Sheraton II Vintage Sunburst 2004 Semi-Hollow Electric Guitar
