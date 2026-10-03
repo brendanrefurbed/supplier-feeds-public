@@ -129,6 +129,7 @@ product_code;price_gross;vat;currency;stock;name
 10118132859209;396.35;20;EUR;1;Epiphone SG Bigsby 2007 - Red
 10212573610313;701.99;20;EUR;1;Epiphone SG Custom 2006 - Ivory
 10341884756297;738.71;20;EUR;1;Epiphone SG Custom G-400 2010 - Ivory
+10431341461833;583.19;20;EUR;1;Epiphone Sheraton 2024 - Sunburst
 10008564433225;539.99;20;EUR;1;Epiphone Sheraton-II 2008 - Natural
 10111327306057;396.35;20;EUR;1;Epiphone Special II Limited Edition 2004 - Skull
 10405130469705;777.59;20;EUR;1;Epiphone Thunderbird T-Bird Pro 2010 - Ebony
@@ -148,9 +149,11 @@ product_code;price_gross;vat;currency;stock;name
 9937240293705;3110.39;20;EUR;1;ESP E-II Eclipse - Tobacco Burst
 10057509863753;1737.71;20;EUR;1;ESP FA-II Flying A „The Alfee“ - White
 10141863051593;1229.03;20;EUR;1;ESP Flying A The Alfee 1990 - White - Vintage Japan
+10432876183881;2915.99;20;EUR;1;ESP Japan Custom Shop Viper 2009 - Cherry Red
 10419748274505;874.79;20;EUR;1;ESP LTD Deluxe 2011 - Matte Black
 10403322003785;971.99;20;EUR;1;ESP LTD Deluxe Viper-1000 2019 - Quilt Maple Tiger Eye Sunburst
 10398933090633;874.79;20;EUR;1;ESP LTD EC-01FT Deluxe 2024 - Black
+10432857604425;777.59;20;EUR;1;ESP LTD EC-401 2022 - See Thru Black Cherry Satin
 10405074534729;971.99;20;EUR;1;ESP LTD EX-401 2020 - Snow White
 10136402493769;1141.55;20;EUR;1;ESP LTD GL-200K George Lynch Signature 2012 - Kamikaze
 9731335651657;701.99;20;EUR;1;ESP Stratocaster 1998 - signed by Paul Gilbert
@@ -220,9 +223,9 @@ product_code;price_gross;vat;currency;stock;name
 10263472177481;46.43;20;EUR;1;Faber ESWKIT-GG Bridge Adapter, Gold Glossy
 10263472210249;29.15;20;EUR;1;Faber ESWKIT-NA Bridge Adapter, Nickel Aged
 10263472275785;26.99;20;EUR;1;Faber ESWKIT-NG Bridge Adapter, Nickel Gloss
-10263149412681;646.91;20;EUR;1;Faber FA130S-BLR-HSS Stratocaster – Blonde
-10263161241929;646.91;20;EUR;1;Faber FA130S-CHM-HSS Stratocaster – Dark Cherry Sunburst
-10263169728841;646.91;20;EUR;1;Faber FA130S-VFM-HSS Stratocaster – Violin Finish
+10263149412681;615.59;20;EUR;1;Faber FA130S-BLR-HSS Stratocaster – Blonde
+10263161241929;615.59;20;EUR;1;Faber FA130S-CHM-HSS Stratocaster – Dark Cherry Sunburst
+10263169728841;615.59;20;EUR;1;Faber FA130S-VFM-HSS Stratocaster – Violin Finish
 10263270785353;72.35;20;EUR;1;Faber FKT33BB-NA Faber Kluson style tuners, 3+3, bolt bushing, nickel aged
 10263270818121;46.43;20;EUR;1;Faber FKT33BB-NG Faber Kluson style tuners, 3+3, bolt bushing, nickel glossy
 10263270850889;99.35;20;EUR;1;Faber FKT33SBT-GA Faber Kluson style tuners, tulip knob, 3+3, separate bushing, gold aged
@@ -247,7 +250,7 @@ product_code;price_gross;vat;currency;stock;name
 10263472013641;45.35;20;EUR;1;Faber iNsert-MGG Faber iNsert = Nashville to '59 ABR converter studs, 7mm/4mm, BRASS, gold plated, gloss
 10263472046409;31.31;20;EUR;1;Faber iNsert-MNA Faber iNsert = Nashville to '59 ABR converter studs, 7mm/4mm, BRASS, nickel plated, aged
 10263472079177;29.15;20;EUR;1;Faber iNsert-MNG Faber iNsert = Nashville to '59 ABR converter studs, 7mm/4mm, BRASS, nickel plated, glossy
-10277464113481;646.91;20;EUR;1;Faber Les Paul Revival Model - Aged Sunburst
+10277464113481;615.59;20;EUR;1;Faber Les Paul Revival Model - Aged Sunburst
 9971870826825;215.99;20;EUR;1;Faber MasterKit Premium – Gibson ABR-1 – Nickel Aged
 9972770570569;215.99;20;EUR;1;Faber MasterKit Premium – Gibson ABR-1 – Nickel Gloss
 9972765950281;215.99;20;EUR;1;Faber MasterKit Premium – Metric (Epiphone & Asian) – Nickel Aged
@@ -263,8 +266,8 @@ product_code;price_gross;vat;currency;stock;name
 10263472931145;37.79;20;EUR;1;Faber NSWKIT-MGG Bridge Adapter, 5mm base/4mm stud, Gold Glossy
 10263472963913;26.99;20;EUR;1;Faber NSWKIT-MNA Bridge Adapter, 5mm base/4mm stud, Nickel Aged
 10263472996681;24.83;20;EUR;1;Faber NSWKIT-MNG Bridge Adapter, 5mm base/4mm stud, Nickel Gloss
-10263216554313;184.67;20;EUR;1;Faber PBC BB Precision Bass – Black
-10263074734409;184.67;20;EUR;1;Faber PBC YSR Precision Bass – Sunburst
+10263216554313;176.03;20;EUR;1;Faber PBC BB Precision Bass – Black
+10263074734409;176.03;20;EUR;1;Faber PBC YSR Precision Bass – Sunburst
 10263475650889;145.79;20;EUR;1;Faber PUPCG-BGG Faber Pickup Concerto grosso -Bridge- Classic '59 PAF -hand wound- Germany, Cover gold plated
 10263475552585;145.79;20;EUR;1;Faber PUPCG-NGG Faber Pickup Concerto grosso -Neck- Classic '59 PAF -hand wound- Germany, Cover gold plated
 10263475519817;132.83;20;EUR;1;Faber PUPCG-NNG Faber Pickup Concerto grosso -Neck- Classic '59 PAF -hand wound- Germany, Cover nickel plated
@@ -312,14 +315,14 @@ product_code;price_gross;vat;currency;stock;name
 10263474733385;23.75;20;EUR;1;Faber ST-XL MGG Faber 4mm '59 ABR Studs, BRASS, gold, glossy, XL-38mm length
 10263474864457;18.35;20;EUR;1;"Faber ST-XL MNA Faber 4mmm '59 ABR Studs, BRASS, aged, XL-38mm"" length"
 10263474962761;17.27;20;EUR;1;Faber ST-XL MNG Faber 4mm '59 ABR Studs, BRASS, glossy, XL- 38mm length
-10263213900105;184.67;20;EUR;1;Faber STC BB Stratocaster – Black
-10263090561353;184.67;20;EUR;1;Faber STC RED Stratocaster – Red
-10263082238281;184.67;20;EUR;1;Faber STC VWRH Stratocaster HSS – Vintage White
-10263100326217;184.67;20;EUR;1;Faber STC YSR Stratocaster – Sunburst
-10263105864009;323.99;20;EUR;1;Faber STCH VY Stratocaster – Vintage Yellow
-10263110680905;323.99;20;EUR;1;Faber STCH YS Stratocaster – Sunburst
-10263113695561;139.31;20;EUR;1;Faber STCL BB Stratocaster HSS – Black
-10263119331657;139.31;20;EUR;1;Faber STCL RED Stratocaster HSS – Red
+10263213900105;176.03;20;EUR;1;Faber STC BB Stratocaster – Black
+10263090561353;176.03;20;EUR;1;Faber STC RED Stratocaster – Red
+10263082238281;176.03;20;EUR;1;Faber STC VWRH Stratocaster HSS – Vintage White
+10263100326217;176.03;20;EUR;1;Faber STC YSR Stratocaster – Sunburst
+10263105864009;307.79;20;EUR;1;Faber STCH VY Stratocaster – Vintage Yellow
+10263110680905;307.79;20;EUR;1;Faber STCH YS Stratocaster – Sunburst
+10263113695561;132.83;20;EUR;1;Faber STCL BB Stratocaster HSS – Black
+10263119331657;132.83;20;EUR;1;Faber STCL RED Stratocaster HSS – Red
 10263291920713;75.59;20;EUR;1;Faber TBWC-59 P-BR Faber Vintage Spec PURE ALU Compensated Wraparound Tailpiece, unplated, Intonationsleiste: Messing
 10263291560265;105.83;20;EUR;1;Faber TBWC-59GA-BL Faber Vintage Spec ALU Compensated Wraparound Tailpiece, Gold, aged, Intonationsleiste: Messing, Linkshand
 10263291789641;105.83;20;EUR;1;Faber TBWC-59GA-BR Faber Vintage Spec ALU Compensated Wraparound Tailpiece, Gold, aged, Intonationsleiste: Messing
@@ -336,9 +339,8 @@ product_code;price_gross;vat;currency;stock;name
 10263291756873;85.31;20;EUR;1;Faber TBWC-59NA-TR Faber Vintage Spec ALU Compensated Wraparound Tailpiece, Nickel, aged, Intonationsleiste: Titan
 10263291724105;66.95;20;EUR;1;Faber TBWC-59NG-BL Faber Vintage Spec ALU Compensated Wraparound Tailpiece, Nickel, gloss, Intonationsleiste: Messing, Linkshand
 10263291887945;66.95;20;EUR;1;Faber TBWC-59NG-BR Faber Vintage Spec ALU Compensated Wraparound Tailpiece, Nickel, gloss, Intonationsleiste: Messing
-10263121527113;184.67;20;EUR;1;Faber TEC BB Telecaster – Black
-10263136010569;184.67;20;EUR;1;Faber TEC MRR Telecaster – Metallic Red
-10263147807049;323.99;20;EUR;1;Faber TECH Blonde Telecaster – See Through Blonde
+10263121527113;176.03;20;EUR;1;Faber TEC BB Telecaster – Black
+10263136010569;176.03;20;EUR;1;Faber TEC MRR Telecaster – Metallic Red
 10263470473545;38.87;20;EUR;1;Faber TL-IGA Faber Tone-Lock Kit, 2 Schraubbolzen (Inch Gewinde-thread f. Gibson) + 3 Paar Distanzhülsen, aged
 10263470506313;35.63;20;EUR;1;Faber TL-IGG Faber Tone-Lock Kit, 2 Schraubbolzen (Inch Gewinde-thread f. Gibson) + 3 Paar Distanzhülsen, glossy
 10263470539081;36.71;20;EUR;1;Faber TL-INA Faber Tone-Lock Kit, 2 Schraubbolzen (Inch Gewinde-thread f. Gibson) + 3 Paar Distanzhülsen, aged
@@ -405,7 +407,6 @@ product_code;price_gross;vat;currency;stock;name
 10263292084553;132.83;20;EUR;1;Faber WRAPT-NA Faber Wraptonate, Intonatable Stoptail Bridge, Aged Nickel
 10263292117321;120.95;20;EUR;1;Faber WRAPT-NG Faber Wraptonate, Intonatable Stoptail Bridge, Gloss Nickel
 10067502203209;2309.03;20;EUR;1;Fender 54’ Reissue American Stratocaster 40th Anniversary 1994 - Sunburst
-10349666533705;1200.95;20;EUR;1;Fender American Highway One Stratocaster HSS 2010 - Sunburst
 10316908003657;1200.95;20;EUR;1;Fender American Jazz Bass Standard 2003 - Sunburst
 10357272183113;1385.63;20;EUR;1;Fender American Professional II Stratocaster 2022 - Miami Blue
 10391403462985;1263.59;20;EUR;1;Fender American Professional Stratocaster HSS Shawbucker 2019 - Sunburst
@@ -495,6 +496,8 @@ product_code;price_gross;vat;currency;stock;name
 10403373580617;874.79;20;EUR;1;Fender Japan ST-362 Stratocaster 1993-1994 - Black
 10403380953417;874.79;20;EUR;1;Fender Japan ST-362 Stratocaster 1993-1994 - Black
 10379443962185;874.79;20;EUR;1;Fender Japan ST-362 Stratocaster 1993-1994 - Fiesta Red
+10431437734217;874.79;20;EUR;1;Fender Japan ST-362 Stratocaster 1993-1994 - Sunburst
+10432911016265;874.79;20;EUR;1;Fender Japan ST-43J Stratocaster 1993-1994 - Sunburst
 10415766405449;777.59;20;EUR;1;Fender Japan ST-STD Stratocaster 1994-1995 - Black
 10391413162313;874.79;20;EUR;1;Fender Japan ST-STD Stratocaster 1994-1995 - Candy Apple Red
 10388033274185;874.79;20;EUR;1;Fender Japan ST-STD Stratocaster 2007-2008 - Black
@@ -510,10 +513,12 @@ product_code;price_gross;vat;currency;stock;name
 10398968774985;242.99;20;EUR;1;Fender Japan Stratocaster Body - Red Repaint
 10330881327433;242.99;20;EUR;1;Fender Japan Stratocaster Body - Sunburst
 10364991603017;1166.39;20;EUR;1;Fender Japan TC-72 Reissue Telecaster Custom 1997-2000 - Black
+10431309644105;971.99;20;EUR;1;Fender Japan TC-72EX 72 Reissue Telecaster Custom 1997-1998 - Black
 10330880508233;242.99;20;EUR;1;Fender Japan Telecaster Body - Black
 10330880901449;242.99;20;EUR;1;Fender Japan Telecaster Body - Black
 10330881098057;242.99;20;EUR;1;Fender Japan Telecaster Body - Blue
 10349643923785;242.99;20;EUR;1;Fender Japan Telecaster Body - Red Repaint
+10431392514377;1166.39;20;EUR;1;Fender Japan Telecaster Custom 1995-1996 - Black
 10391415980361;874.79;20;EUR;1;Fender Japan TL-40 Telecaster 1993-1994 - Candy Apple Red
 10305790804297;242.99;20;EUR;1;Fender Japan TL-STD Telecaster Body - Black
 10398970970441;242.99;20;EUR;1;Fender Japan TL-STD Telecaster Body - Black
@@ -588,6 +593,7 @@ product_code;price_gross;vat;currency;stock;name
 10316904857929;1846.79;20;EUR;1;Gibson Flying V HP High Performance 2016 - Ebony
 10131764445513;831.59;20;EUR;1;Gibson Flying V Melody Maker 2011 - Ebony
 10381514277193;1749.59;20;EUR;1;Gibson J-45 Deluxe 1982 - Vintage Sunburst
+10431445074249;1749.59;20;EUR;1;Gibson Les Paul Classic 2014 - Ebony
 10228063895881;1580.03;20;EUR;1;Gibson Les Paul Classic 2015 - Vintage Sunburst
 10427668627785;1749.59;20;EUR;1;Gibson Les Paul Classic 2017 2017 - Tobacco Sunburst
 10329359909193;3232.43;20;EUR;1;Gibson Les Paul Custom Lite 1989 - Heritage Cherry Sunburst
@@ -689,6 +695,7 @@ product_code;price_gross;vat;currency;stock;name
 10175560155465;104.97;20;EUR;1;Guyatone PS-038 Bass Exciter/Limiter B-II 1986 Effect Pedal - Vintage Japan
 10176892305737;131.21;20;EUR;1;Guyatone PS-104 Cross Over Auto Wah Effect Pedal 1980 - Vintage Japan
 10117754880329;396.35;20;EUR;1;Hagstrom Ultra Swede 2008 - Red Burst
+10431405719881;583.19;20;EUR;1;Hagstrom Ultra Swede 2013 - Black Gloss
 10405098488137;291.59;20;EUR;1;Harley Benton Hybrid Telecaster - Black
 10240953811273;777.59;20;EUR;1;Höfner 173 - Vinyl White
 10255402762569;527.03;20;EUR;1;Höfner Colorama Classic - Cherry Red
@@ -721,6 +728,7 @@ product_code;price_gross;vat;currency;stock;name
 9961964634441;305.63;20;EUR;1;Ibanez RG421 2022 - Natural
 10421921939785;485.99;20;EUR;1;Ibanez RG450AH 1999 - Silver
 10330899743049;923.39;20;EUR;1;Ibanez RG550 1999 - Road Flare Red
+10432862257481;777.59;20;EUR;1;Ibanez RG60ALS 2021 - Purple Doom Burst Matte
 10277170184521;831.59;20;EUR;1;Ibanez RG670 1993 - Root Beer
 10366769758537;777.59;20;EUR;1;Ibanez RGDIX7MPB Iron Label 2018 - Surreal Blue Burst
 10249387966793;215.99;20;EUR;1;Ibanez SD9 Sonic Distortion Effect Pedal
@@ -847,6 +855,7 @@ product_code;price_gross;vat;currency;stock;name
 10381453885769;583.19;20;EUR;1;Squier by Fender Korea Stratocaster 1991 - Black
 10392617386313;971.99;20;EUR;1;Squier by Fender Vista Series Jagmaster 1997-1998 - Sea Foam Green Repaint
 10136413798729;656.63;20;EUR;1;Squier Hello Kitty Edition Mini Stratocaster 2006 - Pink
+10432886145353;874.79;20;EUR;1;Squier Japan JV Stratocaster 1982 - Vintage White
 10315851202889;738.71;20;EUR;1;Squier Japan Stratocaster 1983-1984 - Vintage White
 10330881622345;646.91;20;EUR;1;Squier Japan Stratocaster Contemporary Series 1985-1986 - Black
 10330878509385;194.39;20;EUR;1;Squier Telecaster Body - Sunburst
@@ -892,7 +901,6 @@ product_code;price_gross;vat;currency;stock;name
 10357047558473;923.39;20;EUR;1;Warwick Corvette $$ Bass 2011 - Natural
 10292790264137;2031.47;20;EUR;1;Warwick Corvette $$ Double Buck Bass 2011 - Turquoise Blue Oil Finish
 9997843038537;777.59;20;EUR;1;Warwick Infinity RockBass 2018 - Natural
-10421644788041;680.39;20;EUR;1;Washburn Nuno Bettencourt Signature 2024 - Natural
 10421858468169;680.39;20;EUR;1;Westone Japan Spectrum ST Matsumoku 1985 - White
 10381541015881;680.39;20;EUR;1;Yamaha AES620 Les Paul 2010 - Amber Flame Maple
 10305797751113;145.79;20;EUR;1;Yamaha AMD-100 American Monster Drive Effektpedal - Japan
@@ -939,6 +947,7 @@ product_code;price_gross;vat;currency;stock;name
 10175597969737;104.97;20;EUR;1;Yamaha OD-100 Over Drive Effect Pedal - Vintage Japan
 10176914424137;104.97;20;EUR;1;Yamaha OD-100 Over Drive Effect Pedal - Vintage Japan
 10381534101833;680.39;20;EUR;1;Yamaha Pacifica 612V 2013 - Orange Flame Maple
+10431357649225;680.39;20;EUR;1;Yamaha Pacifica PAC611VFM 2013 - Caramel Brown
 10381540032841;485.99;20;EUR;1;Yamaha RTS102 1991 - White
 10303849627977;738.71;20;EUR;1;Yamaha SF3000 1983 - Cherry Sunburst - Vintage Japan
 10381537182025;680.39;20;EUR;1;Yamaha SL380 Studio Lord Les Paul 1978 - Cherry Sunburst
