@@ -319,7 +319,6 @@ product_code;price_gross;vat;currency;stock;name
 10263100326217;176.03;20;EUR;1;Faber STC YSR Stratocaster – Sunburst
 10263105864009;307.79;20;EUR;1;Faber STCH VY Stratocaster – Vintage Yellow
 10263110680905;307.79;20;EUR;1;Faber STCH YS Stratocaster – Sunburst
-10263113695561;126.35;20;EUR;1;Faber STCL BB Stratocaster HSS – Black
 10263119331657;132.83;20;EUR;1;Faber STCL RED Stratocaster HSS – Red
 10263291920713;75.59;20;EUR;1;Faber TBWC-59 P-BR Faber Vintage Spec PURE ALU Compensated Wraparound Tailpiece, unplated, Intonationsleiste: Messing
 10263291560265;105.83;20;EUR;1;Faber TBWC-59GA-BL Faber Vintage Spec ALU Compensated Wraparound Tailpiece, Gold, aged, Intonationsleiste: Messing, Linkshand
@@ -456,7 +455,6 @@ product_code;price_gross;vat;currency;stock;name
 10387876446537;874.79;20;EUR;1;Fender Japan 62 Reissue Stratocaster 1993-1994 - Vintage White
 10330905641289;1200.95;20;EUR;1;Fender Japan 66 Reissue Jaguar 1997-2000 - Blue Repaint
 10329392546121;1385.63;20;EUR;1;Fender Japan 66 Reissue Jaguar 1997-2000 - Candy Apple Red - Matching Headstock
-10358272393545;1292.75;20;EUR;1;Fender Japan 66 Reissue Jaguar 2002-2004 - Candy Apple Red - Matching Headstock
 10357114896713;1200.95;20;EUR;1;Fender Japan 66 Reissue Mustang 1993-1994 - Vintage White
 10365854581065;1200.95;20;EUR;1;Fender Japan 66 Reissue Mustang 1999-2002 - Vintage White
 10016150716745;1197.71;20;EUR;1;Fender Japan 66’ Reissue Jaguar 2004-2005 - Sunburst
@@ -487,7 +485,6 @@ product_code;price_gross;vat;currency;stock;name
 10392508662089;874.79;20;EUR;1;Fender Japan PB-38 Precision Bass 1993-1994 - Black
 10328355209545;831.59;20;EUR;1;Fender Japan PB-43 Precision Bass 2004-2005 - Sunburst
 10415953740105;874.79;20;EUR;1;Fender Japan PJR-65R Jazz Bass Special 1986-1987 - Black
-10423188095305;874.79;20;EUR;1;Fender Japan Precision / Jazz Bass 1993-1994 - Candy Apple Red
 10236596388169;439.55;20;EUR;1;Fender Japan SF-456 Stratocaster 1984-1987 - Black
 10413015531849;874.79;20;EUR;1;Fender Japan ST-36 Stratocaster 1993-1994 - Sunburst
 10403373580617;874.79;20;EUR;1;Fender Japan ST-362 Stratocaster 1993-1994 - Black
@@ -557,6 +554,7 @@ product_code;price_gross;vat;currency;stock;name
 10092544688457;498.95;20;EUR;1;Fender Telecoustic 2000 - Candy Apple Red
 10136243863881;554.03;20;EUR;1;Fender Telecoustic 2014 - Flame Maple Sunburst
 10435605102921;2429.99;20;EUR;1;Fender USA Jazz Bass 1976 - Red Repaint
+10381668024649;971.99;20;EUR;1;Fender USA Lead II 1980 - Red
 10358238773577;1662.11;20;EUR;1;Fender USA Mustang 1978 - Olympic White
 10023442415945;6317.99;20;EUR;1;Fender USA Telecaster 1968 - Natural
 10236651274569;878.03;20;EUR;1;Fender Vintera 60s Jaguar 2022 - Sunburst
@@ -600,7 +598,6 @@ product_code;price_gross;vat;currency;stock;name
 10381514277193;1749.59;20;EUR;1;Gibson J-45 Deluxe 1982 - Vintage Sunburst
 10435298066761;1749.59;20;EUR;1;Gibson Les Paul Classic 2012 - Ebony
 10431445074249;1749.59;20;EUR;1;Gibson Les Paul Classic 2014 - Ebony
-10228063895881;1580.03;20;EUR;1;Gibson Les Paul Classic 2015 - Vintage Sunburst
 10427668627785;1749.59;20;EUR;1;Gibson Les Paul Classic 2017 2017 - Tobacco Sunburst
 10329359909193;3232.43;20;EUR;1;Gibson Les Paul Custom Lite 1989 - Heritage Cherry Sunburst
 10033181557065;2132.99;20;EUR;1;Gibson Les Paul Custom Shop 1998 - Catalina Red
@@ -619,7 +616,6 @@ product_code;price_gross;vat;currency;stock;name
 10358275801417;1108.07;20;EUR;1;Gibson Les Paul Studio 1999 - Ebony
 10357046837577;923.39;20;EUR;1;Gibson Les Paul Studio 2011 - Natural
 10366192091465;1108.07;20;EUR;1;Gibson Les Paul Studio Faded 2016 - Satin Ebony
-10357388476745;1200.95;20;EUR;1;Gibson Les Paul Studio Thin Body 1995 - Ebony
 10231537336649;2456.99;20;EUR;1;Gibson Les Paul Supreme 2023 -  Wine Red
 10294231204169;1939.67;20;EUR;1;Gibson Les Paul Traditional 1960 2012 - Satin Honey Burst
 10404829495625;1943.99;20;EUR;1;Gibson Les Paul Traditional 2012 - Goldtop
@@ -701,7 +697,6 @@ product_code;price_gross;vat;currency;stock;name
 10117754880329;396.35;20;EUR;1;Hagstrom Ultra Swede 2008 - Red Burst
 10431405719881;583.19;20;EUR;1;Hagstrom Ultra Swede 2013 - Black Gloss
 10405098488137;291.59;20;EUR;1;Harley Benton Hybrid Telecaster - Black
-10435282141513;1069.19;20;EUR;1;Harmony Jupiter 2021 - Pearl White
 10240953811273;777.59;20;EUR;1;Höfner 173 - Vinyl White
 10255402762569;527.03;20;EUR;1;Höfner Colorama Classic - Cherry Red
 9914113950025;701.99;20;EUR;1;Höfner Super Solid 173 - Vinyl White
@@ -727,7 +722,6 @@ product_code;price_gross;vat;currency;stock;name
 10216688189769;1403.99;20;EUR;1;Ibanez Performer PF350 1979 - Cherry Red
 10199103570249;1316.51;20;EUR;1;Ibanez PF350BK Performer 1994 - Black
 10125900349769;631.79;20;EUR;1;Ibanez Pre Lawsuit 2375 Stratocaster 1970s - Sunburst
-10435626434889;1846.79;20;EUR;1;Ibanez PS10 Paul Stanley Signature 1978 - Black
 9766982713673;289.43;20;EUR;1;Ibanez RG Standard 2021 - Red
 10176865239369;878.03;20;EUR;1;Ibanez RG410 Roadstar II Series 1986 - Black
 9961964634441;305.63;20;EUR;1;Ibanez RG421 2022 - Natural
