@@ -31,7 +31,6 @@ product_code;price_gross;vat;currency;stock;name
 10305861648713;145.79;20;EUR;1;Boss CE-3 Chorus Effektpedal - Japan
 10305868071241;145.79;20;EUR;1;Boss CE-3 Chorus Effektpedal - Japan
 10305838547273;116.63;20;EUR;1;Boss CS-3 Compression Sustainer Effektpedal - Japan
-10305870790985;136.07;20;EUR;1;Boss DD-3 Digital Delay Effektpedal - Japan
 10305799258441;97.19;20;EUR;1;Boss DS-1 Distortion Effektpedal - Taiwan
 10305860436297;97.19;20;EUR;1;Boss DS-1 Distortion Effektpedal - Taiwan
 10305876656457;77.75;20;EUR;1;Boss FV-50 L Effektpedal
@@ -319,7 +318,6 @@ product_code;price_gross;vat;currency;stock;name
 10263100326217;176.03;20;EUR;1;Faber STC YSR Stratocaster – Sunburst
 10263105864009;307.79;20;EUR;1;Faber STCH VY Stratocaster – Vintage Yellow
 10263110680905;307.79;20;EUR;1;Faber STCH YS Stratocaster – Sunburst
-10263119331657;132.83;20;EUR;1;Faber STCL RED Stratocaster HSS – Red
 10263291920713;75.59;20;EUR;1;Faber TBWC-59 P-BR Faber Vintage Spec PURE ALU Compensated Wraparound Tailpiece, unplated, Intonationsleiste: Messing
 10263291560265;105.83;20;EUR;1;Faber TBWC-59GA-BL Faber Vintage Spec ALU Compensated Wraparound Tailpiece, Gold, aged, Intonationsleiste: Messing, Linkshand
 10263291789641;105.83;20;EUR;1;Faber TBWC-59GA-BR Faber Vintage Spec ALU Compensated Wraparound Tailpiece, Gold, aged, Intonationsleiste: Messing
@@ -407,7 +405,6 @@ product_code;price_gross;vat;currency;stock;name
 10316908003657;1200.95;20;EUR;1;Fender American Jazz Bass Standard 2003 - Sunburst
 10357272183113;1385.63;20;EUR;1;Fender American Professional II Stratocaster 2022 - Miami Blue
 10391403462985;1263.59;20;EUR;1;Fender American Professional Stratocaster HSS Shawbucker 2019 - Sunburst
-10404776837449;1457.99;20;EUR;1;Fender American Special Edition Stratocaster 1993 - Frost Red
 10392856199497;1263.59;20;EUR;1;Fender American Special Jazz Bass 2010 - Sunburst
 10390692102473;1263.59;20;EUR;1;Fender American Standard Stratocaster 1993 - Lipstick Red
 10381580697929;1166.39;20;EUR;1;Fender American Standard Stratocaster 1997 - Black
@@ -588,7 +585,6 @@ product_code;price_gross;vat;currency;stock;name
 10358278979913;3693.59;20;EUR;1;Gibson Custom Shop ES-335 2012 - Cherry Red
 10390661529929;3110.39;20;EUR;1;Gibson Custom Shop Historic Collection 1957 Les Paul Junior VOS 2007 - TV Yellow
 10358274851145;2400.83;20;EUR;1;Gibson ES-335 2004 - Iced Tea Sunburst
-10357931409737;2770.19;20;EUR;1;Gibson ES-335 2023 - Vintage Sunburst
 10415934243145;3401.99;20;EUR;1;Gibson ES-390TDL 2015 - Cherry Red
 10435300655433;1943.99;20;EUR;1;Gibson Explorer 2009 - Cherry
 10413158170953;3110.39;20;EUR;1;Gibson Firebird V 1990 - Sunburst
@@ -745,7 +741,6 @@ product_code;price_gross;vat;currency;stock;name
 10108742631753;158.75;20;EUR;1;Keiper Shortscale Stratocaster Junior - Black
 10421904769353;680.39;20;EUR;1;Klira Triumphator 1960s - Red
 10421895135561;680.39;20;EUR;1;Kramer Japan EVH Style 1980s - Red Stripes
-10169733742921;658.79;20;EUR;1;Kramer LK-1 1980s - Black
 9961956573513;305.63;20;EUR;1;Kramer Striker 2022 - Trans Purple
 10220496060745;1943.99;20;EUR;1;Lake Placid Custom by Andre Waldenmaier HSS Floyd Rose 1995 - See Thru Green
 10365219602761;155.51;20;EUR;1;LPD Pedals Sixty8 Overdrive Effect Pedal
@@ -906,7 +901,6 @@ product_code;price_gross;vat;currency;stock;name
 10305801814345;97.19;20;EUR;1;Yamaha DI-10M Distortion Effektpedal
 10305843102025;126.35;20;EUR;1;Yamaha DM-100 Distortion with Modulation Effektpedal
 10305816723785;116.63;20;EUR;1;Yamaha FL-100 Flanger Effektpedal
-10315854348617;738.71;20;EUR;1;Yamaha Japan 500S Super Bass 1977 - Black
 10435252617545;874.79;20;EUR;1;Yamaha Japan Les Paul SL500S Studio Lord 1977-1979 - Tobacco Sunburst
 10365883842889;646.91;20;EUR;1;Yamaha Japan MG-III 1979 - Black
 10403398058313;680.39;20;EUR;1;Yamaha Japan MG-IIR 1990 - Black
