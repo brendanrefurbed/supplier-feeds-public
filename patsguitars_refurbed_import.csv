@@ -55,7 +55,6 @@ product_code;price_gross;vat;currency;stock;name
 10115783328073;475.19;20;EUR;1;Burny LG-480 Les Paul - Metallic
 9937288266057;808.91;20;EUR;1;Burny LG-75R Les Paul - Honey Burst
 10249127559497;834.83;20;EUR;1;Burny RLC Les Paul Custom - Ebony
-10216698052937;658.79;20;EUR;1;Burny Super Grade Les Paul 1999 - Cherry Sunburst
 9997871579465;1166.39;20;EUR;1;Burny Super Grade Les Paul RLG-58 1998 - Cherry Sunburst
 10111503794505;396.35;20;EUR;1;Burny Super Grade Les Paul Standard - Cherry Sunburst
 10067497255241;1943.99;20;EUR;1;Carvin USA AE185 Thinline Tele - Purple
@@ -404,7 +403,6 @@ product_code;price_gross;vat;currency;stock;name
 10067502203209;2309.03;20;EUR;1;Fender 54’ Reissue American Stratocaster 40th Anniversary 1994 - Sunburst
 10316908003657;1200.95;20;EUR;1;Fender American Jazz Bass Standard 2003 - Sunburst
 10357272183113;1385.63;20;EUR;1;Fender American Professional II Stratocaster 2022 - Miami Blue
-10391403462985;1263.59;20;EUR;1;Fender American Professional Stratocaster HSS Shawbucker 2019 - Sunburst
 10392856199497;1263.59;20;EUR;1;Fender American Special Jazz Bass 2010 - Sunburst
 10390692102473;1263.59;20;EUR;1;Fender American Standard Stratocaster 1993 - Lipstick Red
 10381580697929;1166.39;20;EUR;1;Fender American Standard Stratocaster 1997 - Black
@@ -514,7 +512,6 @@ product_code;price_gross;vat;currency;stock;name
 10349643923785;242.99;20;EUR;1;Fender Japan Telecaster Body - Red Repaint
 10431392514377;1166.39;20;EUR;1;Fender Japan Telecaster Custom 1995-1996 - Black
 10391415980361;874.79;20;EUR;1;Fender Japan TL-40 Telecaster 1993-1994 - Candy Apple Red
-10435246948681;971.99;20;EUR;1;Fender Japan TL-71K 71 Reissue Telecaster 1993-1994 - Natural
 10305790804297;242.99;20;EUR;1;Fender Japan TL-STD Telecaster Body - Black
 10398970970441;242.99;20;EUR;1;Fender Japan TL-STD Telecaster Body - Black
 10398973460809;242.99;20;EUR;1;Fender Japan TL-STD Telecaster Body - Black
@@ -622,6 +619,7 @@ product_code;price_gross;vat;currency;stock;name
 10435600515401;1263.59;20;EUR;1;Gibson LPM Les Paul 2015 - Heritage Cherry
 10256705618249;1754.99;20;EUR;1;Gibson Melody Maker DC 1977 - Sunburst
 10379465457993;1457.99;20;EUR;1;Gibson Midtown Standard 2015 - Sunburst
+10357398765897;2721.59;20;EUR;1;Gibson SG Angus Young Signature 2001 - Heritage Cherry
 10404806820169;777.59;20;EUR;1;Gibson SG Special 1995 - Ferrari Red
 10091535728969;7775.99;20;EUR;1;Gibson Thunderbird II Bass 1964 – Alembic Custom 1976 – Tree of Life – Ember Red
 10367173001545;2770.19;20;EUR;1;Gibson Vegas High Roller 2006 - Felt Green
@@ -908,6 +906,7 @@ product_code;price_gross;vat;currency;stock;name
 10404901978441;680.39;20;EUR;1;Yamaha Japan MG-MIIG 1993 1983 - Neon Light Graphic
 10388096876873;680.39;20;EUR;1;Yamaha Japan Motion Bass MB-III 1990 - Red
 10403409658185;680.39;20;EUR;1;Yamaha Japan PB400R Precision Bass 1984 - Blue Burst
+10379471847753;777.59;20;EUR;1;Yamaha Japan Pulser Bass 400 1979 - Sunburst
 10392767889737;777.59;20;EUR;1;Yamaha Japan Pulser Precision Bass 400 1980 - Sunburst
 10381553434953;777.59;20;EUR;1;Yamaha Japan SA700 Super Axe 1978 - Cherry Red
 10400594788681;680.39;20;EUR;1;Yamaha Japan SC3000 1981 2004 - Natural
