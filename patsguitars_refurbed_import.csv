@@ -63,6 +63,7 @@ product_code;price_gross;vat;currency;stock;name
 10016103891273;375.83;20;EUR;1;Charvel by Jackson CDS 1994 - Black
 9759565021513;460.07;20;EUR;1;Charvel by Jackson HSS Superstrat 1989-1991 - Black
 10016042320201;524.87;20;EUR;1;Charvel by Jackson Superstrat - Red
+10442876059977;2915.99;20;EUR;1;Charvel CCS San Dimas SD FR 2023 - Candy Tangerine
 10419605963081;971.99;20;EUR;1;Charvel Pro Mod San Dimas Style 2018 - White
 10316909019465;923.39;20;EUR;1;Charvel Surfcaster 2005 - Black
 9948761719113;485.99;20;EUR;1;Cheri Telecaster Thinline - Sunburst
@@ -407,7 +408,6 @@ product_code;price_gross;vat;currency;stock;name
 9997845135689;2915.99;20;EUR;1;Fender American Stratocaster 1982 - Sunburst
 10379462148425;1263.59;20;EUR;1;Fender American Telecaster 1995 - Vintage White
 10349688226121;1846.79;20;EUR;1;Fender American Vintage 57 Reissue Stratocaster 1996 - Sunburst
-10435517120841;1943.99;20;EUR;1;Fender American Vintage Jazz Bass 1998 - Vintage White
 10366187307337;923.39;20;EUR;1;Fender Chilli Beans Moto Signature Mustang 2025 - Black
 10358268199241;923.39;20;EUR;1;Fender Classic Series 69 Reissue Telecaster Thinline 2002 - Black
 10413148373321;3110.39;20;EUR;1;Fender Custom Shop American Classic Stratocaster 1993 - Vintage White
@@ -526,6 +526,7 @@ product_code;price_gross;vat;currency;stock;name
 10442842243401;874.79;20;EUR;1;Fender Mexico Vintera II 50s Precision Bass 2023 - Black
 10338185642313;1200.95;20;EUR;1;Fender MJT 50s Reissue Stratocaster - Purple Metallic - Heavy Relic
 10442960896329;1360.79;20;EUR;1;Fender MJT 50s Reissue Stratocaster 1993-1994 - Black - Heavy Relic
+10442943693129;1360.79;20;EUR;1;Fender MJT 50s Reissue Telecaster - Surf Green
 10338197209417;1200.95;20;EUR;1;Fender MJT 60s Reissue Stratocaster - Burgundy Mist - Heavy Relic
 10338167488841;1200.95;20;EUR;1;Fender MJT 60s Reissue Stratocaster - Candy Apple Green - Heavy Relic
 10338198716745;1200.95;20;EUR;1;Fender MJT 60s Reissue Stratocaster - Inca Silver - Heavy Relic
@@ -560,13 +561,13 @@ product_code;price_gross;vat;currency;stock;name
 10419643023689;680.39;20;EUR;1;FGN Fujigen Japan J-Standard Jazz Bass 2009 - Candy Apple Red
 10398924308809;680.39;20;EUR;1;FGN Fujigen Japan J-Standard Jazz Bass 2011 - Candy Apple Red
 10395850834249;680.39;20;EUR;1;FGN Fujigen Japan J-Standard Jazz Bass 2012 2012 - Sunburst
+10448411361609;680.39;20;EUR;1;FGN Fujigen JJB-6R Bass 2018 - Black
 10256650568009;923.39;20;EUR;1;FGN Fujigen Les Paul Custom J-Standard 2012 - Ebony
 10392693080393;1263.59;20;EUR;1;FGN Japan Neo Classic NCLS-20R 2016 - Heritage Darkburst
 10421760721225;388.79;20;EUR;1;Fine Crystal Series Stratocaster - Acryl Red
 10381604487497;485.99;20;EUR;1;Flying V Painted Pickguard - Black
 10421889597769;680.39;20;EUR;1;Framus 5/37 1960 - Black
 10421852995913;777.59;20;EUR;1;Framus 5/70 S Akustik 1965 - Black Rose
-9781268087113;1023.83;20;EUR;1;Framus Diablo Custom 2002
 10033157669193;291.59;20;EUR;1;Framus FR 212 Speaker Cabinet
 10419548291401;971.99;20;EUR;1;Framus Hollywood Double Cat 2011 - Red Burst
 9903172682057;777.59;20;EUR;1;Framus Semi Hollow - Black
@@ -687,7 +688,6 @@ product_code;price_gross;vat;currency;stock;name
 10255402762569;527.03;20;EUR;1;Höfner Colorama Classic - Cherry Red
 9914113950025;701.99;20;EUR;1;Höfner Super Solid 173 - Vinyl White
 10386554519881;874.79;20;EUR;1;Hohner Professional L59 T 1992 - Antique Sunburst
-10357917483337;554.03;20;EUR;1;Hohner Professional SG Lion 1987
 10423182426441;583.19;20;EUR;1;Hondo Deluxe Mark II H935CHS - Sunburst
 10330872381769;145.79;20;EUR;1;Hot Cake Copy Overdrive Effektpedal
 10305800765769;97.19;20;EUR;1;Hush Rocktron Effektpedal
@@ -749,6 +749,7 @@ product_code;price_gross;vat;currency;stock;name
 10175545082185;122.46;20;EUR;1;Maxon SM-01 Super Metal Effect Pedal - Vintage Japan
 10199183327561;1316.51;20;EUR;1;Mesa Boogie Mini Rectifier Twenty Five - 100V - Japan Model
 9729058144585;874.79;20;EUR;1;Michael Kelly Custom Collection Patriot Instinct 2021 - Scorched
+10442975379785;1619.99;20;EUR;1;MJT VTS by Mark Jenny Heavy Relic USA Stratocaster 2026 2026 - Burnt Orange
 10240973799753;701.99;20;EUR;1;Mosrite Avenger - Cherry Red
 10169735709001;1754.99;20;EUR;1;Music Man Benji Madden Signature Silhouette Special 2005 - Madden Green
 10435567354185;1749.59;20;EUR;1;Music Man by Ernie Ball Sterling Bass 1994 - Black
@@ -779,7 +780,6 @@ product_code;price_gross;vat;currency;stock;name
 10240660406601;615.59;20;EUR;1;Ovation 1868 Elite 1998 - Sunburst
 9808825811273;1846.79;20;EUR;1;Ovation Deacon 12-String 1975-1980 - Sunburst
 10294171926857;1457.99;20;EUR;1;Ovation Double Neck - Defekt
-10315897635145;646.91;20;EUR;1;Ovation Elite 1868 - Tobacco Sunburst
 10294160130377;462.23;20;EUR;1;Ovation S771N Balladeer Special 2001 - Natural
 10062276100425;32.39;20;EUR;1;Pat’s Guitars Deluxe E-Gitarren Gigbag
 10367166185801;277.55;20;EUR;1;Peavey Generation EXP 2003-2005 - Sunburst
