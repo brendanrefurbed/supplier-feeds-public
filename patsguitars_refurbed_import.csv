@@ -404,6 +404,7 @@ product_code;price_gross;vat;currency;stock;name
 10216615838025;874.79;20;EUR;1;Fender American Stratocaster / Partcaster 2022 2022 - Vintage White
 10220182634825;2429.99;20;EUR;1;Fender American Stratocaster 1979 - Natural
 9997845135689;2915.99;20;EUR;1;Fender American Stratocaster 1982 - Sunburst
+10448328425801;874.79;20;EUR;1;Fender American Stratocaster Partcaster 2025 - Vintage White
 10379462148425;1263.59;20;EUR;1;Fender American Telecaster 1995 - Vintage White
 10349688226121;1846.79;20;EUR;1;Fender American Vintage 57 Reissue Stratocaster 1996 - Sunburst
 10366187307337;923.39;20;EUR;1;Fender Chilli Beans Moto Signature Mustang 2025 - Black
@@ -453,6 +454,7 @@ product_code;price_gross;vat;currency;stock;name
 10349677740361;923.39;20;EUR;1;Fender Japan 72 Reissue Stratocaster 1985-1986 - Vintage White
 10365818044745;923.39;20;EUR;1;Fender Japan 72 Reissue Stratocaster 1994-1997 - Vintage White
 10294053568841;923.39;20;EUR;1;Fender Japan 72 Reissue Stratocaster 1997-2000 - Vintage White
+10448395174217;1166.39;20;EUR;1;Fender Japan 72 Reissue Telecaster Custom 2004-2005 - Black
 10357313143113;1292.75;20;EUR;1;Fender Japan 72 Reissue Telecaster Custom 2010-2011 - White Blonde
 10349642154313;1200.95;20;EUR;1;Fender Japan 77 Reissue Mustang 2007-2010 - Black
 10329396969801;923.39;20;EUR;1;Fender Japan Aerodyne Stratocaster 2012 - Old Candy Red
@@ -547,10 +549,12 @@ product_code;price_gross;vat;currency;stock;name
 10023442415945;6317.99;20;EUR;1;Fender USA Telecaster 1968 - Natural
 10236651274569;878.03;20;EUR;1;Fender Vintera 60s Jaguar 2022 - Sunburst
 10390725067081;971.99;20;EUR;1;Fernandes Japan TE-95HT 1980 - Hotei Model
+10448332390729;680.39;20;EUR;1;Fernandes LE-1X Stratocaster 2003 - Sunburst
 10435612410185;680.39;20;EUR;1;Fernandes Limited Edition TEJ - Black
 10386326651209;485.99;20;EUR;1;Fernandes Precision Bass RPB-360  2008 - Red
 10216726659401;874.79;20;EUR;1;Fernandes Telecaster 1974 - Natural - Vintage Japan
 10392821334345;680.39;20;EUR;1;Fernandes The Function Flying V 2005 - Black
+10448429056329;680.39;20;EUR;1;Fernandes The Function SSH40 1988-1992 - Blue Burst
 10381458112841;680.39;20;EUR;1;FGN Fujigen Japan J-Classic Jazz Bass 2018 - Sunburst
 10357252686153;646.91;20;EUR;1;FGN Fujigen Japan J-Classic Stratocaster 2015 - Sunburst
 10193134256457;831.59;20;EUR;1;FGN Fujigen Japan J-Standard HSS 2020
@@ -680,6 +684,7 @@ product_code;price_gross;vat;currency;stock;name
 10431405719881;583.19;20;EUR;1;Hagstrom Pat Smear Signature 2013 - Black Gloss
 10117754880329;396.35;20;EUR;1;Hagstrom Ultra Swede 2008 - Red Burst
 10405098488137;291.59;20;EUR;1;Harley Benton Hybrid Telecaster - Black
+10442833035593;874.79;20;EUR;1;History Japan CV-SV/R Stratocaster 2020 - Shell Pink
 10240953811273;777.59;20;EUR;1;Höfner 173 - Vinyl White
 10255402762569;527.03;20;EUR;1;Höfner Colorama Classic - Cherry Red
 9914113950025;701.99;20;EUR;1;Höfner Super Solid 173 - Vinyl White
@@ -695,6 +700,7 @@ product_code;price_gross;vat;currency;stock;name
 9808930505033;833.36;20;EUR;1;Ibanez EKM10T-WRD-12-01 2014 - Wine Red
 10404949655881;680.39;20;EUR;1;Ibanez Ergodyne EDA905 5 String Bass 2001 - Titanium Silver
 9903021883721;369.35;20;EUR;1;Ibanez EX Series EX170L Lefthand 1993 - Black
+10448287859017;1457.99;20;EUR;1;Ibanez FTM33 2018 - Weathered Black
 10421723201865;194.39;20;EUR;1;Ibanez GRG121DX 2015 - Blue Burst
 10249198829897;1263.59;20;EUR;1;Ibanez Iceman ICT700 2008 - Black
 10403455861065;583.19;20;EUR;1;Ibanez Japan SDGR SR-530 Bass 1990 - Black
@@ -752,7 +758,6 @@ product_code;price_gross;vat;currency;stock;name
 10381561200969;1846.79;20;EUR;1;Music Man by Ernie Ball StingRay 3 EQ Bass 2002 - Black
 10421752234313;1263.59;20;EUR;1;Music Man by Ernie Ball StingRay EX Bass 1999 - White
 10435501883721;1555.19;20;EUR;1;Music Man by Ernie Ball StingRay EX Bass 2000 - Black
-10349649592649;1385.63;20;EUR;1;Music Man by Ernie Ball StingRay EX Bass 2001 - Black
 10435613491529;1555.19;20;EUR;1;Music Man by Ernie Ball StingRay EX Bass 2001 - Black
 10391502586185;1555.19;20;EUR;1;Music Man Ernie Ball StingRay EX Bass 2000 - Black Sparkle
 10405006836041;2429.99;20;EUR;1;Music Man John Petrucci Signature JP6 Limited 2007 - Blue Dawn
@@ -774,6 +779,8 @@ product_code;price_gross;vat;currency;stock;name
 10349685702985;554.03;20;EUR;1;Ovation 1627 Glen Campbell Artist - Natural
 10249212526921;615.59;20;EUR;1;Ovation 1627 Glen Campbell Artist 1981 - Natural
 10240660406601;615.59;20;EUR;1;Ovation 1868 Elite 1998 - Sunburst
+10442904633673;680.39;20;EUR;1;Ovation 2751AX 12-String Standard Balladeer - Black
+10448376201545;777.59;20;EUR;1;Ovation C2079AX Custom Legend - Cherry Burst
 9808825811273;1846.79;20;EUR;1;Ovation Deacon 12-String 1975-1980 - Sunburst
 10294171926857;1457.99;20;EUR;1;Ovation Double Neck - Defekt
 10294160130377;462.23;20;EUR;1;Ovation S771N Balladeer Special 2001 - Natural
