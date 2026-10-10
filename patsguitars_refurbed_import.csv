@@ -78,9 +78,7 @@ product_code;price_gross;vat;currency;stock;name
 10305360462153;646.91;20;EUR;1;CoolZ Japan Fujigen Telecaster 2012 - Sunburst
 10421766324553;680.39;20;EUR;1;CoolZ Japan Jazz Bass 2011 - Black
 10381601997129;680.39;20;EUR;1;CoolZ Japan Jazz Bass 2018 - Sunburst
-10366163812681;646.91;20;EUR;1;CoolZ Japan Medium Scale Stratocaster 2009 - Sunburst
 10381478363465;680.39;20;EUR;1;CoolZ Japan ZJB-1R Jazz Bass 2007 - Sunburst
-10392493261129;874.79;20;EUR;1;CoolZ Japan ZLS-1 Les Paul 2009 - Lemon Burst
 10366130684233;646.91;20;EUR;1;CoolZ Japan ZST-10R Stratocaster 2017 - Sunburst
 10400834126153;680.39;20;EUR;1;CoolZ Japan ZST-1R Stratocaster 2010 - Lace Placid Blue
 10366159618377;646.91;20;EUR;1;CoolZ Japan ZST-1R Stratocaster 2014 - Candy Apple Red
@@ -462,11 +460,9 @@ product_code;price_gross;vat;currency;stock;name
 10445006668105;1166.39;20;EUR;1;Fender Japan CTL-50M 72 Reissue Telecaster 1986-1987 - Natural
 10445025509705;1166.39;20;EUR;1;Fender Japan CTL-50M Telecaster 1986-1987 - Natural
 10349689373001;971.99;20;EUR;1;Fender Japan Hot Rod Stratocaster 1992-1993 - Red Sunburst
-10349645726025;923.39;20;EUR;1;Fender Japan Hybrid II Stratocaster 2022 - Matte Black
 10398921195849;874.79;20;EUR;1;Fender Japan JB-40 Jazz Bass 1993-1994 - Sunburst
 10387851608393;874.79;20;EUR;1;Fender Japan JB-40 Jazz Bass 1993-1994 - Vintage White
 10403404579145;874.79;20;EUR;1;Fender Japan JB-48 Jazz Bass 2007 - Sunburst
-10435266281801;874.79;20;EUR;1;Fender Japan JB-STD Jazz Bass 1995-1996 - Black
 10403451371849;874.79;20;EUR;1;Fender Japan JB-STD Jazz Bass 2007-2010 - Vintage White
 10294092824905;831.59;20;EUR;1;Fender Japan JV Stratocaster MOD 1982 - Natural
 10366532682057;1292.75;20;EUR;1;Fender Japan Mami Signature Stratocaster 2025 - Omochi Vintage White
@@ -882,7 +878,6 @@ product_code;price_gross;vat;currency;stock;name
 10357047558473;923.39;20;EUR;1;Warwick Corvette $$ Bass 2011 - Natural
 10292790264137;2031.47;20;EUR;1;Warwick Corvette $$ Double Buck Bass 2011 - Turquoise Blue Oil Finish
 9997843038537;777.59;20;EUR;1;Warwick Infinity RockBass 2018 - Natural
-10421858468169;680.39;20;EUR;1;Westone Japan Spectrum ST Matsumoku 1985 - White
 10381541015881;680.39;20;EUR;1;Yamaha AES620 Les Paul 2010 - Amber Flame Maple
 10305797751113;145.79;20;EUR;1;Yamaha AMD-100 American Monster Drive Effektpedal - Japan
 10305787691337;77.75;20;EUR;1;Yamaha DI-01 Distortion Effektpedal
