@@ -1,4 +1,5 @@
 product_code;price_gross;vat;currency;stock;name
+1240926244521;2260.0;20;GBP;1;Fender Limited Edition Johnny Marr Signature Special Jaguar Black 2025 Electric
 1280926245711;1130.0;20;GBP;1;Fender American Professional Stratocaster Black 2017 Electric Guitar
 1240926244520;2090.0;20;GBP;1;Fender USA Brent Mason Signature Telecaster Primer Grey 2020 Electric Guitar
 1220726225371;350.0;20;GBP;1;Squier Vintage Modified Jazz Bass '70s Black 2013 Electric Bass
@@ -10,7 +11,6 @@ product_code;price_gross;vat;currency;stock;name
 1250826235300;345.0;20;GBP;1;Boss SY-300 Guitar Synthesizer Guitar Effects Pedal
 1180626216931;255.0;20;GBP;1;Hotone Ampero II Stomp Amp Modeler/Effects Processor Electric Guitar Pedal
 1270926245383;245.0;20;GBP;1;Pedal Pawn RedPrint Dual Overdrive Electric Guitar Effects Pedal
-1260926245201;195.0;20;GBP;1;Strymon BlueSky Reverberator V1 Electric Guitar Reverb Effects Pedal
 1220726225370;350.0;20;GBP;1;Squier Classic Vibe 70s Precision Bass Walnut 2020 Electric Bass
 1260926244960;400.0;20;GBP;1;Peavey Rockingham Purple Gloss Hollow Body Electric Guitar
 1160926242212;400.0;20;GBP;1;Burns Marquee Club Series 2002 Fiesta Red Electric Guitar
@@ -26,7 +26,6 @@ product_code;price_gross;vat;currency;stock;name
 1031026247081;510.0;20;GBP;1;Gretsch G5622 Walnut Stain 2021 Semi-Hollow Electric Guitar
 1051026247631;450.0;20;GBP;1;Epiphone Jared James Nichols Gold Glory Les Paul Custom Double Gold 2022
 1011026246530;570.0;20;GBP;1;Faith Venus FV Cutaway Natural Gloss 2022 Electro Acoustic Guitar
-1280926245710;1000.0;20;GBP;1;Fender JMJ Road Worn Black 2020 Mustang Electric Bass
 1140926241550;1970.0;20;GBP;1;Warwick Corvette $$ NT Natural Oil 2007 4 String Electric Bass Guitar
 1170926242540;600.0;20;GBP;1;Solar A2.6C Carbon Black Matte 2024 Electric Guitar
 1270926245360;710.0;20;GBP;1;EVH Wolfgang Special Miami Blue 2020 Electric Guitar
@@ -96,7 +95,6 @@ product_code;price_gross;vat;currency;stock;name
 1240926244460;3390.0;20;GBP;1;Fender Custom Shop American Custom Stratocaster MN NOS White Blonde 2024
 1130526208141;2550.0;20;GBP;1;Gibson Advanced Jumbo Vintage Sunburst 2007 Slope Shoulder Dreadnought
 1030926238500;1020.0;20;GBP;1;Fender American Standard Stratocaster Black 2000 Electric Guitar
-1250926244712;630.0;20;GBP;1;Fender Player II Stratocaster Black 2024 Electric Guitar
 1210926243285;1420.0;20;GBP;1;Eastman SB59/v Antique Black Left Handed Electric Guitar
 1140926241532;2550.0;20;GBP;1;Gretsch 6134 White Penguin 1993 Electric Guitar
 1120926241030;540.0;20;GBP;1;Chapman Pro Series ML3 Thin Line Classic Metallic Ice Blue 2023 Electric Guitar
@@ -231,7 +229,6 @@ product_code;price_gross;vat;currency;stock;name
 1270726226702;570.0;20;GBP;1;Kemper Profiler Rack (Unpowered) Digital Amp Profiler
 1240726226161;680.0;20;GBP;1;ESP LTD SN-1000 FR Charcoal Metallic 2015 Modified Electric Guitar
 1170726224251;560.0;20;GBP;1;Ibanez AF105 Natural Hollow Body 2006 Electric Guitar
-1280726227032;570.0;20;GBP;1;Epiphone Sheraton II Vintage Sunburst 2004 Semi-Hollow Electric Guitar
 1190726224650;970.0;20;GBP;1;Fender Ltd Edition Mark Hoppus Jaguar Bass 3-Color Sunburst 2025 Electric Bass
 1200726224970;630.0;20;GBP;1;D'Angelico Premier EXL-1 Ocean Turquoise 2018 Hollow Body Electric Guitar
 1280726227031;740.0;20;GBP;1;D'Angelico Excel EX-59 P90 Solid Black 2016 Hollow Body Electric Guitar
@@ -286,7 +283,6 @@ product_code;price_gross;vat;currency;stock;name
 1030626213110;560.0;20;GBP;1;Godin Session Vintage Burst Semi-Gloss 2017 Electric Guitar
 1100626214923;1340.0;20;GBP;1;Hofner Committee Gloss Natural 1960 Modified Hollow Body Electric Guitar
 1090626214850;520.0;20;GBP;1;Jackson X Series Surfcaster 2025 Satin Black Electric Guitar
-1100626214960;1990.0;20;GBP;1;Ernie Ball Music Man Valentine Limited Edition Starry Night 2017 Electric Guitar
 1090626214621;690.0;20;GBP;1;Ibanez RGRTB621 Iron Label Black Flat 2022 Electric Guitar
 1140825125973;6590.0;20;GBP;1;Gibson Custom Shop Inspired By Joe Bonamassa Les Paul Goldtop 2012 Signature
 1140825125975;4830.0;20;GBP;1;Gibson Custom Shop Joe Bonamassa Signature Les Paul Standard 2012 ‘Bonaburst’
