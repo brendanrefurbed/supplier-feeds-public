@@ -9,6 +9,7 @@ x00266;145.79;20;EUR;1;Animals Pedal Tioga Road Cycling Distortion Effektpedal
 291411;77.75;20;EUR;1;Aria ADT-1 Distortion Effektpedal - Japan
 132436;77.75;20;EUR;1;Aria AFL-1 Flanger Effektpedal - Japan
 045392;524.87;20;EUR;1;Aria Japan Stratocaster 1970s - Natural
+3090096_54;680.39;20;EUR;1;Aria Pro II Japan ZZ Custom Explorer 1983 - Metallic Red
 4092751_51;777.59;20;EUR;1;Aria Pro II Japan ZZB Explorer Deluxe Bass 1984 - Blue Burst
 762306;1108.07;20;EUR;1;Aria Pro II PE-140 1976 - Mahogany
 S4100940;369.35;20;EUR;1;Aria Pro II RVB450-DRS Avante Series Bass - Red Burst
@@ -52,7 +53,6 @@ FG22030475;551.87;20;EUR;1;Burny Les Paul - Goldtop
 Z72608;711.71;20;EUR;1;Burny Les Paul FLG-70 1977 - Tobacco Burst - Vintage Japan
 x00133;350.99;20;EUR;1;Burny Les Paul LG-480 - Metallic
 x00169;475.19;20;EUR;1;Burny LG-480 Les Paul - Metallic
-x00170;808.91;20;EUR;1;Burny LG-75R Les Paul - Honey Burst
 x00123;834.83;20;EUR;1;Burny RLC Les Paul Custom - Ebony
 X00027;1166.39;20;EUR;1;Burny Super Grade Les Paul RLG-58 1998 - Cherry Sunburst
 24625;1943.99;20;EUR;1;Carvin USA AE185 Thinline Tele - Purple
@@ -67,6 +67,7 @@ MC182935_54;971.99;20;EUR;1;Charvel Pro Mod San Dimas Style 2018 - White
 05090342;923.39;20;EUR;1;Charvel Surfcaster 2005 - Black
 E304730;485.99;20;EUR;1;Cheri Telecaster Thinline - Sunburst
 x00235;647.99;20;EUR;1;CITIZEN Ibanez Tube Screamer Tsuno Chrono Limited 500 TSTCC808
+A02368_54;971.99;20;EUR;1;Claim Sonor 1980s - White
 210137485;2527.19;20;EUR;1;Cole Clark FL2EC-BLBL-SUN 2021 - Natural Sunburst
 x00177;166.31;20;EUR;1;Collins Stratocaster - Black
 E070368;777.59;20;EUR;1;CoolZ Japan Dignity Les Paul Custom 2007 - Ebony
@@ -98,7 +99,7 @@ x00353;145.79;20;EUR;1;Drive Jail Guitar Doors Effektpedal
 050742_54;1943.99;20;EUR;1;Duesenberg Rocket II Flying V 2005 - Black and White
 192151;1292.75;20;EUR;1;Duesenberg Starplayer Special 2019 - Black Sparkle
 x00306;242.99;20;EUR;1;Dunlop Crybaby 50th Anniversary Gold Effektpedal
-ED1402274;874.79;20;EUR;1;Edwards Bass 2003-2004 - Candy Apple Red
+ED1402274_51;874.79;20;EUR;1;Edwards Jazz Bass 2003-2004 - Candy Apple Red
 x00289;87.47;20;EUR;1;Effects Bakery An Butter Cooppe Drive Effektpedal
 x00265;77.75;20;EUR;1;Effects Bakery French Bread Delay Effektpedal
 21111522069;701.99;20;EUR;1;Epiphone 1959 Les Paul Standard - Cherry Sunburst
@@ -149,8 +150,7 @@ W19120520_54;971.99;20;EUR;1;ESP LTD Deluxe Viper-1000 2019 - Quilt Maple Tiger 
 W24111409_54;874.79;20;EUR;1;ESP LTD EC-01FT Deluxe 2024 - Black
 W22081144_54;777.59;20;EUR;1;ESP LTD EC-401 2022 - See Thru Black Cherry Satin
 W20020880_54;971.99;20;EUR;1;ESP LTD EX-401 2020 - Snow White
-L12073753;1028.15;20;EUR;1;ESP LTD GL-200K George Lynch Signature 2012 - Kamikaze
-W16020310;874.79;20;EUR;1;ESP LTD SN-1000 2016 - Black
+W16020310_54;874.79;20;EUR;1;ESP LTD SN-1000 2016 - Black
 33425;701.99;20;EUR;1;ESP Stratocaster 1998 - signed by Paul Gilbert
 50;1595.15;20;EUR;1;ESP THE ALFEE Signature Angel Classic Junior 1998 - Cherry Sunburst
 x00122;483.83;20;EUR;1;EVH 5150 Mini Guitar - Red Striped
@@ -398,7 +398,6 @@ x00147;176.03;20;EUR;1;Faber TEC MRR Telecaster – Metallic Red
 1518;2309.03;20;EUR;1;Fender 54’ Reissue American Stratocaster 40th Anniversary 1994 - Sunburst
 Z3144784;1200.95;20;EUR;1;Fender American Jazz Bass Standard 2003 - Sunburst
 US22090636;1385.63;20;EUR;1;Fender American Professional II Stratocaster 2022 - Miami Blue
-US10124640;1263.59;20;EUR;1;Fender American Special Jazz Bass 2010 - Sunburst
 N3137589;1263.59;20;EUR;1;Fender American Standard Stratocaster 1993 - Lipstick Red
 US22007102_2;874.79;20;EUR;1;Fender American Stratocaster / Partcaster 2022 2022 - Vintage White
 S978198;2429.99;20;EUR;1;Fender American Stratocaster 1979 - Natural
@@ -420,6 +419,7 @@ R128288;4859.99;20;EUR;1;Fender Custom Shop ’63 Stratocaster Relic MBD 2023 - 
 MN8119636;701.99;20;EUR;1;Fender Deluxe Powerhouse Stratocaster 1998 - Lake Placid Blue
 US24046630;1200.95;20;EUR;1;Fender Exclusive American Standard Stratocaster 2024 - Satin Fiesta Red
 13276;161.99;20;EUR;1;Fender Frontman 15G Transistor Verstärker
+Z9380722_54;1166.39;20;EUR;1;Fender Highway One Telecaster 2009 - Vintage White
 S001547_54;777.59;20;EUR;1;Fender Japan 40th Anniversary Stratocaster 1994-1995 - Lake Placid Blue
 S029392;971.99;20;EUR;1;Fender Japan 52 Reissue Telecaster 1994-1995 - Fotoflame - Butterscotch Blonde
 S021503;1166.39;20;EUR;1;Fender Japan 52 Reissue Telecaster 1994-1995 - Natural
@@ -428,6 +428,7 @@ I037634;971.99;20;EUR;1;Fender Japan 54 Reissue Stratocaster 1989-1990 - Black
 E826301_54;874.79;20;EUR;1;Fender Japan 57 Reissue  Stratocaster 1984-1987 - Sunburst
 P007722_54;971.99;20;EUR;1;Fender Japan 57 Reissue ST57US Stratocaster 1999-2002 - Black
 L031731_54;874.79;20;EUR;1;Fender Japan 57 Reissue Stratocaster 1991-1992 - Sunburst
+N054272_54;874.79;20;EUR;1;Fender Japan 57 Reissue Stratocaster 1993-1994 - Sunburst
 O088162;971.99;20;EUR;1;Fender Japan 57 Reissue Stratocaster 1997-2000 - Sunburst
 P052330;874.79;20;EUR;1;Fender Japan 57 Reissue Stratocaster 1999-2002 - Fiesta Red
 R005098_54;874.79;20;EUR;1;Fender Japan 57 Reissue Stratocaster 2004-2005 - Sunburst
@@ -447,11 +448,13 @@ P053247;1200.95;20;EUR;1;Fender Japan 66 Reissue Mustang 1999-2002 - Vintage Whi
 R064018;1197.71;20;EUR;1;Fender Japan 66’ Reissue Jaguar 2004-2005 - Sunburst
 U035051_54;1263.59;20;EUR;1;Fender Japan 69 Reissue Mustang 1995-1996 - Vintage White
 Q089424_54;1263.59;20;EUR;1;Fender Japan 69 Reissue Mustang 2002-2004 - Black
+T096487_54;1263.59;20;EUR;1;Fender Japan 69 Reissue Mustang 2005 - Sunburst
 JD12012090;1200.95;20;EUR;1;Fender Japan 69 Reissue Mustang 2012 - Candy Apple Red - Matching Headstock
 E010690;1069.19;20;EUR;1;Fender Japan 72 Reissue Stratocaster 1984-1987 - Heavy Relic Sunburst
 A034893;923.39;20;EUR;1;Fender Japan 72 Reissue Stratocaster 1985-1986 - Vintage White
 E680247;923.39;20;EUR;1;Fender Japan 72 Reissue Stratocaster 1994-1997 - Vintage White
 O026073;923.39;20;EUR;1;Fender Japan 72 Reissue Stratocaster 1997-2000 - Vintage White
+R062984_54;971.99;20;EUR;1;Fender Japan 72 Reissue Stratocaster 2004-2005 - Vintage White
 R031408_54;1166.39;20;EUR;1;Fender Japan 72 Reissue Telecaster Custom 2004-2005 - Black
 U045743;1292.75;20;EUR;1;Fender Japan 72 Reissue Telecaster Custom 2010-2011 - White Blonde
 T059739;1200.95;20;EUR;1;Fender Japan 77 Reissue Mustang 2007-2010 - Black
@@ -462,6 +465,7 @@ F009040_54;1166.39;20;EUR;1;Fender Japan CTL-50M Telecaster 1986-1987 - Natural
 M039934;971.99;20;EUR;1;Fender Japan Hot Rod Stratocaster 1992-1993 - Red Sunburst
 N098972_54;874.79;20;EUR;1;Fender Japan JB-40 Jazz Bass 1993-1994 - Sunburst
 O035713;874.79;20;EUR;1;Fender Japan JB-40 Jazz Bass 1993-1994 - Vintage White
+P052043_51;874.79;20;EUR;1;Fender Japan JB-45J Jazz Bass 1993-1994 - Candy Apple Red
 R078284_51;874.79;20;EUR;1;Fender Japan JB-48 Jazz Bass 2007 - Sunburst
 T028574_51;874.79;20;EUR;1;Fender Japan JB-STD Jazz Bass 2007-2010 - Vintage White
 x00219;831.59;20;EUR;1;Fender Japan JV Stratocaster MOD 1982 - Natural
@@ -471,7 +475,7 @@ O005566;874.79;20;EUR;1;Fender Japan PB-38 Precision Bass 1993-1994 - Black
 R033688;831.59;20;EUR;1;Fender Japan PB-43 Precision Bass 2004-2005 - Sunburst
 F024033_51;874.79;20;EUR;1;Fender Japan PJR-65R Jazz Bass Special 1986-1987 - Black
 O013913_51;874.79;20;EUR;1;Fender Japan Precision / Jazz Bass 1993-1994 - Candy Apple Red
-P042800;874.79;20;EUR;1;Fender Japan Precision Bass 1999-2002 - Champagne Gold
+P042800_51;874.79;20;EUR;1;Fender Japan Precision Bass 1999-2002 - Champagne Gold
 E714250;439.55;20;EUR;1;Fender Japan SF-456 Stratocaster 1984-1987 - Black
 O091799_54;874.79;20;EUR;1;Fender Japan ST-36 Stratocaster 1993-1994 - Sunburst
 O051075_54;874.79;20;EUR;1;Fender Japan ST-362 Stratocaster 1993-1994 - Black
@@ -554,7 +558,7 @@ FG08012310;485.99;20;EUR;1;Fernandes Precision Bass RPB-360  2008 - Red
 40601;874.79;20;EUR;1;Fernandes Telecaster 1974 - Natural - Vintage Japan
 L051919;680.39;20;EUR;1;Fernandes The Function Flying V 2005 - Black
 810877;680.39;20;EUR;1;Fernandes The Function SSH40 1988-1992 - Blue Burst
-B210421;777.59;20;EUR;1;FGN Fujigen Japan BMJ-R-01 Bass 2007 - Black
+B210421_51;777.59;20;EUR;1;FGN Fujigen Japan BMJ-R-01 Bass 2007 - Black
 F180104;680.39;20;EUR;1;FGN Fujigen Japan J-Classic Jazz Bass 2018 - Sunburst
 L150224;646.91;20;EUR;1;FGN Fujigen Japan J-Classic Stratocaster 2015 - Sunburst
 G201936;831.59;20;EUR;1;FGN Fujigen Japan J-Standard HSS 2020
@@ -598,6 +602,7 @@ FB506_51;680.39;20;EUR;1;Fresher Japan Personal Bass 1980s - Natural
 00091628;1200.95;20;EUR;1;Gibson Les Paul Special 2001 - Red
 00625576;1141.55;20;EUR;1;Gibson Les Paul Special 2005 - Faded Cherry
 203910037;1052.99;20;EUR;1;Gibson Les Paul Special Tribute 2021 - Faded Black
+71578536_54;2915.99;20;EUR;1;Gibson Les Paul Standard 1978 - Cherry Sunburst
 00645412;1749.59;20;EUR;1;Gibson Les Paul Standard 2004 - Cherry Sunburst
 0141140733;1737.71;20;EUR;1;Gibson Les Paul Standard DC 2001 - Trans Red
 030290579;2216.15;20;EUR;1;Gibson Les Paul Standard DC 2009 - Goldtop
@@ -615,8 +620,10 @@ FB506_51;680.39;20;EUR;1;Fresher Japan Personal Bass 1980s - Natural
 150058597_54;1263.59;20;EUR;1;Gibson LPM Les Paul 2015 - Heritage Cherry
 72597187;1754.99;20;EUR;1;Gibson Melody Maker DC 1977 - Sunburst
 150080673;1457.99;20;EUR;1;Gibson Midtown Standard 2015 - Sunburst
+006760538_54;1263.59;20;EUR;1;Gibson SG Special 2006 - New Century
 160056;7775.99;20;EUR;1;Gibson Thunderbird II Bass 1964 – Alembic Custom 1976 – Tree of Life – Ember Red
 012260414;2770.19;20;EUR;1;Gibson Vegas High Roller 2006 - Felt Green
+233550150_54;1943.99;20;EUR;1;Gibson Warren Haynes Signature Les Paul Standard 60s 2023 - Heritage Cherry
 83241526;1943.99;20;EUR;1;Gibson XR-2 Les Paul 1981 - Honey Burst
 12468;971.99;20;EUR;1;Gitane DG-250M - Natural
 x00238;17.27;20;EUR;1;Gitarrenkarton 1180×475×165 mm – Doppelwelliger Versandkarton für Gitarren
@@ -654,8 +661,9 @@ K775739_54;680.39;20;EUR;1;Greco EG500 Les Paul Standard 1977 - Cherry Sunburst
 H785874_54;777.59;20;EUR;1;Greco EG500 Les Paul Standard 1978 - Cherry Sunburst
 08147;831.59;20;EUR;1;Greco EGC-480 Les Paul Custom 1990 - Ebony
 07497;831.59;20;EUR;1;Greco EGC-480 Les Paul Custom 1990 - Ebony
-F784975;415.79;20;EUR;1;Greco GOB-700 Bass 1978 - Defekt
 K914140;777.59;20;EUR;1;Greco J-80E 1991 - Sunburst
+I878559_51;874.79;20;EUR;1;Greco Japan Device Bass 1987 - Vintage White
+B026732_51;777.59;20;EUR;1;Greco Japan Wild Scamper Series Bass 2002 - Pearl Silver
 J787771;790.55;20;EUR;1;Greco Les Paul Standard 1978 - Ebony
 H750047;777.59;20;EUR;1;Greco Matsumoku Spacey Sounds Telecaster 1975 - Sunburst
 x00189;631.79;20;EUR;1;Greco Matsumoku Stratocaster 1970s - Sunburst
@@ -727,8 +735,8 @@ S02101734;510.83;20;EUR;1;Ibanez Talman TM71T 2002 - Jewel Blue
 910588;10526.75;20;EUR;1;Ibanez Universe UV77MC Steve Vai Signature 1991 - Multicolor
 x00345;874.79;20;EUR;1;Italia Modena Classic - Metallic Blue
 X00004;5831.99;20;EUR;1;James Collins Signature GTO 2023 - Natural
-10298;3158.99;20;EUR;1;James Trussart Rusty Deville 59 2011 - Steel
 x00201;158.75;20;EUR;1;Kapok MEG 9012 Stratocaster - Red
+24177_54;2818.79;20;EUR;1;Kauffmann S Black2 Limited Run  - 1 of 10 - Heavy Aged Black
 X00006;158.75;20;EUR;1;Keiper Shortscale Stratocaster Junior - Black
 x00358_54;680.39;20;EUR;1;Klira Triumphator 1960s - Red
 60188;646.91;20;EUR;1;Kramer EVH Style - Striped
@@ -785,6 +793,7 @@ E10921;1846.79;20;EUR;1;Ovation Deacon 12-String 1975-1980 - Sunburst
 x00241;32.39;20;EUR;1;Pat’s Guitars Deluxe E-Gitarren Gigbag
 QEF60238;277.55;20;EUR;1;Peavey Generation EXP 2003-2005 - Sunburst
 51784838_54;1457.99;20;EUR;1;Peavey HP Special 2005 - Black
+271754_54;3110.39;20;EUR;1;PRS Custom 24 10 Top 2002 - Whale Blue
 271751;2954.87;20;EUR;1;PRS Custom 24 10-Top 1997 - Flamed Maple Grey Black
 17S2026535;1316.51;20;EUR;1;PRS S2 Standard 22 - Antique White
 17S2023716;1385.63;20;EUR;1;PRS S2 Vela 2017 - Tobacco Sunburst
@@ -835,6 +844,7 @@ L013710;646.91;20;EUR;1;Squier by Fender Japan SST-33 Stratocaster 1991-1992 - B
 P020701_54;680.39;20;EUR;1;Squier by Fender Japan SST-R Stratocaster 1999-2002 - Transparent Blue Burst
 SQ21016;646.91;20;EUR;1;Squier by Fender Japan Stratocaster 1984 - Black
 E916789;583.19;20;EUR;1;Squier by Fender Korea Stratocaster 1991 - Black
+IC060403166_54;777.59;20;EUR;1;Squier by Fender Telecaster 2006 - Obey Graphic
 A007617;971.99;20;EUR;1;Squier by Fender Vista Series Jagmaster 1997-1998 - Sea Foam Green Repaint
 IC060531889;656.63;20;EUR;1;Squier Hello Kitty Edition Mini Stratocaster 2006 - Pink
 SQ51172;738.71;20;EUR;1;Squier Japan Stratocaster 1983-1984 - Vintage White
@@ -883,6 +893,8 @@ S2000078;923.39;20;EUR;1;VOX Bobcat BC-S66 2020 - Sunburst
 RBF504938-11;923.39;20;EUR;1;Warwick Corvette $$ Bass 2011 - Natural
 K15755811;2031.47;20;EUR;1;Warwick Corvette $$ Double Buck Bass 2011 - Turquoise Blue Oil Finish
 G555729-18;777.59;20;EUR;1;Warwick Infinity RockBass 2018 - Natural
+2506568;2915.99;20;EUR;1;Washburn USA N4 Vintage Nuno Bettencourt Signature 2025 - Natural
+014685_54;680.39;20;EUR;1;Westminster Japan Vintage Les Paul 1980 - Cherry Sunburst
 QJL0354R;680.39;20;EUR;1;Yamaha AES620 Les Paul 2010 - Amber Flame Maple
 x00257;145.79;20;EUR;1;Yamaha AMD-100 American Monster Drive Effektpedal - Japan
 x00264;77.75;20;EUR;1;Yamaha DI-01 Distortion Effektpedal
@@ -911,6 +923,7 @@ QM08088;923.39;20;EUR;1;Yamaha Japan SGV300 2000 - Metallic Green
 001821;738.71;20;EUR;1;Yamaha Japan SL400S Studio Lord Les Paul 1977 - Tobacco Sunburst
 002745;646.91;20;EUR;1;Yamaha Japan SL430 Les Paul 1978 - Ebony
 002375_54;680.39;20;EUR;1;Yamaha Japan SL430 Les Paul 1980 - Black
+003984_54;874.79;20;EUR;1;Yamaha Japan SL500S Les Paul 1979 - Cherry Sunburst
 003615;831.59;20;EUR;1;Yamaha Japan SL500S Studio Lord Les Paul 1978 - Cherry Sunburst
 006027;646.91;20;EUR;1;Yamaha Japan SR-500 Super Rock N Roller Stratocaster 1979 - Sunburst
 092946;680.39;20;EUR;1;Yamaha Japan SS300 Custom 1982 - Metallic Red
