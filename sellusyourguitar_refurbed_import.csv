@@ -2,7 +2,6 @@ product_code;price_gross;vat;currency;stock;name
 1021026246960;980.0;20;GBP;1;Fender MIJ Limited Edition Traditional II ’51 Nocaster Butterscotch Blonde Elect
 1031026247270;1980.0;20;GBP;1;Gibson ES-335 Satin Cherry 2023 Semi-Hollow Electric Guitar
 1091026248961;2190.0;20;GBP;1;Martin D-28 Gloss Natural 1992 Dreadnought Acoustic Guitar
-1240926244521;2260.0;20;GBP;1;Fender Limited Edition Johnny Marr Signature Special Jaguar Black 2025 Electric
 1280926245711;1130.0;20;GBP;1;Fender American Professional Stratocaster Black 2017 Electric Guitar
 1240926244520;2090.0;20;GBP;1;Fender USA Brent Mason Signature Telecaster Primer Grey 2020 Electric Guitar
 1220726225371;350.0;20;GBP;1;Squier Vintage Modified Jazz Bass '70s Black 2013 Electric Bass
@@ -172,7 +171,6 @@ product_code;price_gross;vat;currency;stock;name
 1080726222351;400.0;20;GBP;1;Ibanez RG370FMZ Sapphire Blue 2019 Electric Guitar
 1140726223540;400.0;20;GBP;1;Epiphone EJ200-SCE/VS Vintage Sunburst 2020 Electro Acoustic Guitar
 1270726226803;310.0;20;GBP;1;Orange Dark Terror 15W Hi-Gain Lunchbox Portable All-Valve Guitar Amplifier Head
-1210726225140;400.0;20;GBP;1;Cort MBC-1 Matt Bellamy Red Sparkle 2016 Electric Guitar
 1040826228960;460.0;20;GBP;1;Höfner HCT-J17-E2 Black 2011 Hollow Body Electric Guitar
 1090826230240;430.0;20;GBP;1;Epiphone J-200 EC Studio Parlor Vintage Sunburst 2025 Electro-Acoustic Guitar
 1270726226910;430.0;20;GBP;1;Chapman ML-2 Satin Natural 2013 Electric Guitar
