@@ -1,7 +1,6 @@
 product_code;price_gross;vat;currency;stock;name
 GITB1004;2752.92;21;EUR;1;Anton Wiegers Libra 1982 | Natural
 GITB1213;3508.92;21;EUR;1;B&G Little Sister Private Build Proper Copper Limited Edition | Copper
-GITB1240;970.92;21;EUR;1;Charvel Pro-Mod So-Cal HSS FR 2022 | Ferrari Red
 GITB1219;970.92;21;EUR;1;D'Angelico Premier Bob Weir Bedford | Matte Stone
 GITB1147;2154.6;21;EUR;1;Del-Tone 50's S-style | Black
 GITB1146;2154.6;21;EUR;1;Del-Tone 60's T-style | Gold
@@ -60,6 +59,7 @@ GITB977;916.92;21;EUR;1;Ibanez 2451 NT 1976 | Natural
 GITB1229;1186.92;21;EUR;1;Ibanez APEX2 (Korn SIgnature) 2008 | Green Shadow Flat
 GITB1230;970.92;21;EUR;1;Ibanez Radius 540R 1987 | Bright Red Burst
 GITB1231;1186.92;21;EUR;1;Ibanez Radius 540R | Bright Red Burst
+GITB1235;862.92;21;EUR;1;Ibanez Roadster 1980 | Black
 GITB1238;2050.92;21;EUR;1;Ibanez ST924 1980 | Walnut
 GITB1143;1614.6;21;EUR;1;Josef Sandner Isana Archtop (Deluxe) 1959 | Red Sunburst
 GITB1184;2104.92;21;EUR;1;King Snake Curtis | Tobacco Sunburst
