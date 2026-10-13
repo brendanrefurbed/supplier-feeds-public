@@ -1,4 +1,15 @@
 product_code;price_gross;vat;currency;stock;name
+1280626219741;880.0;20;GBP;1;Cordoba C10 Crossover Natural Gloss 2016 Classical Guitar
+1091026249051;710.0;20;GBP;1;Martin 000-10e Retro Sapele 2025 Electro Acoustic Guitar
+1011026246480;860.0;20;GBP;1;Gibson SG Special Fireburst 2015 Electric Guitar
+1021026246911;740.0;20;GBP;1;Epiphone Tommy Thayer Les Paul Electric Blue 2022 Electric Guitar
+1051026247910;1650.0;20;GBP;1;Fender Eric Clapton Stratocaster Candy Green 2006 Signature Electric Guitar
+1030926238320;890.0;20;GBP;1;Solar GC1.6NC Classic Flame Tobacco Burst 2021 Electric Guitar
+1091026249050;2420.0;20;GBP;1;Gibson Custom Art & Historic '61 SG Special VOS Cherry Red 2000 Electric Guitar
+1021026246910;860.0;20;GBP;1;Jackson Pro Plus Series Soloist SLA3Q Polar Burst 2023 Electric Guitar
+1300926246060;860.0;20;GBP;1;Ormsby Hype GTR 7 Dragonburst 7-String Electric Guitar
+1290526212000;1810.0;20;GBP;1;Gibson Les Paul Standard High Performance Desert Burst 2016 Electric Guitar
+1270926245400;2420.0;20;GBP;1;Gibson ES-345 Vintage Sunburst 2023 Semi-Hollow Electric Guitar
 1021026246960;980.0;20;GBP;1;Fender MIJ Limited Edition Traditional II ’51 Nocaster Butterscotch Blonde Elect
 1031026247270;1980.0;20;GBP;1;Gibson ES-335 Satin Cherry 2023 Semi-Hollow Electric Guitar
 1091026248961;2190.0;20;GBP;1;Martin D-28 Gloss Natural 1992 Dreadnought Acoustic Guitar
@@ -22,13 +33,11 @@ product_code;price_gross;vat;currency;stock;name
 1230926244070;530.0;20;GBP;1;Epiphone Inspired by Gibson J45 Tobacco Sunburst 2024 Electro-Acoustic Guitar
 1100926240611;400.0;20;GBP;1;G&L Tribute Series Legacy 3-Tone Sunburst 2010 Electric Guitar
 1031026247081;510.0;20;GBP;1;Gretsch G5622 Walnut Stain 2021 Semi-Hollow Electric Guitar
-1051026247631;450.0;20;GBP;1;Epiphone Jared James Nichols Gold Glory Les Paul Custom Double Gold 2022
 1011026246530;570.0;20;GBP;1;Faith Venus FV Cutaway Natural Gloss 2022 Electro Acoustic Guitar
 1140926241550;1970.0;20;GBP;1;Warwick Corvette $$ NT Natural Oil 2007 4 String Electric Bass Guitar
 1170926242540;600.0;20;GBP;1;Solar A2.6C Carbon Black Matte 2024 Electric Guitar
 1270926245360;710.0;20;GBP;1;EVH Wolfgang Special Miami Blue 2020 Electric Guitar
 1240926244601;570.0;20;GBP;1;Epiphone B.B King Lucille Ebony 2008 Semi-Hollow Electric Guitar
-1210926243680;620.0;20;GBP;1;Faith Neptune Blood Moon 2020 Blood Moon Burst Electro-Acoustic Guitar
 1250926244650;510.0;20;GBP;1;D'Angelico Premier Ludlow Black 2018 Electric Guitar
 1240726225930;770.0;20;GBP;1;Yamaha CPX1200II Translucent Black 2015 Medium Jumbo Electro-Acoustic
 1280926245570;1420.0;20;GBP;1;Burns The Marvin 1964 Reissue Shadows White Electric Guitar
@@ -57,7 +66,6 @@ product_code;price_gross;vat;currency;stock;name
 1220926243763;420.0;20;GBP;1;Epiphone Les Paul Standard Ltd Edition Gold Sparkle 1997 Electric Guitar
 1140926241650;460.0;20;GBP;1;Epiphone Les Paul Custom Alpine White 2005 Electric Guitar
 1140926241630;480.0;20;GBP;1;Epiphone Les Paul Standard Ltd Edition Gold Sparkle 1997 Electric Guitar
-1220926243840;460.0;20;GBP;1;VOX SDC-33 Black 2010 Electric Guitar
 1130926241301;460.0;20;GBP;1;Ibanez Artcore Series AS93 Trans Cherry Red 2017 Hollow-Body Electric Guitar
 1220726225330;510.0;20;GBP;1;Epiphone Les Paul Custom Prophecy Plus Midnight Sapphire 2012 Electric Guitar
 1160926242213;740.0;20;GBP;1;Hagstrom H-III Scandi Sunburst c.1976 Modified Vintage Electric Guitar
@@ -125,6 +133,7 @@ product_code;price_gross;vat;currency;stock;name
 1240826235151;400.0;20;GBP;1;PRS SE Custom 22 Cherry Sunburst 2008 Electric Guitar
 1300626220211;370.0;20;GBP;1;Ibanez AS73 Olive Metallic 2019 Semi-Hollow Electric Guitar
 1100926240600;1590.0;20;GBP;1;Guild M-40 Troubadour Satin Natural 2018 Acoustic Guitar
+1100926240321;890.0;20;GBP;1;Taylor 214ce DLX 2023 Gloss Natural Electro-Acoustic Guitar
 1080926240020;1650.0;20;GBP;1;Gibson Les Paul Classic T Gold Top 2017 Electric Guitar
 1210826233810;2090.0;20;GBP;1;Atkin 'The Boosh OS' Pelham Blue Aged Nitro 2023 Electric Guitar
 1080926239891;600.0;20;GBP;1;Schecter Diamond Series Nick Johnston Signature Atomic White Electric Guitar
@@ -266,7 +275,6 @@ product_code;price_gross;vat;currency;stock;name
 1250526211133;440.0;20;GBP;1;ESP LTD MH-203QM See Thru Blue 2020 Electric Guitar
 1060626213870;530.0;20;GBP;1;Guild M-120L Natural Gloss 2022 Concert Acoustic Guitar
 1120626215690;610.0;20;GBP;1;Epiphone Sheraton II Vintage Sunburst 1996 Semi-Hollow Electric Guitar
-1100626215260;830.0;20;GBP;1;Ibanez Q547 Blue Chameleon 2023 Headless 7-String Electric Guitar
 1030626213110;560.0;20;GBP;1;Godin Session Vintage Burst Semi-Gloss 2017 Electric Guitar
 1100626214923;1340.0;20;GBP;1;Hofner Committee Gloss Natural 1960 Modified Hollow Body Electric Guitar
 1090626214850;520.0;20;GBP;1;Jackson X Series Surfcaster 2025 Satin Black Electric Guitar
