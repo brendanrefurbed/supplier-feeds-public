@@ -328,6 +328,7 @@ product_code;price_gross;vat;currency;stock;name
 10263291724105;66.95;20;EUR;1;Faber TBWC-59NG-BL Faber Vintage Spec ALU Compensated Wraparound Tailpiece, Nickel, gloss, Intonationsleiste: Messing, Linkshand
 10263291887945;66.95;20;EUR;1;Faber TBWC-59NG-BR Faber Vintage Spec ALU Compensated Wraparound Tailpiece, Nickel, gloss, Intonationsleiste: Messing
 10263121527113;176.03;20;EUR;1;Faber TEC BB Telecaster – Black
+10263136010569;176.03;20;EUR;1;Faber TEC MRR Telecaster – Metallic Red
 10263470473545;38.87;20;EUR;1;Faber TL-IGA Faber Tone-Lock Kit, 2 Schraubbolzen (Inch Gewinde-thread f. Gibson) + 3 Paar Distanzhülsen, aged
 10263470506313;35.63;20;EUR;1;Faber TL-IGG Faber Tone-Lock Kit, 2 Schraubbolzen (Inch Gewinde-thread f. Gibson) + 3 Paar Distanzhülsen, glossy
 10263470539081;36.71;20;EUR;1;Faber TL-INA Faber Tone-Lock Kit, 2 Schraubbolzen (Inch Gewinde-thread f. Gibson) + 3 Paar Distanzhülsen, aged
@@ -425,7 +426,6 @@ product_code;price_gross;vat;currency;stock;name
 10419557957961;971.99;20;EUR;1;Fender Japan 57 Reissue ST57US Stratocaster 1999-2002 - Black
 10423084187977;874.79;20;EUR;1;Fender Japan 57 Reissue Stratocaster 1991-1992 - Sunburst
 10450939052361;777.59;20;EUR;1;Fender Japan 57 Reissue Stratocaster 1993-1994 - Sunburst
-10451083460937;874.79;20;EUR;1;Fender Japan 57 Reissue Stratocaster 1993-1994 - Sunburst
 10392689312073;971.99;20;EUR;1;Fender Japan 57 Reissue Stratocaster 1997-2000 - Sunburst
 10379453530441;831.59;20;EUR;1;Fender Japan 57 Reissue Stratocaster 1999-2002 - Fiesta Red
 10398929060169;874.79;20;EUR;1;Fender Japan 57 Reissue Stratocaster 2004-2005 - Sunburst
@@ -514,6 +514,7 @@ product_code;price_gross;vat;currency;stock;name
 9942059811145;1264.67;20;EUR;1;Fender Japan Traditional Collection 60s Telecaster 2025 - Stardust Pink
 10421741125961;1263.59;20;EUR;1;Fender Japan Traditional II 60s Jaguar 2020 - Sunburst
 10080808370505;1106.99;20;EUR;1;Fender Japan Traditional II 60s Jaguar 2022 - Sunburst
+10419791233353;1166.39;20;EUR;1;Fender Jim Root Signature Jazzmaster 2020 - Satin White
 10435293512009;1166.39;20;EUR;1;Fender Jim Root Signature Jazzmaster 2026 - Arctic White
 10316303008073;1292.75;20;EUR;1;Fender Lead I 1981 - Natural
 10316385222985;1292.75;20;EUR;1;Fender Limited Edition '72 Telecaster Deluxe 2012 - Orange Sparkle
@@ -742,7 +743,6 @@ product_code;price_gross;vat;currency;stock;name
 10108742631753;143.63;20;EUR;1;Keiper Shortscale Stratocaster Junior - Black
 10450994299209;583.19;20;EUR;1;Kingston Japan Vintage SG 1970s - Walnut Brown
 10421904769353;680.39;20;EUR;1;Klira Triumphator 1960s - Red
-10349666337097;646.91;20;EUR;1;Kramer EVH Style - Striped
 10421895135561;680.39;20;EUR;1;Kramer Japan EVH Style 1980s - Red Stripes
 10220496060745;1943.99;20;EUR;1;Lake Placid Custom by Andre Waldenmaier HSS Floyd Rose 1995 - See Thru Green
 10365219602761;155.51;20;EUR;1;LPD Pedals Sixty8 Overdrive Effect Pedal
@@ -840,6 +840,7 @@ product_code;price_gross;vat;currency;stock;name
 10400863256905;777.59;20;EUR;1;Squier by Fender Japan JV ST-502 Contemporary Stratocaster 1983 - Black
 10365891445065;923.39;20;EUR;1;Squier by Fender Japan JV Stratocaster 1983 - Black
 10357895921993;646.91;20;EUR;1;Squier by Fender Japan Silver Series Stratocaster SST-39 1993-1994 - Flame Red Burst
+10392772804937;680.39;20;EUR;1;Squier by Fender Japan Silver Series Telecaster 2002-2004 - Black
 10400810533193;971.99;20;EUR;1;Squier by Fender Japan SQ Stratocaster 1984 - Vintage White
 10294035022153;615.59;20;EUR;1;Squier by Fender Japan SST-33 Stratocaster 1991-1992 - Black
 10400855327049;680.39;20;EUR;1;Squier by Fender Japan SST-R Stratocaster 1999-2002 - Transparent Blue Burst
@@ -888,17 +889,14 @@ product_code;price_gross;vat;currency;stock;name
 10164956856649;2429.99;20;EUR;1;Valley Arts Guitar Custom Pro 1985-1986 - Sunburst
 10231723655497;583.19;20;EUR;1;Victory Amplifiers Sheriff 212 Cabinet
 10451098239305;1069.19;20;EUR;1;Victory Amplifiers The Deputy Compact Amp Head
-10455105864009;1166.39;20;EUR;1;Victory Amplifiers The MKX Lunchbox AmpHead Head inkl. Pedale
 10431420825929;485.99;20;EUR;1;Vintage Flying V 2014 - Black
 10074960560457;64.79;20;EUR;1;Vintage Guitar Magazine Price Guide 2026 – Offizieller Gitarren-Preisführer
-10111385829705;143.63;20;EUR;1;Vision Stratocaster - Red
 10169810288969;87.47;20;EUR;1;VOCU Magic Mic Room Microphone Preamp Pedal
 10315903304009;923.39;20;EUR;1;VOX Bobcat BC-S66 2020 - Sunburst
 10176915636553;139.96;20;EUR;1;VOX Joe Satriani Signature JS-DS Satchurator Distortion Effect Pedal - Japan
 10357047558473;923.39;20;EUR;1;Warwick Corvette $$ Bass 2011 - Natural
 10292790264137;1929.95;20;EUR;1;Warwick Corvette $$ Double Buck Bass 2011 - Turquoise Blue Oil Finish
 9997843038537;777.59;20;EUR;1;Warwick Infinity RockBass 2018 - Natural
-10451044630857;2915.99;20;EUR;1;Washburn USA N4 Vintage Nuno Bettencourt Signature 2025 - Natural
 10450869879113;680.39;20;EUR;1;Westminster Japan Vintage Les Paul 1970s - Cherry Sunburst
 10451006816585;680.39;20;EUR;1;Westminster Japan Vintage Les Paul 1980 - Cherry Sunburst
 10381541015881;646.91;20;EUR;1;Yamaha AES620 Les Paul 2010 - Amber Flame Maple
@@ -925,7 +923,6 @@ product_code;price_gross;vat;currency;stock;name
 10381677363529;646.91;20;EUR;1;Yamaha Japan SF500 Super Flighter 1980 - Tobacco Sunburst
 10305293975881;923.39;20;EUR;1;Yamaha Japan SG800 1981 - Translucent Red
 10315884298569;1108.07;20;EUR;1;Yamaha Japan SG800S Standard 1982 - Tobacco Burst
-10349676560713;923.39;20;EUR;1;Yamaha Japan SGV300 2000 - Metallic Green
 10421912961353;680.39;20;EUR;1;Yamaha Japan SL380 Studio Lord Les Paul 1977 - Tobacco Burst
 10381506773321;646.91;20;EUR;1;Yamaha Japan SL380 Studio Lord Les Paul 1977 - Tobacco Sunburst
 10338195308873;738.71;20;EUR;1;Yamaha Japan SL400S Studio Lord Les Paul 1977 - Tobacco Sunburst
