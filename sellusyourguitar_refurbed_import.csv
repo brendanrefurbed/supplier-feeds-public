@@ -1,6 +1,11 @@
 product_code;price_gross;vat;currency;stock;name
+1190926243110;570.0;20;GBP;1;Epiphone Les Paul Custom Black Beauty 2007 Electric Guitar
+1050826229340;560.0;20;GBP;1;Gretsch G5420T Orange Stain 2016 Hollow Body Electric Guitar
+1160626216353;350.0;20;GBP;1;Danelectro Stock 59 Vintage Red Electric Guitar
+1290926246020;420.0;20;GBP;1;PRS SE 245 Standard Tobacco Burst 2022 Electric Guitar
+1131026250331;660.0;20;GBP;1;Epiphone J-200 Jumbo Aged Gloss 2021 Electro-Acoustic Guitar
+1131026250332;510.0;20;GBP;1;Sigma GBCE-3-SB+ Sunburst 2018 Electro Acoustic Guitar
 1270926245394;570.0;20;GBP;1;PRS SE Custom 24 Ltd Edition Roasted Maple Grey Black 2019 Left Handed Electric
-1170926242501;1030.0;20;GBP;1;Fender Japan Reissue ‘62 Custom Telecaster Black 2014 Electric Guitar
 1091026248940;1360.0;20;GBP;1;Jackson MJ Series Soloist SL2 Snow White 2025 Electric Guitar
 1111026249470;770.0;20;GBP;1;Sterling by MusicMan Stingray HH RAY34 Daphne Blue Electric Bass
 1270926245398;2920.0;20;GBP;1;Nik Huber Guitars Krauster II DS Tobacco Sunburst Semi-Gloss 2023 Left Handed
@@ -43,7 +48,6 @@ product_code;price_gross;vat;currency;stock;name
 1180626216931;255.0;20;GBP;1;Hotone Ampero II Stomp Amp Modeler/Effects Processor Electric Guitar Pedal
 1270926245383;245.0;20;GBP;1;Pedal Pawn RedPrint Dual Overdrive Electric Guitar Effects Pedal
 1260926244960;400.0;20;GBP;1;Peavey Rockingham Purple Gloss Hollow Body Electric Guitar
-1160926242212;400.0;20;GBP;1;Burns Marquee Club Series 2002 Fiesta Red Electric Guitar
 1240526210940;350.0;20;GBP;1;Godin SD22 Midnight Blue 2007 Electric Guitar
 1061026248220;1700.0;20;GBP;1;Fender James Burton Telecaster Red Paisley Flames 2006 Electric Guitar
 1210926243681;730.0;20;GBP;1;Taylor 212ce Matte Natural 2025 Grand Concert Electro-Acoustic Guitar
@@ -90,7 +94,6 @@ product_code;price_gross;vat;currency;stock;name
 1160926242213;740.0;20;GBP;1;Hagstrom H-III Scandi Sunburst c.1976 Modified Vintage Electric Guitar
 1170926242500;510.0;20;GBP;1;Sigma DM-SG5 Heritage Cherry Sunburst 2022 Electro-Acoustic Guitar
 1240926244480;1190.0;20;GBP;1;Fender American Professional Precision Bass 3-Color Sunburst 2017 Electric Bass
-1260926244940;2260.0;20;GBP;1;Martin D-28 Gloss Natural 2009 Acoustic Guitar
 1160926242252;660.0;20;GBP;1;Line 6 Variax Bass 700 Black 2005 Electric Modelling Bass Guitar
 1160926242250;660.0;20;GBP;1;Line 6 Variax Bass 700 Black 2004 Electric Modelling Bass Guitar
 1300926246192;940.0;20;GBP;1;Fender American Standard Stratocaster Olympic White 2003 Electric Guitar
@@ -120,7 +123,6 @@ product_code;price_gross;vat;currency;stock;name
 1100626214922;350.0;20;GBP;1;Epiphone Les Paul Special TV Yellow 2021 Electric Guitar
 1230926244100;1110.0;20;GBP;1;Takamine FN15 AR Natural Satin 2023 1 of 300 Ltd Edition Electro Acoustic Guitar
 1150826232102;370.0;20;GBP;1;Ibanez RGT42DXFM Brite Blue 2007 Electric Guitar
-1150926241971;1020.0;20;GBP;1;EVH Striped Series Frankenstein 'Frankie' Red with Black Stripes 2025 Electric
 1150926241970;690.0;20;GBP;1;PRS SE Custom 24 Floyd Charcoal Cherry Burst 2024 Electric Guitar
 1210926243400;860.0;20;GBP;1;Fender Kurt Cobain Jag-Stang Sonic Blue 2022 Electric Guitar
 1050926238820;1110.0;20;GBP;1;Charvel Angel Vivaldi PM DK24 GT7 Natural 2025 7-String Electric Guitar
@@ -137,7 +139,6 @@ product_code;price_gross;vat;currency;stock;name
 1120826231180;740.0;20;GBP;1;Schecter Sunset 6 Extreme Scarlet Burst 2023 Left-Handed Electric Guitar
 1080926239910;1190.0;20;GBP;1;Fender American Deluxe Stratocaster HSS Amber 2006 Electric Guitar
 1170726224180;370.0;20;GBP;1;Cort KX300 Open Pore Cobalt Burst 2023 Electric Guitar
-1070726222001;370.0;20;GBP;1;Sigma 000MC-15E Satin Natural 2025 Electro-Acoustic Guitar
 1290826236680;390.0;20;GBP;1;Gretsch G5435 Electromatic Black 2013 Electric Guitar
 1240726226150;570.0;20;GBP;1;Epiphone Les Paul Custom Black Beauty 2006 Electric Guitar
 1270826235970;1750.0;20;GBP;1;Roland G-808 Natural 1983 Guitar Synthesiser Controller Electric Guitar
@@ -367,7 +368,6 @@ product_code;price_gross;vat;currency;stock;name
 1060226179574;830.0;20;GBP;1;Epiphone Peter Frampton Les Paul Custom Ebony 2018 Electric Guitar
 1060226179710;1110.0;20;GBP;1;Fender Strat Plus 3-Color Sunburst 1991 Electric Guitar
 1070326189510;670.0;20;GBP;1;Jackson Pro Series Dinky DK7M metallic Black 2014 Electric Guitar
-1030226178320;1330.0;20;GBP;1;Taylor GS7 Grand Symphony Natural Gloss 2009 Acoustic Guitar
 1280226187150;2100.0;20;GBP;1;Rickenbacker 660 Jetglo 2013 Electric Guitar
 1270226186890;4390.0;20;GBP;1;Martin OM Davy Graham Custom Edition (UK) Gloss Natural 2007 Acoustic Guitar
 126012573993;770.0;20;GBP;1;Fret-King Esprit lll Green Label Series Transparent Black Electric Guitar
