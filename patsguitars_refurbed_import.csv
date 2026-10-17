@@ -99,7 +99,6 @@ product_code;price_gross;vat;currency;stock;name
 10405134762313;145.79;20;EUR;1;Drive Jail Guitar Doors Effektpedal
 10423187407177;1943.99;20;EUR;1;Duesenberg Rocket II Flying V 2005 - Black and White
 10357093695817;1292.75;20;EUR;1;Duesenberg Starplayer Special 2019 - Black Sparkle
-10462056579401;1749.59;20;EUR;1;Duesenberg Starplayer TV 2012 - Vintage Orange
 10341678055753;242.99;20;EUR;1;Dunlop Crybaby 50th Anniversary Gold Effektpedal
 10451097190729;874.79;20;EUR;1;Edwards Jazz Bass 2003-2004 - Candy Apple Red
 10305782907209;87.47;20;EUR;1;Effects Bakery An Butter Cooppe Drive Effektpedal
@@ -244,6 +243,8 @@ product_code;price_gross;vat;currency;stock;name
 10263472013641;45.35;20;EUR;1;Faber iNsert-MGG Faber iNsert = Nashville to '59 ABR converter studs, 7mm/4mm, BRASS, gold plated, gloss
 10263472046409;31.31;20;EUR;1;Faber iNsert-MNA Faber iNsert = Nashville to '59 ABR converter studs, 7mm/4mm, BRASS, nickel plated, aged
 10263472079177;29.15;20;EUR;1;Faber iNsert-MNG Faber iNsert = Nashville to '59 ABR converter studs, 7mm/4mm, BRASS, nickel plated, glossy
+10263038853449;184.67;20;EUR;1;Faber JBC BB Jazz Bass - Black
+10263070998857;184.67;20;EUR;1;Faber JBC YSR Jazz Bass - Sunburst
 10277464113481;585.35;20;EUR;1;Faber Les Paul Revival Model - Aged Sunburst
 9971870826825;215.99;20;EUR;1;Faber MasterKit Premium – Gibson ABR-1 – Nickel Aged
 9972770570569;215.99;20;EUR;1;Faber MasterKit Premium – Gibson ABR-1 – Nickel Gloss
@@ -439,7 +440,6 @@ product_code;price_gross;vat;currency;stock;name
 10403423322441;971.99;20;EUR;1;Fender Japan 62 Reissue Precision Bass 2006-2008 - Black
 10240710279497;785.15;20;EUR;1;Fender Japan 62 Reissue Stratocaster - Sunburst
 10398951866697;971.99;20;EUR;1;Fender Japan 62 Reissue Stratocaster 1984-1987 - Satin Sunburst
-10398900257097;874.79;20;EUR;1;Fender Japan 62 Reissue Stratocaster 1990-1991 - Black
 10392626987337;874.79;20;EUR;1;Fender Japan 62 Reissue Stratocaster 1991-1992 - Black
 10392785092937;874.79;20;EUR;1;Fender Japan 62 Reissue Stratocaster 1993-1994 - Satin Sunburst - MOD
 10387876446537;831.59;20;EUR;1;Fender Japan 62 Reissue Stratocaster 1993-1994 - Vintage White
@@ -533,7 +533,6 @@ product_code;price_gross;vat;currency;stock;name
 10338197209417;1200.95;20;EUR;1;Fender MJT 60s Reissue Stratocaster - Burgundy Mist - Heavy Relic
 10338167488841;1200.95;20;EUR;1;Fender MJT 60s Reissue Stratocaster - Candy Apple Green - Heavy Relic
 10338198716745;1200.95;20;EUR;1;Fender MJT 60s Reissue Stratocaster - Inca Silver - Heavy Relic
-10338162704713;738.71;20;EUR;1;Fender MOD Stratocaster 2011 - Fiesta Red Nitro
 9903118680393;3887.99;20;EUR;1;Fender Mustang 1973 - Sunburst
 10461867344201;874.79;20;EUR;1;Fender Partcaster Telecaster 2021 - Butterscotch Blonde
 10421718450505;874.79;20;EUR;1;Fender Player Jazzmaster MOD 2020 - Sunburst
@@ -556,6 +555,7 @@ product_code;price_gross;vat;currency;stock;name
 10390725067081;971.99;20;EUR;1;Fernandes Japan TE-95HT 1980 - Hotei Model
 10448332390729;680.39;20;EUR;1;Fernandes LE-1X Stratocaster 2003 - Sunburst
 10435612410185;680.39;20;EUR;1;Fernandes Limited Edition TEJ - Black
+10470169346377;680.39;20;EUR;1;Fernandes Limited Edition Telecaster 2013 - Vintage White
 10386326651209;462.23;20;EUR;1;Fernandes Precision Bass RPB-360  2008 - Red
 10216726659401;874.79;20;EUR;1;Fernandes Telecaster 1974 - Natural - Vintage Japan
 10392821334345;680.39;20;EUR;1;Fernandes The Function Flying V 2005 - Black
@@ -607,7 +607,6 @@ product_code;price_gross;vat;currency;stock;name
 10255401746761;3071.51;20;EUR;1;Gibson Les Paul Deluxe 1980 - Natural
 10367099535689;1200.95;20;EUR;1;Gibson Les Paul Junior 2016 - Vintage Sunburst
 10305319928137;1662.11;20;EUR;1;Gibson Les Paul Signature Player Plus 2018 - Satin Vintage Sunburst
-10294148235593;1052.99;20;EUR;1;Gibson Les Paul Special 2001 - Ebony
 10349647266121;1200.95;20;EUR;1;Gibson Les Paul Special 2001 - Red
 10141672898889;1028.15;20;EUR;1;Gibson Les Paul Special 2005 - Faded Cherry
 10231420584265;1052.99;20;EUR;1;Gibson Les Paul Special Tribute 2021 - Faded Black

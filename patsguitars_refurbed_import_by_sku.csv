@@ -99,7 +99,6 @@ E061089;369.35;20;EUR;1;Dean Sarasota 2006 - Cherry Sunburst
 x00353;145.79;20;EUR;1;Drive Jail Guitar Doors Effektpedal
 050742_54;1943.99;20;EUR;1;Duesenberg Rocket II Flying V 2005 - Black and White
 192151;1292.75;20;EUR;1;Duesenberg Starplayer Special 2019 - Black Sparkle
-121582_56;1749.59;20;EUR;1;Duesenberg Starplayer TV 2012 - Vintage Orange
 x00306;242.99;20;EUR;1;Dunlop Crybaby 50th Anniversary Gold Effektpedal
 ED1402274_51;874.79;20;EUR;1;Edwards Jazz Bass 2003-2004 - Candy Apple Red
 x00289;87.47;20;EUR;1;Effects Bakery An Butter Cooppe Drive Effektpedal
@@ -244,6 +243,8 @@ x00159;615.59;20;EUR;1;Faber FA130S-VFM-HSS Stratocaster – Violin Finish
 3116-2;45.35;20;EUR;1;Faber iNsert-MGG Faber iNsert = Nashville to '59 ABR converter studs, 7mm/4mm, BRASS, gold plated, gloss
 3116-1;31.31;20;EUR;1;Faber iNsert-MNA Faber iNsert = Nashville to '59 ABR converter studs, 7mm/4mm, BRASS, nickel plated, aged
 3116-0;29.15;20;EUR;1;Faber iNsert-MNG Faber iNsert = Nashville to '59 ABR converter studs, 7mm/4mm, BRASS, nickel plated, glossy
+x00155;184.67;20;EUR;1;Faber JBC BB Jazz Bass - Black
+x00154;184.67;20;EUR;1;Faber JBC YSR Jazz Bass - Sunburst
 1102505;585.35;20;EUR;1;Faber Les Paul Revival Model - Aged Sunburst
 x00228;215.99;20;EUR;1;Faber MasterKit Premium – Gibson ABR-1 – Nickel Gloss
 x00229;215.99;20;EUR;1;Faber MasterKit Premium – Metric (Epiphone & Asian) – Nickel Aged
@@ -437,7 +438,6 @@ N027961_51;971.99;20;EUR;1;Fender Japan 62 Reissue Precision Bass 1993-1994 - Bl
 S024582_51;971.99;20;EUR;1;Fender Japan 62 Reissue Precision Bass 2006-2008 - Black
 9502082;785.15;20;EUR;1;Fender Japan 62 Reissue Stratocaster - Sunburst
 E855420_54;971.99;20;EUR;1;Fender Japan 62 Reissue Stratocaster 1984-1987 - Satin Sunburst
-K001707_54;874.79;20;EUR;1;Fender Japan 62 Reissue Stratocaster 1990-1991 - Black
 L032553;874.79;20;EUR;1;Fender Japan 62 Reissue Stratocaster 1991-1992 - Black
 N036197;874.79;20;EUR;1;Fender Japan 62 Reissue Stratocaster 1993-1994 - Satin Sunburst - MOD
 P083098;831.59;20;EUR;1;Fender Japan 62 Reissue Stratocaster 1993-1994 - Vintage White
@@ -531,7 +531,6 @@ JD13017339_MJT_54;1360.79;20;EUR;1;Fender MJT 50s Reissue Telecaster - Surf Gree
 Q067138_MJT;1200.95;20;EUR;1;Fender MJT 60s Reissue Stratocaster - Burgundy Mist - Heavy Relic
 T099295_MJT;1200.95;20;EUR;1;Fender MJT 60s Reissue Stratocaster - Candy Apple Green - Heavy Relic
 S000567_MJT;1200.95;20;EUR;1;Fender MJT 60s Reissue Stratocaster - Inca Silver - Heavy Relic
-MX10280925;738.71;20;EUR;1;Fender MOD Stratocaster 2011 - Fiesta Red Nitro
 374014;3887.99;20;EUR;1;Fender Mustang 1973 - Sunburst
 US21001333_54;874.79;20;EUR;1;Fender Partcaster Telecaster 2021 - Butterscotch Blonde
 MX20032254_54;874.79;20;EUR;1;Fender Player Jazzmaster MOD 2020 - Sunburst
@@ -554,6 +553,7 @@ MX22225634;878.03;20;EUR;1;Fender Vintera 60s Jaguar 2022 - Sunburst
 Y02408;971.99;20;EUR;1;Fernandes Japan TE-95HT 1980 - Hotei Model
 FG03060112_54;680.39;20;EUR;1;Fernandes LE-1X Stratocaster 2003 - Sunburst
 x00364;680.39;20;EUR;1;Fernandes Limited Edition TEJ - Black
+L137581_54;680.39;20;EUR;1;Fernandes Limited Edition Telecaster 2013 - Vintage White
 FG08012310;462.23;20;EUR;1;Fernandes Precision Bass RPB-360  2008 - Red
 40601;874.79;20;EUR;1;Fernandes Telecaster 1974 - Natural - Vintage Japan
 L051919;680.39;20;EUR;1;Fernandes The Function Flying V 2005 - Black
@@ -604,7 +604,6 @@ x00367_54;680.39;20;EUR;1;Fresher Japan Vintage Stratocaster Straighter 1970s - 
 83390502;3071.51;20;EUR;1;Gibson Les Paul Deluxe 1980 - Natural
 160084932;1200.95;20;EUR;1;Gibson Les Paul Junior 2016 - Vintage Sunburst
 180029617;1662.11;20;EUR;1;Gibson Les Paul Signature Player Plus 2018 - Satin Vintage Sunburst
-01691348;1052.99;20;EUR;1;Gibson Les Paul Special 2001 - Ebony
 00091628;1200.95;20;EUR;1;Gibson Les Paul Special 2001 - Red
 00625576;1028.15;20;EUR;1;Gibson Les Paul Special 2005 - Faded Cherry
 203910037;1052.99;20;EUR;1;Gibson Les Paul Special Tribute 2021 - Faded Black
