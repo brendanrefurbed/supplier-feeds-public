@@ -1,12 +1,10 @@
 product_code;price_gross;vat;currency;stock;name
 1011026246361;420.0;20;GBP;1;Ibanez SRX700 Natural 2002 Electric Bass
 1260926245162;400.0;20;GBP;1;Schecter Diamond Series Demon-7 Black Sparkle 2011 7-String Electric Guitar
-1091026248970;400.0;20;GBP;1;PRS SE 245 Standard Tobacco Burst 2022 Electric Guitar
 1270926245395;450.0;20;GBP;1;G&L Tribute ASAT Classic Bluesboy Left-Handed Sunburst 2021 Electric Guitar
 1290926246050;1420.0;20;GBP;1;PRS CE 24 Trampas Green 2017 Electric Guitar
 1270926245391;480.0;20;GBP;1;Fender Player Stratocaster Tidepool Blue 2022 Left Handed Electric Guitar
 1051026247782;500.0;20;GBP;1;Fender Modern Player Telecaster Thinline Deluxe Transparent Charcoal 2015 Guitar
-1300926246140;510.0;20;GBP;1;Ovation Standard Balladeer 2771AX Black 2019 Electro-Acoustic Guitar
 1270926245397;480.0;20;GBP;1;Chapman ML3 Pro Modern Hot Blue 2021 Left-Handed Electric Guitar
 1011026246360;480.0;20;GBP;1;Yamaha CSF3M Gloss Natural 2021 Electro Acoustic Guitar
 1290926245931;4800.0;20;GBP;1;Gibson Custom Shop CF-100E Vintage Sunburst 2008 Acoustic-Electric Flattop LH
@@ -26,9 +24,7 @@ product_code;price_gross;vat;currency;stock;name
 1290926246030;1250.0;20;GBP;1;Fender American Professional II Stratocaster Dark Night 2022 Left-Handed Guitar
 1071026248570;1930.0;20;GBP;1;The Heritage H535 Antique Natural 2008 Semi-Hollow Electric Guitar
 1041026247400;1420.0;20;GBP;1;Epiphone Casino Japan 1992 Sunburst Semi-Hollow Electric Guitar
-1031026247271;400.0;20;GBP;1;Epiphone J-200 Studio Natural 2025 Jumbo Acoustic Guitar
 1290926245930;1280.0;20;GBP;1;Fender American Acoustasonic Telecaster Natural 2020 LH Electro-Acoustic
-1031026247140;460.0;20;GBP;1;Schecter Omen Elite-6 FR Charcoal 2023 Electric Guitar
 1101026249100;480.0;20;GBP;1;Fender Player Telecaster Candy Apple Red 2023 Electric Guitar
 1031026247340;510.0;20;GBP;1;Ibanez Premium RG921QMF Red Desert 2012 Electric Guitar
 1051026247781;690.0;20;GBP;1;Epiphone Tom Delonge Signature ES-333 Olive Green 2015 Semi-Hollow Guitar
