@@ -1,4 +1,7 @@
 product_code;price_gross;vat;currency;stock;name
+1121026249970;1820.0;20;GBP;1;PRS Silver Sky Satin Moc Sand 2021 John Mayer Signature Electric Guitar
+1171026251371;1370.0;20;GBP;1;Fender American Professional II Telecaster Deluxe Miami Blue w/Upgrades
+1250926244880;2840.0;20;GBP;1;Fender Final Fantasy XIV Stratocaster Gloss Black 2022 Electric Guitar
 TUNERS;50.0;20;GBP;1;Fender Locking Stratocaster/Telecaster Staggered Tuning Machines Chrome
 1061026248083;870.0;20;GBP;1;Epiphone Inspired by Gibson 1962 Reissue ES-335 Vintage Burst Electric Guitar
 1061026248082;1820.0;20;GBP;1;Gibson Les Paul Standard '60s Iced Tea 2023 Electric Guitar
@@ -10,7 +13,7 @@ TUNERS;50.0;20;GBP;1;Fender Locking Stratocaster/Telecaster Staggered Tuning Mac
 1180226183840;390.0;20;GBP;1;Ibanez Artcore AFD75T Blue Sparkle 2014 Hollow Body Electric Guitar
 1150826232120;350.0;20;GBP;1;Ibanez RG421QM Cerulean Blue Burst 2024 Electric Guitar
 1260926245162;400.0;20;GBP;1;Schecter Diamond Series Demon-7 Black Sparkle 2011 7-String Electric Guitar
-1270926245395;450.0;20;GBP;1;G&L Tribute ASAT Classic Bluesboy Left-Handed Sunburst 2021 Electric Guitar
+1091026248970;400.0;20;GBP;1;PRS SE 245 Standard Tobacco Burst 2022 Electric Guitar
 1290926246050;1420.0;20;GBP;1;PRS CE 24 Trampas Green 2017 Electric Guitar
 1270926245391;480.0;20;GBP;1;Fender Player Stratocaster Tidepool Blue 2022 Left Handed Electric Guitar
 1051026247782;500.0;20;GBP;1;Fender Modern Player Telecaster Thinline Deluxe Transparent Charcoal 2015 Guitar
@@ -32,11 +35,9 @@ TUNERS;50.0;20;GBP;1;Fender Locking Stratocaster/Telecaster Staggered Tuning Mac
 1290926246030;1250.0;20;GBP;1;Fender American Professional II Stratocaster Dark Night 2022 Left-Handed Guitar
 1071026248570;1930.0;20;GBP;1;The Heritage H535 Antique Natural 2008 Semi-Hollow Electric Guitar
 1041026247400;1420.0;20;GBP;1;Epiphone Casino Japan 1992 Sunburst Semi-Hollow Electric Guitar
-1290926245930;1280.0;20;GBP;1;Fender American Acoustasonic Telecaster Natural 2020 LH Electro-Acoustic
 1101026249100;480.0;20;GBP;1;Fender Player Telecaster Candy Apple Red 2023 Electric Guitar
 1031026247340;510.0;20;GBP;1;Ibanez Premium RG921QMF Red Desert 2012 Electric Guitar
 1051026247781;690.0;20;GBP;1;Epiphone Tom Delonge Signature ES-333 Olive Green 2015 Semi-Hollow Guitar
-1270926245340;1250.0;20;GBP;1;Gibson Memphis ES-339 Studio Wine Red 2016 Semi-Hollow Electric Guitar
 1280626219741;880.0;20;GBP;1;Cordoba C10 Crossover Natural Gloss 2016 Classical Guitar
 1011026246480;860.0;20;GBP;1;Gibson SG Special Fireburst 2015 Electric Guitar
 1021026246911;740.0;20;GBP;1;Epiphone Tommy Thayer Les Paul Electric Blue 2022 Electric Guitar
@@ -78,7 +79,6 @@ TUNERS;50.0;20;GBP;1;Fender Locking Stratocaster/Telecaster Staggered Tuning Mac
 1011026246641;870.0;20;GBP;1;Taylor 310 Natural 1998 Dreadnought Electro-Acoustic Guitar
 1290926245901;3390.0;20;GBP;1;Gibson Custom, Art & Historic 'Cloud 9' Chambered Reissue 1954 Les Paul Standard
 1300626220460;1530.0;20;GBP;1;Ernie Ball Music Man StingRay 2 EQ H Black 2010 Electric Bass
-1300926246330;770.0;20;GBP;1;Strandberg Boden Essential Future Dusk 2026 Headless Electric Guitar
 1051026247633;880.0;20;GBP;1;Fender American Special Stratocaster Surf Green 2013 Electric Guitar
 1210926243621;1760.0;20;GBP;1;Ernie Ball MusicMan Stingray 5 H Ruby Red 1999 5-String Electric Bass
 1270926245380;2420.0;20;GBP;1;Suhr Classic S Limited Edition Metallic Brandywine 2020 Electric Guitar
@@ -92,7 +92,6 @@ TUNERS;50.0;20;GBP;1;Fender Locking Stratocaster/Telecaster Staggered Tuning Mac
 1080626214480;1030.0;20;GBP;1;EVH Striped Series 'Frankie' Red with Black Stripes 2021 Electric Guitar
 1290926245910;1130.0;20;GBP;1;Gibson SG Standard Heritage Cherry 2010 Electric Guitar
 1240926244600;1140.0;20;GBP;1;Gibson SG Standard Fireburst 2015 Electric Guitar
-1170926242420;400.0;20;GBP;1;Ibanez AFB200-SRD-12-04 Sunset Red 2013 Hollow Body Bass Guitar
 1220926243763;420.0;20;GBP;1;Epiphone Les Paul Standard Ltd Edition Gold Sparkle 1997 Electric Guitar
 1140926241630;480.0;20;GBP;1;Epiphone Les Paul Standard Ltd Edition Gold Sparkle 1997 Electric Guitar
 1130926241301;460.0;20;GBP;1;Ibanez Artcore Series AS93 Trans Cherry Red 2017 Hollow-Body Electric Guitar
@@ -178,7 +177,6 @@ TUNERS;50.0;20;GBP;1;Fender Locking Stratocaster/Telecaster Staggered Tuning Mac
 1260826235714;1040.0;20;GBP;1;Fender American Stratocaster Black 2005 Electric Guitar w/ Modifications
 1300826237060;740.0;20;GBP;1;ESP LTD Eclipse Custom 1987 Reissue Rainbow Crackle 2023 Electric Guitar
 1020926238111;850.0;20;GBP;1;Fender Lead II USA 1981/82 Wine Red Electric Guitar
-1270826236300;1010.0;20;GBP;1;Fender American Performer Stratocaster HSS 2023 Gloss Black Electric Guitar
 1160826232150;1870.0;20;GBP;1;Ernie Ball Music Man Valentine Trans Buttermilk 2025 Electric Guitar
 1050826229302;680.0;20;GBP;1;Epiphone Joe Bonamassa Signature Les Paul Goldtop 2012 Electric Guitar
 1270826235950;680.0;20;GBP;1;Supro Silverwood Transparent Red 2019 Electric Guitar
@@ -243,7 +241,6 @@ TUNERS;50.0;20;GBP;1;Fender Locking Stratocaster/Telecaster Staggered Tuning Mac
 1240726226161;680.0;20;GBP;1;ESP LTD SN-1000 FR Charcoal Metallic 2015 Modified Electric Guitar
 1170726224251;560.0;20;GBP;1;Ibanez AF105 Natural Hollow Body 2006 Electric Guitar
 1190726224650;970.0;20;GBP;1;Fender Ltd Edition Mark Hoppus Jaguar Bass 3-Color Sunburst 2025 Electric Bass
-1200726224970;630.0;20;GBP;1;D'Angelico Premier EXL-1 Ocean Turquoise 2018 Hollow Body Electric Guitar
 1140726223560;930.0;20;GBP;1;Fender Made in Japan Traditional '60s Stratocaster 2020 Lake Placid Blue
 1220726225360;1020.0;20;GBP;1;Godin Multiac Nylon Encore Natural Satin 2019 Electro Acoustic Guitar
 1210726225290;4930.0;20;GBP;1;Gibson Custom, Art & Historic 1957 Les Paul Custom 'Black Beauty' Reissue 2000
@@ -299,7 +296,6 @@ TUNERS;50.0;20;GBP;1;Fender Locking Stratocaster/Telecaster Staggered Tuning Mac
 1140825125971;3660.0;20;GBP;1;PRS Custom 24 Vintage Sunburst 1991 Electric Guitar
 1120526207800;490.0;20;GBP;1;Taylor 110 Natural 2004 Left-Handed Acoustic Guitar
 1160226183181;230.0;20;GBP;1;Yamaha SJ-180 Gloss Natural Acoustic Guitar
-1200526210180;830.0;20;GBP;1;Gibson The Paul II Gloss Black 1995 Electric Guitar
 1240526210880;3090.0;20;GBP;1;PRS Tremonti Fire Red Burst 2016 Electric Guitar
 1170526209190;2520.0;20;GBP;1;Avalon Ard Ri L1-320 Satin Natural 2014 Jumbo Electro-Acoustic Guitar
 1120526208001;300.0;20;GBP;1;Samick JTR Design Linda LN10 Black 2011 Electric Guitar
@@ -312,7 +308,6 @@ TUNERS;50.0;20;GBP;1;Fender Locking Stratocaster/Telecaster Staggered Tuning Mac
 1100126169811;280.0;20;GBP;1;Peavey JF1EX Transparent Red Semi-Hollow Electric Guitar
 1200526210080;1770.0;20;GBP;1;Alusonic Django Standard 5 Gloss Audi RS Nardo Grey 2011 5-String Bass
 1170326192340;1210.0;20;GBP;1;Patrick Eggle Guitars Berlin Pro Cherry 1993 Electric Guitar
-1120526208003;410.0;20;GBP;1;Westone Thunder 1 Natural 1980 Japan Vintage Electric Guitar
 1060526206592;335.0;20;GBP;1;Moollon Custom Shop Overdrive/Distortion Guitar Effects Pedal
 1170326192304;450.0;20;GBP;1;Commodore N25 semi-hollow 1972 Japan Vintage electric guitar
 1110526207480;1260.0;20;GBP;1;Fender American Standard Stratocaster Shawbucker HSS Black 2016 Modified
@@ -352,7 +347,7 @@ TUNERS;50.0;20;GBP;1;Fender Locking Stratocaster/Telecaster Staggered Tuning Mac
 1170326192302;480.0;20;GBP;1;Gibson Embossed Logo Neck Position Mini-Humbucker c.1971 Vintage Pickup
 1170326192301;480.0;20;GBP;1;Gibson Embossed Logo Neck Position Mini Humbucker c.1971 Vintage Pickup
 124022618601;250.0;20;GBP;1;Danelectro DJ Food Series Guitar Effects Pedal Case
-1040426197561;1000.0;20;GBP;1;Mesa/Boogie F-100 All Valve Combo Amplifier
+1040426197561;840.0;20;GBP;1;Mesa/Boogie F-100 All Valve Combo Amplifier
 1200126173370;390.0;20;GBP;1;Epiphone Les Paul Standard Pro Limited Edition Tiger Eye Blue 2018 Guitar
 1170326192308;670.0;20;GBP;1;Aria Pro II PE-460 Sunburst 1980 Vintage MIJ Electric Guitar
 1020426197092;1160.0;20;GBP;1;Fender American Deluxe Fat Stratocaster HSS Crimson Red Transparent 2001
@@ -383,7 +378,6 @@ TUNERS;50.0;20;GBP;1;Fender Locking Stratocaster/Telecaster Staggered Tuning Mac
 1020226177881;390.0;20;GBP;1;Gretsch G5236 Electromatic Pro Jet Silver Sparkle 2010 Electric Guitar
 1270126175981;1050.0;20;GBP;1;Fender John 5 Black 2004 Telecaster Electric Guitar
 1260126175553;2550.0;20;GBP;1;National Tricone Polychrome 2007 Resonator Acoustic Guitar
-1110725116270;340.0;20;GBP;1;Vintage V72 Reissued Custom Flame Tobacco Burst 2016 LH Electric Guitar
 1091225160950;1380.0;20;GBP;1;Legator Ninja X6-CB Caribbean Blue 2022 Electric Guitar
 1121225161785;780.0;20;GBP;1;Peerless Wizard Standard Sunburst 2009 Hollow-Body Electric Guitar
 1231125156260;1600.0;20;GBP;1;Eastman T146SM Gloss Classic Thinline Archtop Electric Guitar
