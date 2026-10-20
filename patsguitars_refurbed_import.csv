@@ -81,6 +81,9 @@ product_code;price_gross;vat;currency;stock;name
 10305360462153;615.59;20;EUR;1;CoolZ Japan Fujigen Telecaster 2012 - Sunburst
 10421766324553;680.39;20;EUR;1;CoolZ Japan Jazz Bass 2011 - Black
 10381601997129;646.91;20;EUR;1;CoolZ Japan Jazz Bass 2018 - Sunburst
+10479747694921;777.59;20;EUR;1;CoolZ Japan Les Paul 2007 -
+10366163812681;646.91;20;EUR;1;CoolZ Japan Medium Scale Stratocaster 2009 - Sunburst
+10479291498825;680.39;20;EUR;1;CoolZ Japan Telecaster 2016 - Black
 10381478363465;646.91;20;EUR;1;CoolZ Japan ZJB-1R Jazz Bass 2007 - Sunburst
 10366130684233;646.91;20;EUR;1;CoolZ Japan ZST-10R Stratocaster 2017 - Sunburst
 10400834126153;680.39;20;EUR;1;CoolZ Japan ZST-1R Stratocaster 2010 - Lace Placid Blue
@@ -931,7 +934,6 @@ product_code;price_gross;vat;currency;stock;name
 10404997693769;680.39;20;EUR;1;Yamaha Japan SL430 Les Paul 1980 - Black
 10451022414153;874.79;20;EUR;1;Yamaha Japan SL500S Les Paul 1979 - Cherry Sunburst
 10305335591241;790.55;20;EUR;1;Yamaha Japan SL500S Studio Lord Les Paul 1978 - Cherry Sunburst
-10328403247433;646.91;20;EUR;1;Yamaha Japan SR-500 Super Rock N Roller Stratocaster 1979 - Sunburst
 10381686931785;646.91;20;EUR;1;Yamaha Japan SS300 Custom 1982 - Metallic Red
 10316364382537;738.71;20;EUR;1;Yamaha Japan SS700EX 1983 - Black
 10365958357321;646.91;20;EUR;1;Yamaha Japan STH 500 R Stratocaster 1982-1984 - Coral Blue Burst
