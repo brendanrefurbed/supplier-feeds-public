@@ -1,4 +1,8 @@
 product_code;price_gross;vat;currency;stock;name
+1161026251101;770.0;20;GBP;1;Fender Highway One Stratocaster Black 2008 Electric Guitar
+1171026251380;1130.0;20;GBP;1;Fender Japan Reissue '62 Telecaster Custom Sunburst 2012 Electric Guitar
+1200926243230;570.0;20;GBP;1;Epiphone Les Paul Custom 'Black Beauty' 2000 Electric Guitar
+1031026247262;560.0;20;GBP;1;Burny RLC-50JS Black 2008 Electric Guitar
 1171026251350;600.0;20;GBP;1;Michael Kelly Hybrid Special Spalted Maple Semi-Hollow Electric Guitar
 1171026251352;740.0;20;GBP;1;Gordon Smith GS1 Korina Natural Satin Electric Guitar
 1051026248000;770.0;20;GBP;1;Godin Summit CT Trans Natural Flame Electric Guitar
@@ -29,7 +33,6 @@ TUNERS;50.0;20;GBP;1;Fender Locking Stratocaster/Telecaster Staggered Tuning Mac
 1290926245931;4800.0;20;GBP;1;Gibson Custom Shop CF-100E Vintage Sunburst 2008 Acoustic-Electric Flattop LH
 1121026249511;510.0;20;GBP;1;Epiphone Casino Vintage Sunburst 2022 Hollow Body Electric Guitar
 1190926243110;570.0;20;GBP;1;Epiphone Les Paul Custom Black Beauty 2007 Electric Guitar
-1160626216353;350.0;20;GBP;1;Danelectro Stock 59 Vintage Red Electric Guitar
 1290926246020;420.0;20;GBP;1;PRS SE 245 Standard Tobacco Burst 2022 Electric Guitar
 1131026250331;660.0;20;GBP;1;Epiphone J-200 Jumbo Aged Gloss 2021 Electro-Acoustic Guitar
 1131026250332;510.0;20;GBP;1;Sigma GBCE-3-SB+ Sunburst 2018 Electro Acoustic Guitar
@@ -144,7 +147,6 @@ TUNERS;50.0;20;GBP;1;Fender Locking Stratocaster/Telecaster Staggered Tuning Mac
 1080926239950;740.0;20;GBP;1;Fender Deluxe Roadhouse Stratocaster Mystic Ice Blue 2019 Electric Guitar
 1170926242362;2310.0;20;GBP;1;Patrick James Eggle ‘Jumbo’ Gloss Natural 2004 Slope Shoulder Dreadnought
 1100726222852;370.0;20;GBP;1;Epiphone Les Paul Special TV Yellow 2020 Electric Guitar
-1130526208220;390.0;20;GBP;1;Epiphone Dot Cherry 2004 Semi Hollow Electric Guitar
 1120826231180;740.0;20;GBP;1;Schecter Sunset 6 Extreme Scarlet Burst 2023 Left-Handed Electric Guitar
 1080926239910;1190.0;20;GBP;1;Fender American Deluxe Stratocaster HSS Amber 2006 Electric Guitar
 1170726224180;370.0;20;GBP;1;Cort KX300 Open Pore Cobalt Burst 2023 Electric Guitar
