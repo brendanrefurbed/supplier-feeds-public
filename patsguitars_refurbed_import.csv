@@ -81,7 +81,7 @@ product_code;price_gross;vat;currency;stock;name
 10305360462153;615.59;20;EUR;1;CoolZ Japan Fujigen Telecaster 2012 - Sunburst
 10421766324553;680.39;20;EUR;1;CoolZ Japan Jazz Bass 2011 - Black
 10381601997129;646.91;20;EUR;1;CoolZ Japan Jazz Bass 2018 - Sunburst
-10479747694921;777.59;20;EUR;1;CoolZ Japan Les Paul 2007 -
+10479747694921;777.59;20;EUR;1;CoolZ Japan Les Paul 2007 - Natural Flametop
 10366163812681;646.91;20;EUR;1;CoolZ Japan Medium Scale Stratocaster 2009 - Sunburst
 10479291498825;680.39;20;EUR;1;CoolZ Japan Telecaster 2016 - Black
 10381478363465;646.91;20;EUR;1;CoolZ Japan ZJB-1R Jazz Bass 2007 - Sunburst
@@ -411,7 +411,6 @@ product_code;price_gross;vat;currency;stock;name
 10349688226121;1846.79;20;EUR;1;Fender American Vintage 57 Reissue Stratocaster 1996 - Sunburst
 10330798883145;1662.11;20;EUR;1;Fender American Vintage 62 Reissue Stratocaster 2001 - Sunburst
 10366187307337;923.39;20;EUR;1;Fender Chilli Beans Moto Signature Mustang 2025 - Black
-10358268199241;923.39;20;EUR;1;Fender Classic Series 69 Reissue Telecaster Thinline 2002 - Black
 10413148373321;3110.39;20;EUR;1;Fender Custom Shop American Classic Stratocaster 1993 - Vintage White
 9997912670537;4859.99;20;EUR;1;Fender Custom Shop Bloodwood Fretless Bass Masterbuilt by Jason Davis 2003
 10412979061065;3110.39;20;EUR;1;Fender Custom Shop Jazz Bass 1990 - Natural
@@ -424,7 +423,6 @@ product_code;price_gross;vat;currency;stock;name
 10240964886857;701.99;20;EUR;1;Fender Deluxe Powerhouse Stratocaster 1998 - Lake Placid Blue
 10033144365385;161.99;20;EUR;1;Fender Frontman 15G Transistor Verstärker
 10451016089929;1166.39;20;EUR;1;Fender Highway One Telecaster 2009 - Vintage White
-10479780200777;874.79;20;EUR;1;Fender Japan 3TS Jazz Bass 2006-2008 - Sunburst
 10381559562569;923.39;20;EUR;1;Fender Japan 52 Reissue Telecaster 1994-1995 - Fotoflame - Butterscotch Blonde
 10392751243593;1108.07;20;EUR;1;Fender Japan 52 Reissue Telecaster 1994-1995 - Natural
 10415782035785;971.99;20;EUR;1;Fender Japan 52 Reissue Telecaster 1995-1996 - Natural
@@ -439,6 +437,7 @@ product_code;price_gross;vat;currency;stock;name
 10450993217865;874.79;20;EUR;1;Fender Japan 62 Reissue Jazz Bass - Trans Blue - matching Headstock
 10445009453385;874.79;20;EUR;1;Fender Japan 62 Reissue Jazz Bass 1997-2000 - Sunburst
 10413005013321;874.79;20;EUR;1;Fender Japan 62 Reissue Jazz Bass 2004-2005 - Old Candy Apple Red
+10479780200777;874.79;20;EUR;1;Fender Japan 62 Reissue Jazz Bass 2006-2008 - Sunburst
 10387876446537;831.59;20;EUR;1;Fender Japan 62 Reissue Mini Stratocaster 1993-1994 - Vintage White
 10461729161545;971.99;20;EUR;1;Fender Japan 62 Reissue Precision Bass 1993-1994 - Black
 10403423322441;971.99;20;EUR;1;Fender Japan 62 Reissue Precision Bass 2006-2008 - Black
@@ -634,7 +633,7 @@ product_code;price_gross;vat;currency;stock;name
 10256705618249;1754.99;20;EUR;1;Gibson Melody Maker DC 1977 - Sunburst
 10379465457993;1385.63;20;EUR;1;Gibson Midtown Standard 2015 - Sunburst
 10404806820169;777.59;20;EUR;1;Gibson SG Special 1995 - Ferrari Red
-10091535728969;7775.99;20;EUR;1;Gibson Thunderbird II Bass 1964 – Alembic Custom 1976 – Tree of Life – Ember Red
+10091535728969;6998.39;20;EUR;1;Gibson Thunderbird II Bass 1964 – Alembic Custom 1976 – Tree of Life – Ember Red
 10367173001545;2770.19;20;EUR;1;Gibson Vegas High Roller 2006 - Felt Green
 10451061637449;1943.99;20;EUR;1;Gibson Warren Haynes Signature Les Paul Standard 60s 2023 - Heritage Cherry
 10392729059657;1846.79;20;EUR;1;Gibson XR-2 Les Paul 1981 - Honey Burst

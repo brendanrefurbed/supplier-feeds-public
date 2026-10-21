@@ -81,7 +81,7 @@ K140199;646.91;20;EUR;1;CoolZ Japan Fujigen Stratocaster 2014 - Candy Apple Red
 B120819;615.59;20;EUR;1;CoolZ Japan Fujigen Telecaster 2012 - Sunburst
 E110966_51;680.39;20;EUR;1;CoolZ Japan Jazz Bass 2011 - Black
 H180281;646.91;20;EUR;1;CoolZ Japan Jazz Bass 2018 - Sunburst
-K070048_54;777.59;20;EUR;1;CoolZ Japan Les Paul 2007 -
+K070048_54;777.59;20;EUR;1;CoolZ Japan Les Paul 2007 - Natural Flametop
 K090991;646.91;20;EUR;1;CoolZ Japan Medium Scale Stratocaster 2009 - Sunburst
 H160725_54;680.39;20;EUR;1;CoolZ Japan Telecaster 2016 - Black
 E070060;646.91;20;EUR;1;CoolZ Japan ZJB-1R Jazz Bass 2007 - Sunburst
@@ -409,7 +409,6 @@ N580308;1200.95;20;EUR;1;Fender American Telecaster 1995 - Vintage White
 V094456;1846.79;20;EUR;1;Fender American Vintage 57 Reissue Stratocaster 1996 - Sunburst
 V136182;1662.11;20;EUR;1;Fender American Vintage 62 Reissue Stratocaster 2001 - Sunburst
 ICF25024914;923.39;20;EUR;1;Fender Chilli Beans Moto Signature Mustang 2025 - Black
-MZ2063734;923.39;20;EUR;1;Fender Classic Series 69 Reissue Telecaster Thinline 2002 - Black
 CN50739_54;3110.39;20;EUR;1;Fender Custom Shop American Classic Stratocaster 1993 - Vintage White
 JD537;4859.99;20;EUR;1;Fender Custom Shop Bloodwood Fretless Bass Masterbuilt by Jason Davis 2003
 V044189_51;3110.39;20;EUR;1;Fender Custom Shop Jazz Bass 1990 - Natural
@@ -422,7 +421,6 @@ R128288;4859.99;20;EUR;1;Fender Custom Shop ’63 Stratocaster Relic MBD 2023 - 
 MN8119636;701.99;20;EUR;1;Fender Deluxe Powerhouse Stratocaster 1998 - Lake Placid Blue
 13276;161.99;20;EUR;1;Fender Frontman 15G Transistor Verstärker
 Z9380722_54;1166.39;20;EUR;1;Fender Highway One Telecaster 2009 - Vintage White
-S029599_51;874.79;20;EUR;1;Fender Japan 3TS Jazz Bass 2006-2008 - Sunburst
 S029392;923.39;20;EUR;1;Fender Japan 52 Reissue Telecaster 1994-1995 - Fotoflame - Butterscotch Blonde
 S021503;1108.07;20;EUR;1;Fender Japan 52 Reissue Telecaster 1994-1995 - Natural
 N013227_2_54;971.99;20;EUR;1;Fender Japan 52 Reissue Telecaster 1995-1996 - Natural
@@ -437,6 +435,7 @@ L001770;746.27;20;EUR;1;Fender Japan 60s Reissue Stratocaster 1991-1992 - Sunbur
 O065014_51;874.79;20;EUR;1;Fender Japan 62 Reissue Jazz Bass - Trans Blue - matching Headstock
 O078032_54;874.79;20;EUR;1;Fender Japan 62 Reissue Jazz Bass 1997-2000 - Sunburst
 R096639_51;874.79;20;EUR;1;Fender Japan 62 Reissue Jazz Bass 2004-2005 - Old Candy Apple Red
+S029599_51;874.79;20;EUR;1;Fender Japan 62 Reissue Jazz Bass 2006-2008 - Sunburst
 P083098;831.59;20;EUR;1;Fender Japan 62 Reissue Mini Stratocaster 1993-1994 - Vintage White
 N027961_51;971.99;20;EUR;1;Fender Japan 62 Reissue Precision Bass 1993-1994 - Black
 S024582_51;971.99;20;EUR;1;Fender Japan 62 Reissue Precision Bass 2006-2008 - Black
@@ -631,7 +630,7 @@ x00374_54;680.39;20;EUR;1;Fresher Vintage Japan Straighter Stratocaster 1976-198
 72597187;1754.99;20;EUR;1;Gibson Melody Maker DC 1977 - Sunburst
 150080673;1385.63;20;EUR;1;Gibson Midtown Standard 2015 - Sunburst
 92505414_54;777.59;20;EUR;1;Gibson SG Special 1995 - Ferrari Red
-160056;7775.99;20;EUR;1;Gibson Thunderbird II Bass 1964 – Alembic Custom 1976 – Tree of Life – Ember Red
+160056;6998.39;20;EUR;1;Gibson Thunderbird II Bass 1964 – Alembic Custom 1976 – Tree of Life – Ember Red
 012260414;2770.19;20;EUR;1;Gibson Vegas High Roller 2006 - Felt Green
 233550150_54;1943.99;20;EUR;1;Gibson Warren Haynes Signature Les Paul Standard 60s 2023 - Heritage Cherry
 83241526;1846.79;20;EUR;1;Gibson XR-2 Les Paul 1981 - Honey Burst
@@ -801,7 +800,7 @@ QEF60238;277.55;20;EUR;1;Peavey Generation EXP 2003-2005 - Sunburst
 17S2026535;1316.51;20;EUR;1;PRS S2 Standard 22 - Antique White
 17S2023716;1385.63;20;EUR;1;PRS S2 Vela 2017 - Tobacco Sunburst
 H00769;693.35;20;EUR;1;PRS SE Custom 22 2007 - Transparent Black
-K09639;680.39;20;EUR;1;PRS SE Custom 24 2009 - Black Cherry
+K09639_54;680.39;20;EUR;1;PRS SE Custom 24 2009 - Black Cherry
 J14073;646.91;20;EUR;1;PRS SE Custom 24 2009 - Trans Black
 J07929;646.91;20;EUR;1;PRS SE Custom 24 2009 - Whale Blue
 M04169;746.27;20;EUR;1;PRS SE Custom 24 2012 - Cherry Red
