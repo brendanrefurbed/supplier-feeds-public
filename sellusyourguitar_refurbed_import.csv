@@ -1,4 +1,8 @@
 product_code;price_gross;vat;currency;stock;name
+1151026250901;420.0;20;GBP;1;Tokai Love Rock Cherry Sunburst Electric Guitar
+1211026252661;560.0;20;GBP;1;Gretsch G5422T Electromatic Black 2015 Hollow Body Electric Guitar
+1100926240590;350.0;20;GBP;1;Vintage V100 ICON Distressed Cherry Sunburst 2018 Electric Guitar
+1201026252402;480.0;20;GBP;1;Epiphone Les Paul Custom Alpine White 2022 Electric Guitar
 1201026252401;500.0;20;GBP;1;Fender Player Telecaster Black 2019 Electric Guitar
 1101026249321;3860.0;20;GBP;1;Gibson Custom Shop 1960 Les Paul Standard Reissue 2012 Electric Guitar
 1151026250900;900.0;20;GBP;1;Fender American Special Stratocaster 2018 Walnut USA Electric Guitar
@@ -103,7 +107,6 @@ TUNERS;50.0;20;GBP;1;Fender Locking Stratocaster/Telecaster Staggered Tuning Mac
 1220926243763;420.0;20;GBP;1;Epiphone Les Paul Standard Ltd Edition Gold Sparkle 1997 Electric Guitar
 1140926241630;480.0;20;GBP;1;Epiphone Les Paul Standard Ltd Edition Gold Sparkle 1997 Electric Guitar
 1130926241301;460.0;20;GBP;1;Ibanez Artcore Series AS93 Trans Cherry Red 2017 Hollow-Body Electric Guitar
-1220726225330;510.0;20;GBP;1;Epiphone Les Paul Custom Prophecy Plus Midnight Sapphire 2012 Electric Guitar
 1160926242213;740.0;20;GBP;1;Hagstrom H-III Scandi Sunburst c.1976 Modified Vintage Electric Guitar
 1170926242500;510.0;20;GBP;1;Sigma DM-SG5 Heritage Cherry Sunburst 2022 Electro-Acoustic Guitar
 1240926244480;1190.0;20;GBP;1;Fender American Professional Precision Bass 3-Color Sunburst 2017 Electric Bass
@@ -168,7 +171,6 @@ TUNERS;50.0;20;GBP;1;Fender Locking Stratocaster/Telecaster Staggered Tuning Mac
 10809262398910;965.0;20;GBP;1;Line 6 Helix Rack Unit w/Helix Control Footswitch & SP1-L6 Expression Pedal
 1080926239894;820.0;20;GBP;1;ESP LTD EC-1000ET Vintage Honey Burst 2016 Electric Guitar
 1080926239892;910.0;20;GBP;1;Ibanez EHB1505MS-PLF Multi-Scale 2019 Headless 5-String Electric Bass
-1310826237520;2040.0;20;GBP;1;Gibson Les Paul Standard Premium Plus Desert Burst 2013 Electric Guitar
 1230826234990;2520.0;20;GBP;1;Emerald X30-12 Redwood Burl 2022 12-String Electro Acoustic Guitar
 1270826236281;2040.0;20;GBP;1;Rickenbacker 360 Mapleglo 2005 Semi-Hollow Electric Guitar
 1270826236280;1980.0;20;GBP;1;Hofner Jazzica Custom Natural 2003 Archtop Hollow Body Guitar
@@ -400,7 +402,6 @@ TUNERS;50.0;20;GBP;1;Fender Locking Stratocaster/Telecaster Staggered Tuning Mac
 1050825123434;335.0;20;GBP;1;Synergy Amps Soldano SLO Preamp Module
 1050825123435;335.0;20;GBP;1;Synergy Amps Friedman Brown Eye Two Channel Preamp Module
 1240725119850;1820.0;20;GBP;1;Hagstrom P46 Deluxe Red Sparkle c.1958-59 Vintage Electric Guitar
-1140525100000;630.0;20;GBP;1;Chapman Ghost Fret Classic Hollywood Red 2023 Electric Guitar
 105052598392;520.0;20;GBP;1;Guild Aristocrat HH Transparent Black Sunburst 2022 Electric Guitar
 101052597300;3230.0;20;GBP;1;Gretsch Synchromatic 200 Sunburst c.1940s Vintage Archtop Acoustic Guitar
 101052597301;3230.0;20;GBP;1;Epiphone Triumph Natural 1947 Hollow-Body Electric Guitar
