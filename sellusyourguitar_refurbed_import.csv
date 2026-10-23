@@ -1,4 +1,8 @@
 product_code;price_gross;vat;currency;stock;name
+1191026252141;710.0;20;GBP;1;Brian May Guitars Red Special Antique Cherry 2019 Electric Guitar
+1191026252140;630.0;20;GBP;1;Taylor GS Mini-E Koa Natural 2021 Electro-Acoustic Guitar
+1211026252761;3310.0;20;GBP;1;"Fender FSR ""Beatles Gear"" Vintage Stratocaster Sonic Blue 2001 Electric Guitar"
+1071026248677;370.0;20;GBP;1;Sire Larry Carlton Q7 Tobacco Sunburst Electric Guitar
 1041026247510;820.0;20;GBP;1;Fender American Traditional Jazz refinished Vintage White 1999 Electric Bass
 1030926238450;1580.0;20;GBP;1;Fender American Vintage II '61 Stratocaster 3-Colour Sunburst 2025 Electric Guit
 1010926237790;310.0;20;GBP;1;Squier Contemporary Jaguar HH ST Shoreline Gold 2022 Electric Guitar
@@ -216,7 +220,6 @@ TUNERS;50.0;20;GBP;1;Fender Locking Stratocaster/Telecaster Staggered Tuning Mac
 1020726220995;1290.0;20;GBP;1;Larrivee OM-02 Satin Natural 2013 Electro-Acoustic Guitar
 1020726220996;2760.0;20;GBP;1;Northwood Borneo Rosewood 70 Series OM Gloss Natural 2016 Hand-Made Acoustic
 1180426201791;2760.0;20;GBP;1;Northwood Studio 00 Vintage Cherry Sunburst 2012 Acoustic Guitar
-1210826233861;540.0;20;GBP;1;Charvel Pro-Mod So-Cal Style 2 24 HH HT CM Satin Black 2022 Modified Electric
 1040826228950;1700.0;20;GBP;1;Strandberg Boden Plini Edition Natural 2017 Headless Electric Guitar
 1120626215410;670.0;20;GBP;1;Ibanez ASV-100-DG Black Low Gloss 2016 Semi-Hollow Electric Guitar
 1100826230740;2090.0;20;GBP;1;Rickenbacker 360 Mapleglo 2021 Semi-Hollow Electric Guitar
@@ -286,7 +289,6 @@ TUNERS;50.0;20;GBP;1;Fender Locking Stratocaster/Telecaster Staggered Tuning Mac
 1100626215111;2830.0;20;GBP;1;PRS Singlecut Hollowbody Standard Piezo Vintage Cherry 2008 Electric Guitar
 1010726220670;680.0;20;GBP;1;ESP LTD Ron Wood Black 2017 Electric Guitar
 1070726222021;740.0;20;GBP;1;Hofner Verythin HVSC-R Red Semi-Hollow Electric Guitar
-1010726220570;1130.0;20;GBP;1;Fender American Series Jazz Bass Black 2007 Electric Bass
 1030726221211;3720.0;20;GBP;1;Fender Custom Shop 1959 Stratocaster Heavy Relic Ocean Turquoise 2023 Guitar
 1200626217441;460.0;20;GBP;1;Tokai MIK ES-60 Sunburst Semi-Hollow Electric Guitar
 1230626218511;2730.0;20;GBP;1;Peavey Custom Shop EVH Wolfgang Custom South Korea Flag 2003 Electric Guitar
