@@ -1,6 +1,10 @@
 product_code;price_gross;vat;currency;stock;name
+1111026249420;350.0;20;GBP;1;Epiphone Dot Vintage Sunburst 2019 Semi-Hollow Electric Guitar
+1071026248676;1105.0;20;GBP;1;Fender Tone Master Pro Multi Effects Processor
+1180626216932;350.0;20;GBP;1;Schecter Omen Extreme-7 See-Thru Black 2021 7-String Electric Guitar
+1071026248670;400.0;20;GBP;1;Sire Larry Carlton L7 Candy Apple Red 2025 Electric Guitar
+1221026253080;1130.0;20;GBP;1;Fender American Professional Precision Bass 3-Colour Sunburst 2016 Electric Bass
 1191026252141;710.0;20;GBP;1;Brian May Guitars Red Special Antique Cherry 2019 Electric Guitar
-1191026252140;630.0;20;GBP;1;Taylor GS Mini-E Koa Natural 2021 Electro-Acoustic Guitar
 1211026252761;3310.0;20;GBP;1;"Fender FSR ""Beatles Gear"" Vintage Stratocaster Sonic Blue 2001 Electric Guitar"
 1071026248677;370.0;20;GBP;1;Sire Larry Carlton Q7 Tobacco Sunburst Electric Guitar
 1041026247510;820.0;20;GBP;1;Fender American Traditional Jazz refinished Vintage White 1999 Electric Bass
@@ -11,7 +15,6 @@ product_code;price_gross;vat;currency;stock;name
 1091026248880;350.0;20;GBP;1;Guild F240E Satin Natural Electro Acoustic Guitar
 1051026247804;350.0;20;GBP;1;Gretsch G5220 Electromatic Dark Cherry Metallic 2022 Electric Guitar
 1171026251451;400.0;20;GBP;1;Epiphone J-200EC Studio Parlor Vintage Natural 2021 Electro-Acoustic Guitar
-1110926240850;350.0;20;GBP;1;Aria Pro II Cardinal Series CSB-300 Cherry 1983 Electric Bass
 1210926243701;350.0;20;GBP;1;Vintage VSA590-TS Tobacco Sunburst Semi-Hollow Electric Guitar
 1211026252780;1580.0;20;GBP;1;Fender Richie Kotzen Stratocaster Transparent Red Burst 2022 MIJ Electric Guitar
 1191026252111;350.0;20;GBP;1;Simon & Patrick Woodland Spruce Natural Satin 2006 Electro Acoustic Guitar
@@ -42,7 +45,6 @@ product_code;price_gross;vat;currency;stock;name
 1121026249970;1820.0;20;GBP;1;PRS Silver Sky Satin Moc Sand 2021 John Mayer Signature Electric Guitar
 1171026251371;1370.0;20;GBP;1;Fender American Professional II Telecaster Deluxe Miami Blue w/Upgrades
 1250926244880;2840.0;20;GBP;1;Fender Final Fantasy XIV Stratocaster Gloss Black 2022 Electric Guitar
-TUNERS;50.0;20;GBP;1;Fender Locking Stratocaster/Telecaster Staggered Tuning Machines Chrome
 1061026248082;1820.0;20;GBP;1;Gibson Les Paul Standard '60s Iced Tea 2023 Electric Guitar
 1061026248080;3100.0;20;GBP;1;Fender Custom Shop American Custom Stratocaster RW NOS Chocolate 3TSB 2022
 1070426198370;210.0;20;GBP;1;Valeton GP200-X Limited Edition 10th Anniversary Multi-Effects Processor
@@ -78,7 +80,6 @@ TUNERS;50.0;20;GBP;1;Fender Locking Stratocaster/Telecaster Staggered Tuning Mac
 1270926245400;2420.0;20;GBP;1;Gibson ES-345 Vintage Sunburst 2023 Semi-Hollow Electric Guitar
 1021026246960;980.0;20;GBP;1;Fender MIJ Limited Edition Traditional II ’51 Nocaster Butterscotch Blonde Elect
 1280926245711;1130.0;20;GBP;1;Fender American Professional Stratocaster Black 2017 Electric Guitar
-1240926244520;2090.0;20;GBP;1;Fender USA Brent Mason Signature Telecaster Primer Grey 2020 Electric Guitar
 1220726225371;350.0;20;GBP;1;Squier Vintage Modified Jazz Bass '70s Black 2013 Electric Bass
 1130426200245;230.0;20;GBP;1;Amplitube TONEX Amp Machine Electric Guitar Amplifier Modeling Pedal
 1060526206430;285.0;20;GBP;1;Strymon Mobius Multi-Modulation Guitar Effects Pedal
@@ -209,7 +210,6 @@ TUNERS;50.0;20;GBP;1;Fender Locking Stratocaster/Telecaster Staggered Tuning Mac
 1070826230080;910.0;20;GBP;1;Fender Aerodyne Special 100DMC Flame Amber 2006-08 Electric Guitar
 1130526208103;280.0;20;GBP;1;Rapier 33 Fiesta Red 3 Pickup Electric Guitar
 1060126168421;290.0;20;GBP;1;LAVA GENIE White Foldable Digital Travel Guitar
-1190826233371;740.0;20;GBP;1;Schecter Sun Valley Super Shredder FR S LH Riviera Blue 2021 Electric Guitar
 1100826230711;330.0;20;GBP;1;Friedman IR-D Dual Tube Preamp & DI All-Valve Preamplifier Pedal
 1180826233100;2140.0;20;GBP;1;Excelsior Super King Gloss Natural 2009 Hand Made Acoustic Guitar
 1080726222351;400.0;20;GBP;1;Ibanez RG370FMZ Sapphire Blue 2019 Electric Guitar
@@ -294,7 +294,6 @@ TUNERS;50.0;20;GBP;1;Fender Locking Stratocaster/Telecaster Staggered Tuning Mac
 1230626218511;2730.0;20;GBP;1;Peavey Custom Shop EVH Wolfgang Custom South Korea Flag 2003 Electric Guitar
 1230626218530;1590.0;20;GBP;1;Fender 60th Anniversary Triple Jazzmaster Daphne Blue 2018 Electric Guitar
 1140626215930;600.0;20;GBP;1;Ibanez AF105F Natural Hollow Body 2006 Electric Guitar
-1270626219470;970.0;20;GBP;1;Taylor GTe Blacktop 2022 Electro Acoustic Guitar
 1290626219792;990.0;20;GBP;1;Fender J Mascis Telecaster Bottle Rocket Blue Flake 2021 Electric Gui
 1230626218510;52500.0;20;GBP;1;Fender Custom Shop EVH Frankenstein Replica 1 of 300 Masterbuilt by Chip Ellis
 1200626217543;2310.0;20;GBP;1;Guild M75 Custom Order 1962 USA Red Refin. Electric Guitar
