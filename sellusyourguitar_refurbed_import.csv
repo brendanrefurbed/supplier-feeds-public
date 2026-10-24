@@ -1,4 +1,7 @@
 product_code;price_gross;vat;currency;stock;name
+1241026253532;870.0;20;GBP;1;Fender Modern Player Starcaster Natural Gloss 2014 Semi-Hollow Electric Bass
+1100726222853;310.0;20;GBP;1;Takamine GN93-NAT Natural Gloss Acoustic Guitar
+1220926243761;310.0;20;GBP;1;Harley Benton Guitar MAX Fusion Signature Emerald Flame Electric Guitar
 1111026249420;350.0;20;GBP;1;Epiphone Dot Vintage Sunburst 2019 Semi-Hollow Electric Guitar
 1071026248676;1105.0;20;GBP;1;Fender Tone Master Pro Multi Effects Processor
 1180626216932;350.0;20;GBP;1;Schecter Omen Extreme-7 See-Thru Black 2021 7-String Electric Guitar
@@ -135,7 +138,6 @@ product_code;price_gross;vat;currency;stock;name
 1250926244690;1360.0;20;GBP;1;Tokai ULC136S Snow White 2023 Electric Guitar
 1070926239700;620.0;20;GBP;1;Taylor 214 Natural 2010 Acoustic Guitar
 1260926245170;2940.0;20;GBP;1;Fender Custom Shop 1956 Stratocaster NOS 2-Tone Sunburst 2005 Electric Guitar
-1170926242480;690.0;20;GBP;1;Yamaha Pacifica Standard Plus Black 2023 Electric Guitar
 1160926242251;910.0;20;GBP;1;Godin LR Baggs Model Fretless Acoustibass Black 1989-92 Electric Bass
 1280926245581;570.0;20;GBP;1;Chapman ML3 Pro Bea Smoke 2018 Electric Guitar
 1260926245171;3030.0;20;GBP;1;Fender Custom Shop Early '59 Stratocaster Trans Cobalt Blue NOS Electric Guitar
@@ -318,7 +320,6 @@ product_code;price_gross;vat;currency;stock;name
 1260526211300;940.0;20;GBP;1;Fender American Standard Stratocaster Charcoal Frost Metallic 2008 Electric Guit
 1060326189040;830.0;20;GBP;1;Fender American Special Stratocaster Olympic White 2018 Electric Guitar
 1210526210360;890.0;20;GBP;1;Gibson Les Paul Studio Satin Cherry 2006 Electric Guitar
-11712251632515;100.0;20;GBP;1;Keeley Electronics Aurora Digital Reverb Pedal
 1190526209830;580.0;20;GBP;1;Epiphone B.B King  Lucille Ebony 2021 Semi-Hollow Electric Guitar
 1180426201760;300.0;20;GBP;1;Vintage VSA500MP Gloss Natural 2020 Semi-Hollow Electric Guitar
 1100126169811;280.0;20;GBP;1;Peavey JF1EX Transparent Red Semi-Hollow Electric Guitar
