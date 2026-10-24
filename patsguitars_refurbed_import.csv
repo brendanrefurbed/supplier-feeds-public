@@ -101,10 +101,13 @@ product_code;price_gross;vat;currency;stock;name
 10192934076745;131.21;20;EUR;1;DOD FX50-B Overdrive Effect Pedal - USA
 10423187407177;1943.99;20;EUR;1;Duesenberg Rocket II Flying V 2005 - Black and White
 10357093695817;1292.75;20;EUR;1;Duesenberg Starplayer Special 2019 - Black Sparkle
+10487378608457;971.99;20;EUR;1;Edwards by ESP Stratocaster 2004-2010 - Surf Green
 10470190350665;1069.19;20;EUR;1;Edwards Japan E-SR-Kellog Hi-STANDARD KEN YOKOYAMA Signature 2013 - Orange Tiger
 10451097190729;874.79;20;EUR;1;Edwards Jazz Bass 2003-2004 - Candy Apple Red
+10487542645065;874.79;20;EUR;1;Edwards Les Paul Limited Model 2010 - Cherry Sunburst
 10305782907209;87.47;20;EUR;1;Effects Bakery An Butter Cooppe Drive Effektpedal
 10305785561417;77.75;20;EUR;1;Effects Bakery French Bread Delay Effektpedal
+10487602413897;583.19;20;EUR;1;EKO Indy Bass 1972 - Transparent Green
 10255396733257;701.99;20;EUR;1;Epiphone 1959 Les Paul Standard - Cherry Sunburst
 10435593896265;485.99;20;EUR;1;Epiphone AlleyKat 2000 - Cherry Sunburst
 10366766121289;1292.75;20;EUR;1;Epiphone Brendon Small Signature Snow Falcon 2016 - Snow Burst
@@ -423,6 +426,7 @@ product_code;price_gross;vat;currency;stock;name
 10240964886857;701.99;20;EUR;1;Fender Deluxe Powerhouse Stratocaster 1998 - Lake Placid Blue
 10033144365385;161.99;20;EUR;1;Fender Frontman 15G Transistor Verstärker
 10451016089929;1166.39;20;EUR;1;Fender Highway One Telecaster 2009 - Vintage White
+10487283548489;1166.39;20;EUR;1;Fender Japan 52 Reissue Telecaster 1989-1990 - Natural
 10381559562569;923.39;20;EUR;1;Fender Japan 52 Reissue Telecaster 1994-1995 - Fotoflame - Butterscotch Blonde
 10392751243593;1108.07;20;EUR;1;Fender Japan 52 Reissue Telecaster 1994-1995 - Natural
 10483925287241;1166.39;20;EUR;1;Fender Japan 52 Reissue Telecaster 1994-1995 - Natural
@@ -531,6 +535,7 @@ product_code;price_gross;vat;currency;stock;name
 10330894664009;646.91;20;EUR;1;Fender Mexico Stratocaster 1995 - Black
 10400844972361;680.39;20;EUR;1;Fender Mexico Stratocaster 1995 - Black
 10435350397257;680.39;20;EUR;1;Fender Mexico Stratocaster 1998-1999 - Black
+10487359504713;680.39;20;EUR;1;Fender Mexico Telecaster 2002-2003 - Sage Green
 10338185642313;1200.95;20;EUR;1;Fender MJT 50s Reissue Stratocaster - Purple Metallic - Heavy Relic
 10442960896329;1360.79;20;EUR;1;Fender MJT 50s Reissue Stratocaster 1993-1994 - Black - Heavy Relic
 10442943693129;1360.79;20;EUR;1;Fender MJT 50s Reissue Telecaster - Surf Green
@@ -567,6 +572,7 @@ product_code;price_gross;vat;currency;stock;name
 10392821334345;646.91;20;EUR;1;Fernandes The Function Flying V 2005 - Black
 10448429056329;680.39;20;EUR;1;Fernandes The Function SSH40 1988-1992 - Blue Burst
 10450936594761;777.59;20;EUR;1;FGN Fujigen Japan BMJ-R-01 Bass 2007 - Black
+10487624171849;777.59;20;EUR;1;FGN Fujigen Japan J-Classic Bass 2015 - Black
 10381458112841;646.91;20;EUR;1;FGN Fujigen Japan J-Classic Jazz Bass 2018 - Sunburst
 10357252686153;646.91;20;EUR;1;FGN Fujigen Japan J-Classic Stratocaster 2015 - Sunburst
 10193134256457;831.59;20;EUR;1;FGN Fujigen Japan J-Standard HSS 2020
@@ -585,6 +591,7 @@ product_code;price_gross;vat;currency;stock;name
 10470200213833;971.99;20;EUR;1;Framus Diablo Pro Custom 2004 - Transparent Black Burst
 10033157669193;291.59;20;EUR;1;Framus FR 212 Speaker Cabinet
 10419548291401;971.99;20;EUR;1;Framus Hollywood Double Cat 2011 - Red Burst
+10487565779273;680.39;20;EUR;1;Framus S-360 Les Paul 1970s - Black
 9903172682057;777.59;20;EUR;1;Framus Semi Hollow - Black
 9890335785289;1118.87;20;EUR;1;Framus Strato Deluxe 1963 - Blonde
 10451090866505;680.39;20;EUR;1;Franpton Vintage Thinline Telecaster - Natural
@@ -902,6 +909,7 @@ product_code;price_gross;vat;currency;stock;name
 10357047558473;923.39;20;EUR;1;Warwick Corvette $$ Bass 2011 - Natural
 10292790264137;1929.95;20;EUR;1;Warwick Corvette $$ Double Buck Bass 2011 - Turquoise Blue Oil Finish
 9997843038537;777.59;20;EUR;1;Warwick Infinity RockBass 2018 - Natural
+10487248093513;2429.99;20;EUR;1;Warwick Master Built Corvette $$ 2013 - Natural
 10465423393097;583.19;20;EUR;1;Warwick RockBass Vampyre 2012 - Black
 10483844710729;680.39;20;EUR;1;Washburn Nuno Bettencourt Signature Model 1995 - Transparent Red
 10450869879113;680.39;20;EUR;1;Westminster Japan Vintage Les Paul 1970s - Cherry Sunburst
