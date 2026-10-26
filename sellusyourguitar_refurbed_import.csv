@@ -1,4 +1,12 @@
 product_code;price_gross;vat;currency;stock;name
+1200726224921;185.0;20;GBP;1;Wampler Terraform Multi-Modulation Guitar Effects Pedal
+1161026251191;280.0;20;GBP;1;"Fender Mustang GTX-50 1x12"" 50 Watt Combo Guitar Amplifier w/GTX-7 Footswitch"
+1300626220410;310.0;20;GBP;1;Ibanez SR305E Cerulean Aura Burst 2024 5-String Electric Bass
+1050826229411;320.0;20;GBP;1;Squier Offset Telecaster Butterscotch Blonde 2020 Electric Guitar
+1100626215005;260.0;20;GBP;1;DSM & Humboldt Electronics Simplifier Deluxe Zero-Watt Stereo Amplifier
+1221026253092;690.0;20;GBP;1;Faith Venus Blue Moon 2022 Electro-Acoustic Guitar
+1261026254021;480.0;20;GBP;1;Fender Mexican Standard Stratocaster Arctic White 2017 Left-Handed Electric Guit
+1150626216240;400.0;20;GBP;1;Takamine GD93CE-NAT Gloss Natural 2015 Electro-Acoustic Guitar
 1071026248672;200.0;20;GBP;1;Strymon Compadre Dual Voice Compressor and Boost Guitar Effects Pedal
 1161026251190;370.0;20;GBP;1;Squier Classic Vibe Starcaster Natural 2023 Semi-Hollow Electric Guitar
 1141026250530;1360.0;20;GBP;1;Burns Hank Marvin 40th Anniversary 'The Marvin' White 2004 Ltd Edition Electric
@@ -82,7 +90,6 @@ product_code;price_gross;vat;currency;stock;name
 1051026247910;1650.0;20;GBP;1;Fender Eric Clapton Stratocaster Candy Green 2006 Signature Electric Guitar
 1030926238320;890.0;20;GBP;1;Solar GC1.6NC Classic Flame Tobacco Burst 2021 Electric Guitar
 1091026249050;2420.0;20;GBP;1;Gibson Custom Art & Historic '61 SG Special VOS Cherry Red 2000 Electric Guitar
-1300926246060;860.0;20;GBP;1;Ormsby Hype GTR 7 Dragonburst 7-String Electric Guitar
 1290526212000;1810.0;20;GBP;1;Gibson Les Paul Standard High Performance Desert Burst 2016 Electric Guitar
 1270926245400;2420.0;20;GBP;1;Gibson ES-345 Vintage Sunburst 2023 Semi-Hollow Electric Guitar
 1280926245711;1130.0;20;GBP;1;Fender American Professional Stratocaster Black 2017 Electric Guitar
@@ -360,7 +367,6 @@ product_code;price_gross;vat;currency;stock;name
 131012575200;420.0;20;GBP;1;Squier Pro-Tone Stratocaster Olympic White 1997 Electric Guitar
 10412234452;350.0;20;GBP;1;Little Rock Vintage 80 1x12” UK Made Tweed Valve Guitar Amplifier Combo
 13105251049011;340.0;20;GBP;1;Yamaha RGXA2 Gloss Black 2007 Electric Guitar
-1200426202691;2190.0;20;GBP;1;Gibson Songwriter Standard Gloss Natural 2024 Acoustic Guitar
 1090326189921;470.0;20;GBP;1;Peavey Rockingham Natural Gloss c.2002 Hollow Body Electric Guitar
 1170326192302;480.0;20;GBP;1;Gibson Embossed Logo Neck Position Mini-Humbucker c.1971 Vintage Pickup
 1170326192301;480.0;20;GBP;1;Gibson Embossed Logo Neck Position Mini Humbucker c.1971 Vintage Pickup
