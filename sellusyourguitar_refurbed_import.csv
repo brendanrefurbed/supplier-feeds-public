@@ -1,4 +1,6 @@
 product_code;price_gross;vat;currency;stock;name
+1201026252291;970.0;20;GBP;1;Ibanez RG652AHMFX Prestige Royal Plum Burst 2021 Electric Guitar
+1191026251970;1580.0;20;GBP;1;Martin Americana Series D-16E Natural Satin 2017 Electro-Acoustic Guitar
 1201026252290;1820.0;20;GBP;1;Taylor 324ce Shaded Edge Burst 2022 Electro Acoustic Guitar
 1241026253632;1030.0;20;GBP;1;Ibanez S1070PBZ Premium Charcoal Black Burst 2023 Electric Guitar
 1221026253090;510.0;20;GBP;1;Martin Special DX Koa Satin Koa Pattern 2023 Dreadnought Acoustic Guitar
@@ -11,7 +13,6 @@ product_code;price_gross;vat;currency;stock;name
 1261026254021;480.0;20;GBP;1;Fender Mexican Standard Stratocaster Arctic White 2017 Left-Handed Electric Guit
 1150626216240;400.0;20;GBP;1;Takamine GD93CE-NAT Gloss Natural 2015 Electro-Acoustic Guitar
 1071026248672;200.0;20;GBP;1;Strymon Compadre Dual Voice Compressor and Boost Guitar Effects Pedal
-1161026251190;370.0;20;GBP;1;Squier Classic Vibe Starcaster Natural 2023 Semi-Hollow Electric Guitar
 1141026250530;1360.0;20;GBP;1;Burns Hank Marvin 40th Anniversary 'The Marvin' White 2004 Ltd Edition Electric
 1071026248675;285.0;20;GBP;1;"Vemuram Budi G. ""Gritty Gain"" Boost Guitar Effect Pedal"
 1041026247401;440.0;20;GBP;1;Ibanez AFJ95 Vintage Sunburst 2014 Hollow Body Electric Guitar
@@ -141,7 +142,6 @@ product_code;price_gross;vat;currency;stock;name
 1240926244480;1190.0;20;GBP;1;Fender American Professional Precision Bass 3-Color Sunburst 2017 Electric Bass
 1160926242252;660.0;20;GBP;1;Line 6 Variax Bass 700 Black 2005 Electric Modelling Bass Guitar
 1160926242250;660.0;20;GBP;1;Line 6 Variax Bass 700 Black 2004 Electric Modelling Bass Guitar
-1030926238350;740.0;20;GBP;1;Ovation 1996 Collector’s Edition Model 1996-TPB Transparent Burgundy 1996 Electr
 1210926243740;1580.0;20;GBP;1;Gibson Les Paul Classic Vintage Sunburst 2015 Electric Guitar
 1300926246191;880.0;20;GBP;1;Fender Aerodyne Special Telecaster California Blue 2023 Electric Guitar
 1211025145570;1890.0;20;GBP;1;Fender Precision Bass Black 1978 Vintage Electric Bass Guitar
@@ -164,7 +164,6 @@ product_code;price_gross;vat;currency;stock;name
 1230926244100;1110.0;20;GBP;1;Takamine FN15 AR Natural Satin 2023 1 of 300 Ltd Edition Electro Acoustic Guitar
 1150826232102;370.0;20;GBP;1;Ibanez RGT42DXFM Brite Blue 2007 Electric Guitar
 1150926241970;690.0;20;GBP;1;PRS SE Custom 24 Floyd Charcoal Cherry Burst 2024 Electric Guitar
-1210926243400;860.0;20;GBP;1;Fender Kurt Cobain Jag-Stang Sonic Blue 2022 Electric Guitar
 1050926238820;1110.0;20;GBP;1;Charvel Angel Vivaldi PM DK24 GT7 Natural 2025 7-String Electric Guitar
 1130926241300;1420.0;20;GBP;1;Fender Thinline Telecaster Natural 2001 Semi-Hollow Electric Guitar
 1130926241260;450.0;20;GBP;1;Peavey Rockingham Natural Gloss c.2002 Hollow Body Electric Guitar
@@ -185,7 +184,6 @@ product_code;price_gross;vat;currency;stock;name
 1300626220211;370.0;20;GBP;1;Ibanez AS73 Olive Metallic 2019 Semi-Hollow Electric Guitar
 1100926240600;1590.0;20;GBP;1;Guild M-40 Troubadour Satin Natural 2018 Acoustic Guitar
 1100926240321;890.0;20;GBP;1;Taylor 214ce DLX 2023 Gloss Natural Electro-Acoustic Guitar
-1080926240020;1650.0;20;GBP;1;Gibson Les Paul Classic T Gold Top 2017 Electric Guitar
 1210826233810;2090.0;20;GBP;1;Atkin 'The Boosh OS' Pelham Blue Aged Nitro 2023 Electric Guitar
 1310826237480;480.0;20;GBP;1;Fender Mexican Standard Stratocaster Midnight Blue 2001 Electric Guitar
 1080926239891;600.0;20;GBP;1;Schecter Diamond Series Nick Johnston Signature Atomic White Electric Guitar
@@ -200,7 +198,6 @@ product_code;price_gross;vat;currency;stock;name
 1230826234990;2520.0;20;GBP;1;Emerald X30-12 Redwood Burl 2022 12-String Electro Acoustic Guitar
 1270826236281;2040.0;20;GBP;1;Rickenbacker 360 Mapleglo 2005 Semi-Hollow Electric Guitar
 1270826236280;1980.0;20;GBP;1;Hofner Jazzica Custom Natural 2003 Archtop Hollow Body Guitar
-1270826235972;1260.0;20;GBP;1;Yamaha SA2000S Sunburst 1979 Semi-Hollow Electric Guitar
 1070926239381;970.0;20;GBP;1;Blueridge BR-180N Dreadnought Gloss Natural 2011 Electro-Acoustic Guitar
 1020926238112;800.0;20;GBP;1;Peavey T-60 Black 1980 Electric Guitar
 1070926239542;680.0;20;GBP;1;PRS SE Hollowbody Blue Burst 2022 Electric Guitar
@@ -220,7 +217,6 @@ product_code;price_gross;vat;currency;stock;name
 1310526212341;370.0;20;GBP;1;Eastman PCH1-GACE Thermo-Cure Natural 2021 Electro Acoustic Guitar
 1270826236171;3130.0;20;GBP;1;Gibson Custom Shop 1957 Les Paul Standard Reissue Goldtop 2003 Electric Guitar
 1180826232760;570.0;20;GBP;1;Taylor 114e Grand Auditorium Satin Natural 2022 LH Electro-Acoustic Guitar
-1070826230080;910.0;20;GBP;1;Fender Aerodyne Special 100DMC Flame Amber 2006-08 Electric Guitar
 1130526208103;280.0;20;GBP;1;Rapier 33 Fiesta Red 3 Pickup Electric Guitar
 1100826230711;330.0;20;GBP;1;Friedman IR-D Dual Tube Preamp & DI All-Valve Preamplifier Pedal
 1180826233100;2140.0;20;GBP;1;Excelsior Super King Gloss Natural 2009 Hand Made Acoustic Guitar
