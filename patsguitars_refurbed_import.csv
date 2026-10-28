@@ -11,7 +11,7 @@ product_code;price_gross;vat;currency;stock;name
 9851346452809;524.87;20;EUR;1;Aria Japan Stratocaster 1970s - Natural
 10451020611913;680.39;20;EUR;1;Aria Pro II Japan ZZ Custom Explorer 1983 - Metallic Red
 10421683159369;777.59;20;EUR;1;Aria Pro II Japan ZZB Explorer Deluxe Bass 1984 - Blue Burst
-9729057751369;1108.07;20;EUR;1;Aria Pro II PE-140 1976 - Mahogany
+9729057751369;1052.99;20;EUR;1;Aria Pro II PE-140 1976 - Mahogany
 10294047015241;350.99;20;EUR;1;Aria Pro II RVB450-DRS Avante Series Bass - Red Burst
 10294094004553;350.99;20;EUR;1;Aria Pro II The Warrior-JR 1990s - Black
 10421658026313;388.79;20;EUR;1;AriaProII Excel Series 1990s - Sunburst
@@ -79,7 +79,6 @@ product_code;price_gross;vat;currency;stock;name
 10329375441225;646.91;20;EUR;1;CoolZ Japan Fujigen Stratocaster 2014 - Candy Apple Red
 10305360462153;615.59;20;EUR;1;CoolZ Japan Fujigen Telecaster 2012 - Sunburst
 10421766324553;680.39;20;EUR;1;CoolZ Japan Jazz Bass 2011 - Black
-10381601997129;646.91;20;EUR;1;CoolZ Japan Jazz Bass 2018 - Sunburst
 10479747694921;777.59;20;EUR;1;CoolZ Japan Les Paul 2007 - Natural Flametop
 10366163812681;646.91;20;EUR;1;CoolZ Japan Medium Scale Stratocaster 2009 - Sunburst
 10479291498825;680.39;20;EUR;1;CoolZ Japan Telecaster 2016 - Black
@@ -340,7 +339,6 @@ product_code;price_gross;vat;currency;stock;name
 10263291724105;66.95;20;EUR;1;Faber TBWC-59NG-BL Faber Vintage Spec ALU Compensated Wraparound Tailpiece, Nickel, gloss, Intonationsleiste: Messing, Linkshand
 10263291887945;66.95;20;EUR;1;Faber TBWC-59NG-BR Faber Vintage Spec ALU Compensated Wraparound Tailpiece, Nickel, gloss, Intonationsleiste: Messing
 10263121527113;176.03;20;EUR;1;Faber TEC BB Telecaster – Black
-10263136010569;176.03;20;EUR;1;Faber TEC MRR Telecaster – Metallic Red
 10263470473545;38.87;20;EUR;1;Faber TL-IGA Faber Tone-Lock Kit, 2 Schraubbolzen (Inch Gewinde-thread f. Gibson) + 3 Paar Distanzhülsen, aged
 10263470506313;35.63;20;EUR;1;Faber TL-IGG Faber Tone-Lock Kit, 2 Schraubbolzen (Inch Gewinde-thread f. Gibson) + 3 Paar Distanzhülsen, glossy
 10263470539081;36.71;20;EUR;1;Faber TL-INA Faber Tone-Lock Kit, 2 Schraubbolzen (Inch Gewinde-thread f. Gibson) + 3 Paar Distanzhülsen, aged
@@ -504,7 +502,6 @@ product_code;price_gross;vat;currency;stock;name
 10489950503241;874.79;20;EUR;1;Fender Japan ST-STD Stratocaster 1993-1994 - Sunburst
 10415766405449;738.71;20;EUR;1;Fender Japan ST-STD Stratocaster 1994-1995 - Black
 10391413162313;831.59;20;EUR;1;Fender Japan ST-STD Stratocaster 1994-1995 - Candy Apple Red
-10490329825609;874.79;20;EUR;1;Fender Japan ST-STD Stratocaster 1995-1996 - Candy Apple Red
 10388033274185;831.59;20;EUR;1;Fender Japan ST-STD Stratocaster 2007-2008 - Black
 10435554607433;874.79;20;EUR;1;Fender Japan ST-STD Stratocaster 2013 - Sunburst
 10398918967625;831.59;20;EUR;1;Fender Japan ST-STD Stratocaster 2014 - Black
@@ -618,7 +615,6 @@ product_code;price_gross;vat;currency;stock;name
 10470350160201;680.39;20;EUR;1;Fresher Vintage Japan Straighter Stratocaster 1976-1981 - Sunburst
 10487832641865;777.59;20;EUR;1;Fujigen FGN Mustang JMG-6R J Standard 2012 2012 - Candy Apple Red
 10381691224393;1846.79;20;EUR;1;Gibson 67 Reissue Flying V 2003 - Cherry
-10405107990857;1754.99;20;EUR;1;Gibson 68 Reissue Flying V 2012 - Cherry Red
 10316880806217;1580.03;20;EUR;1;Gibson 76’ Reissue Explorer 2004 - Ebony - EMG MOD
 10358278979913;3693.59;20;EUR;1;Gibson Custom Shop ES-335 2012 - Cherry Red
 10390661529929;2954.87;20;EUR;1;Gibson Custom Shop Historic Collection 1957 Les Paul Junior VOS 2007 - TV Yellow
@@ -903,7 +899,6 @@ product_code;price_gross;vat;currency;stock;name
 10387863667017;646.91;20;EUR;1;Tokai Japan Original Series Random Star 1983 - Vintage White
 10366186029385;554.03;20;EUR;1;Tokai LBX Electric Bass 1984 - Metallic Red
 10491668365641;971.99;20;EUR;1;Tokai Love Rock Les Paul DC 2008 - Cherry Red
-10479776137545;1069.19;20;EUR;1;Tokai LS-50 Love Rock Model Les Paul 1983 - Ebony
 10212529701193;834.83;20;EUR;1;Tokai LS50 Love Rock Les Paul 1981 - Ebony
 10211605479753;615.59;20;EUR;1;Tokai SG 38SW - Snow White
 10470254870857;777.59;20;EUR;1;Tokai Silver Star Stratocaster 1981 - Candy Apple Red
