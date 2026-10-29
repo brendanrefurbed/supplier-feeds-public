@@ -1,4 +1,11 @@
 product_code;price_gross;vat;currency;stock;name
+1101026249320;620.0;20;GBP;1;Taylor 114ce Satin Natural 2012 Electro Acoustic Guitar
+1061026248420;660.0;20;GBP;1;Reverend Jetstream 390 Metallic Alpine 2019 Electric Guitar
+1141026250590;570.0;20;GBP;1;Epiphone Les Paul Standard 1959 Aged Dark Burst 2022 Electric Guitar
+1070326189442;150.0;20;GBP;1;TC Electronic Nova System Floor-Based Electric Guitar Multi-Effects Processor
+1211026252840;2450.0;20;GBP;1;PRS Santana III Carlos Santana Signature Amber 2002 Electric Guitar
+1221026252970;690.0;20;GBP;1;Fender TC-90 Black Cherry Burst 2006 Semi-Hollow Electric Guitar
+1100726222881;150.0;20;GBP;1;TC Electronic Plethora X3 Electric Guitar Multi-Effects Pedal
 1200626217733;740.0;20;GBP;1;Epiphone 1963 Firebird I IBG Custom Heather 2023 Electric Guitar
 1231026253230;690.0;20;GBP;1;Fender Highway Series Parlor Satin Natural 2023 Electro-Acoustic Guitar
 1241026253634;140.0;20;GBP;1;JHS Flight Delay Multi-Mode Digital Delay Electric Guitar Effects Pedal
@@ -221,7 +228,6 @@ product_code;price_gross;vat;currency;stock;name
 1260826235714;1040.0;20;GBP;1;Fender American Stratocaster Black 2005 Electric Guitar w/ Modifications
 1300826237060;740.0;20;GBP;1;ESP LTD Eclipse Custom 1987 Reissue Rainbow Crackle 2023 Electric Guitar
 1020926238111;850.0;20;GBP;1;Fender Lead II USA 1981/82 Wine Red Electric Guitar
-1160826232150;1870.0;20;GBP;1;Ernie Ball Music Man Valentine Trans Buttermilk 2025 Electric Guitar
 1050826229302;680.0;20;GBP;1;Epiphone Joe Bonamassa Signature Les Paul Goldtop 2012 Electric Guitar
 1270826235950;680.0;20;GBP;1;Supro Silverwood Transparent Red 2019 Electric Guitar
 1180826232770;930.0;20;GBP;1;Gordon Smith Classic T Deluxe Cherry Burst 2017 Electric Guitar
@@ -230,7 +236,6 @@ product_code;price_gross;vat;currency;stock;name
 1310826237341;1130.0;20;GBP;1;Gibson Les Paul Junior Vintage Tobacco Burst 2022 Left-Handed Electric Guitar
 1250826235490;1620.0;20;GBP;1;Gibson Les Paul Traditional Desert Burst 2008 Electric Guitar
 1310526212341;370.0;20;GBP;1;Eastman PCH1-GACE Thermo-Cure Natural 2021 Electro Acoustic Guitar
-1270826236171;3130.0;20;GBP;1;Gibson Custom Shop 1957 Les Paul Standard Reissue Goldtop 2003 Electric Guitar
 1180826232760;570.0;20;GBP;1;Taylor 114e Grand Auditorium Satin Natural 2022 LH Electro-Acoustic Guitar
 1130526208103;280.0;20;GBP;1;Rapier 33 Fiesta Red 3 Pickup Electric Guitar
 1100826230711;330.0;20;GBP;1;Friedman IR-D Dual Tube Preamp & DI All-Valve Preamplifier Pedal
