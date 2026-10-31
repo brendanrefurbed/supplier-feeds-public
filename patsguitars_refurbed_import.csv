@@ -414,7 +414,6 @@ product_code;price_gross;vat;currency;stock;name
 9997845135689;2915.99;20;EUR;1;Fender American Stratocaster 1982 - Sunburst
 10448328425801;874.79;20;EUR;1;Fender American Stratocaster Partcaster 2025 - Vintage White
 10379462148425;1200.95;20;EUR;1;Fender American Telecaster 1995 - Vintage White
-10349688226121;1846.79;20;EUR;1;Fender American Vintage 57 Reissue Stratocaster 1996 - Sunburst
 10492785099081;1846.79;20;EUR;1;Fender American Vintage 62 Reissue Stratocaster 1996 - Black
 10330798883145;1662.11;20;EUR;1;Fender American Vintage 62 Reissue Stratocaster 2001 - Sunburst
 10487305634121;1069.19;20;EUR;1;Fender Bullet 1 1981-1983 - Dakota Red
@@ -440,9 +439,11 @@ product_code;price_gross;vat;currency;stock;name
 10423084187977;874.79;20;EUR;1;Fender Japan 57 Reissue Stratocaster 1991-1992 - Sunburst
 10450939052361;777.59;20;EUR;1;Fender Japan 57 Reissue Stratocaster 1993-1994 - Sunburst
 10492758851913;971.99;20;EUR;1;Fender Japan 57 Reissue Stratocaster 1993-1994 - Sunburst
+10507556946249;971.99;20;EUR;1;Fender Japan 57 Reissue Stratocaster 1997-2000 - Black
 10392689312073;923.39;20;EUR;1;Fender Japan 57 Reissue Stratocaster 1997-2000 - Sunburst
 10379453530441;831.59;20;EUR;1;Fender Japan 57 Reissue Stratocaster 1999-2002 - Fiesta Red
 10398929060169;831.59;20;EUR;1;Fender Japan 57 Reissue Stratocaster 2004-2005 - Sunburst
+10507552293193;971.99;20;EUR;1;Fender Japan 57 Reissue Stratocaster 2007-2008 - Vintage White - Scalloped
 10240946176329;746.27;20;EUR;1;Fender Japan 60s Reissue Stratocaster 1991-1992 - Sunburst
 10450993217865;874.79;20;EUR;1;Fender Japan 62 Reissue Jazz Bass - Trans Blue - matching Headstock
 10445009453385;874.79;20;EUR;1;Fender Japan 62 Reissue Jazz Bass 1997-2000 - Sunburst
@@ -473,6 +474,7 @@ product_code;price_gross;vat;currency;stock;name
 10357313143113;1292.75;20;EUR;1;Fender Japan 72 Reissue Telecaster Custom 2010-2011 - White Blonde
 10349642154313;1200.95;20;EUR;1;Fender Japan 77 Reissue Mustang 2007-2010 - Black
 10329396969801;923.39;20;EUR;1;Fender Japan Aerodyne Stratocaster 2012 - Old Candy Red
+10507534434633;874.79;20;EUR;1;Fender Japan AST-M Stratocaster 1987-1988 - Sunburst
 10502898549065;971.99;20;EUR;1;Fender Japan C70ST Stratocaster 2016 - Black
 10445006668105;1166.39;20;EUR;1;Fender Japan CTL-50M 72 Reissue Telecaster 1986-1987 - Natural
 10445025509705;1166.39;20;EUR;1;Fender Japan CTL-50M Telecaster 1986-1987 - Natural
@@ -502,7 +504,9 @@ product_code;price_gross;vat;currency;stock;name
 10505590866249;874.79;20;EUR;1;Fender Japan ST-43 Stratocaster 1993-1994 - Black
 10435305636169;874.79;20;EUR;1;Fender Japan ST-43 Stratocaster 1993-1994 - Candy Apple Red
 10470273777993;874.79;20;EUR;1;Fender Japan ST-43 Stratocaster 1995-1999 - Vintage White
+10507539448137;874.79;20;EUR;1;Fender Japan ST-43 Stratocaster 2004-2005 - Black
 10431431770441;874.79;20;EUR;1;Fender Japan ST-43 Stratocaster- Black 1993-1994
+10507554980169;874.79;20;EUR;1;Fender Japan ST-43J Stratocaster 1993-1994 - Candy Apple Red
 10432911016265;874.79;20;EUR;1;Fender Japan ST-43J Stratocaster 1993-1994 - Sunburst
 10450943672649;874.79;20;EUR;1;Fender Japan ST-456 Stratocaster 1984-1987 - Vintage White
 10450953240905;874.79;20;EUR;1;Fender Japan ST-50 Stratocaster 1994-1995 - Black
@@ -532,6 +536,8 @@ product_code;price_gross;vat;currency;stock;name
 10349643923785;242.99;20;EUR;1;Fender Japan Telecaster Body - Red Repaint
 10431392514377;1166.39;20;EUR;1;Fender Japan Telecaster Custom 1995-1996 - Black
 10492746006857;971.99;20;EUR;1;Fender Japan TL-43 Telecaster 1993-1994 - Black
+10507566481737;777.59;20;EUR;1;Fender Japan TL-43J Telecaster 1993-1994 - Black
+10507549638985;874.79;20;EUR;1;Fender Japan TL-STD Telecaster 1993-1994 - Black
 10305790804297;242.99;20;EUR;1;Fender Japan TL-STD Telecaster Body - Black
 10398970970441;242.99;20;EUR;1;Fender Japan TL-STD Telecaster Body - Black
 10398973460809;242.99;20;EUR;1;Fender Japan TL-STD Telecaster Body - Black
@@ -565,12 +571,14 @@ product_code;price_gross;vat;currency;stock;name
 10328327225673;646.91;20;EUR;1;Fender Player Series Stratocaster 2019 - Black
 10387987005769;1200.95;20;EUR;1;Fender Ritchie Blackmore Signature Stratocaster 2009 - Olympic White
 10392519049545;1200.95;20;EUR;1;Fender Ritchie Blackmore Signature Stratocaster 2009 - Olympic White
+10067744260425;599.39;20;EUR;1;Fender Squier 71’ Reissue Telecaster 2002-2004 - Butterscotch Blonde
 10294157607241;1929.95;20;EUR;1;Fender Stevie Ray Vaughan Signature Stratocaster 1992 - Sunburst
 9692652437833;2138.39;20;EUR;1;Fender Telecaster 1976 - Vintage White
 10255403417929;2807.99;20;EUR;1;Fender Telecaster 1979 - White Blonde
 10092544688457;498.95;20;EUR;1;Fender Telecoustic 2000 - Candy Apple Red
 10435605102921;2429.99;20;EUR;1;Fender USA Jazz Bass 1976 - Red Repaint
 10381668024649;923.39;20;EUR;1;Fender USA Lead II 1980 - Red
+10507567956297;1846.79;20;EUR;1;Fender USA Musicmaster II MOD - Koa Natural
 10461984784713;2138.39;20;EUR;1;Fender USA Stratocaster 1978 - Sunburst
 10023442415945;6317.99;20;EUR;1;Fender USA Telecaster 1968 - Natural
 10490237681993;2138.39;20;EUR;1;Fender USA The Strat 1980 - Candy Apple Red
@@ -579,8 +587,10 @@ product_code;price_gross;vat;currency;stock;name
 10479774892361;680.39;20;EUR;1;Fernandes Japan FGZ-420 Superstrat 1997-2003 - Transparent Red Quilt
 10479773417801;777.59;20;EUR;1;Fernandes Japan FR-55 Superstrat 1991-1994 - Metallic Violet
 10491674755401;680.39;20;EUR;1;Fernandes Japan FRB-60 Bass - White
+10507564417353;680.39;20;EUR;1;Fernandes Japan Limited Edition Bass 1980s - Vintage White
 10390725067081;923.39;20;EUR;1;Fernandes Japan TE-95HT 1980 - Hotei Model
 10491692712265;680.39;20;EUR;1;Fernandes Japan The Function Stratocaster 2008 - Red
+10505449472329;680.39;20;EUR;1;Fernandes Japan The Function Superstrat 1990s - Red
 10448332390729;680.39;20;EUR;1;Fernandes LE-1X Stratocaster 2003 - Sunburst
 10435612410185;680.39;20;EUR;1;Fernandes Limited Edition TEJ - Black
 10470169346377;680.39;20;EUR;1;Fernandes Limited Edition Telecaster 2013 - Vintage White
@@ -589,10 +599,12 @@ product_code;price_gross;vat;currency;stock;name
 10502796706121;583.19;20;EUR;1;Fernandes Stratocaster 1990s - Black
 10392821334345;646.91;20;EUR;1;Fernandes The Function Flying V 2005 - Black
 10448429056329;680.39;20;EUR;1;Fernandes The Function SSH40 1988-1992 - Blue Burst
+10505469657417;583.19;20;EUR;1;Fernandes The Function Superstrat 1990s - Black
 10450936594761;777.59;20;EUR;1;FGN Fujigen Japan BMJ-R-01 Bass 2007 - Black
 10487624171849;777.59;20;EUR;1;FGN Fujigen Japan J-Classic Bass 2015 - Black
 10505644474697;777.59;20;EUR;1;FGN Fujigen Japan J-Classic Jazz Bass 2017 - Sunburst
 10381458112841;646.91;20;EUR;1;FGN Fujigen Japan J-Classic Jazz Bass 2018 - Sunburst
+10507559043401;777.59;20;EUR;1;FGN Fujigen Japan J-Classic JTL-6M Telecaster 2015 - Candy Apple Red
 10357252686153;646.91;20;EUR;1;FGN Fujigen Japan J-Classic Stratocaster 2015 - Sunburst
 10193134256457;831.59;20;EUR;1;FGN Fujigen Japan J-Standard HSS 2020
 10419643023689;680.39;20;EUR;1;FGN Fujigen Japan J-Standard Jazz Bass 2009 - Candy Apple Red
@@ -636,6 +648,7 @@ product_code;price_gross;vat;currency;stock;name
 10492768354633;2138.39;20;EUR;1;Gibson Gothic Explorer 2001 - Matte Black
 10492741386569;2429.99;20;EUR;1;Gibson J-100XT 2000 - Natural
 10450891014473;1166.39;20;EUR;1;Gibson Les Paul 60s Tribute 2016 - Tobacco Sunburst
+10507530862921;1069.19;20;EUR;1;Gibson Les Paul Bass 1993 - Tobacco Burst
 10435298066761;1749.59;20;EUR;1;Gibson Les Paul Classic 2012 - Ebony
 10431445074249;1749.59;20;EUR;1;Gibson Les Paul Classic 2014 - Ebony
 10427668627785;1749.59;20;EUR;1;Gibson Les Paul Classic 2017 2017 - Tobacco Sunburst
@@ -672,8 +685,10 @@ product_code;price_gross;vat;currency;stock;name
 10249247293769;790.55;20;EUR;1;Greco EG Les Paul 1970s - Cherry Sunburst
 10502845956425;680.39;20;EUR;1;Greco EG Les Paul 1970s - Cherry Sunburst
 10349679345993;738.71;20;EUR;1;Greco EG Les Paul 1970s - Ebony
+10505484960073;680.39;20;EUR;1;Greco EG Les Paul 1970s - Ebony
 10305314128201;615.59;20;EUR;1;Greco EG Les Paul 1970s - Sunburst
 10366187110729;646.91;20;EUR;1;Greco EG Les Paul 1970s - Sunburst
+10507542790473;680.39;20;EUR;1;Greco EG Les Paul 1970s - Sunburst
 10461888446793;680.39;20;EUR;1;Greco EG Les Paul 1976 - Cherry Sunburst
 10240956203337;701.99;20;EUR;1;Greco EG Les Paul 1978 - Cherry Sunburst
 10292862746953;615.59;20;EUR;1;Greco EG Les Paul Custom 1970s - Cherry Sunburst
@@ -838,6 +853,7 @@ product_code;price_gross;vat;currency;stock;name
 10379460641097;646.91;20;EUR;1;PRS SE Custom 24 2009 - Trans Black
 10338163360073;646.91;20;EUR;1;PRS SE Custom 24 2009 - Whale Blue
 10211613737289;746.27;20;EUR;1;PRS SE Custom 24 2012 - Cherry Red
+10507541250377;680.39;20;EUR;1;PRS SE EG 2004 2004 - Metallic Blue
 10435250553161;874.79;20;EUR;1;PRS SE McCarty 594 2022 - Faded Blue
 10404849025353;646.91;20;EUR;1;PRS SE Standard 2003 - Royal Blue
 10240933921097;615.59;20;EUR;1;PRS SE Standard 2005 - Camo
