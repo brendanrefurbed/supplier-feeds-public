@@ -320,6 +320,7 @@ product_code;price_gross;vat;currency;stock;name
 1030726221211;3720.0;20;GBP;1;Fender Custom Shop 1959 Stratocaster Heavy Relic Ocean Turquoise 2023 Guitar
 1200626217441;460.0;20;GBP;1;Tokai MIK ES-60 Sunburst Semi-Hollow Electric Guitar
 1230626218511;2730.0;20;GBP;1;Peavey Custom Shop EVH Wolfgang Custom South Korea Flag 2003 Electric Guitar
+1230626218530;1590.0;20;GBP;1;Fender 60th Anniversary Triple Jazzmaster Daphne Blue 2018 Electric Guitar
 1140626215930;600.0;20;GBP;1;Ibanez AF105F Natural Hollow Body 2006 Electric Guitar
 1290626219792;990.0;20;GBP;1;Fender J Mascis Telecaster Bottle Rocket Blue Flake 2021 Electric Gui
 1230626218510;52500.0;20;GBP;1;Fender Custom Shop EVH Frankenstein Replica 1 of 300 Masterbuilt by Chip Ellis
@@ -403,7 +404,6 @@ product_code;price_gross;vat;currency;stock;name
 1100326190050;690.0;20;GBP;1;Sterling by Music Man LK100D Luke Blue Electric Guitar
 1060226179574;830.0;20;GBP;1;Epiphone Peter Frampton Les Paul Custom Ebony 2018 Electric Guitar
 1070326189510;670.0;20;GBP;1;Jackson Pro Series Dinky DK7M metallic Black 2014 Electric Guitar
-1280226187150;2100.0;20;GBP;1;Rickenbacker 660 Jetglo 2013 Electric Guitar
 1270226186890;4390.0;20;GBP;1;Martin OM Davy Graham Custom Edition (UK) Gloss Natural 2007 Acoustic Guitar
 126012573993;770.0;20;GBP;1;Fret-King Esprit lll Green Label Series Transparent Black Electric Guitar
 1150226182870;830.0;20;GBP;1;Fender Limited Edition Mahogany Blacktop Stratocaster HHH Olympic White 2019
@@ -428,7 +428,6 @@ product_code;price_gross;vat;currency;stock;name
 1091125152197;3860.0;20;GBP;1;James Goodall Rosewood Standard Cutaway Gloss Natural 1994 Hand-Made Acoustic
 1091125152198;5490.0;20;GBP;1;Guild Artist Award 1995 Archtop Electric Guitar
 1261025146890;610.0;20;GBP;1;Sterling by Music Man JV60 James Valentine Signature Black Electric Guitar
-1271025147604;2140.0;20;GBP;1;Fender Stratocaster Black 1980 CBS Era Vintage Electric Guitar
 1271025147601;1820.0;20;GBP;1;Fender Stratocaster Natural Gloss 1981 CBS Era Vintage Electric Guitar
 1011025139701;2100.0;20;GBP;1;Fender Coronado I Sunburst 1966 Hollow Electric Guitar
 1101025142294;450.0;20;GBP;1;"Line 6 Powercab 112 Plus Active 1x12"" Stereo Guitar Speaker System"
@@ -448,7 +447,6 @@ product_code;price_gross;vat;currency;stock;name
 1051024513518;105.0;20;GBP;1;Tate FX Antares Modified Limited Edition Raw Enclosure Treble Boost Pedal
 1051024513543;135.0;20;GBP;1;Amplitube Tone X Capture Tone Modeling and Re amplification Pedal
 117062432541;530.0;20;GBP;1;Fret King Super-Matic Gloss Black Electric Guitar
-119062432991;420.0;20;GBP;1;Laney Ironheart IRT15H Valve Amplifier Head & Laney IRT112 1x12 Speaker Cabinet
 1060524271022;120.0;20;GBP;1;Burford Electronics Mosquito Fuzz Pedal
 106042421286;360.0;20;GBP;1;Fender Bassbreaker 1830 Watt 2x12” Combo Valve Guitar Amplifier
 108032418311;95.0;20;GBP;1;Orange Kongpressor Compressor Guitar Effects Pedal
