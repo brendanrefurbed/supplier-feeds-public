@@ -1,4 +1,8 @@
 product_code;price_gross;vat;currency;stock;name
+1271026254280;510.0;20;GBP;1;Ibanez AMH90 Artcore Expressionist Cherry Red Flat 2021 Hollow-Body Electric
+1241026253670;670.0;20;GBP;1;PRS SE Custom 24 Floyd Rose 30th Anniversary Grey Black 2015 Electric Guitar
+1271026254290;910.0;20;GBP;1;Ibanez Premium SR3000E Stained Oil 2001-2004 4-String Electric Bass
+1231026253410;970.0;20;GBP;1;Fender American Standard Stratocaster 3-Color Sunburst 2014 Electric Guitar
 1301026255170;3040.0;20;GBP;1;Martin HD-35 Gloss Natural 2022 Dreadnought Acoustic Guitar
 1221026253000;1580.0;20;GBP;1;Guild M40e Troubadour Antique Burst 2017 Electro Acoustic Guitar
 1221026253110;1080.0;20;GBP;1;Fender MIJ Traditional 60s Telecaster Custom Fiesta Red 2025 Electric Guitar
@@ -352,7 +356,6 @@ product_code;price_gross;vat;currency;stock;name
 1020526205730;300.0;20;GBP;1;Epiphone Dot Studio Cherry 2014 Semi-Hollow Electric Guitar
 1280326195420;340.0;20;GBP;1;Sire Marcus Miller U5 Short Mint 2025 Electric Bass
 1120526208002;420.0;20;GBP;1;Sammick LN-20FRQM Faded Sunburst 2010 Electric Guitar
-1020226178260;310.0;20;GBP;1;Guild Surfliner HH Canyon Dusk 2022 Electric Guitar
 1080526207021;1380.0;20;GBP;1;Fender American Original '50s Stratocaster 2-Colour Sunburst 2017Guitar
 1210525101492;740.0;20;GBP;1;Ibanez RGRB720 Black Flat 2025 7-String Electric Guitar
 1210426203051;1020.0;20;GBP;1;Ibanez BTB1805 Natural Low Gloss 2017 5-String Electric Bass Guitar
