@@ -1,4 +1,12 @@
 product_code;price_gross;vat;currency;stock;name
+1231026253371;690.0;20;GBP;1;Fender Player Plus Telecaster 3-Colour Sunburst 2021 Acoustic Guitar
+1270926245393;310.0;20;GBP;1;Epiphone SG Standard Alpine White 2022 Electric Guitar
+1301026255430;660.0;20;GBP;1;Solar A2.7+ Canibalismo Green Neon Open Pore Matte 2025 7-String Electric Guitar
+1041126256581;370.0;20;GBP;1;Epiphone Wildkat Transparent Black 2004 Semi-Hollow Electric Guitar
+1051126257020;1780.0;20;GBP;1;Gibson Les Paul Standard 60’s Unburst 2020 Electric Guitar
+1261026254220;560.0;20;GBP;1;Epiphone Les Paul Custom Prophecy Plus GX Black Cherry 2008 Electric Guitar
+1270926245350;510.0;20;GBP;1;Gretsch G5120 Electromatic Vintage Sunburst 2011 Hollow-Body Electric Guitar
+1041126256583;560.0;20;GBP;1;Gretsch G5422TG DC Electromatic 2017 Walnut Stain Hollow Body Electric Guitar
 1011225158951;870.0;20;GBP;1;Tokai FA-70 Vintage Sunburst Hollow-Body Electric Guitar
 1241026253671;570.0;20;GBP;1;PRS SE Mark Tremonti Charcoal Burst 2024 Electric Guitar
 1011126255770;570.0;20;GBP;1;Solar A2.6FRPN Canibalismo Pink Neon Matte 2025 Electric Guitar
@@ -12,7 +20,6 @@ product_code;price_gross;vat;currency;stock;name
 1271026254280;510.0;20;GBP;1;Ibanez AMH90 Artcore Expressionist Cherry Red Flat 2021 Hollow-Body Electric
 1241026253670;670.0;20;GBP;1;PRS SE Custom 24 Floyd Rose 30th Anniversary Grey Black 2015 Electric Guitar
 1271026254290;910.0;20;GBP;1;Ibanez Prestige SR3000E Stained Oil 2001-2004 4-String Electric Bass
-1231026253410;970.0;20;GBP;1;Fender American Standard Stratocaster 3-Color Sunburst 2014 Electric Guitar
 1301026255170;3040.0;20;GBP;1;Martin HD-35 Gloss Natural 2022 Dreadnought Acoustic Guitar
 1221026253000;1580.0;20;GBP;1;Guild M40e Troubadour Antique Burst 2017 Electro Acoustic Guitar
 1221026253110;1080.0;20;GBP;1;Fender MIJ Traditional 60s Telecaster Custom Fiesta Red 2025 Electric Guitar
@@ -44,7 +51,6 @@ product_code;price_gross;vat;currency;stock;name
 1231026253230;690.0;20;GBP;1;Fender Highway Series Parlor Satin Natural 2023 Electro-Acoustic Guitar
 1250826235311;260.0;20;GBP;1;BOSS Katana-Air Wireless 30 Watt Desktop Electric Guitar Amplifier Combo
 1241026253633;680.0;20;GBP;1;ESP LTD RB-1005-SM Natural Gloss 2014 5-String Electric Bass
-1030926238501;170.0;20;GBP;1;Valeton GP-200 Multi Effects Processor
 1290826236922;180.0;20;GBP;1;Yamaha THR10X 10 Watt Desktop Electric Guitar Amplifier
 1171026251620;690.0;20;GBP;1;Charvel Pro Mod So Cal 1 HSH FR Robins Egg Blue 2022 Electric Guitar
 1200626217734;870.0;20;GBP;1;D'Angelico Deluxe DH Matte Electric Yellow Hollow Body Archtop Guitar
@@ -155,7 +161,6 @@ product_code;price_gross;vat;currency;stock;name
 1290926245902;1950.0;20;GBP;1;Gibson Billie Joe Armstrong Les Paul Junior Ebony 2010 Electric Guitar
 1290926245900;1700.0;20;GBP;1;Gibson Les Paul Classic Cherry Sunburst 2003 Electric Guitar
 1011026246641;870.0;20;GBP;1;Taylor 310 Natural 1998 Dreadnought Electro-Acoustic Guitar
-1290926245901;3390.0;20;GBP;1;Gibson Custom, Art & Historic 'Cloud 9' Chambered Reissue 1954 Les Paul Standard
 1300626220460;1530.0;20;GBP;1;Ernie Ball Music Man StingRay 2 EQ H Black 2010 Electric Bass
 1210926243621;1760.0;20;GBP;1;Ernie Ball MusicMan Stingray 5 H Ruby Red 1999 5-String Electric Bass
 1270926245380;2420.0;20;GBP;1;Suhr Classic S Limited Edition Metallic Brandywine 2020 Electric Guitar
@@ -167,7 +172,6 @@ product_code;price_gross;vat;currency;stock;name
 1230926244230;1020.0;20;GBP;1;Fender Artist Series Richie Sambora Standard Stratocaster Lake Placid Blue 1996
 1210926243700;1670.0;20;GBP;1;Duesenberg Paloma White 2023 Electric Guitar
 1220926243763;420.0;20;GBP;1;Epiphone Les Paul Standard Ltd Edition Gold Sparkle 1997 Electric Guitar
-1140926241630;480.0;20;GBP;1;Epiphone Les Paul Standard Ltd Edition Gold Sparkle 1997 Electric Guitar
 1130926241301;460.0;20;GBP;1;Ibanez Artcore Series AS93 Trans Cherry Red 2017 Hollow-Body Electric Guitar
 1160926242213;740.0;20;GBP;1;Hagstrom H-III Scandi Sunburst c.1976 Modified Vintage Electric Guitar
 1170926242500;510.0;20;GBP;1;Sigma DM-SG5 Heritage Cherry Sunburst 2022 Electro-Acoustic Guitar
@@ -211,7 +215,6 @@ product_code;price_gross;vat;currency;stock;name
 1240726226150;570.0;20;GBP;1;Epiphone Les Paul Custom Black Beauty 2006 Electric Guitar
 1270826235970;1750.0;20;GBP;1;Roland G-808 Natural 1983 Guitar Synthesiser Controller Electric Guitar
 1010826228380;800.0;20;GBP;1;Schecter KM-7 Keith Merrow Lambo Orange 2015 7-String Electric Guitar
-1280826236430;420.0;20;GBP;1;Gretsch G2410TG Streamliner Village Amber 2021 Hollowbody Electric Guitar
 1240826235050;510.0;20;GBP;1;Fender Modern Player Telecaster Thinline Deluxe 3-Colour Sunburst 2014 Electric
 1100926240600;1590.0;20;GBP;1;Guild M-40 Troubadour Satin Natural 2018 Acoustic Guitar
 1100926240321;890.0;20;GBP;1;Taylor 214ce DLX 2023 Gloss Natural Electro-Acoustic Guitar
