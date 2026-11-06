@@ -1,4 +1,7 @@
 product_code;price_gross;vat;currency;stock;name
+1020926238002;300.0;20;GBP;1;Sterling by Music Man Cutlass CT50 HSS Firemist Silver Electric Guitar
+1231026253370;1660.0;20;GBP;1;Gibson Les Paul Classic HP Cherry Sunburst 2017 Electric Guitar
+1230626218412;310.0;20;GBP;1;Squier Classic Vibe Duo Sonic Desert Sand 2008 Electric Guitar
 1231026253371;690.0;20;GBP;1;Fender Player Plus Telecaster 3-Colour Sunburst 2021 Acoustic Guitar
 1270926245393;310.0;20;GBP;1;Epiphone SG Standard Alpine White 2022 Electric Guitar
 1301026255430;660.0;20;GBP;1;Solar A2.7+ Canibalismo Green Neon Open Pore Matte 2025 7-String Electric Guitar
@@ -256,7 +259,6 @@ product_code;price_gross;vat;currency;stock;name
 1020726220995;1290.0;20;GBP;1;Larrivee OM-02 Satin Natural 2013 Electro-Acoustic Guitar
 1020726220996;2760.0;20;GBP;1;Northwood Borneo Rosewood 70 Series OM Gloss Natural 2016 Hand-Made Acoustic
 1180426201791;2760.0;20;GBP;1;Northwood Studio 00 Vintage Cherry Sunburst 2012 Acoustic Guitar
-1040826228950;1700.0;20;GBP;1;Strandberg Boden Plini Edition Natural 2017 Headless Electric Guitar
 1120626215410;670.0;20;GBP;1;Ibanez ASV-100-DG Black Low Gloss 2016 Semi-Hollow Electric Guitar
 1100826230740;2090.0;20;GBP;1;Rickenbacker 360 Mapleglo 2021 Semi-Hollow Electric Guitar
 1290726227270;570.0;20;GBP;1;Jackson X Series Monarkh SCX7 Black Gloss 2016 7-String Electric Guitar
