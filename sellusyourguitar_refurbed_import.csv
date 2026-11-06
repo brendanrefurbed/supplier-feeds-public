@@ -1,4 +1,6 @@
 product_code;price_gross;vat;currency;stock;name
+1011225158951;870.0;20;GBP;1;Tokai FA-70 Vintage Sunburst Hollow-Body Electric Guitar
+1241026253671;570.0;20;GBP;1;PRS SE Mark Tremonti Charcoal Burst 2024 Electric Guitar
 1011126255770;570.0;20;GBP;1;Solar A2.6FRPN Canibalismo Pink Neon Matte 2025 Electric Guitar
 1301026255172;2710.0;20;GBP;1;Martin D35 Centennial Edition 2016 Gloss Natural Electro-Acoustic Guitar
 1041126256584;620.0;20;GBP;1;Taylor 114ce Natural Satin 2010 Electro Acoustic Guitar
@@ -51,7 +53,6 @@ product_code;price_gross;vat;currency;stock;name
 1200626217732;840.0;20;GBP;1;D'Angelico Deluxe Bedford Chameleon 2018 Electric Guitar
 1201026252420;1660.0;20;GBP;1;Eastman ER4 Hollow Body Truetone Gloss Archtop 2019 Guitar
 1261026254110;230.0;20;GBP;1;BOSS OD-1 OverDrive Vintage 1981 Electric Guitar Effects Pedal Glossy JRC4558D
-1200626217730;1700.0;20;GBP;1;Fender Ltd Ed. American Ultra Stratocaster Bubblegum Pink 2023 Electric Guitar
 1191026251840;3470.0;20;GBP;1;Fender Custom Shop Deluxe Telecaster Candy Red 2012 Electric Guitar
 1171026251410;1760.0;20;GBP;1;Steinberger GR4 Headless Candy Apple Red c.1990 Electric Guitar
 1280626219740;1420.0;20;GBP;1;Taylor 712 Gloss Natural 1996 Grand Concert Electro-Acoustic Guitar
@@ -73,7 +74,6 @@ product_code;price_gross;vat;currency;stock;name
 1111026249420;350.0;20;GBP;1;Epiphone Dot Vintage Sunburst 2019 Semi-Hollow Electric Guitar
 1071026248676;1105.0;20;GBP;1;Fender Tone Master Pro Multi Effects Processor
 1221026253080;1130.0;20;GBP;1;Fender American Professional Precision Bass 3-Colour Sunburst 2016 Electric Bass
-1191026252141;710.0;20;GBP;1;Brian May Guitars Red Special Antique Cherry 2019 Electric Guitar
 1211026252761;3310.0;20;GBP;1;"Fender FSR ""Beatles Gear"" Vintage Stratocaster Sonic Blue 2001 Electric Guitar"
 1071026248677;370.0;20;GBP;1;Sire Larry Carlton Q7 Tobacco Sunburst Electric Guitar
 1041026247510;820.0;20;GBP;1;Fender American Traditional Jazz refinished Vintage White 1999 Electric Bass
@@ -102,7 +102,6 @@ product_code;price_gross;vat;currency;stock;name
 1031026247262;560.0;20;GBP;1;Burny RLC-50JS Black 2008 Electric Guitar
 1171026251352;740.0;20;GBP;1;Gordon Smith GS1 Korina Natural Satin Electric Guitar
 1121026249960;510.0;20;GBP;1;Epiphone Les Paul Custom Left Handed Ebony 2021 Electric Guitar
-1191026252080;460.0;20;GBP;1;Epiphone Inspired by Gibson ES-335 Figured Sixties Cherry 2024 Electric Guitar
 1131026250170;690.0;20;GBP;1;Ibanez RG631ALF Axion Label Blue Chameleon 2025 Electric Guitar
 1141026250600;770.0;20;GBP;1;Fender Classic Player '60s Stratocaster 3-Colour Sunburst 2015 Electric Guitar
 1290926245990;870.0;20;GBP;1;ESP LTD EC-1000B Deluxe Baritone Charcoal Metallic Satin 2022 Electric Guitar
