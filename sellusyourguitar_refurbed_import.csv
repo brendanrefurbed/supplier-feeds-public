@@ -1,7 +1,10 @@
 product_code;price_gross;vat;currency;stock;name
+1291026254991;650.0;20;GBP;1;Epiphone Masterbilt FT110 Frontier Iced Tea Aged Gloss 2024 Electro-Acoustic
+1091126257971;670.0;20;GBP;1;Fender Player Plus Stratocaster 3-Colour Sunburst 2022 Electric Guitar
+1211026252640;910.0;20;GBP;1;Fender American Special Stratocater Olympic White 2017 Electric Guitar
+1271026254430;740.0;20;GBP;1;Burns Brian May Signature Red Special Cherry Electric Guitar
 1011126255721;1030.0;20;GBP;1;Baum Nidhogg Vintage White Electric Bass
 1051126256952;2260.0;20;GBP;1;Gibson ES-390 with Mini Humbuckers Ebony 2013 Hollow Body Electric Guitar
-1281026254770;2100.0;20;GBP;1;Fender STR-135RS Richie Sambora Stratocaster Cherry Burst 1995 MIJ Electric
 1291026255030;1250.0;20;GBP;1;G&L USA CLF L-2000 Transparent Blue Electric Bass
 1071126257471;1210.0;20;GBP;1;Mesa Boogie MarkFive:25 Guitar Valve Amplifier Head
 1301026255440;1130.0;20;GBP;1;Taylor 214ce-K DLX Koa Deluxe 2025 Grand Auditorium Electro-Acoustic Guitar
@@ -23,7 +26,6 @@ product_code;price_gross;vat;currency;stock;name
 1261026254220;560.0;20;GBP;1;Epiphone Les Paul Custom Prophecy Plus GX Black Cherry 2008 Electric Guitar
 1270926245350;510.0;20;GBP;1;Gretsch G5120 Electromatic Vintage Sunburst 2011 Hollow-Body Electric Guitar
 1011225158951;870.0;20;GBP;1;Tokai FA-70 Vintage Sunburst Hollow-Body Electric Guitar
-1241026253671;570.0;20;GBP;1;PRS SE Mark Tremonti Charcoal Burst 2024 Electric Guitar
 1011126255770;570.0;20;GBP;1;Solar A2.6FRPN Canibalismo Pink Neon Matte 2025 Electric Guitar
 1301026255172;2710.0;20;GBP;1;Martin D35 Centennial Edition 2016 Gloss Natural Electro-Acoustic Guitar
 1041126256584;620.0;20;GBP;1;Taylor 114ce Natural Satin 2010 Electro Acoustic Guitar
@@ -112,7 +114,6 @@ product_code;price_gross;vat;currency;stock;name
 1121026249960;510.0;20;GBP;1;Epiphone Les Paul Custom Left Handed Ebony 2021 Electric Guitar
 1131026250170;690.0;20;GBP;1;Ibanez RG631ALF Axion Label Blue Chameleon 2025 Electric Guitar
 1141026250600;770.0;20;GBP;1;Fender Classic Player '60s Stratocaster 3-Colour Sunburst 2015 Electric Guitar
-1290926245990;870.0;20;GBP;1;ESP LTD EC-1000B Deluxe Baritone Charcoal Metallic Satin 2022 Electric Guitar
 1121026249970;1820.0;20;GBP;1;PRS Silver Sky Satin Moc Sand 2021 John Mayer Signature Electric Guitar
 1171026251371;1370.0;20;GBP;1;Fender American Professional II Telecaster Deluxe Miami Blue w/Upgrades
 1250926244880;2840.0;20;GBP;1;Fender Final Fantasy XIV Stratocaster Gloss Black 2022 Electric Guitar
@@ -314,7 +315,6 @@ product_code;price_gross;vat;currency;stock;name
 1230626218511;2730.0;20;GBP;1;Peavey Custom Shop EVH Wolfgang Custom South Korea Flag 2003 Electric Guitar
 1230626218530;1590.0;20;GBP;1;Fender 60th Anniversary Triple Jazzmaster Daphne Blue 2018 Electric Guitar
 1140626215930;600.0;20;GBP;1;Ibanez AF105F Natural Hollow Body 2006 Electric Guitar
-1290626219792;990.0;20;GBP;1;Fender J Mascis Telecaster Bottle Rocket Blue Flake 2021 Electric Gui
 1230626218510;52500.0;20;GBP;1;Fender Custom Shop EVH Frankenstein Replica 1 of 300 Masterbuilt by Chip Ellis
 1200626217543;2310.0;20;GBP;1;Guild M75 Custom Order 1962 USA Red Refin. Electric Guitar
 121022114562;340.0;20;GBP;1;Sterling By Music Man Cutlass CT30SSS Charcoal Frost Electric Guitar
