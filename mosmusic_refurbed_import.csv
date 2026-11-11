@@ -1,6 +1,7 @@
 product_code;price_gross;vat;currency;stock;name
 P256271;1057.32;20;GBP;1;1970s Orange 4x12 Guitar Amplifier Cabinet (Pre-Owned)
 N255114;7.55;20;GBP;1;3.5mm Stereo Plug to 2 x RCA Plugs Lead
+P267283;81.0;20;GBP;1;AKG C1000S Condenser Microphone (Pre-Owned)
 P256052;214.92;20;GBP;1;Alto OEX400 Portable PA System (Pre-Owned)
 N255455;68.04;20;GBP;1;Alto Professional Bluetooth Ultimate XLR Stereo Receiver
 N255440;247.32;20;GBP;1;Alto Professional TX415, 700W 15-inch Powered Loudspeaker with Bluetooth
@@ -413,7 +414,7 @@ P266957;646.92;20;GBP;1;Ibanez JEM555 Steve Vai Signature White Electric Guitar 
 B266721;1024.92;20;GBP;1;Ibanez JSM20-BKL John Schofield, Black (B-Stock)
 P256084;754.92;20;GBP;1;Ibanez RG1127PBFX Premium Electric Guitar - in Caribbean Islet Flat (Pre-Owned)
 P266771;85.32;20;GBP;1;Irin S-Style Electric, Sparkly Red (Pre-Owned)
-B254706;268.92;20;GBP;1;Jackson JS Series King V JS32T, Ferrari Red (B-Stock)
+B254706;247.32;20;GBP;1;Jackson JS Series King V JS32T, Ferrari Red (B-Stock)
 N254940;268.92;20;GBP;1;Jackson JS Series Surfcaster JS22 Electric Guitar, Snow White
 P256308;160.92;20;GBP;1;James Neligan DEV-DCFI, Deveron Series, Left-handed Dreadnought - in Natural (Pre-Owned)
 N266494;193.32;20;GBP;1;Jet Guitars JT-300 Electric Guitar, Blue
@@ -539,6 +540,7 @@ N254882;26.99;20;GBP;1;Promark Shira Kashi Oak 5A Nylon Tip Drumstick
 N255383;23.75;20;GBP;1;Promark Shira Kashi Oak 5A Wood Tip Drumstick
 N254805;23.75;20;GBP;1;Promark Shira Kashi Oak 5B Wood Tip Drumstick
 N254787;47.51;20;GBP;1;Promark TB3 Jazz Telescopic Wire Brush
+P267301;139.32;20;GBP;1;PRS Mary Cries Optical Compressor Pedal (Pre-Owned)
 P267234;430.92;20;GBP;1;PRS MT15 Mark Tremonti Signature 15W Valve Amplifier Head with Footswitch (Pre-Owned)
 P256264;409.32;20;GBP;1;PRS SE Custom 22 Electric Guitar - in Vintage Sunburst (Pre-Owned)
 P256296;463.32;20;GBP;1;PRS SE Singlecut Electric Guitar - in Cherry Red (Pre-Owned)
@@ -653,6 +655,7 @@ N255770;7.55;20;GBP;1;Standard Patch Lead Sets 6.3mm Mono Jack - 6.3mm Mono Jack
 N254899;7.55;20;GBP;1;Standard Speaker Leads 6.3mm Mono Jack Plug - 6.3mm Mono Jack Plug
 P267190;376.92;20;GBP;1;Sterling by Music Man SUB Series Electric Guitar, Trans Blue, Floyd Rose Tremolo (Pre-Owned)
 P267182;139.32;20;GBP;1;Subdecay Octasynth Octave Synthesizer Pedal (Pre-Owned)
+P267303;160.92;20;GBP;1;Suhr Alexa Dual Channel Chorus (Pre-Owned)
 P266718;376.92;20;GBP;1;Supro Thunderbolt S6420+ Reissue (Pre-Owned)
 P256038;63.72;20;GBP;1;T-Rex 56 Tone Trunk Pedal Bag & Board (Pre-Owned)
 N256365;14.03;20;GBP;1;Tanglewood 10' FX3 BBA Angled Black & Blue Braided Instrument Cable
@@ -691,11 +694,11 @@ N254985;12.42;20;GBP;1;Taylor Premium DarkTone Ivoroid 351 Guitar Picks, 6-Pack 
 N254905;12.42;20;GBP;1;Taylor Premium DarkTone Ivoroid 351 Guitar Picks, 6-Pack 1.21MM
 N254645;8.63;20;GBP;1;Taylor Premium Plush Microfiber Cloth
 N255469;8.63;20;GBP;1;Taylor Premium Suede Microfiber Cloth
-N267139;96.12;20;GBP;1;TC Electronic Ditto+ Looper Pedal
 P266925;160.92;20;GBP;1;TC Electronic Flashback Triple Delay (Pre-Owned)
 P267268;160.92;20;GBP;1;TC Helicon Perform-V Vocal Effects Processor (Pre-Owned)
 N255540;5.35;20;GBP;1;TGI Microphone Stand Plectrum Holder
 N254950;2.15;20;GBP;1;TGI Tortoiseshell Plectrums 1.2mm, 6 Pack
+P267313;128.52;20;GBP;1;ThorpyFX Gunshot (Original) Overdrive Pedal  (Pre-Owned)
 P267307;484.92;20;GBP;1;Tone King Imperial Tube Preamp Pedal (Pre-Owned)
 N255999;14.03;20;GBP;1;Vater 5A Wood Tip VH5AW Drum Sticks
 N254728;14.57;20;GBP;1;Vater 5B Nylon Tip Hickory Drumsticks
@@ -712,6 +715,7 @@ P256304;182.52;20;GBP;1;Walrus Audio Monument Harmonic Tap Tremolo V2  (Pre-Owne
 P266567;970.92;20;GBP;1;Warwick RB Adam Clayton Signature Bass with EMG Pickups, in Solid Creme White with Pearloid Pickguard (Pre-Owned)
 P267192;268.92;20;GBP;1;Washburn G2V Electric Guitar (1980s), Metallic Red (Pre-Owned)
 P256125;106.92;20;GBP;1;Wharfedale Pro EVP-X12M Passive Floor Monitor (Pre-Owned)
+P267266;322.92;20;GBP;1;Yamaha APX600FM Flamed Maple Amber Electro-Acoustic Guitar (Pre-Owned)
 P266961;268.92;20;GBP;1;Yamaha EZ-EG MIDI Guitar (Pre-Owned)
 P256266;430.92;20;GBP;1;Yamaha FS-TA TransAcoustic Guitar - in Brown Sunburst (Pre-Owned)
 P266550;85.32;20;GBP;1;Yamaha KM802 Mixer (Pre-Owned)
