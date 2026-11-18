@@ -194,7 +194,6 @@ product_code;price_gross;vat;currency;stock;name
 10508831555913;1555.19;20;EUR;1;Fender American Professional II Stratocaster 2023 - Sunburst
 10536675443017;1263.59;20;EUR;1;Fender American Special Stratocaster 2015 - Sunburst
 10390692102473;1200.95;20;EUR;1;Fender American Standard Stratocaster 1993 - Lipstick Red
-10216615838025;831.59;20;EUR;1;Fender American Stratocaster / Partcaster 2022 2022 - Vintage White
 10220182634825;2309.03;20;EUR;1;Fender American Stratocaster 1979 - Natural
 9997845135689;2915.99;20;EUR;1;Fender American Stratocaster 1982 - Sunburst
 10528479838537;1263.59;20;EUR;1;Fender American Stratocaster – Charcoal Frost Metallic 2006-2007
@@ -281,7 +280,6 @@ product_code;price_gross;vat;currency;stock;name
 10530826158409;1263.59;20;EUR;1;Fender Japan MG-69 Mustang 1994-1995 - Candy Apple Red
 10328355209545;790.55;20;EUR;1;Fender Japan PB-43 Precision Bass 2004-2005 - Sunburst
 10461669327177;831.59;20;EUR;1;Fender Japan PB-50 Precision Bass 1994-1995 - Black
-10461689807177;831.59;20;EUR;1;Fender Japan PB-STD Precision Bass 1994-1995 - Black
 10415953740105;831.59;20;EUR;1;Fender Japan PJR-65R Jazz Bass Special 1986-1987 - Black
 10423188095305;831.59;20;EUR;1;Fender Japan Precision / Jazz Bass 1993-1994 - Candy Apple Red
 10508832080201;777.59;20;EUR;1;Fender Japan Precision Bass 1999-2002 - Vintage White - Fretless
@@ -347,7 +345,6 @@ product_code;price_gross;vat;currency;stock;name
 10470226723145;971.99;20;EUR;1;Fender Japan TL45 Telecaster 2004-2005 - Blonde
 10374841663817;1108.07;20;EUR;1;Fender Japan Traditional 70s Reissue Telecaster Custom 2021 - Black
 10421741125961;1200.95;20;EUR;1;Fender Japan Traditional II 60s Jaguar 2020 - Sunburst
-10419791233353;1108.07;20;EUR;1;Fender Jim Root Signature Jazzmaster 2020 - Satin White
 10435293512009;1108.07;20;EUR;1;Fender Jim Root Signature Jazzmaster 2026 - Arctic White
 10316303008073;1229.03;20;EUR;1;Fender Lead I 1981 - Natural
 10316385222985;1229.03;20;EUR;1;Fender Limited Edition '72 Telecaster Deluxe 2012 - Orange Sparkle
@@ -458,7 +455,6 @@ product_code;price_gross;vat;currency;stock;name
 10492768354633;2138.39;20;EUR;1;Gibson Gothic Explorer 2001 - Matte Black
 10492741386569;2429.99;20;EUR;1;Gibson J-100XT 2000 - Natural
 10381514277193;1662.11;20;EUR;1;Gibson J-45 Deluxe 1982 - Vintage Sunburst
-10450891014473;1108.07;20;EUR;1;Gibson Les Paul 60s Tribute 2016 - Tobacco Sunburst
 10431445074249;1662.11;20;EUR;1;Gibson Les Paul Classic 2014 - Ebony
 10427668627785;1662.11;20;EUR;1;Gibson Les Paul Classic 2017 2017 - Tobacco Sunburst
 10255401746761;3071.51;20;EUR;1;Gibson Les Paul Deluxe 1980 - Natural
@@ -518,7 +514,6 @@ product_code;price_gross;vat;currency;stock;name
 10249362276681;701.99;20;EUR;1;Greco EG480 Custom Les Paul 1970s - Sunburst
 10249290514761;701.99;20;EUR;1;Greco EG480R Custom Les Paul 1976 - Cherry Sunburst
 10444995887433;646.91;20;EUR;1;Greco EG500 Les Paul Standard 1977 - Cherry Sunburst
-10435270443337;738.71;20;EUR;1;Greco EG500 Les Paul Standard 1978 - Cherry Sunburst
 10357237612873;831.59;20;EUR;1;Greco EGC-480 Les Paul Custom 1990 - Ebony
 10357332771145;831.59;20;EUR;1;Greco EGC-480 Les Paul Custom 1990 - Ebony
 10530814951753;680.39;20;EUR;1;Greco Electric Jazz Bass 1970s - Sunburst
@@ -827,7 +822,6 @@ product_code;price_gross;vat;currency;stock;name
 10381540032841;462.23;20;EUR;1;Yamaha RTS102 1991 - White
 10303849627977;701.99;20;EUR;1;Yamaha SF3000 1983 - Cherry Sunburst - Vintage Japan
 10381537182025;646.91;20;EUR;1;Yamaha SL380 Studio Lord Les Paul 1978 - Cherry Sunburst
-10330876543305;615.59;20;EUR;1;Yamaha SL380 Studio Lord Les Paul 1979 - Cherry Sunburst
 10303723635017;615.59;20;EUR;1;Yamaha SL380 Studio Lord Les Paul 1979 - Tobacco Burst - Vintage Japan
 10490037535049;680.39;20;EUR;1;Yamaha Studio Lord SL380 Les Paul 1976-1979 - Cherry Sunburst
 10381426458953;646.91;20;EUR;1;Yamaha Studio Lord SL380 Les Paul 1978-1980 - Cherry Sunburst
