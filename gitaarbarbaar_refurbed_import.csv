@@ -1,5 +1,6 @@
 product_code;price_gross;vat;currency;stock;name
 GITB1004;2752.92;21;EUR;1;Anton Wiegers Libra 1982 | Natural
+GITB1284;1618.92;21;EUR;1;Avalon A201CE 2003 | Natural
 GITB1213;3508.92;21;EUR;1;B&G Little Sister Private Build Limited Edition | Proper Copper
 GITB1248;1348.92;21;EUR;1;Charvel Jim Root Signature | Black
 GITB1270;1078.92;21;EUR;1;Charvel Pro Mod San Dimas Style 1 H | Matte Blue Frost
@@ -64,6 +65,7 @@ GITB1280;1726.92;21;EUR;1;Ibanez SZ4020FM Prestige 2007 | Natural Flat
 GITB1291;1618.92;21;EUR;1;Ibanez SZ4020FM Prestige 2007 | Transparent Flat Black
 GITB1257;916.92;21;EUR;1;Jackson Pro Series Chris Broderick Soloist HT7 | Black
 GITB1143;1294.92;21;EUR;1;Josef Sandner Isana Archtop (Deluxe) 1959 | Red Sunburst
+GITB1282;862.92;21;EUR;1;Kremona M-15E 2010 | Satin
 GITB1295;1618.92;21;EUR;1;Kritz Stradovarius S202 | Gloss Transparant
 GITB1294;1456.92;21;EUR;1;Kritz Stradovarius S909 | Natural
 GITB1221;2860.92;21;EUR;1;Larrivée D10 1997 | Natural
