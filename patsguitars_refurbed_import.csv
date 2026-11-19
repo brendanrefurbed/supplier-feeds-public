@@ -12,6 +12,7 @@ product_code;price_gross;vat;currency;stock;name
 10451020611913;646.91;20;EUR;1;Aria Pro II Japan ZZ Custom Explorer 1983 - Metallic Red
 10520701206857;388.79;20;EUR;1;Aria Pro II Magna Superstrat HSS 1994-1996 - See-Through Red
 9729057751369;1052.99;20;EUR;1;Aria Pro II PE-140 1976 - Mahogany
+10544376283465;1069.19;20;EUR;1;Aria Pro II RG-900 1984 - Natural
 10518906339657;680.39;20;EUR;1;Aria Pro II RS Wildcat 1986 - Vintage White
 10294047015241;350.99;20;EUR;1;Aria Pro II RVB450-DRS Avante Series Bass - Red Burst
 10294094004553;350.99;20;EUR;1;Aria Pro II The Warrior-JR 1990s - Black
@@ -29,6 +30,7 @@ product_code;price_gross;vat;currency;stock;name
 9989211717961;1749.59;20;EUR;1;Bad Cat “Lil 15” Amplifier Combo
 9989279220041;1166.39;20;EUR;1;Bad Cat “Mini Cat” Amplifier Head - Black
 10305857814857;97.19;20;EUR;1;BBE Opto Stomp Optical Compressor Effektpedal
+10544383033673;680.39;20;EUR;1;BC Rich Ironbird Platinum Series 2005 - Black
 10211522937161;184.67;20;EUR;1;Blackstar HTV-112 1x12 Lautsprecher Cabinet 80W
 10016105562441;473.03;20;EUR;1;Blade Levinson Delta Standard Telecaster 2021 - Sunburst
 10381683392841;923.39;20;EUR;1;Blade Levinson MG Mustang 1990s - Vintage White
@@ -82,7 +84,6 @@ product_code;price_gross;vat;currency;stock;name
 10315865686345;615.59;20;EUR;1;CoolZ Japan Fujigen Stratocaster 2009 - Black
 10327231562057;615.59;20;EUR;1;CoolZ Japan Fujigen Stratocaster 2010 - Classic White
 10328250974537;615.59;20;EUR;1;CoolZ Japan Fujigen Stratocaster 2012 - Metallic Blue
-10329375441225;615.59;20;EUR;1;CoolZ Japan Fujigen Stratocaster 2014 - Candy Apple Red
 10305360462153;615.59;20;EUR;1;CoolZ Japan Fujigen Telecaster 2012 - Sunburst
 10479747694921;777.59;20;EUR;1;CoolZ Japan Les Paul 2007 - Natural Flametop
 10479291498825;680.39;20;EUR;1;CoolZ Japan Telecaster 2016 - Black
@@ -98,6 +99,7 @@ product_code;price_gross;vat;currency;stock;name
 10479744483657;777.59;20;EUR;1;Custom Made Heavy Metal Random Star - Skull
 10176910393673;69.97;20;EUR;1;D'Addario Planet Waves PW-CT-04 Chromatic Tuner Effect Pedal
 10520727781705;97.19;20;EUR;1;Danelectro Trip L Wah Effektpedal
+10544295936329;1166.39;20;EUR;1;Dean Dime Dimebag Darrell Signature Razorback V 2007 - Black Green
 10365914120521;923.39;20;EUR;1;Dean Dimebag Barrel Signature 2020 - Dime o Flage - Defect
 10492773925193;874.79;20;EUR;1;Dean Dimebag Darrell Signature DOF 2005 - Dime-O-Flage
 10492771991881;1069.19;20;EUR;1;Dean Dimebag Darrell Signature Razorback 2006 - Black Silver
@@ -245,6 +247,7 @@ product_code;price_gross;vat;currency;stock;name
 10392785092937;831.59;20;EUR;1;Fender Japan 62 Reissue Stratocaster 1993-1994 - Satin Sunburst - MOD
 10530817999177;971.99;20;EUR;1;Fender Japan 62 Reissue Stratocaster 1993-1994 - Sunburst
 10330905641289;1141.55;20;EUR;1;Fender Japan 66 Reissue Jaguar 1997-2000 - Blue Repaint
+10544414490953;1263.59;20;EUR;1;Fender Japan 66 Reissue Jaguar 2006-2008 - Sunburst
 10357114896713;1200.95;20;EUR;1;Fender Japan 66 Reissue Mustang 1993-1994 - Vintage White
 10365854581065;1200.95;20;EUR;1;Fender Japan 66 Reissue Mustang 1999-2002 - Vintage White
 10450956845385;1200.95;20;EUR;1;Fender Japan 69 Reissue Mustang 1995-1996 - Vintage White
@@ -262,7 +265,6 @@ product_code;price_gross;vat;currency;stock;name
 10507534434633;874.79;20;EUR;1;Fender Japan AST-M Stratocaster 1987-1988 - Sunburst
 10502898549065;971.99;20;EUR;1;Fender Japan C70ST Stratocaster 2016 - Black
 10491665121609;971.99;20;EUR;1;Fender Japan CTL-50M Telecaster 1991-1992 - Black
-10502872596809;971.99;20;EUR;1;Fender Japan Jazz Bass 1997-2000 - Vintage White
 10505498198345;874.79;20;EUR;1;Fender Japan JB-40 Jazz Bass 1993-1994 - Black
 10398921195849;831.59;20;EUR;1;Fender Japan JB-40 Jazz Bass 1993-1994 - Sunburst
 10520696619337;874.79;20;EUR;1;Fender Japan JB-40 Jazz Bass 1993-1994 - Sunburst
@@ -357,7 +359,9 @@ product_code;price_gross;vat;currency;stock;name
 10442960896329;1292.75;20;EUR;1;Fender MJT 50s Reissue Stratocaster 1993-1994 - Black - Heavy Relic
 10492742861129;1166.39;20;EUR;1;Fender MJT 50s Reissue Telecaster - Sunburst - Relic
 10442943693129;1292.75;20;EUR;1;Fender MJT 50s Reissue Telecaster - Surf Green
+10544270278985;1263.59;20;EUR;1;Fender MJT 60s Reissue Stratocaster - Bubblegum Pink - Relic - Scalloped
 10338197209417;1141.55;20;EUR;1;Fender MJT 60s Reissue Stratocaster - Burgundy Mist - Heavy Relic
+10544263627081;1263.59;20;EUR;1;Fender MJT 60s Reissue Stratocaster - Cool Blue - Heavy Relic
 10338198716745;1200.95;20;EUR;1;Fender MJT 60s Reissue Stratocaster - Inca Silver - Heavy Relic
 10492752724297;1166.39;20;EUR;1;Fender MJT 62 Reissue Stratocaster - Sherwood Green - Relic
 10483852443977;1069.19;20;EUR;1;Fender MJT Stratocaster 1993-1994 2009 - See Thru Fiesta Red - Heavy Relic
@@ -367,6 +371,7 @@ product_code;price_gross;vat;currency;stock;name
 10387987005769;1200.95;20;EUR;1;Fender Ritchie Blackmore Signature Stratocaster 2009 - Olympic White
 10392519049545;1200.95;20;EUR;1;Fender Ritchie Blackmore Signature Stratocaster 2009 - Olympic White
 10517439971657;431.99;20;EUR;1;Fender Road Worn 50s Neck
+10544421044553;1069.19;20;EUR;1;Fender Roger Waters Signature Precision Bass 2011 - Black
 10067744260425;539.99;20;EUR;1;Fender Squier 71’ Reissue Telecaster 2002-2004 - Butterscotch Blonde
 9692652437833;2138.39;20;EUR;1;Fender Telecaster 1976 - Vintage White
 10255403417929;2807.99;20;EUR;1;Fender Telecaster 1979 - White Blonde
@@ -467,7 +472,6 @@ product_code;price_gross;vat;currency;stock;name
 10435534192969;1662.11;20;EUR;1;Gibson Les Paul Standard 2004 - Cherry Sunburst
 10033169695049;5118.11;20;EUR;1;Gibson Les Paul Standard Slash 4 Limited Album Edition 2021 - 1 of 250
 10536843313481;583.19;20;EUR;1;Gibson Les Paul Studio Lite 1993 - Cherry Sunburst - Defekt
-10231537336649;2456.99;20;EUR;1;Gibson Les Paul Supreme 2023 -  Wine Red
 10487452729673;1263.59;20;EUR;1;Gibson Les Paul Tribute 2017 - Honey Burst
 10316317524297;1229.03;20;EUR;1;Gibson Les Paul Tribute T 2016 - Faded Honey Burst
 10415967469897;2770.19;20;EUR;1;Gibson Limited Edition Firebird V 1997 - Ebony
@@ -541,6 +545,7 @@ product_code;price_gross;vat;currency;stock;name
 10483902546249;1943.99;20;EUR;1;Gretsch 6119 Tennessee Rose 1995 - Cherry Red
 10491708866889;1943.99;20;EUR;1;Gretsch G6119 Tennessee Rose 1999 - Cherry Red
 10490148520265;2429.99;20;EUR;1;Gretsch G6122-1959 Chet Atkins Country Gentleman 2007 - Dark Cherry
+10544423993673;777.59;20;EUR;1;Gretsch G9201 Honey Dipper Resonator Acoustic Guitar 2012 - Nickel
 9766925009225;345.59;20;EUR;1;Grover Jackson GJr‑R40SP Mini Rhoads 1996 - Dots
 10534984188233;106.91;20;EUR;1;Guyatone Analog Echo Effect Box Series PS-006 Effektpedal
 10169839681865;96.22;20;EUR;1;Guyatone Hard Rocker HR2 Effect Pedal 1999 - Vintage Japan
@@ -565,10 +570,12 @@ product_code;price_gross;vat;currency;stock;name
 10386554519881;831.59;20;EUR;1;Hohner Professional L59 T 1992 - Antique Sunburst - inkl. Gibson Lifton Case
 10423182426441;583.19;20;EUR;1;Hondo Deluxe Mark II H935CHS - Sunburst
 10330872381769;145.79;20;EUR;1;Hot Cake Copy Overdrive Effektpedal
+10544283517257;583.19;20;EUR;1;Hurricane by Morris Eva Explorer 1985 - Vintage White
 10305800765769;97.19;20;EUR;1;Hush Rocktron Effektpedal
 10305799061833;106.91;20;EUR;1;Hush Systems Effektpedal
 10047306137929;388.79;20;EUR;1;Ibanez ART80 2009 - Black
 10276976656713;615.59;20;EUR;1;Ibanez Artcore AGS83B-ATF-12-01 2006 - Natural Burst
+10544373203273;340.19;20;EUR;1;Ibanez Artcore Vibrante AS63-CRP 2019 - Coral Pink
 9808922378569;3401.99;20;EUR;1;Ibanez Artist 2700 1979 - Natural
 10461770907977;1385.63;20;EUR;1;Ibanez DT-450 Destroyer II 1985 - Black
 10470328500553;583.19;20;EUR;1;Ibanez EDB 605 Ergodyne 5-String Bass 1999 - Gray Pewter
@@ -592,7 +599,9 @@ product_code;price_gross;vat;currency;stock;name
 10330899743049;878.03;20;EUR;1;Ibanez RG550 1999 - Road Flare Red
 10277170184521;790.55;20;EUR;1;Ibanez RG670 1993 - Root Beer
 10451001934153;646.91;20;EUR;1;Ibanez Roadstar II RB850 Bass 1984 - Vintage White
+10544404234569;583.19;20;EUR;1;Ibanez Roadstar II RS140 1985 - Vintage White
 10505600401737;291.59;20;EUR;1;Ibanez RX Series 1990s - Trans Red
+10544425599305;485.99;20;EUR;1;Ibanez S570DXQM 2012 - Bright Blue Burst
 10249387966793;215.99;20;EUR;1;Ibanez SD9 Sonic Distortion Effect Pedal
 10392711889225;646.91;20;EUR;1;Ibanez SDGR Japan SR-600 Bass 1997 - Pearl White
 10519135191369;583.19;20;EUR;1;Ibanez Silver Cadet TRB90 Bass 1995 - Black
@@ -603,6 +612,7 @@ product_code;price_gross;vat;currency;stock;name
 9821268476233;10526.75;20;EUR;1;Ibanez Universe UV77MC Steve Vai Signature 1991 - Multicolor
 10381601669449;831.59;20;EUR;1;Italia Modena Classic - Metallic Blue
 10536822145353;777.59;20;EUR;1;Jackson Gus G. Signature Star 2025 - Olympic White
+10544289481033;534.59;20;EUR;1;Jackson X Series David Ellefson Signature Kelly Bird IV Bass 2019 - Red Stripe
 9797225742665;5831.99;20;EUR;1;James Collins Signature GTO 2023 - Natural
 10520727421257;145.79;20;EUR;1;JHS Pedals Overdrive Preamp Effektpedal
 10115830776137;129.59;20;EUR;1;Kapok MEG 9012 Stratocaster - Red
@@ -656,7 +666,6 @@ product_code;price_gross;vat;currency;stock;name
 10365151379785;831.59;20;EUR;1;Orville SG 1989-1993 - Vintage White
 10209971208521;785.15;20;EUR;1;Ovation 1613 1981 - Natural
 10442904633673;646.91;20;EUR;1;Ovation 2751AX 12-String Standard Balladeer - Black
-10448376201545;738.71;20;EUR;1;Ovation C2079AX Custom Legend - Cherry Burst
 10391469031753;388.79;20;EUR;1;Ovation CE44P-8TQ Akustik 2017 - Trans Blue
 9808825811273;1846.79;20;EUR;1;Ovation Deacon 12-String 1975-1980 - Sunburst
 10294171926857;1385.63;20;EUR;1;Ovation Double Neck - Defekt
@@ -723,6 +732,7 @@ product_code;price_gross;vat;currency;stock;name
 10193354883401;971.99;20;EUR;1;Taylor SB1 2011 - Black
 10490127810889;1263.59;20;EUR;1;Taylor T5-S 2006 - Sage Green
 10520721260873;97.19;20;EUR;1;Tech 21-NYC USA Boost RVB Effektpedal
+10544275259721;680.39;20;EUR;1;Teisco Japan TE-380 Telecaster Custom 1973-1977 - Black
 10366154703177;738.71;20;EUR;1;Teisco K-56 Reissue 1999 - Space Grey
 10517366374729;485.99;20;EUR;1;Telecaster Body - Nitro Paint - Aged - Custom Finish
 10487424745801;2138.39;20;EUR;1;The Heritage H-535 2018-2020 - Trans Cherry
