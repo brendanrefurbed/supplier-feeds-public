@@ -24,6 +24,8 @@ product_code;price_gross;vat;currency;stock;name
 10305878065481;77.75;20;EUR;1;Arion SDI-1 Distortion Effektpedal - Japan
 10490002964809;874.79;20;EUR;1;B.C. Rich Beast 2008 - Red
 10505504162121;874.79;20;EUR;1;B.C. Rich Draco 2009 - Black
+10549491925321;680.39;20;EUR;1;B.C. Rich Ironbird Body Art Collection 2003 -  Space Face
+10549572632905;971.99;20;EUR;1;B.C. Rich Japan Mockingbird Class Axe-era 1989-1993 - Gloss Black
 10092565201225;1166.39;20;EUR;1;B.C.Rich PRO JR. V Flying V 2004 - Exotic
 10445073023305;369.35;20;EUR;1;Bacchus Universe Bass - Black
 10470360219977;485.99;20;EUR;1;Bacchus Universe Series BFV-Mini Flying V - Painted
@@ -33,6 +35,7 @@ product_code;price_gross;vat;currency;stock;name
 10305857814857;97.19;20;EUR;1;BBE Opto Stomp Optical Compressor Effektpedal
 10544383033673;680.39;20;EUR;1;BC Rich Ironbird Platinum Series 2005 - Black
 10546590843209;680.39;20;EUR;1;BC Rich Mockingbird Body Art Collection 2003 - Fire Breather
+10549494350153;680.39;20;EUR;1;BC Rich Mockingbird Body Art Collection 2004 - Forty Lashes
 10211522937161;184.67;20;EUR;1;Blackstar HTV-112 1x12 Lautsprecher Cabinet 80W
 10016105562441;473.03;20;EUR;1;Blade Levinson Delta Standard Telecaster 2021 - Sunburst
 10381683392841;923.39;20;EUR;1;Blade Levinson MG Mustang 1990s - Vintage White
@@ -97,6 +100,7 @@ product_code;price_gross;vat;currency;stock;name
 10419662913865;646.91;20;EUR;1;CoolZ Japan ZST-V-R Stratocaster 2018 - Black
 10365872963913;646.91;20;EUR;1;CoolZ Japan ZST-V/R Stratocaster 2016 - Sunburst
 10505487319369;777.59;20;EUR;1;CoolZ Japan ZTL-LITE-M Telecaster 2016 - White
+10549589967177;116.63;20;EUR;1;Crazy Tube Circuits TIME Effektpedal
 10249387606345;107.99;20;EUR;1;Crybaby GCB-95 Effect Pedal
 10479744483657;777.59;20;EUR;1;Custom Made Heavy Metal Random Star - Skull
 10176910393673;69.97;20;EUR;1;D'Addario Planet Waves PW-CT-04 Chromatic Tuner Effect Pedal
@@ -142,7 +146,6 @@ product_code;price_gross;vat;currency;stock;name
 10212573610313;701.99;20;EUR;1;Epiphone SG Custom 2006 - Ivory
 10341884756297;701.99;20;EUR;1;Epiphone SG Custom G-400 2010 - Ivory
 10546620563785;388.79;20;EUR;1;Epiphone SG G-400 2010 - Cherry Red
-10111327306057;321.83;20;EUR;1;Epiphone Special II Limited Edition 2004 - Skull
 10405130469705;738.71;20;EUR;1;Epiphone Thunderbird T-Bird Pro 2010 - Ebony
 10153392701769;9.71;20;EUR;1;Ernie Ball 7-String Power Slinky Gitarrensaiten 11-58
 10154268000585;9.71;20;EUR;1;Ernie Ball 7-String Regular Slinky Gitarrensaiten 10-56
@@ -224,6 +227,7 @@ product_code;price_gross;vat;currency;stock;name
 10381559562569;923.39;20;EUR;1;Fender Japan 52 Reissue Telecaster 1994-1995 - Fotoflame - Butterscotch Blonde
 10392751243593;1108.07;20;EUR;1;Fender Japan 52 Reissue Telecaster 1994-1995 - Natural
 10520659525961;1166.39;20;EUR;1;Fender Japan 52 Reissue Telecaster 1996 - Natural - Fotoflame
+10549569159497;971.99;20;EUR;1;Fender Japan 52 Reissue Telecaster 2004-2005 - Sunburst
 10505626747209;1166.39;20;EUR;1;Fender Japan 52 Reissue Telecaster 2006-2008 - Natural
 10392790040905;971.99;20;EUR;1;Fender Japan 54 Reissue Stratocaster 1989-1990 - Black
 10400821838153;831.59;20;EUR;1;Fender Japan 57 Reissue  Stratocaster 1984-1987 - Sunburst
@@ -377,7 +381,6 @@ product_code;price_gross;vat;currency;stock;name
 9692652437833;2138.39;20;EUR;1;Fender Telecaster 1976 - Vintage White
 10255403417929;2807.99;20;EUR;1;Fender Telecaster 1979 - White Blonde
 10092544688457;449.27;20;EUR;1;Fender Telecoustic 2000 - Candy Apple Red
-10546639700297;129.59;20;EUR;1;Fender Tweed Case
 10520660541769;1749.59;20;EUR;1;Fender USA Dan Smith Stratocaster 1983 - Sunburst
 10435605102921;2309.03;20;EUR;1;Fender USA Jazz Bass 1976 - Red Repaint
 10381668024649;923.39;20;EUR;1;Fender USA Lead II 1980 - Red
@@ -483,7 +486,6 @@ product_code;price_gross;vat;currency;stock;name
 10546657263945;129.59;20;EUR;1;Gibson Thunderbird Bass Case
 10520728928585;2332.79;20;EUR;1;Gibson V Firebird 1990 - Cardinal Red
 10367173001545;2770.19;20;EUR;1;Gibson Vegas High Roller 2006 - Felt Green
-10546504892745;388.79;20;EUR;1;Gibson Vintage Case 1960s/1970s
 10451061637449;1846.79;20;EUR;1;Gibson Warren Haynes Signature Les Paul Standard 60s 2023 - Heritage Cherry
 10392729059657;1846.79;20;EUR;1;Gibson XR-2 Les Paul 1981 - Honey Burst
 10199291986249;874.79;20;EUR;1;Gitane DG-250M - Natural
@@ -572,6 +574,7 @@ product_code;price_gross;vat;currency;stock;name
 10544283517257;583.19;20;EUR;1;Hurricane by Morris Eva Explorer 1985 - Vintage White
 10305800765769;97.19;20;EUR;1;Hush Rocktron Effektpedal
 10305799061833;106.91;20;EUR;1;Hush Systems Effektpedal
+10549536719177;680.39;20;EUR;1;Ibanez 2350 Les Paul Custom 1978 - Black Beauty
 10047306137929;369.35;20;EUR;1;Ibanez ART80 2009 - Black
 10276976656713;615.59;20;EUR;1;Ibanez Artcore AGS83B-ATF-12-01 2006 - Natural Burst
 10544373203273;340.19;20;EUR;1;Ibanez Artcore Vibrante AS63-CRP 2019 - Coral Pink
@@ -602,6 +605,7 @@ product_code;price_gross;vat;currency;stock;name
 10451001934153;646.91;20;EUR;1;Ibanez Roadstar II RB850 Bass 1984 - Vintage White
 10544404234569;583.19;20;EUR;1;Ibanez Roadstar II RS140 1985 - Vintage White
 10505600401737;291.59;20;EUR;1;Ibanez RX Series 1990s - Trans Red
+10549477474633;485.99;20;EUR;1;Ibanez S520 2021 - Weathered Black
 10544425599305;485.99;20;EUR;1;Ibanez S570DXQM 2012 - Bright Blue Burst
 10249387966793;215.99;20;EUR;1;Ibanez SD9 Sonic Distortion Effect Pedal
 10392711889225;646.91;20;EUR;1;Ibanez SDGR Japan SR-600 Bass 1997 - Pearl White
@@ -610,6 +614,7 @@ product_code;price_gross;vat;currency;stock;name
 9820897640777;1069.19;20;EUR;1;Ibanez SRMS720 Bass 2024 - Blue Chameleon
 10103767335241;1943.99;20;EUR;1;Ibanez Studio Bass ST924 1979 - Natural
 9786540851529;510.83;20;EUR;1;Ibanez Talman TM71T 2002 - Jewel Blue
+10549543305545;777.59;20;EUR;1;Ibanez TBT747-NTL 7-String 2022 - Natural
 9821268476233;10526.75;20;EUR;1;Ibanez Universe UV77MC Steve Vai Signature 1991 - Multicolor
 10381601669449;831.59;20;EUR;1;Italia Modena Classic - Metallic Blue
 10546623938889;145.79;20;EUR;1;J. Rockett Audio Designs Animal Effektpedal
@@ -619,13 +624,16 @@ product_code;price_gross;vat;currency;stock;name
 10546636652873;145.79;20;EUR;1;Jam Pedals Tubedreamer Effektpedal
 9797225742665;5831.99;20;EUR;1;James Collins Signature GTO 2023 - Natural
 10520727421257;145.79;20;EUR;1;JHS Pedals Overdrive Preamp Effektpedal
+10549579612489;174.95;20;EUR;1;JHS Pedals Ross Fuzz Effektpedal
 10115830776137;129.59;20;EUR;1;Kapok MEG 9012 Stratocaster - Red
 10520667128137;2721.59;20;EUR;1;Kauffmann 63S Stratocaster HSS 2026 - Black - Heavy Aged
 10451027984713;2818.79;20;EUR;1;Kauffmann S Black2 Limited Run  - 1 of 10 - Heavy Aged Black
 10536814903625;116.63;20;EUR;1;Keeler Designs Pull Effektpedal
+10549580792137;145.79;20;EUR;1;Keeley Germanium Equipped Effektpedal
 10108742631753;129.59;20;EUR;1;Keiper Shortscale Stratocaster Junior - Black
 10421904769353;680.39;20;EUR;1;Klira Triumphator 1960s - Red
 10470294749513;777.59;20;EUR;1;Kramer JK 1980s - Pink Burst
+10549498413385;631.79;20;EUR;1;Kramer MusicYo-era Reissue 2005 - Midnight Blue - Heavy Aged
 9961956573513;305.63;20;EUR;1;Kramer Striker 2022 - Trans Purple
 10220496060745;1846.79;20;EUR;1;Lake Placid Custom by Andre Waldenmaier HSS Floyd Rose 1995 - See Thru Green
 10520726405449;48.59;20;EUR;1;Landlord FX Compression Effektpedal
@@ -657,6 +665,7 @@ product_code;price_gross;vat;currency;stock;name
 10517438988617;485.99;20;EUR;1;MJT VTT Neck - Aged
 10528456966473;583.19;20;EUR;1;Morris Japan W-25 Vintage Dreadnought Acoustic Guitar 1970-1974 - Natural
 10169735709001;1580.03;20;EUR;1;Music Man Benji Madden Signature Silhouette Special 2005 - Madden Green
+10549554446665;1943.99;20;EUR;1;Music Man by Ernie Ball Sterling Bass 4H Limited Edition 2002 - Onyx
 10381561200969;1754.99;20;EUR;1;Music Man by Ernie Ball StingRay 3 EQ Bass 2002 - Black
 10435501883721;1477.43;20;EUR;1;Music Man by Ernie Ball StingRay EX Bass 2000 - Black
 10435613491529;1477.43;20;EUR;1;Music Man by Ernie Ball StingRay EX Bass 2001 - Black
@@ -667,6 +676,7 @@ product_code;price_gross;vat;currency;stock;name
 9729073578313;3499.19;20;EUR;1;o3 Guitars Radon - Alejandro Ramirez - Red
 10546634752329;77.75;20;EUR;1;One Control Butter Yellow Auto Quack Effektpedal
 10546628854089;77.75;20;EUR;1;One Control Strawberry Red Overdrive Effektpedal
+10549579022665;116.63;20;EUR;1;Orion UAFX Tape Echo Effektpedal
 10536817787209;1457.99;20;EUR;1;Orville Flying V 1996 - Vintage White
 10016076792137;673.91;20;EUR;1;Orville Les Paul Standard 1990 - Heritage Cherry Sunburst
 10303795233097;790.55;20;EUR;1;Orville LPS Les Paul 1994 - Cherry Sunburst
@@ -772,7 +782,6 @@ product_code;price_gross;vat;currency;stock;name
 10305872363849;97.19;20;EUR;1;Tokai TXC-1 Exciter Effektpedal - Japan
 10209921794377;777.59;20;EUR;1;Trinity by Relish - Metallic Blue
 10164956856649;2429.99;20;EUR;1;Valley Arts Guitar Custom Pro 1985-1986 - Sunburst
-10536813199689;145.79;20;EUR;1;Vertex Steel String Clean Drive Effektpedal
 10231723655497;583.19;20;EUR;1;Victory Amplifiers Sheriff 212 Cabinet
 10451098239305;1069.19;20;EUR;1;Victory Amplifiers The Deputy Compact Amp Head
 10431420825929;462.23;20;EUR;1;Vintage Flying V 2014 - Black
@@ -781,6 +790,7 @@ product_code;price_gross;vat;currency;stock;name
 10315903304009;878.03;20;EUR;1;VOX Bobcat BC-S66 2020 - Sunburst
 10176915636553;139.96;20;EUR;1;VOX Joe Satriani Signature JS-DS Satchurator Distortion Effect Pedal - Japan
 10520727617865;145.79;20;EUR;1;VOX WAH-WAH Model V847 Union Flag Effektpedal
+10549599076681;145.79;20;EUR;1;VS Audio Blackbird Effektpedal
 10546625577289;116.63;20;EUR;1;Walrus Audio Plainsman Effektpedal
 10487248093513;2429.99;20;EUR;1;Warwick Corvette $$ 2013 - Antique Tobacco
 10357047558473;923.39;20;EUR;1;Warwick Corvette $$ Bass 2011 - Natural
