@@ -26,14 +26,20 @@ product_code;price_gross;vat;currency;stock;name
 10551798301001;680.39;20;EUR;1;B.C. Rich Body Art Collection 2003 - Brass City
 10551781523785;680.39;20;EUR;1;B.C. Rich Body Art Collection 2003 - Flesh Ring
 10551782048073;680.39;20;EUR;1;B.C. Rich Body Art Collection 2003 - Maggot Man
+10554128007497;680.39;20;EUR;1;B.C. Rich Body Art Collection 2003 - Spiro Light
 10551785619785;874.79;20;EUR;1;B.C. Rich Body Art Collection 2003 - The Bitch´s Back
 10551784767817;680.39;20;EUR;1;B.C. Rich Body Art Collection 2003 - The Fly
 10551799611721;680.39;20;EUR;1;B.C. Rich Body Art Collection 2003 - Torchy
 10551799185737;680.39;20;EUR;1;B.C. Rich Body Art Collection 2003 - Vampirella
+10554124992841;680.39;20;EUR;1;B.C. Rich Body Art Collection Beast 2003 - Borris
+10554092257609;680.39;20;EUR;1;B.C. Rich Body Art Collection JR-V 2003 - Skull Pile
+10554117783881;680.39;20;EUR;1;B.C. Rich Body Art Collection JR-V 2003 - Umethar
 10505504162121;874.79;20;EUR;1;B.C. Rich Draco 2009 - Black
 10549491925321;680.39;20;EUR;1;B.C. Rich Ironbird Body Art Collection 2003 -  Space Face
+10554107068745;680.39;20;EUR;1;B.C. Rich Kerry King Warlock KKW 2015 - Tribal
 10550901801289;874.79;20;EUR;1;B.C. Rich NJ Series Bich - Transparent Blue
 10551784145225;583.19;20;EUR;1;B.C. Rich Trace Warbeast Bass 2010 - Onyx
+10554112180553;680.39;20;EUR;1;B.C. Rich Warbeast 2010 - Black Red
 10092565201225;1166.39;20;EUR;1;B.C.Rich PRO JR. V Flying V 2004 - Exotic
 10445073023305;369.35;20;EUR;1;Bacchus Universe Bass - Black
 10470360219977;462.23;20;EUR;1;Bacchus Universe Series BFV-Mini Flying V - Painted
@@ -122,10 +128,11 @@ product_code;price_gross;vat;currency;stock;name
 10365914120521;923.39;20;EUR;1;Dean Dimebag Barrel Signature 2020 - Dime o Flage - Defect
 10492773925193;874.79;20;EUR;1;Dean Dimebag Darrell Signature DOF 2005 - Dime-O-Flage
 10492771991881;1069.19;20;EUR;1;Dean Dimebag Darrell Signature Razorback 2006 - Black Silver
-10551778312521;1263.59;20;EUR;1;Dean Dimebag Darrell Signature Razorback 2010 - Explosion
 10551784538441;583.19;20;EUR;1;Dean Eric Peterson Signature 2015 - The Hunter Ev
 10552784585033;388.79;20;EUR;1;Dean Evo Dragster 2008 - Hot Rod Flames
 10551781228873;680.39;20;EUR;1;Dean Michael Amott Signature 2013 - Tyrant  X Splatter
+10554104021321;680.39;20;EUR;1;Dean Michael Batio Signature MAB4 2012 - Gauntlet Snakes Graphic
+10554098876745;323.99;20;EUR;1;Dean ML Vintage Bass 2006 - Black
 10349682524489;350.99;20;EUR;1;Dean Sarasota 2006 - Cherry Sunburst
 10551782801737;583.19;20;EUR;1;Dean Vendetta 2009 - Resurrection
 10550873456969;583.19;20;EUR;1;Dean Vendetta 2013 - Teatro de La Muerte Graphic
@@ -161,7 +168,6 @@ product_code;price_gross;vat;currency;stock;name
 10551793254729;485.99;20;EUR;1;Epiphone Les Paul Standard 1998 - Honey Burst
 10546584355145;388.79;20;EUR;1;Epiphone Les Paul Standard 2010 - Ebony
 10294084927817;615.59;20;EUR;1;Epiphone Les Paul Standard Limited Edition 2009 - Quilt Top
-10210064236873;374.75;20;EUR;1;Epiphone Les Paul Studio 1998 - Ebony
 10404983898441;738.71;20;EUR;1;Epiphone MKH Matt Heafy Signature Les Paul Custom 2013 - Ebony
 9937242030409;1457.99;20;EUR;1;Epiphone SC-450 Scroll 1978 - Natural
 10212573610313;631.79;20;EUR;1;Epiphone SG Custom 2006 - Ivory
@@ -186,6 +192,7 @@ product_code;price_gross;vat;currency;stock;name
 10536865136969;971.99;20;EUR;1;ESP Japan Eclipse 2000-2003 - See-Thru Black Dark Green
 10550814769481;680.39;20;EUR;1;ESP LTD Alexi-200 Alexi Laiho Signature 2010 - Black
 10550859399497;971.99;20;EUR;1;ESP LTD EX Black Metal 2023 - Black Satin
+10554080035145;680.39;20;EUR;1;ESP LTD EX-360 Explorer 2010 - Black
 10450887016777;831.59;20;EUR;1;ESP LTD SN-1000 2016 - Black
 9731335651657;701.99;20;EUR;1;ESP Stratocaster 1998 - signed by Paul Gilbert
 9775092203849;1595.15;20;EUR;1;ESP THE ALFEE Signature Angel Classic Junior 1998 - Cherry Sunburst
@@ -770,6 +777,7 @@ product_code;price_gross;vat;currency;stock;name
 10492761669961;971.99;20;EUR;1;Seymour Duncan Traditional Series Stratocaster 1999 - Sunburst
 10164977566025;1846.79;20;EUR;1;Siggi Braun Blackbird – Custom Shop - 2011 - Matte Black
 9974460318025;2031.47;20;EUR;1;Sign Guitars German Custom Made Relectro 2013 - Black
+10554088915273;583.19;20;EUR;1;Silvertone Paul Stanley Signature PSAP1 - Apocalypse
 10305803125065;174.95;20;EUR;1;Sobbat Fuzz Breaker Effektpedal
 10193280237897;748.43;20;EUR;1;Solar T1.6H3TS 2022 - Sunburst
 10099857949001;449.27;20;EUR;1;Squier Bullet Bass Korea 1987 - Red
@@ -801,7 +809,6 @@ product_code;price_gross;vat;currency;stock;name
 10104274551113;257.03;20;EUR;1;Switch Vibracell - Blue
 10193354883401;971.99;20;EUR;1;Taylor SB1 2011 - Black
 10490127810889;1263.59;20;EUR;1;Taylor T5-S 2006 - Sage Green
-10520721260873;97.19;20;EUR;1;Tech 21-NYC USA Boost RVB Effektpedal
 10544275259721;680.39;20;EUR;1;Teisco Japan TE-380 Telecaster Custom 1973-1977 - Black
 10366154703177;738.71;20;EUR;1;Teisco K-56 Reissue 1999 - Space Grey
 10517366374729;485.99;20;EUR;1;Telecaster Body - Nitro Paint - Aged - Custom Finish
