@@ -1,5 +1,5 @@
 product_code;price_gross;vat;currency;stock;name
-0fcc6f90-9275-4a04-9ed4-f9f11947ede4;1099.28;20;EUR;1;Fender Stratocaster ST72-55 Made in Japan 1989-1990 - Black Heavy Relic
+0fcc6f90-9275-4a04-9ed4-f9f11947ede4;1097.2;20;EUR;1;Fender Stratocaster ST72-55 Made in Japan 1989-1990 - Black Heavy Relic
 8b1cf676-3f45-4240-991d-1df2d25d3b3b;1097.2;20;EUR;1;Greco EG-500 Les Paul Standard 1978 - Made in Japan - Maxon U-1000 
 d7f18650-551d-495a-8c03-56777b5e5fad;1276.08;20;EUR;1;Greco BM-900 Brian May Red Special 1980 - Made in Japan
 ebe602f9-af6e-4902-9f39-9c5ea347e84b;714.48;20;EUR;1;Tokai ALS-48GT Love Rock Goldtop
@@ -64,7 +64,6 @@ e869a7d4-f76e-762d-c6cf-ee18912b9389;126.88;20;EUR;1;Ibanez CSL Stereo Chorus �
 c329c57b-5297-a88b-75f6-8344b32d5f7b;331.76;20;EUR;1;Ibanez SS10 Session Man – Made in Japan
 fd830b6f-8fbd-c2fe-2eeb-9ced04d05f83;101.92;20;EUR;1;Tokai Distortion TDS-1
 bbd895ca-e61c-e13f-4d69-0337172645f4;407.68;20;EUR;1;Ibanez FL-303 Flanger – Made in Japan – Vintage Analog Flanger
-f9ba3f05-e5fe-7504-88f7-02d617038937;75.92;20;EUR;1;Boss Power Stack ST-2 – Overdrive / Distortion
 f7d823e2-67bc-ed81-29bb-85ac6c59d954;89.44;20;EUR;1;Ibanez LS10 Dual Loop Selector
 d4b8df84-27f9-68f4-70a8-e9d2e0080787;101.92;20;EUR;1;Ibanez DSC10 Digital Chorus
 a19c27ee-9a9f-1c24-a8d6-c775b1f3e224;114.4;20;EUR;1;Tokai TDL-1 Delay – Japan
