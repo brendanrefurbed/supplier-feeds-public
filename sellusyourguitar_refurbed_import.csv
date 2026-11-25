@@ -1,7 +1,12 @@
 product_code;price_gross;vat;currency;stock;name
+1131026250240;630.0;20;GBP;1;Faith Neptune Cutaway Natural Gloss 2013 Electro Acoustic Guitar
+1281026254710;2980.0;20;GBP;1;Fender Jimi Hendrix Stratocaster Olympic White 1997 Electric Guitar
+1091126257890;480.0;20;GBP;1;Alvarez Masterworks Elite MGA77CEAR Shadowburst High Gloss 2021 Acoustic
+1091126257893;600.0;20;GBP;1;Taylor 114e Natural Satin 2014 Electro Acoustic Guitar
+1091126257897;540.0;20;GBP;1;Faith Natural Series Neptune Natural 2016 Baby Jumbo Acoustic Guitar
+1301026255320;680.0;20;GBP;1;Gretsch Synchromatic G100e Satin Black 2013 Archtop Electric Guitar
 1101126258360;790.0;20;GBP;1;Gibson SG Special Faded Worn Brown 2016 Electric Guitar
 1161126260010;790.0;20;GBP;1;EVH Wolfgang Special Ivory 2018 Electric Guitar
-1191126260690;1030.0;20;GBP;1;Fender Pawn Shop Mustang Bass Olympic White with Stripe 2013 Electric Bass
 1121126258990;1130.0;20;GBP;1;PJD Guitars Woodford Standard Rose Gold Left Handed Electric Guitar
 1091126257895;600.0;20;GBP;1;Martin 000CJR-10E Natural Satin 2019 Electro Acoustic Guitar
 1091126257900;510.0;20;GBP;1;Alvarez MG60ce Shadowburst 2025 Grand Auditorium Electro-Acoustic Guitar
@@ -23,7 +28,6 @@ product_code;price_gross;vat;currency;stock;name
 1141126259471;370.0;20;GBP;1;Hamer X Series Sunburst Q/T Quilted Maple Electric Guitar
 1011026246630;590.0;20;GBP;1;PRS SE Custom 24 Floyd Rose Tobacco Sunburst 2014 Electric Guitar
 1181126260471;970.0;20;GBP;1;Fender American Standard Telecaster 3-Colour Sunburst 2010 Electric Guitar
-1171126260231;420.0;20;GBP;1;Epiphone ES-335 IG Cherry 2025 Left Handed Semi-Hollow Electric Guitar
 1031126256480;790.0;20;GBP;1;Godin Session R-HT PRO Retro Orange 2022 Electric Guitar
 1141126259441;420.0;20;GBP;1;Epiphone Les Paul Standard '50s Vintage Sunburst 2024 Electric Guitar
 1131126259110;3420.0;20;GBP;1;Martin HD-28 Dreadnought Gloss 1935 Sunburst 2024 Acoustic Guitar
@@ -155,6 +159,7 @@ product_code;price_gross;vat;currency;stock;name
 1061026248050;1780.0;20;GBP;1;Gibson Les Paul Standard '60s Inverness Green 2023 Electric Guitar
 1041026247400;1420.0;20;GBP;1;Epiphone Casino Japan 1992 Sunburst Semi-Hollow Electric Guitar
 1051026247781;690.0;20;GBP;1;Epiphone Tom Delonge Signature ES-333 Olive Green 2015 Semi-Hollow Guitar
+1011026246480;860.0;20;GBP;1;Gibson SG Special Fireburst 2015 Electric Guitar
 1021026246911;740.0;20;GBP;1;Epiphone Tommy Thayer Les Paul Electric Blue 2022 Electric Guitar
 1051026247910;1650.0;20;GBP;1;Fender Eric Clapton Stratocaster Candy Green 2006 Signature Electric Guitar
 1030926238320;890.0;20;GBP;1;Solar GC1.6NC Classic Flame Tobacco Burst 2021 Electric Guitar
@@ -228,7 +233,6 @@ product_code;price_gross;vat;currency;stock;name
 1080926239891;600.0;20;GBP;1;Schecter Diamond Series Nick Johnston Signature Atomic White Electric Guitar
 1250826235460;680.0;20;GBP;1;Godin 5th Avenue Kingpin P90 Cognac Burst Hollow Body Archtop Electric Guitar
 1010926237760;2390.0;20;GBP;1;Rickenbacker 360/12 Jetglo 1997 Semi-Hollow 12 String Electric Guitar
-1260826235780;800.0;20;GBP;1;Epiphone Noel Gallagher SuperNova Vintage Sunburst 1997 Electric Guitar
 10809262398910;965.0;20;GBP;1;Line 6 Helix Rack Unit w/Helix Control Footswitch & SP1-L6 Expression Pedal
 1080926239894;820.0;20;GBP;1;ESP LTD EC-1000ET Vintage Honey Burst 2016 Electric Guitar
 1230826234990;2520.0;20;GBP;1;Emerald X30-12 Redwood Burl 2022 12-String Electro Acoustic Guitar
