@@ -1,5 +1,4 @@
 product_code;price_gross;vat;currency;stock;name
-10518836707657;145.79;20;EUR;1;Aged 50s Stratocaser Neck
 10192944202057;113.71;20;EUR;1;Amdek CMK-100 Compressor Effect Pedal
 10192923165001;131.21;20;EUR;1;Amdek FLK-100 Flanger Effect Pedal
 9692662759753;863.99;20;EUR;1;Ampete Two Head 20W
@@ -84,6 +83,7 @@ product_code;price_gross;vat;currency;stock;name
 10254407729481;350.99;20;EUR;1;Burny Les Paul LG-480 - Metallic
 9997871579465;1166.39;20;EUR;1;Burny Super Grade Les Paul RLG-58 1998 - Cherry Sunburst
 10067497255241;1846.79;20;EUR;1;Carvin USA AE185 Thinline Tele - Purple
+10559113789769;583.19;20;EUR;1;Cat‘s Eyes
 10033155801417;971.99;20;EUR;1;Ceriatone Big Deluxe / American Classics 5x3 Amp Head
 10546624954697;77.75;20;EUR;1;Cerulean Amp Overdrive Effektpedal
 10520715690313;680.39;20;EUR;1;Charvel by Jackson CDS Superstrat 1992 - Blue Burst
@@ -225,6 +225,7 @@ product_code;price_gross;vat;currency;stock;name
 10263290970441;43.19;20;EUR;1;Faber TP-59NA Faber TP-'59 Vintage Spec ALU Stop Tailpiece, Nickel, aged
 10263291035977;38.87;20;EUR;1;Faber TP-59NG Faber TP-'59 Vintage Spec ALU Stop Tailpiece, Nickel, gloss
 10263472701769;36.71;20;EUR;1;Faber WL-ING Faber Wrap-Lock, Nickel Gloss, Inch
+10559166972233;1263.59;20;EUR;1;Fender
 10067502203209;2309.03;20;EUR;1;Fender 54’ Reissue American Stratocaster 40th Anniversary 1994 - Sunburst
 10536809333065;1263.59;20;EUR;1;Fender American Highway One Jazz Bass 2005 - Sunburst
 10536687534409;1846.79;20;EUR;1;Fender American Original 60s Stratocaster 2019 - Shell Pink
@@ -361,7 +362,6 @@ product_code;price_gross;vat;currency;stock;name
 10398918967625;831.59;20;EUR;1;Fender Japan ST-STD Stratocaster 2014 - Black
 10490032980297;874.79;20;EUR;1;Fender Japan ST-STD Stratocaster 2014 - Sunburst
 10517444460873;431.99;20;EUR;1;Fender Japan STM-94M Neck
-10305790247241;242.99;20;EUR;1;Fender Japan STM-94M Stratocaster Body - Black
 10413035585865;831.59;20;EUR;1;Fender Japan Stratocaster 1987-1988 1987-1988 - Vintage White
 10492760260937;874.79;20;EUR;1;Fender Japan Stratocaster 1993-1994 - Sunburst
 10398968774985;242.99;20;EUR;1;Fender Japan Stratocaster Body - Red Repaint
@@ -389,7 +389,6 @@ product_code;price_gross;vat;currency;stock;name
 10316303008073;1229.03;20;EUR;1;Fender Lead I 1981 - Natural
 10316385222985;1229.03;20;EUR;1;Fender Limited Edition '72 Telecaster Deluxe 2012 - Orange Sparkle
 9989304320329;777.59;20;EUR;1;Fender Mexico FSR Stratocaster 1995 - Vintage White
-10470303793481;680.39;20;EUR;1;Fender México Lefthand Stratocaster 2008 - Candy Apple Red
 10330894664009;615.59;20;EUR;1;Fender Mexico Stratocaster 1995 - Black
 10435350397257;646.91;20;EUR;1;Fender Mexico Stratocaster 1998-1999 - Black
 10518833987913;388.79;20;EUR;1;Fender Mexiko Standard Telecaster Neck
@@ -541,6 +540,7 @@ product_code;price_gross;vat;currency;stock;name
 10536853307721;971.99;20;EUR;1;Godin LGX 1996-1999 - Cognac Burst
 10491691008329;874.79;20;EUR;1;Godin Radiator 1999 - Blue Pearloid
 10520722669897;48.59;20;EUR;1;Golden Plexi Tone City Effektpedal
+10559166316873;874.79;20;EUR;1;Greco
 10230952493385;738.71;20;EUR;1;Greco 303 Akustik 1975 - Cherry Sunburst
 10249247293769;790.55;20;EUR;1;Greco EG Les Paul 1970s - Cherry Sunburst
 10502845956425;680.39;20;EUR;1;Greco EG Les Paul 1970s - Cherry Sunburst
@@ -664,7 +664,6 @@ product_code;price_gross;vat;currency;stock;name
 10549543305545;777.59;20;EUR;1;Ibanez TBT747-NTL 7-String 2022 - Natural
 9821268476233;10526.75;20;EUR;1;Ibanez Universe UV77MC Steve Vai Signature 1991 - Multicolor
 10381601669449;831.59;20;EUR;1;Italia Modena Classic - Metallic Blue
-10546623938889;145.79;20;EUR;1;J. Rockett Audio Designs Animal Effektpedal
 10546631147849;136.07;20;EUR;1;J. Rockett Audio Designs Boing Effektpedal
 10536822145353;777.59;20;EUR;1;Jackson Gus G. Signature Star 2025 - Olympic White
 10551780639049;680.39;20;EUR;1;Jackson Phil Demmel Dignature PDXT King V 2010 - Red with Black Bevels
@@ -773,6 +772,7 @@ product_code;price_gross;vat;currency;stock;name
 10554088915273;583.19;20;EUR;1;Silvertone Paul Stanley Signature PSAP1 - Apocalypse
 10305803125065;174.95;20;EUR;1;Sobbat Fuzz Breaker Effektpedal
 10193280237897;748.43;20;EUR;1;Solar T1.6H3TS 2022 - Sunburst
+10559168414025;680.39;20;EUR;1;Squier
 10099857949001;449.27;20;EUR;1;Squier Bullet Bass Korea 1987 - Red
 10357128069449;439.55;20;EUR;1;Squier by Fender Bullet Bass 1987 - Black
 10316911214921;615.59;20;EUR;1;Squier by Fender Jagmaster 1999 - Red
