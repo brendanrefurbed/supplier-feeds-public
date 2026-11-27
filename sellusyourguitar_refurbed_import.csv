@@ -1,4 +1,12 @@
 product_code;price_gross;vat;currency;stock;name
+part123456;140.0;20;GBP;1;M4.1 Tele Mastery Bridge Telecaster Replacement Bridge for use with Bigsby
+1231126261990;670.0;20;GBP;1;Charvel San Dimas Style 1 HS HT Snow White 2014 Electric Guitar
+1261126262771;310.0;20;GBP;1;Sterling by MusicMan Sub Series StingRay Ray4 Vintage Sunburst Satin Electric Ba
+1121126259080;450.0;20;GBP;1;Ibanez Artcore Series AS93FM Violin Sunburst 2020 Hollow-Body Electric Guitar
+1070226180040;370.0;20;GBP;1;Epiphone G400 SG Pro Cherry 2016 Electric Guitar
+1071026248640;300.0;20;GBP;1;Hofner HI-Series B-Bass Ignition Violin Left-Handed Electric Bass
+1091126257898;280.0;20;GBP;1;Simon & Patrick S&P 6 Cedar Satin Natural 2001 Dreadnought Acoustic Guitar
+1231126262110;2590.0;20;GBP;1;Wilcock Mullarkey Mocha Short Scale Electric Bass
 1181126260531;310.0;20;GBP;1;Yamaha Compass Series CPX700II Dusk Sun Red 2012 Electro-Acoustic Guitar
 1151126259720;630.0;20;GBP;1;PRS SE Paul Allender 2009 Purple Burst Electric Guitar
 1151126259700;340.0;20;GBP;1;Vintage V100 Distressed Lemon Drop 2007 'Greeny' Electric Guitar
@@ -76,14 +84,12 @@ product_code;price_gross;vat;currency;stock;name
 1111126258551;420.0;20;GBP;1;Fender Blues Junior IV 15 Watt All-Valve 1x12” Electric Guitar Amplifier Combo
 1041126256500;1250.0;20;GBP;1;Godin Passion RG-3 Spruce RF NT Natural High Gloss 2009 Electric Guitar
 1061126257070;1580.0;20;GBP;1;Gibson J-45 Studio Walnut Gloss Natural 2021 Electro-Acoustic Guitar
-1051126256951;910.0;20;GBP;1;Fender Limited Edition HM Strat Frozen Yellow 2019 Electric Guitar
 1111126258521;740.0;20;GBP;1;Fender Classic Series '50s Stratocaster Lacquer 2-Colour Sunburst 2018 Electric
 1051126256991;970.0;20;GBP;1;Fender American Series Stratocaster Black 2007 Electric Guitar
 1111126258553;840.0;20;GBP;1;Schecter Reaper 6 FR S Satin Sky Burst Sustainiac 2018 Electric Guitar
 1091126257970;1030.0;20;GBP;1;Fender MIJ Traditional 60s Telecaster Custom Arctic White 2018 Electric Guitar
 1291026254991;650.0;20;GBP;1;Epiphone Masterbilt FT110 Frontier Iced Tea Aged Gloss 2024 Electro-Acoustic
 1091126257971;670.0;20;GBP;1;Fender Player Plus Stratocaster 3-Colour Sunburst 2022 Electric Guitar
-1211026252640;910.0;20;GBP;1;Fender American Special Stratocater Olympic White 2017 Electric Guitar
 1051126256952;2260.0;20;GBP;1;Gibson ES-390 with Mini Humbuckers Ebony 2013 Hollow Body Electric Guitar
 1291026255030;1250.0;20;GBP;1;G&L USA CLF L-2000 Transparent Blue Electric Bass
 1071126257471;1210.0;20;GBP;1;Mesa Boogie MarkFive:25 Guitar Valve Amplifier Head
@@ -161,12 +167,12 @@ product_code;price_gross;vat;currency;stock;name
 1141026250480;1080.0;20;GBP;1;Fender American Standard Stratocaster HSS 3-Colour Sunburst 2010 Electric Guitar
 1171026251673;580.0;20;GBP;1;Faith Venus Cutaway Black 2015 Electro-Acoustic Guitar
 1280826236440;3140.0;20;GBP;1;Epiphone Byrdland Elitist Blonde 2004 Hollow Body Electric Guitar
-1171026251380;1130.0;20;GBP;1;Fender Japan Reissue '62 Telecaster Custom Sunburst 2012 Electric Guitar
 1200926243230;570.0;20;GBP;1;Epiphone Les Paul Custom 'Black Beauty' 2000 Electric Guitar
 1031026247262;560.0;20;GBP;1;Burny RLC-50JS Black 2008 Electric Guitar
 1131026250170;690.0;20;GBP;1;Ibanez RG631ALF Axion Label Blue Chameleon 2025 Electric Guitar
 1141026250600;770.0;20;GBP;1;Fender Classic Player '60s Stratocaster 3-Colour Sunburst 2015 Electric Guitar
 1121026249970;1820.0;20;GBP;1;PRS Silver Sky Satin Moc Sand 2021 John Mayer Signature Electric Guitar
+1171026251371;1370.0;20;GBP;1;Fender American Professional II Telecaster Deluxe Miami Blue w/Upgrades
 1250926244880;2840.0;20;GBP;1;Fender Final Fantasy XIV Stratocaster Gloss Black 2022 Electric Guitar
 1061026248080;3100.0;20;GBP;1;Fender Custom Shop American Custom Stratocaster RW NOS Chocolate 3TSB 2022
 1180226183840;390.0;20;GBP;1;Ibanez Artcore AFD75T Blue Sparkle 2014 Hollow Body Electric Guitar
@@ -263,7 +269,6 @@ product_code;price_gross;vat;currency;stock;name
 1300826237060;740.0;20;GBP;1;ESP LTD Eclipse Custom 1987 Reissue Rainbow Crackle 2023 Electric Guitar
 1020926238111;850.0;20;GBP;1;Fender Lead II USA 1981/82 Wine Red Electric Guitar
 1050826229302;680.0;20;GBP;1;Epiphone Joe Bonamassa Signature Les Paul Goldtop 2012 Electric Guitar
-1270826235950;680.0;20;GBP;1;Supro Silverwood Transparent Red 2019 Electric Guitar
 1180826232770;930.0;20;GBP;1;Gordon Smith Classic T Deluxe Cherry Burst 2017 Electric Guitar
 1250826235360;670.0;20;GBP;1;Sterling by Music Man LK100D Luke Blue Electric Guitar w/ Upgraded PU's
 1310526212341;370.0;20;GBP;1;Eastman PCH1-GACE Thermo-Cure Natural 2021 Electro Acoustic Guitar
@@ -409,6 +414,7 @@ product_code;price_gross;vat;currency;stock;name
 1060326189060;285.0;20;GBP;1;Keeley Electronics HALO Andy Timmons Signature Dual Echo Guitar Effects Pedal
 1100326190050;690.0;20;GBP;1;Sterling by Music Man LK100D Luke Blue Electric Guitar
 1060226179574;830.0;20;GBP;1;Epiphone Peter Frampton Les Paul Custom Ebony 2018 Electric Guitar
+1060226179710;1110.0;20;GBP;1;Fender Strat Plus 3-Color Sunburst 1991 Electric Guitar
 1070326189510;670.0;20;GBP;1;Jackson Pro Series Dinky DK7M metallic Black 2014 Electric Guitar
 1270226186890;4390.0;20;GBP;1;Martin OM Davy Graham Custom Edition (UK) Gloss Natural 2007 Acoustic Guitar
 126012573993;770.0;20;GBP;1;Fret-King Esprit lll Green Label Series Transparent Black Electric Guitar
