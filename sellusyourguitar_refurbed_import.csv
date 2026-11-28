@@ -1,4 +1,8 @@
 product_code;price_gross;vat;currency;stock;name
+1131126259330;390.0;20;GBP;1;ESP LTD EX-200 Olympic White Electric Guitar
+1060626214040;290.0;20;GBP;1;Alvarez AP66e Parlour Shadow Burst 2024 Electro-Acoustic Parlour Guitar
+parts123654;70.0;20;GBP;1;ZZ Guitarworks EZ Mount Tele Deluxe Bisgsby Mounting Plate Electric Guitar Parts
+1271126263031;780.0;20;GBP;1;Fender Lite Ash Telecaster Natural 2007 Modified Electric Guitar
 part123456;140.0;20;GBP;1;M4.1 Tele Mastery Bridge Telecaster Replacement Bridge for use with Bigsby
 1231126261990;670.0;20;GBP;1;Charvel San Dimas Style 1 HS HT Snow White 2014 Electric Guitar
 1261126262771;310.0;20;GBP;1;Sterling by MusicMan Sub Series StingRay Ray4 Vintage Sunburst Satin Electric Ba
@@ -10,13 +14,11 @@ part123456;140.0;20;GBP;1;M4.1 Tele Mastery Bridge Telecaster Replacement Bridge
 1181126260531;310.0;20;GBP;1;Yamaha Compass Series CPX700II Dusk Sun Red 2012 Electro-Acoustic Guitar
 1151126259720;630.0;20;GBP;1;PRS SE Paul Allender 2009 Purple Burst Electric Guitar
 1151126259700;340.0;20;GBP;1;Vintage V100 Distressed Lemon Drop 2007 'Greeny' Electric Guitar
-1211126261281;330.0;20;GBP;1;Epiphone Hummingbird Pro Faded Cherry Sunburst 2013 Dreadnought Electro
 1151126259680;400.0;20;GBP;1;Epiphone Les Paul Standard Plus Honey Burst 2001 Electric Guitar
 1181126260530;450.0;20;GBP;1;Epiphone L-00 Standard Vintage Sunburst 2025 Electro-Acoustic Guitar
 1101126258110;340.0;20;GBP;1;Aria TA-Classic Wine Red Semi-Hollow Electric Guitar
 1201126261210;670.0;20;GBP;1;Line 6 James Tyler Variax JTV-69 Black 2011 Electric Modelling Guitar
 1091126258070;510.0;20;GBP;1;Epiphone 1959 Les Paul Standard Outfit Aged Dark Cherry Burst 2023 Guitar
-1051026247950;340.0;20;GBP;1;Ibanez KIKOSP3 Transparent Emerald 2025 Electric Guitar
 1181126260610;1420.0;20;GBP;1;Fender Ltd Ed. 'Tele-bration' '75 Telecaster Natural Gloss 2012 Electric Guitar
 1181126260570;480.0;20;GBP;1;Martin DX1AE Satin Natural 2018 Electro-Acoustic Guitar
 1091126257850;500.0;20;GBP;1;Fender Mexican Standard Stratocaster Black 2008 Electric Guitar
@@ -46,7 +48,6 @@ part123456;140.0;20;GBP;1;M4.1 Tele Mastery Bridge Telecaster Replacement Bridge
 1131126259260;630.0;20;GBP;1;Magneto Velvet Deluxe VV-4400 Sunset Gold Silk 2023 Electric Guitar
 1111126258860;730.0;20;GBP;1;Fender Highway One Stratocaster Sapphire Blue Transparent 2002 Electric Guitar
 1171126260390;670.0;20;GBP;1;Jackson Rob Caggiano Shadowcaster Purple Metallic 2020 Electric Guitar
-1121126258940;870.0;20;GBP;1;Rivolta Mondata XVIII Fuoco Burst 2019 Electric Guitar
 1041126256860;670.0;20;GBP;1;Fender Player Plus Stratocaster Tequila Sunrise 2021 Electric Guitar
 1050326188740;1420.0;20;GBP;1;Gibson Flying V Pro T Cherry 2016 Electric Guitar
 1141126259430;1400.0;20;GBP;1;Eastman Uptown AR805CE Archtop Electric Guitar
@@ -236,7 +237,6 @@ part123456;140.0;20;GBP;1;M4.1 Tele Mastery Bridge Telecaster Replacement Bridge
 1100626214922;350.0;20;GBP;1;Epiphone Les Paul Special TV Yellow 2021 Electric Guitar
 1230926244100;1110.0;20;GBP;1;Takamine FN15 AR Natural Satin 2023 1 of 300 Ltd Edition Electro Acoustic Guitar
 1150826232102;370.0;20;GBP;1;Ibanez RGT42DXFM Brite Blue 2007 Electric Guitar
-1150926241970;690.0;20;GBP;1;PRS SE Custom 24 Floyd Charcoal Cherry Burst 2024 Electric Guitar
 1050926238820;1110.0;20;GBP;1;Charvel Angel Vivaldi PM DK24 GT7 Natural 2025 7-String Electric Guitar
 1130926241300;1420.0;20;GBP;1;Fender Thinline Telecaster Natural 2001 Semi-Hollow Electric Guitar
 1130926241260;450.0;20;GBP;1;Peavey Rockingham Natural Gloss c.2002 Hollow Body Electric Guitar
@@ -291,7 +291,6 @@ part123456;140.0;20;GBP;1;M4.1 Tele Mastery Bridge Telecaster Replacement Bridge
 1040826228910;2400.0;20;GBP;1;PRS Limited Edition Custom 24 Swamp Ash McCarty Tobacco Sunburst 2017
 1230726225910;1990.0;20;GBP;1;PRS Sunburst 245 2009 Electric Guitar
 1040826229072;1180.0;20;GBP;1;Guild True American D25-E Antique Burst c.1998 Electro-Acoustic Dreadnought
-1050826229461;600.0;20;GBP;1;Epiphone Sheraton Natural 2024 Semi-Hollow Electric Guitar
 1030826228520;600.0;20;GBP;1;Epiphone B.B King Lucille Ebony 2008 Semi-Hollow Electric Guitar
 1040826229010;630.0;20;GBP;1;Sigma SDM-18 Natural Gloss 2016 Acoustic Guitar
 1200726224690;850.0;20;GBP;1;Fender Made in Japan Traditional '60s Stratocaster 2024 Lake Placid Blue
